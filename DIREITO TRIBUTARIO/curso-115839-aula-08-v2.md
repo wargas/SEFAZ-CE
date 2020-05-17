@@ -1,0 +1,2963 @@
+
+
+Livro Eletrônico
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 Fábio Dutra
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+1
+100
+
+Aula 08: Responsabilidade Tributária Sumário
+OBSERVAÇÕES SOBRE A AULA ........................................................................................... 3 1 - RESPONSABILIDADE TRIBUTÁRIA .................................................................................. 4 2 – RESPONSABILIDADE POR SUBSTITUIÇÃO ...................................................................... 8 2.1 – Substituição tributária regressiva ............................................................................................ 9 2.2 – Substituição tributária progressiva .......................................................................................... 9 3 – RESPONSABILIDADE POR TRANSFERÊNCIA ................................................................. 13 3.1 – Transferência por Solidariedade ............................................................................................ 13 3.2 – Transferência por Sucessão .................................................................................................... 14 3.2.1– Sucessão na transmissão de bens imóveis .......................................................................................................... 16 3.2.2 – Sucessão na transmissão de bens móveis .......................................................................................................... 18 3.2.3 – Sucessão na transmissão causa mortis ............................................................................................................... 19 3.2.4 – Sucessão Empresarial ......................................................................................................................................... 21 3.2.5 – Responsabilidade do adquirente de fundo de comércio ou estabelecimento profissional ............................... 23 3.3 – Responsabilidade de Terceiros ............................................................................................... 30 3.3.1 – Responsabilidade de terceiros com atuação regular .......................................................................................... 30 3.3.2 – Responsabilidade de terceiros com atuação irregular ....................................................................................... 32 4 - RESPONSABILIDADE POR INFRAÇÕES .......................................................................... 37 4.1 – A responsabilidade pessoal do agente ................................................................................... 38 4.2 – Denúncia Espontânea ............................................................................................................. 39 4.2.1 - Aplicabilidade da Denúncia Espontânea aos Tributos Lançados por Homologação, por Declaração e de Ofício40 4.3 – Direito Tributário Penal e Direito Penal Tributário ................................................................ 41 5 – QUESTÕES COMPLEMENTARES COMENTADAS ........................................................... 45 Responsabilidade Tributária ........................................................................................................... 45 Responsabilidade por Substituição ................................................................................................. 46 Responsabilidade por Transferência ............................................................................................... 48 Responsabilidade de Terceiros ........................................................................................................ 61 Responsabilidade por Infrações ...................................................................................................... 68 6 – LISTA DAS QUESTÕES COMPLEMENTARES .................................................................. 75 Responsabilidade Tributária ........................................................................................................... 75 Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+2
+100
+
+Responsabilidade por Substituição ................................................................................................. 76 Responsabilidade por Transferência ............................................................................................... 77 Responsabilidade de Terceiros ........................................................................................................ 85 Responsabilidade por Infrações ...................................................................................................... 89 7 – GABARITO DAS QUESTÕES COMPLEMENTARES.......................................................... 95 8 – RESUMO DOS ASSUNTOS MAIS IMPORTANTES .......................................................... 96 Responsabilidade Tributária ........................................................................................................... 96 Responsabilidade por Substituição ................................................................................................. 97 Responsabilidade por Transferência ............................................................................................... 97 Sucessão na Transmissão de Bens Imóveis .................................................................................................................... 97 Sucessão na Transmissão de Bens Móveis ..................................................................................................................... 97 Sucessão na Transmissão Causa Mortis ......................................................................................................................... 98 Sucessão Empresarial ..................................................................................................................................................... 98 Responsabilidade de Terceiros ........................................................................................................ 99 Responsabilidade por Infrações .................................................................................................... 100 
+
+
+
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+3
+100
+
+OBSERVAÇÕES SOBRE A AULA Olá, pessoal! Vamos continuar nosso curso de Direito Tributário?
+Vocês  já  ouviram  falar  sobre  responsabilidade  tributária?  Ao  final  da  aula  de  hoje,  estarão aptos a responder questões de prova de altíssimo nível sobre este tema! Abordaremos os arts. 128 a 138 do Código Tributário Nacional.
+
+
+"Todos os seus sonhos podem se tornar realidade se você tem coragem para persegui-los." Walt Disney
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+4
+100
+
+1 - RESPONSABILIDADE TRIBUTÁRIA Retomando  o  que  foi  visto  na  aula  anterior,  acerca  dos  elementos  subjetivos  da  relação jurídico-tributária, vimos que o sujeito passivo pode ser contribuinte ou responsável, correto?
+É contribuinte, nos dizeres do art. 121 do CTN, quando tenha relação pessoal e direta com a situação que constitua o respectivo fato gerador. Por outro lado, é responsável, quando esteja obrigado  por lei  a  pagar  o  tributo,  mas  não  seja  contribuinte,  isto  é,  não  possua  uma  relação pessoal e direta com o evento que fez acontecer o fato gerador.
+Costuma-se  dizer  que  a  responsabilidade  do  contribuinte  pelo  cumprimento  da  obrigação tributária é originária, pois decorre do próprio fato gerador. Já a responsabilidade do responsável é derivada, pois decorre da lei.
+A  responsabilidade  tributária,  colega, é  uma  forma  do  Fisco  otimizar  a  atividade  de fiscalização  e  arrecadação  tributária.  Relembre  o  exemplo  citado  na  aula  anterior  sobre  o  IR.  O que seria mais fácil: fiscalizar o recolhimento do IR de todos os contribuintes pessoas físicas ou das empresas? Levando em consideração que as empresas podem contratar milhares de empregados, certamente o controle destas será mais efetivo.
+Nessa esteira, por não fazer acontecer o fato gerador, deve-se haver uma lei que preveja tal responsabilidade, afinal de contas, repita-se, ninguém é obrigado a fazer ou deixar de fazer nada, senão  em  virtude  de  lei (CF/88,  art.  5º,  II).  Por  consequência, as  convenções  particulares  não podem modificar a definição legal do sujeito passivo das obrigações tributárias (CTN, art. 123).
+Observação: Nunca se esqueça de que para ser contribuinte também se faz necessário haver  previsão  legal.  Vamos  reforçar:  quando  uma  lei  institui  um  tributo, deve  haver previsão  de  fato  gerador,  base  de  cálculo,  alíquotas  e contribuintes.  Caso  contrário, não há elemento subjetivo na relação jurídico-tributária.
+Um  detalhe, que  não  pode  ser  confundido  pelo  candidato, é  a  diferença  entre sujeito passivo indireto com sujeito passivo de tributo indireto.
+O sujeito  passivo  indireto,  como  já  estudamos,  é  o responsável pelo  adimplemento  da obrigação  tributária.  Já  o sujeito  passivo  dos  tributos  indiretos pode  ser tanto  o  contribuinte como o responsável, se houver. O contribuinte, neste caso, a quem nos referimos é o de direito, já que nesses tributos também há a figura do contribuinte de fato, o qual, como já foi estudado, não integra  a  relação  jurídico-tributária. É  o  caso  da  pessoa  que  compra  uma  TV  sobre  a  qual  incide ICMS. Neste caso,  o cliente acaba pagando pelo valor do imposto que está embutido no preço da mercadoria, mas não é ele quem irá recolher o imposto ao Fisco.
+
+Nos tributos diretos, há identidade entre os contribuintes de direito e de fato.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+5
+100
+
+Nos tributos indiretos, o contribuinte de direito não é contribuinte de fato.
+
+
+O  CTN,  ao  iniciar  a  abordagem  do  tema  “Responsabilidade  Tributária”,  estabeleceu  o seguinte:
+Art.  128.  Sem  prejuízo  do  disposto  neste  capítulo, a  lei  pode  atribuir  de  modo  expresso  a  responsabilidade pelo  crédito  tributário  a  terceira  pessoa, vinculada  ao  fato  gerador  da  respectiva  obrigação,  excluindo  a responsabilidade  do  contribuinte  ou  atribuindo-a  a  este  em  caráter  supletivo  do  cumprimento  total  ou parcial da referida obrigação.
+Observação: Não se esqueça de que o crédito tributário, como será visto em outra aula, é a obrigação tributária exigível, com o lançamento.
+Há que se destacar também que a pessoa eleita pela lei como responsável pelo pagamento do  tributo deve  possuir  uma  vinculação,  ainda  que  mínima,  com  o  fato  gerador  da  respectiva obrigação, conforme se destaca no artigo supracitado.
+O  dispositivo  ainda  evidencia a  possibilidade  de o  responsável  ser  o  único  obrigado  ao cumprimento   da   obrigação, hipótese   em   que   haverá   exclusão   da   responsabilidade   do contribuinte.
+Também, há   possibilidade   de   o   contribuinte   ser   colocado   na   posição   subsidiária (supletiva),  ou  seja,  caso  o  responsável  não  realize  o  pagamento  da  obrigação,  chama-se  o contribuinte para arcar com o ônus.
+De modo semelhante, também há permissão no CTN (art. 134) para que o responsável seja colocado   na   condição   de   subsidiário.   Dessa   forma,   a   obrigação   deve   ser   cumprida   pelo contribuinte, que, não o fazendo, torna-se exigível do responsável legal.
+Nesses dois últimos casos, fica evidente o benefício de ordem, isto é, cobra-se primeiro de uma  pessoa,  sendo  a  outra  acionada  apenas  no  caso  de  impossibilidade  de  recebimento  da primeira.
+Mas   tome   muito   cuidado,   pois   a   responsabilidade   tributária   nem   sempre   comporta benefício de ordem. É o caso da responsabilidade solidária, prevista nos arts. 124 e 125 do Código Tributário  Nacional. Na  solidariedade  não  há  devedor  principal,  isto  é,  não  há  benefício  de ordem, podendo o Fisco exigir a dívida integralmente de um ou de outro.
+Resumindo, veja que o responsável surge na obrigação tributária de quatro modos distintos:
+• O responsável fica obrigado a pagar, excluindo qualquer responsabilidade do contribuinte (o contribuinte é excluído da relação jurídica);
+• O responsável é obrigado a cumprir a obrigação. Caso não cumpra, exige-se do contribuinte (o contribuinte é subsidiário);
+• O contribuinte é obrigado a cumprir a obrigação. Caso não cumpra, exige-se do responsável (o responsável é subsidiário).
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+6
+100
+
+• O(s)  contribuinte(s)  ou  o(s)  responsável(eis)  podem  ser  exigidos  conjunta  ou  isoladamente sem benefício de ordem.
+Além da questão da intensidade em relação ao cumprimento da obrigação tributária, outro aspecto  importante  é  saber  em  que momento o  responsável  assunto  o  dever  de  pagar, antes  ou depois do fato gerador.
+Quando   o   vínculo   jurídico   do   responsável   surge   antes, ou   mesmo   no   momento   da ocorrência  do  fato  gerador,  diz-se  que  a  modalidade  de responsabilidade é  por  substituição.  Por outro lado, se o responsável entra em cena  em  momento posterior à ocorrência do fato  gerador, trata-se da responsabilidade por transferência.
+A  doutrina  ainda  divide  a responsabilidade  por  transferência  em  responsabilidade  por solidariedade, por sucessão e de terceiros.
+Vamos ver cada uma dessas modalidades (transferência e substituição) separadamente. De antemão, vamos esquematizar da forma como o assunto tem sido cobrado em provas:
+
+
+
+
+Responsabilidade
+Tributária
+Por Substituição
+Progressiva/
+Regressiva
+Resp. Terceiros
+c/ atuação
+irregular
+Resp. por
+Infrações
+Por
+Transferência
+Resp. por
+Sucessão
+Resp. por
+Solidariedade
+Resp. Terceiros
+c/ atuação
+regular
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA ==12b2d8==
+
+
+
+
+
+
+
+
+7
+100
+
+Observação: Recomendo que, após a leitura da aula por completo, você retorne a esse esquema e veja se o teu raciocínio está correto. Caso reste alguma dúvida, estamos no fórum para elucidá-la.
+
+
+(FCC/Pref.  São  Luis-Auditor  de  Controle  Interno/2015) O  Código  Tributário  Nacional  criou um  conjunto  extenso  de  regras  atinentes  à  responsabilidade  tributária.  De  acordo  com  as regras do CTN,
+a)   a   atribuição   de   responsabilidade   a   terceira   pessoa   não   impede   a   atribuição   de responsabilidade em caráter supletivo ao contribuinte.
+b) a atribuição de responsabilidade a terceira pessoa exclui, em definitivo, a responsabilidade do contribuinte.
+c)  o  terceiro,  a  quem  a  responsabilidade  pelo  crédito  tributário  for  atribuída,  não  pode  ser pessoa vinculada ao fato gerador da respectiva obrigação.
+d)  somente  lei  complementar  federal  pode  atribuir,  de  modo  expresso,  a  responsabilidade pelo crédito tributário a terceira pessoa.
+e)  a  atribuição  de  responsabilidade  a  terceira  pessoa  pode  ser  feita  de  modo  implícito, vedada essa possibilidade quando se tratar de responsabilidade por infrações.
+Comentário:
+Alternativa   A: O   art.   128,   do   CTN,   estabeleceu   a   possibilidade   de   se   atribuir   a responsabilidade do contribuinte em caráter supletivo. Logo, a alternativa está correta.
+Alternativa B: Conforme já comentado, o art. 128, do CTN, estabeleceu a possibilidade de se atribuir a responsabilidade do contribuinte em caráter supletivo. Alternativa errada.
+Alternativa C: O art. 128, do CTN, esclarece que o terceiro responsável deve ser uma pessoa vinculada ao fato gerador da respectiva obrigação. Alternativa errada.
+Alternativa   D: Não   há   necessidade   de   lei   complementar   federal   para   se   estabelecer responsabilidade a terceira pessoa, bastando que seja uma lei do ente tributante. Alternativa errada.
+Alternativa  E: A  atribuição  de  responsabilidade  deve  sempre  ocorrer  de  forma  explícita, conforme prescreve o art. 128, do CTN.  Alternativa errada.
+Gabarito: Letra A
+(FCC/PGE-SP-Procurador  do  Estado/2012) Em  se  tratando  de  responsabilidade  tributária, pessoa  que  não  tenha  praticado  o  fato  gerador  não  pode  ser  sujeito  passivo  da  relação tributária.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+8
+100
+
+Comentário: Sabemos  que  aquele  que  pratica  o  fato  gerador  é  o  contribuinte,  mas também pode  ser  sujeito  passivo  da  relação  tributária  a  pessoa  que  não tenha  praticado  o  fato gerador,  caso  a  lei  assim  o  determine,  situação  em  que  será  considerado  responsável tributário.
+Gabarito: Errada
+(FCC/ TCE-AL-Auditor/2008)  ‘Contribuinte’ é aquele que tem relação pessoal e direta com a situação que constitui fato gerador.
+Comentário: Conforme  previsto  no  art.  121,  par.  único,  I,  do  CTN,  contribuinte  é  o  sujeito passivo da obrigação principal que possua relação pessoal e direta com o fato gerador.
+Gabarito: Correta
+(FCC/SEFAZ-SP-Agente  Fiscal  de  Rendas/2009) A  respeito  da  sujeição  passiva  da  obrigação tributária  principal,  é  possível  afirmar  que  o  contribuinte  é  sujeito  passivo  indireto  e  o responsável tributário é sujeito passivo direto.
+Comentário: Na verdade, é exatamente o contrário: sujeito passivo direto é o contribuinte, e sujeito passivo indireto é o responsável.
+Gabarito: Errada
+
+
+2 – RESPONSABILIDADE POR SUBSTITUIÇÃO Essa  modalidade  de  responsabilidade  tributária  também  é  denominada responsabilidade originária,  título  que  não  vem  por  acaso,  já  que  o responsável  fica  obrigado  no  momento  da ocorrência do fato gerador ou até mesmo antes dele.
+Veja  um  exemplo, mais  do  que  repetido  no  nosso  curso:  imposto  de  renda  das  pessoas físicas. Quando a lei atribui a responsabilidade das fontes pagadoras em reter o valor do imposto para posterior recolhimento, esta obrigação surge no momento da ocorrência do fato gerador, de forma que o contribuinte (aquele que auferiu os rendimentos) fica substituído.
+Observação: À  pessoa  que  substitui  o  contribuinte,  dá-se  o  nome  de responsável  por substituição, contribuinte   substituto, substituto   tributário, ou,   o   mais   comum, simplesmente responsável.
+Há   que   se   ressaltar   dois   casos   em   que   ocorre   responsabilidade   por   substituição:
+substituição tributária regressiva (para trás) e substituição tributária progressiva (para frente).
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+9
+100
+
+2.1 – SUBSTITUIÇÃO TRIBUTÁRIA REGRESSIVA A sistemática da substituição tributária regressiva consiste na substituição das pessoas que estão nas etapas anteriores da cadeia de produção ou circulação de mercadorias.
+Observação: A  substituição  tributária  regressiva  também  é  denominada  “para  trás”  e antecedente.
+Se  quem  está  “atrás”  é  substituído,  o  que  ocorre,  na  verdade,  é  o diferimento  do pagamento dos tributos devidos.
+A  princípio,  parece  confuso  entender  que  na  substituição  regressiva  ocorre  diferimento  do pagamento.  Mas,  veja  que  é  bastante  simples  de  entender:  se  a  pessoa  que  faz  acontecer  o  fato gerador é substituída por outra que se situa em momento posterior na cadeia de produção, há, por conseguinte, recolhimento a posteriori.
+Vamos exemplificar!
+Imagine  que  um  grande  frigorífico  brasileiro  tenha  como  fonte  de  insumos  (carne  bovina) diversos  e  pequenos  criadores  espalhados  pelo  Brasil  afora.  Como  os  criadores  não  possuem escritório,  nem  qualquer  outro  aparato  fiscal  ou  contábil,  ou  seja,  tudo  é  feito  lá  no  meio  do “mato”,  a  lei  pode  estipular  que  o  adquirente  dessas  mercadorias  (frigorífico)  venha  se  tornar responsável por substituição.
+Novamente, o raciocínio é o de que o Fisco deve buscar o modo que otimize a sua atividade de  fiscalização  e  arrecadação  tributária.  Como  você  já  deve  imaginar,  é  muito  mais  simples fiscalizar o escritório  de  uma  grande  empresa,  do  que  ir  no  meio  da  “roça”, fiscalizar pequenos contribuintes.
+
+DICA DE PROVA: Para facilitar a memorização, guarde que, na substituição “para trás”, quem fica para trás (no elo anterior da cadeia) é substituído. Simples, não? Como consequência lógica, paga o tributo quem vem depois, ou seja, o recolhimento é posterior.
+2.2 – SUBSTITUIÇÃO TRIBUTÁRIA PROGRESSIVA Na  substituição  tributária  progressiva,  ocorre  exatamente  o  oposto  do  que  acabamos  de ver. Ou seja, as pessoas que estão nas etapas posteriores são substituídas pelas ocupam posição anterior na cadeia de produção e circulação de mercadorias.
+Observação: A substituição tributária progressiva também é denominada “para frente” e consequente.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+10
+100
+
+Assim,  se  quem  está  “na  frente”  é  substituído,  a  decorrência  lógica  é  haver  a antecipação do  pagamento  dos  tributos.  O  raciocínio  é  exatamente  o  contrário  do  que  vimos  no  tópico anterior, ao tratar da substituição tributária regressiva.
+Vamos  imaginar  o  caso  da  incidência  do  ICMS  sobre  as  operações  de  venda  de  veículos novos.  Quando  o  veículo  é  produzido  na  indústria  e  vendido  às  concessionárias,  ocorre  o  fato gerador do ICMS. Posteriormente, quando você compra o seu carro “zero” na concessionária, uma nova incidência do ICMS ocorre.
+Contudo,    a    concessionária    (etapa    posterior)    pode    ser    substituída    pela    indústria automobilística (etapa anterior), ocorrendo antecipação do pagamento do  ICMS, e surgimento da substituição tributária progressiva.
+A  sistemática  ocorre  com  base na  presunção  da  base  de  cálculo  e  do  fato  gerador  que ainda  irão  ocorrer.  Ou  seja,  o  valor  pelo  qual  a  mercadoria  será  revendida  pela  concessionária  é presumido  em  momento  anterior,  com  base  no regime  de  valor  agregado,  estabelecido  pelo  art.
+8º da Lei Kandir (LC 87/96).
+
+Na  substituição  tributária  progressiva,  o  substituto  surge antes mesmo  da  ocorrência  do  fato gerador.
+
+
+Por mais que se argumente que a sistemática agrida o princípio da tipicidade, por exemplo, por  se  cobrar  algo  sem  que  tenha havido  a  subsunção  do  fato  à  norma  tributária,  é  de  se ressaltar que há previsão constitucional para tal situação, conforme verificamos a seguir:
+Art. 150 - (...):
+§ 7.º A lei poderá atribuir a sujeito passivo de obrigação tributária a condição de responsável pelo pagamento de imposto  ou  contribuição, cujo  fato  gerador  deva  ocorrer  posteriormente, assegurada  a  imediata  e preferencial  restituição  da  quantia  paga,  caso  não  se  realize  o  fato  gerador  presumido.  (Incluído  pela Emenda Constitucional nº 3, de 1993) Observação: Lembre-se  de  que  nós  estudamos  em  outra  aula  que,  em  se  tratando  de ICMS, cabe  à  lei  complementar  dispor  sobre  substituição  tributária.  A  Lei  Kandir  (LC 87/96) cumpriu com esse papel.
+Lembre-se também de que apenas a substituição progressiva foi prevista na CF/88.
+Ademais,  o  entendimento  do  STF  (RE  213.396)  e  do  STJ  (REsp  89.630)  é  no  sentido  da constitucionalidade  da   substituição  tributária  progressiva.  Aliás,  esta  Corte  decidiu   que: o pagamento antecipado não se confunde com o recolhimento do tributo.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+11
+100
+
+
+Na substituição tributária progressiva, não há recolhimento antes da ocorrência do fato gerador, mas apenas antecipação do pagamento realizada por responsável definido em lei. Embora pareça confuso, o assunto já caiu em provas!
+
+Note  também  que  o  §  7º,  do  art.  150,  da  CF/88, restringiu  a  sistemática  da  substituição tributária  progressiva  apenas  aos  impostos  e  contribuições.  A  restrição  faz  total  sentido,  tendo em  vista  que não  seria  possível  estendê-la  aos  tributos  vinculados (taxas  e  contribuições  de melhoria), a fim de ser feita a cobrança antes da prestação da atividade estatal.
+Cabe  ainda  destacar  que  o  legislador  constituinte  assegurou  a  imediata  e  preferencial restituição do valor que foi pago ao Fisco, caso não se realize o fato gerador presumido. Em nosso exemplo,  a  restituição  ocorreria  se  o  veículo  ficasse  “encalhado”  no  pátio  da  concessionária, devendo este bem ser devolvido ao industrial.
+“Professor, e se a base de cálculo real for diferente (maior ou menor) da presumida? Nesse caso, deve-se restituir o que foi pago a maior ou realizar pagamento complementar?” Atualmente, sim!!! Vamos ver o porquê!
+Anteriormente,  o  STF  (ADI  1.851/AL)  entendia  que  o  fato  gerador  presumido  não  seria provisório, mas, sim, definitivo. Portanto, o fato de a base de cálculo presumida ser diversa da base de  cálculo  definitiva  não  ensejaria  restituição  ou  complementação  do  imposto  pago  pelo  sujeito passivo, salvo quando não se realizar o fato gerador presumido, como já comentado acima.
+Ocorre que,   em  outubro  de  2016,  ao  julgar   o  Recurso  Extraordinário   593.849,   com repercussão  geral  reconhecida,  o  STF  fixou  a  seguinte  tese  (grifamos):  “É  devida  a  restituição  da diferença do Imposto  sobre Circulação de  Mercadorias e Serviços – ICMS pago a  mais no regime de  substituição  tributária  para  a  frente se  a  base  de  cálculo  efetiva  da  operação  for  inferior  à presumida”.
+No  voto  proferido  pelo  relator  Ministro  Edson  Fachin,  foi  dito  que  “a tributação  não  pode transformar  uma  ficção  jurídica  em  uma  verdade  absoluta,  tal  como  ocorreria  se  o  fato  gerador presumido  tivesse  caráter  definitivo,  logo,  alheia  à  realidade  extraída  da  realidade  do  processo econômico”.
+Ao  fim  do  julgamento,  o  plenário  modulou  os  efeitos  da  referida  decisão, restringindo-os apenas às ações judiciais que  estejam pendentes e aos  casos futuros. Trata-se de uma forma de permitir  o  realinhamento  das  administrações  tributárias  à  alteração  jurisprudencial  da  Suprema Corte.
+
+
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+12
+100
+
+
+Se o fato gerador presumido não ocorrer, é assegurada a devolução do que foi pago.
+Caso  ocorra  o  fato  gerador, e  a  base  de  cálculo  seja  efetiva  seja  inferior  à  presumida, haverá restituição da diferença!
+
+
+
+DICA  DE  PROVA: Para  facilitar  a  memorização,  guarde  que, na substituição “para frente”,  quem fica para  frente  (no  elo  posterior  da  cadeia) é substituído.  Simples,  não?  Como  consequência lógica, paga o tributo quem vem antes, ou seja, o pagamento é anterior.
+
+
+(FCC/PGE-MA-Procurador  do  Estado/2016) Quando  a  lei  atribui  a  qualidade  de  responsável tributário  sobre  fato  gerador  que  ainda  não ocorreu,  mas que  deva  ocorrer  posteriormente, estar-se-á diante de a) retroatividade da lei tributária, permitida expressamente por lei.
+b) sucessão tributária, vedada expressamente pela CF/88.
+c) ultratividade da lei tributária, permitida expressamente por lei.
+d)  substituição  tributária  para  frente,  permitida  expressamente  pela  CF/88.  (E)  substituição tributária para trás, vedada expressamente pela CF/88.
+Comentário: A  lei  que  atribui  a  terceira  pessoa  a  qualidade  de  responsável  tributário  por tributo  cujo  fato  gerador  ainda  não  tenha  ocorrido  cria  um  caso  de  substituição  tributária progressiva  (ou  para  frente),  permitida  expressamente  no  art.  150,  §  7º,  para  os  impostos  e contribuições.
+Gabarito: Letra D
+(FCC/TCE-SP-Auditor/2013) Ao  prever  a  lei  de  determinado  tributo  que  será  atribuído  ao sujeito  passivo  da  obrigação  tributária  a  condição  de  responsável  pelo  pagamento  de imposto, cujo fato gerador deva ocorrer posteriormente, estar-se-á diante de a) fato gerador pendente.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+13
+100
+
+b) fato gerador futuro.
+c) substituição tributária para frente.
+d) substituição tributária para trás.
+e) lançamento a certo período de tempo.
+Comentário: A  questão  trata  do  instituto  da  substituição  tributária  para  frente,  prevista  no art. 150, §7º da CF/88. Alternativa C correta.
+Gabarito: Letra C
+
+
+3 – RESPONSABILIDADE POR TRANSFERÊNCIA Diferentemente   do   que   ocorre   na   responsabilidade   por   substituição, neste   caso o responsável tributário somente passa a ser devedor da obrigação tributária após a ocorrência do fato gerador.
+Pode-se dizer, portanto, que, ocorrido o fato gerador, tem-se o contribuinte como devedor da  obrigação  tributária.  No  entanto,  diante  da  ocorrência  de  certos  fatos,  o  responsável  pode assumir a obrigação no lugar do contribuinte.
+Como foi visto, a doutrina divide a responsabilidade por transferência em responsabilidade “por  solidariedade”,  “por  sucessão”  e  “de  terceiros”.  Vamos  estudar,  a  partir  de  agora,  cada  um deles!
+Por   questão   de   organização   da   nossa   aula,   os   três   tipos   de   responsabilidade   por transferência  serão  classificados  em  tópicos  autônomos,  mas  não  deixam  de  pertencer  a  esse assunto.
+
+3.1 – TRANSFERÊNCIA POR SOLIDARIEDADE A  transferência  da  responsabilidade  do  pagamento  dos  tributos, ocorrida  por  meio  da solidariedade, foi tratada no art. 124 do CTN.
+Em relação ao art. 124, I, vimos que ficam solidariamente obrigadas as pessoas que tenham interesse comum na situação que constitua o fato gerador da obrigação.
+Não se nega que o vínculo entre as pessoas que tenham o citado interesse comum e o fato gerador da obrigação é tão forte que elas são, na verdade, contribuintes. Vamos relembrar o nosso exemplo:
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+14
+100
+
+Carlos, José e Bruno são proprietários de um imóvel urbano, localizado no Município de São Paulo.  Carlos  detém  5%  do  imóvel,  José,  70%  e  Bruno,  25%.  Vamos  supor,  ainda,  que  o  valor  do IPTU no ano de 2013 foi de R$ 1.000,00.
+Naquele  momento,  vimos  que  o  Fisco  pode  exigir  a  dívida  integralmente  de  qualquer  um dos  devedores  solidários,  correto?  Portanto,  imagino  que  José,  possuindo  70%  da  propriedade, seja  compelido  a  pagar  o  valor  total,  isto  é,  R$  1.000,00.  Certamente,  ele  pagou  uma  parte  (R$ 300,00) que não lhe cabia.
+Nesse caso, dizemos que José pagou como contribuinte R$ 700,00, e como responsável R$ 300,00.
+
+O contribuinte solidário que paga a dívida integralmente, paga a sua parte como contribuinte e, a dos demais codevedores, como responsável.
+
+
+Ademais,  cumpre  destacar  que  o  art.  124,  II, permite  que  a  lei  nomeie  como  devedores solidários pessoas que não tenham relação pessoa e direta com o fato gerador, hipótese em que teríamos mais uma figura de responsabilidade por via do instituto da solidariedade.
+Observação: Não  se  esqueça  de  que  a  solidariedade  foi  tratada,  pelo  CTN,  fora  do capítulo referente à “responsabilidade tributária”.
+3.2 – TRANSFERÊNCIA POR SUCESSÃO O  CTN  inicia  a  abordagem  da  responsabilidade  por  sucessão,  ou,  nas  palavras  exatas do texto legal, responsabilidade dos sucessores, prevendo o seguinte dispositivo:
+Art. 129.  O  disposto  nesta Seção  aplica-se  por  igual  aos créditos  tributários  definitivamente  constituídos ou em  curso  de  constituição  à  data  dos  atos  nela  referidos,  e  aos  constituídos  posteriormente  aos  mesmos atos, desde que relativos a obrigações tributárias surgidas até a referida data.
+Nós  vimos  que  a  responsabilidade  por  transferência  se  dá  com  a  ocorrência  de  um  ato  ou fato,  posterior  à  ocorrência  do  fato  gerador,  que transfere  a  obrigação  do  contribuinte  para  o responsável. Ok?
+O  que  o  art.  129  quis  dizer,  ainda  que  por  uma  redação  mais  confusa,  é  que  o  sucessor assume  todas  as  obrigações  tributárias  surgidas  até  a  data  do  ato  ou  fato  que  demarcou  a sucessão. Estamos falando, portanto, de datas de ocorrência dos fatos geradores.
+Desse modo, se um fato gerador ocorrer anteriormente à data do ato que gerou a sucessão tributária  (falecimento  de  uma  pessoa,  por  exemplo),  o  tributo  correspondente  a  esse  fato  será Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+15
+100
+
+transferido ao  sucessor,  mesmo   que   o   crédito  tributário   seja  regularmente  constituído  em momento posterior à data da sucessão.
+Para não restarem dúvidas, vejamos a linha do tempo abaixo:
+
+
+
+
+
+
+
+Veja que, em relação aos fatos geradores anteriores à sucessão, o sucessor será responsável e, quanto aos fatos geradores surgidos após a sucessão, este figurará como contribuinte. Afinal, é bastante  óbvio:  após  a  sucessão, o  sucessor  terá  relação  pessoal  e  direta  com  o  fato  gerador  da obrigação tributária, o que o torna contribuinte, nos termos do art. 121, par. único, I, do CTN.
+Observação: Em  relação  às  obrigações  tributárias  surgidas após a  data  do  evento  que demarcou  a  sucessão,  o  responsável  (sucessor)  é,  na  verdade, contribuinte. Guarde isso!
+
+O  que  vai  definir  as  obrigações  que  ficam  sujeitas  às  regras  da  responsabilidade  por  sucessão é  a data da ocorrência do fato gerador.
+(Não despreze, contudo, a literalidade do art. 129!) 
+Acrescente-se, também, que a   responsabilidade   por   sucessão   é   caracterizada   pelo desaparecimento do devedor original (contribuinte).
+De acordo com o ilustre Eduardo Sabbag (2013):
+“Esse desaparecimento por ser, por exemplo, por morte do primeiro devedor, recaindo o ônus sobre os herdeiros, ou por venda  do  imóvel  ou  estabelecimento, incidindo o importe tribtário sobre o comprador.” (SABBAG, Eduardo. Manual  de Direito Tributário. 2013. Pág. 727) Podemos  dividir  os  assuntos  a  serem  estudados  sobre  a  responsabilidade  por  sucessão  da seguinte maneira:
+1. Sucessão na transmissão de bens imóveis (CTN, art. 130);
+2. Sucessão na transmissão de bens móveis (CTN, art. 131, I);
+3. Sucessão na transmissão causa mortis (CTN, art. 131, II e III);
+Responsável
+FG Anteriores
+Data da Sucessão
+FG Posteriores
+Contribuinte
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+16
+100
+
+4. Sucessão empresarial (CTN, art. 132 e 133).
+3.2.1– Sucessão na transmissão de bens imóveis A  sucessão  na  transmissão  de  bens  imóveis  tem  como  responsável  o  adquirente  de  tais bens. Esta   pessoa   assume   a   responsabilidade   pelo   pagamento   dos   impostos,   taxas   e contribuições de melhoria relativas ao imóvel objeto da transmissão.
+Vamos ver o que diz o art. 130 do CTN:
+Art. 130. Os créditos tributários relativos a impostos cujo fato gerador seja a propriedade, o domínio útil ou a posse de bens imóveis, e bem assim os relativos a taxas pela prestação de serviços referentes a tais bens, ou a contribuições  de  melhoria, subrogam-se  na  pessoa  dos  respectivos  adquirentes, salvo  quando  conste  do título a prova de sua quitação.
+Parágrafo único. No caso de arrematação em hasta pública, a sub-rogação ocorre sobre o respectivo preço.
+Antes de interpretar o dispositivo citado, devemos entender a diferença entre os impactos da sub-rogação real e sub-rogação pessoal no Direito Tributário:
+Sub-rogação  real → O imóvel responde pela dívida tributária. Logo, a responsabilidade é limitada ao valor do bem.
+Sub-rogação  pessoal → O  adquirente  assume  a  responsabilidade  sobre  os  tributos, respondendo por todo o crédito tributário relativo ao imóvel, mesmo que ultrapasse o valor deste.
+Vamos lá, então!
+Quando   uma  pessoa  adquire  um   imóvel,   assume  a   responsabilidade  pelos   tributos incidentes  sobre  o  bem.  Nesse  caso,  ocorre  a   sub-rogação  pessoal,  ficando  o  responsável (adquirente) com a obrigação de quitar os tributos, ainda que o montante seja superior ao valor do imóvel adquirido. Essa é a regra!
+Quanto a este ponto,  é relevante salientarmos que o STJ (Recurso Repetitivo Tema n° 122) já firmou entendimento segundo o qual, na compra de um imóvel, tanto o promitente comprador (possuidor a qualquer título) do imóvel quanto seu proprietário/promitente vendedor (aquele que tem   a   propriedade   registrada   no   Registro   de   Imóveis)   são   contribuintes   responsáveis   pelo pagamento  do  IPTU.  Veja  que  neste  caso,  mesmo  não  tendo  sido  efetivada  a  transferência  da propriedade no registro de imóveis, já se admite a responsabilização do promitente comprador.
+Contudo, devemos destacar que existem duas exceções previstas no citado artigo do CTN.
+São elas:
+• Quando  constar  do  título  de  transferência  de  propriedade  (escritura)  a  prova  da  quitação dos tributos (CTN, art. 130, caput);
+• Quando o imóvel for adquirido em hasta pública - leilão – (CTN, art. 130, par. único).
+Portanto, se no momento do registro da transferência do imóvel for apresentada a prova de quitação dos tributos, o adquirente recebe o bem livre de qualquer ônus tributário.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+17
+100
+
+Observação: A  comprovação  da  quitação  dos  tributos  é  feita  pela  emissão  da  Certidão Negativa de Débitos (CND) ou simplesmente certidão negativa.
+A  que  ônus  eu  estou  me  referindo  se  já  foram  apresentados  os  comprovantes de  quitação dos  tributos?  Ora,  entre  o  momento  da  ocorrência  do  fato  gerador  e  o  lançamento  do  tributo (procedimento   com   a   finalidade   de   torná-lo   exigível),   há um   prazo   determinado   no   CTN, denominado decadência. Se este prazo não existisse, os fiscais nunca iriam poder lançar os tributos que não foram declarados espontaneamente pelos contribuintes.
+Tudo isso será detalhadamente estudado nas próximas aulas. Não se preocupe.
+
+Por hora, grave apenas que o prazo decadencial é de 5 anos.
+
+
+Diante  do  exposto,  no  momento  em  que  se  comprova  o  pagamento  dos  tributos,  pode haver outros a serem posteriormente descobertos e lançados pelo fisco. Nesse caso, o adquirente não assume tal responsabilidade, ou seja, serão cobrados do antigo proprietário.
+Existe  uma  situação  interessante,  digna  de  nota, por  já  ter  sido  objeto  de  decisão  do Superior Tribunal de Justiça, que diz respeito à discussão se há, ou não, sucessão tributária quando há  desapropriação de  imóvel  pertencente  à  empresa  privada  pela  União  Federal,  visto  que  os débitos,  objetos  de  cobrança  em  execução  fiscal  promovida  por  fazenda  municipal,  têm  como fundamento fatos geradores ocorridos em momento pretérito à ocorrência da imissão na posse, relativos  ao  Imposto  Predial  Territorial  Urbano  (IPTU)  e  Taxa  de  Limpeza  Pública  de  Coleta  de Resíduos Sólidos:
+DESAPROPRIAÇÃO.   AQUISIÇÃO   ORIGINÁRIA   DE   PROPRIEDADE.   EXIGIBILIDADE   DE TRIBUTOS ANTERIORES AO ATO DESAPROPRIATÓRIO. AUSÊNCIA DE RESPONSABILIDADE DO ENTE EXPROPRIANTE.
+O   ente   desapropriante   não   responde   por   tributos   incidentes   sobre   o   imóvel desapropriado nas  hipóteses  em  que  o  período  de  ocorrência  dos  fatos  geradores  é anterior ao ato de aquisição originária da propriedade.
+
+(STJ,   REsp   1.668.058-ES,   Rel.   Min.   Mauro   Campbell   Marques,   Julgamento   em 08/06/2017)
+Nesta  ocasião,  o  STJ,  citando  a  doutrina,  ressaltou  que a desapropriação constitui “forma originária  de  aquisição  de  propriedade  porque  não  provém de  nenhum  título  anterior,  e,  por isso,  o  bem  expropriado  torna-se  insuscetível  de  reivindicação  e  libera-se  de  quaisquer  ônus  que Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+18
+100
+
+sobre  ele  incidissem  precedentemente,  ficando  os  eventuais  credores  sub-rogados  no  preço".
+Logo, não há ligação entre o sucedido (antigo proprietário) e sucessor (ente expropriante).
+Por  último,  porém  não  menos  importante,  em  relação  ao imóvel  adquirido  em  hasta pública, que é o leilão de bens penhorados, realizado pelo Poder Público, o CTN afirma que a sub- rogação ocorre sobre o respectivo preço. O que isso significa?
+Significa  que  o  arrematante  dos  bens  imóveis  em  hasta  pública  adquire  tais  bens  livres  de qualquer  gravame  tributário,  já  que  se  trata  de sub-rogação  real.  Ou  seja,  os  débitos  tributários existentes  sobre  o  imóvel  são  quitados  pelo  próprio  valor  da  arrematação.  Logo, se  o  valor  dos tributos  devidos  superar  o  valor  do  imóvel,  o  Fisco  não  pode  exigir  a  diferença  do  arrematante nem do alienante (antigo proprietário), pois a sub-rogação é real.
+
+Grave isso: hasta pública → bens imóveis.
+As bancas tentam confundir o candidato, citando bens móveis.
+
+3.2.2 – Sucessão na transmissão de bens móveis A  norma  que  rege  a  responsabilidade  do  sucessor  na  transmissão  de  bens móveis é  o  art.
+131, I, do CTN, cuja redação é a seguinte:
+Art. 131. São pessoalmente responsáveis:
+I - o adquirente ou remitente, pelos tributos relativos aos bens adquiridos ou remidos;
+Embora  não  o  legislador  não  tenha  mencionado  expressamente  que  se  trata  de  bens móveis, essa é a interpretação da maioria dos autores, tendo em vista que a responsabilidade dos bens imóveis já foi tratada no art. 130.
+Essa  espécie  de  responsabilidade  em  muito  se  assemelha  à  dos  bens  imóveis,  com  a distinção  de  que,  neste  caso,  não  há  exceções  que  eximem  o  adquirente  dos  bens  móveis. Se houve a transmissão dos bens, há sucessão tributária, sem exceções.
+No  que  se  refere  aos  responsáveis,  a  norma assevera  que  são  eles  o  adquirente  ou  o remitente.  Quando  ao  adquirente,  não  há  observações  a  serem  feitas.  É  a  pessoa  que  compra  o bem móvel de outra.
+No  que  concerne  ao  remitente,  embora  não  deixe  de  ser  um  adquirente,  é  bom  que conheçamos,  ainda  que  superficialmente,  a  origem  do  termo.  Remitente  é  aquele  que  realiza  a remição, que pode ser traduzida no resgate e aquisição de bens que foram penhorados ou objeto de  leilão  judicial,  pelo  cônjuge,  ascendente  ou  descendente  da  pessoa  executada.  Tais  pessoas (remitentes) possuíam preferência sobre o arrematante.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+19
+100
+
+Destaque-se  que,  atualmente,  o  instituto  foi  revogado.  Contudo,  para  nossa  prova,  você pode  responder  normalmente: o  remitente  é  pessoalmente  responsável  pelos  tributos  relativos aos bens (móveis) remidos.
+Observação: Não confunda remição com remissão. Esta é um benefício fiscal, já citado em  outra  aula,  mas  que  só  será  detalhadamente  estudado  na  aula  em  que  tratarmos das hipóteses de extinção do crédito tributário.
+3.2.3 – Sucessão na transmissão causa mortis A responsabilidade com base na transmissão causa mortis foi prevista no art. 131, II e III, do CTN, nos seguintes termos:
+Art. 131. São pessoalmente responsáveis:
+(...)
+II - o sucessor a qualquer título e o cônjuge meeiro, pelos tributos devidos pelo de cujus até a data da partilha ou adjudicação, limitada esta responsabilidade ao montante do quinhão do legado ou da meação;
+III - o espólio, pelos tributos devidos pelo de cujus até a data da abertura da sucessão.
+Observação: Confira   abaixo   um   mini-dicionário   para   que   você   possa   entender   o   assunto   com tranquilidade:
+De cujus: pessoa falecida Espólio: conjunto de bens, direitos, dívidas e responsabilidades do falecido Abertura da sucessão: momento capaz de gerar os efeitos da sucessão (morte) Quinhão: parcela do patrimônio deixado pelo de cujus Legado: patrimônio deixado pelo de cujus, por meio de testamento.
+Meação: é a metade do patrimônio do casal que pertence a cada cônjuge Nesse  tipo  de  transmissão,  a  lógica  é  que, da  mesma forma  que  os  bens  do de  cujus são transferidos para seus herdeiros, as dívidas tributárias também o são.
+Assim,  quando  em  vida,  a  pessoa  é  sujeito  passivo,  na  condição  de  contribuinte,  de  vários tributos. Após a sua morte, alguém deve se responsabilizar por isso.
+Portanto,  os  sucessores  devem  arcar  com  as  dívidas,  na  condição  de  responsáveis.  Afinal, não  foram  eles  que  praticaram  o  fato  gerador (não  houve  relação  pessoal  e  direta  com  o  fato gerador), havendo, tão somente, a transferência da responsabilidade.
+Ocorre  que,  logo  após  a  morte,  há  o  procedimento  de  inventário,  e  até  que  seja  feita  a partilha  aos  herdeiros,  o  ente  que  fica  responsável  pelas  dívidas  do de  cujus é o  espólio,  assim considerado o conjunto coisas e direitos que compunham o patrimônio do falecido.
+Dessa forma, o CTN estabeleceu que o espólio, embora não seja pessoa, fica pessoalmente responsável pelos  tributos  devidos pelo de  cujus até  a  data  da  abertura  da  sucessão  (morte).  Por outro  lado,  em  relação  aos  fatos  geradores  ocorridos  após  a  abertura  da  sucessão  e  antes  da sentença da partilha, o espólio é considerado contribuinte.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+20
+100
+
+No  que  concerne  aos  sucessores, são  pessoalmente  responsáveis por  todos  os  fatos geradores ocorridos antes da sentença de partilha, inclusive o que ocorreram antes da abertura da sucessão,  caso  o  espólio  não  os  tenha  quitado.  De  maneira  análoga,  em  relação  aos  fatos geradores ocorridos após a  partilha,  os  sucessores são  contribuintes,  possuindo  relação  pessoa  e direta com o fato gerador.
+Em  síntese,  o  que  você  precisa  saber  é  que  há  três  marcos  temporais  para  definirmos  o contribuinte  e  o  responsável  perante  a  administração  tributária:  antes  da  morte  (abertura  da sucessão), entre esta e a partilha ou e após a partilha.
+Antes  da  abertura  da  sucessão → fatos  geradores  ocorridos  até  esse  momento possuem como contribuinte o de cujus e como responsáveis o espólio ou os sucessores.
+Entre  a  abertura  da  sucessão  e  a  partilha → fatos  geradores  ocorridos  dentro  desse período possuem como contribuinte o espólio e como responsáveis os sucessores.
+Após  a  partilha  ou  adjudicação → fatos  geradores  após  essa  data  possuem  como contribuintes os sucessores.
+
+Os  sucessores  (inclusive  o  cônjuge  meeiro)  somente  são  responsáveis até  o  limite  do  valor  que lhes   foi   repassado. Observe   que   a   responsabilidade   vai   sendo   transferida   para   os   demais envolvidos na relação jurídica.
+
+
+
+De Cujus
+•É contribuinte pelos FGs antes da morte.
+•A resposabilidade é transferida ao espólio.
+Espólio
+•É responsável pelos FGs antes da abertura da sucessão;
+•É contribuinte pelos FGs após a abertura da sucessão;
+Sucessores
+•É responsável pelos FGs antes da partilha;
+•É contribuinte pelos FGs após a partilha;
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+21
+100
+
+
+Por fim, deve ser ressaltado que a responsabilidade na sucessão causa mortis engloba não só o  valor  dos  tributos  devidos,  mas  inclui  as  multas  moratórias,  que  são  aquelas impostas  pelo não pagamento do tributo na data de vencimento. Esse é o entendimento do STJ:
+TRIBUTÁRIO. INTERPRETAÇÃO DO ARTIGO 2º, § 8º, DA LEI 6.830, DE 1980, E DO ART. 131, III, DO CTN.
+(...)  3.  A  multa  moratória  é  imposição  decorrente  do  não  pagamento  do  tributo  na época do vencimento.
+4. Na expressão créditos tributários estão incluídas as multas moratórias.
+5. O  espólio,  quando  chamado  como  sucessor  tributário,  é  responsável  pelo  tributo declarado  pelo  "de  cujus"  e  não  pago  no  vencimento,  incluindo-se  o  valor  da  multa moratória.(...)"
+(STJ,   REsp   295.222/SP,   Primeira   Turma,   Rel.   Min.   José   Delgado,   Julgamento   em 12/06/2001)
+
+3.2.4 – Sucessão Empresarial O  CTN  estabelece  que  a  sucessão  empresarial  gera,  nos  termos  do  art.  132  do  CTN, responsabilidade tributária às empresas resultantes das operações societárias. Vejamos a íntegra desse dispositivo:
+Art. 132. A pessoa jurídica de direito privado que resultar de fusão, transformação ou incorporação de outra ou em outra é responsável pelos tributos devidos até à data do ato pelas pessoas jurídicas de direito privado fusionadas, transformadas ou incorporadas.
+A   sucessão   empresarial   consiste   em   operações   societárias   entre   empresas,   que   são denominadas fusão,  incorporação,  transformação  ou  cisão.  Vamos  entender  cada  uma  das operações:
+Fusão → Operação  em  que  duas  empresas  se  unem  para  formar  uma  só. As  empresas fusionadas deixam de existir, surgindo uma nova, que será a sucessora.
+Incorporação → Operação  em  que  uma  (ou  mais  do  que  uma)  sociedade  é  absorvida por outra. A empresa incorporada deixa de existir.
+Transformação → Operação em que a sociedade muda de forma (de Ltda. Para S.A., por exemplo).
+Cisão → A cisão pode ser total ou parcial. Na cisão total, uma empresa transfere todo o seu  patrimônio  para  outra,  deixando  de  existir.  Na  cisão  parcial,  a  empresa  transfere parcela do seu patrimônio para uma (ou mais de uma) empresa, continuando a existir.
+Cabe observar que o CTN não cita expressamente a “cisão”, pois a operação só foi regulada 10 anos após a publicação do CTN, conforme consta na Lei das S.A. (Lei 6.404/76):
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+22
+100
+
+Art. 229. A cisão é a operação pela qual a companhia transfere parcelas do seu patrimônio para uma ou mais sociedades, constituídas para esse fim ou já existentes, extinguindo-se a companhia cindida, se houver versão de todo o seu patrimônio, ou dividindo-se o seu capital, se parcial a versão.
+Apesar   disso,   a   doutrina   e   a   jurisprudência   têm   aceitado   a   aplicação   da   regra   da responsabilidade tributária na sucessão empresarial aos casos de cisão, como o trecho da ementa do acórdão abaixo transcrito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. CISÃO DE EMPRESA.
+HIPÓTESE DE  SUCESSÃO,  NÃO  PREVISTA  NO  ART.  132  DO  CTN.  REDIRECIONAMENTO  A SÓCIO-GERENTE. INDÍCIOS SUFICIENTES DE FRAUDE.
+(...)  2.  Embora  não  conste  expressamente  do  rol  do  art.  132  do  CTN, a  cisão  da sociedade    é    modalidade    de    mutação    empresarial    sujeita,    para    efeito    de responsabilidade   tributária,   ao   mesmo   tratamento   jurídico   conferido   às   demais espécies   de   sucessão   (REsp   970.585/RS,   1ª   Turma,   Min.   José   Delgado,   DJe   de 07/04/2008).
+(STJ, REsp 852.972/PR, Primeira Turma, Rel. Min. Teori Albino Zavascki, Julgamento em 25/05/2010)
+Dando  continuidade  ao  nosso  estudo,  o  marco  temporal  para  se  definir  se  a  empresa sucessora será contribuinte ou responsável é a data do ato que gerou a operação societária.
+
+As  operações  societárias  não  se  confundem  com  operações  comerciais.  Logo, não  ocorre  fato gerador do ICMS.
+
+
+A  responsabilidade  por  sucessão  também  é  extensiva  aos  casos  de  extinção  das  pessoas jurídicas de direito privado, conforme preceitua o par. único do art. 132, do CTN:
+Art. 132 – (...):
+Parágrafo  único.  O  disposto  neste  artigo aplica-se  aos  casos  de  extinção  de  pessoas  jurídicas  de  direito privado, quando a exploração da respectiva atividade seja continuada por qualquer sócio remanescente, ou seu espólio, sob a mesma ou outra razão social, ou sob firma individual.
+Veja que, para a responsabilidade tributária ficar caracterizada, é necessário que a atividade seja  continuada  por  qualquer  sócio  remanescente  ou  seu  espólio,  podendo  a  atividade  ser explorada sob a mesma ou outra razão social, ou sob firma individual.
+
+
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+23
+100
+
+Observação:
+➔ Firma individual, em termos atuais, significa “empresário individual”.
+➔ O  sócio  que  continuar  a  respectiva  atividade  pode  ser  responsabilizado, ainda que  exerça  a  atividade  sem  regular  constituição,  já  que  o  art.  126,  III,  do  CTN, impõe  a capacidade  passiva,  independentemente  de  a  pessoa  jurídica  estar regularmente constituída.
+No  que  se  refere  à  abrangência  do  crédito  transferido  na  responsabilidade  por  sucessão empresarial,  deve  ficar  claro  que,  neste  caso, abrange  tanto  as  multas  moratórias  como  as punitivas. Vejamos o posicionamento do STJ a respeito do tema:
+"(...) A responsabilidade tributária do sucessor abrange, além dos tributos devidos pelo sucedido,  as  multas  moratórias  ou  punitivas,  que,  por  representarem  dívida  de  valor, acompanham  o  passivo  do  patrimônio  adquirido  pelo  sucessor,  desde  que  seu  fato gerador tenha ocorrido até a data da sucessão. (...)" (STJ, REsp 923.012, Primeira Seção, Rel. Min. Luiz Fux, Julgamento em 09/06/2010) Tal posicionamento encontra-se, hoje, cristalizado na Súmula 554:
+Súmula STJ 554 -  Na hipótese de sucessão empresarial, a responsabilidade da sucessora abrange   não   apenas   os   tributos   devidos   pela   sucedida,   mas   também   as multas moratórias ou punitivas referentes a fatos geradores ocorridos até a data da sucessão.
+3.2.5 – Responsabilidade  do  adquirente  de  fundo  de  comércio  ou  estabelecimento profissional
+Além da responsabilidade na sucessão empresarial, o legislador do CTN disciplinou também a responsabilidade tributária na alienação de fundo de comércio e estabelecimentos profissionais, conforme se vê abaixo:
+Art. 133. A pessoa natural ou jurídica de direito privado que adquirir de outra, por qualquer título, fundo de comércio ou estabelecimento comercial, industrial ou profissional, e continuar a respectiva exploração, sob a mesma ou outra razão social ou sob firma ou nome individual,  responde pelos tributos,  relativos ao fundo ou estabelecimento adquirido, devidos até à data do ato:
+I - integralmente, se o alienante cessar a exploração do comércio, indústria ou atividade;
+II - subsidiariamente  com  o  alienante, se  este  prosseguir  na  exploração  ou  iniciar  dentro  de  seis  meses  a contar  da  data  da  alienação,  nova  atividade  no  mesmo  ou  em  outro  ramo  de  comércio,  indústria  ou profissão.
+Antes  de  partirmos  para  análise  do  art.  133,  vamos  entender  o  que  vem  a  ser “fundo  de comércio” e “estabelecimento comercial”.
+Fundo  de  comércio  é  caracterizado  pelo  conjunto  de  bens  tanto  materiais  (máquinas, móveis, computadores etc.) como imateriais (marca, ponto comercial etc.), utilizados para cumprir Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+24
+100
+
+com  a  atividade   empresarial. O   fundo  de   comércio  pode  ser  composto  por  um   ou  mais estabelecimentos.
+Portanto, os estabelecimentos são considerados parcelas do fundo de comércio, já que este pode conter vários estabelecimentos.
+Nesse  contexto,  repare  que o  CTN  responsabiliza  tanto  o  adquirente  de  todo  o  fundo  de comércio, como o que adquire apenas um estabelecimento comercial.
+Assim, o  adquirente  que  continua  a  respectiva  exploração  da  atividade  comercial,  ainda que sob a mesma ou outra razão social ou sob firma individual, responde pelos tributos relativos ao fundo ou estabelecimento adquirido.
+Daí, podemos tirar duas conclusões:
+• O  adquirente deve  continuar a  exploração  da  respectiva  atividade  comercial.  Dessa  forma,  se compra  um  estabelecimento  onde  há  a  exploração  de  uma  farmácia,  e  decide  abrir  um  lava- jato, não há que se falar em responsabilidade do adquirente.
+• Havendo  o  prosseguimento  na  exploração  da  respectiva  atividade, o  adquirente  somente responde pelos tributos relativos ao fundo ou estabelecimento adquirido. Nesse sentido, seria responsável  pelo  ICMS  ou  IPI,  por  exemplo,  mas  não  sobre  o  Imposto  de  Renda  devido  pela pessoa jurídica alienante.
+Vamos esquematizar para deixar tudo mais simples:
+
+
+Adquirente de Fundo de Comércio ou Estabelecimento Se continuar a exploração Torna-se Responsável Subsidiariamente
+Se o alienante continuar atividade comercial;ou
+Iniciar nova atividade dentro dos próximos 6 meses.
+Integralmente
+Se o alienante cessar exploração comercial
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+25
+100
+
+
+É  importante  destacar  que  o  STJ  (REsp 108.873/SP)  já  decidiu  que,  se  uma  empresa  aluga  um imóvel que já foi anteriormente locado a outra pessoa jurídica devedora, não  há que se  falar  em responsabilidade tributária.
+
+
+Entendido  tudo  até  aqui,  correto?  Então,  vamos  prosseguir  no  assunto,  explicando  a intensidade  da  responsabilidade  assumida  pelo  adquirente,  que  pode  ocorrer  de  duas  maneiras.
+Vamos lá!
+Imagine,  a  título  de  exemplo,  que  um  japonês,  inconformado  com  o  elevado  índice  de inadimplência na sua loja de roupas, decide vendê-la a outra pessoa, com a finalidade de regressar ao seu país de sua origem.
+Outro exemplo seria o de um italiano, que possui duas pizzarias. Decepcionado com o baixo volume  de  vendas  de  uma  das  pizzarias,  decide  aliená-la  e  continuar  com  a  exploração  da  outra, que já se encontra estruturada.
+A primeira hipótese ocorre quando o alienante, após realizar a venda do fundo de comércio ou  do  estabelecimento,  cessa  completamente  a  exploração  do  comércio,  indústria  ou  atividade.
+Perceba  que,  para  o  fisco,  fica  difícil  localizar  o  japonês,  para  cobrar-lhe  os  tributos  porventura devidos. Por esse motivo, se o alienante cessa a exploração comercial ou industrial, o adquirente responde integralmente pelos tributos (art. 133, I).
+A segunda hipótese refere-se ao caso de o alienante prosseguir na exploração da atividade comercial ou industrial, ou iniciar, dentro dos próximos seis meses, contados da data da alienação, nova atividade, no mesmo ou até mesmo em outro ramo de comércio, indústria ou profissão.
+Como  o  alienante  pode  ser  encontrado  com  maior  facilidade,  o  adquirente  somente responderá pelos tributos devidos se a Fazenda não lograr êxito na cobrança do alienante. Ou seja, a responsabilidade é subsidiária do adquirente.
+
+Percebe-se que há benefício de ordem, ou seja, o adquirente só irá cumprir com a obrigação, caso o alienante não possa fazê-lo.
+
+
+Um  detalhe  a  ser  notado  é  que,  para o adquirente se  responsabilizar  pelo  fundo  de comércio  ou  estabelecimento  adquirido, deve  continuar  a  exploração  da  respectiva  atividade.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+26
+100
+
+Por  outro  lado, a  responsabilidade  do alienante continua, ainda  que  venha  a iniciar  atividade distinta dentro dos próximos seis meses.
+Observação: O  que  foi  dito  sobre  a transferência  da  responsabilidade  das  multas moratórias  e  punitivas também  se  aplica  na  aquisição  de  fundo  de  comércio  ou estabelecimento.
+Impende destacar que o advento da LC 118/2005 trouxe importantes alterações no art. 133 do  CTN,   acrescentando  3   parágrafos  a   ele.  Como  tais  alterações  envolvem  o  processo  de recuperação  judicial e  de falência,  é  muito  importante  que  você  entenda  a  relação  desses conceitos com o assunto que estamos estudando.
+Na  sistemática  da  recuperação  judicial  (antiga  concordata),  o  objetivo  é  fazer  com  que  a empresa supere a crise econômico-financeira pela qual está passando. Para que isso ocorra, pode ser necessário alienar um dos estabelecimentos da empresa.
+Da  mesma  forma  que  na  recuperação  judicial,  em  que  está  presente  o princípio  da preservação da empresa, na falência pode haver alienação dos estabelecimentos.
+Em ambos os casos, o alienante está repleto de dívidas tributárias. Aplicando-se a regra da responsabilidade por sucessão, o adquirente seria responsável por tais dívidas.
+A  LC  118/05  alterou  justamente  esse  ponto,  ou  seja, criou  uma  hipótese  de  exclusão da responsabilidade do adquirente dos fundos de comércio e dos estabelecimentos.
+Art. 133 – (...):
+§ 1o O disposto no caput deste artigo não se aplica na hipótese de alienação judicial:
+I – em processo de falência;
+II – de filial ou unidade produtiva isolada, em processo de recuperação  judicial.
+A  princípio, poderíamos  pensar  que  foi  aberta  a  possibilidade  de  os  sócios  da  sociedade falida, ou em recuperação judicial, utilizarem terceiros para adquirir os estabelecimentos livres do ônus tributário. Contudo, de modo a prevenir que tal exceção seja utilizada com fins fraudulentos, o legislador estabeleceu no § 2º o seguinte:
+Art. 133 – (...):
+§ 2o Não se aplica o disposto no § 1º (que estabelece a exclusão da responsabilidade) deste artigo quando o adquirente for:
+I – sócio da sociedade falida ou em recuperação judicial, ou sociedade controlada pelo devedor falido ou em recuperação judicial;
+II – parente, em linha reta ou colateral até o 4o (quarto) grau, consangüíneo ou afim, do devedor falido ou em recuperação judicial ou de qualquer de seus sócios; ou III – identificado  como agente  do  falido ou  do  devedor  em  recuperação  judicial  com  o  objetivo  de  fraudar  a sucessão tributária.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+27
+100
+
+
+O objetivo de tais restrições é evitar fraude contra o benefício estabelecido no CTN.
+
+
+Por  último,  a  LC  118/05  acrescentou  o  §  3º  ao  art.  133,  asseverando  que  o  dinheiro arrecadado  com  a  alienação  de  empresa,  filial  ou  unidade  produtiva  isolada  permanecerá  à disposição  do  juízo  de  falência  pelo prazo  de  1  ano,  só  podendo  ser  utilizado  para  pagar dívidas contraídas  ao  longo  da  falência (créditos  extraconcursais), ou  para  pagar  créditos  que,  na falência, possuem privilégio em relação ao crédito tributário.
+Não se preocupe, amigo(a) concurseiro(a) com tais conceitos, pois tudo isso será muito bem detalhado em momento oportuno. Não vamos complicar nosso curso sem necessidade. Tudo deve fluir naturalmente!
+
+(FCC/SEFAZ-SC-Auditor  Fiscal/2018) Conforme  o  Código  Tributário  Nacional  (CTN),  no  que tange  à  responsabilidade  tributária,  a  pessoa  de  direito  privado  que  adquirir  de  outra,  por qualquer   título,   estabelecimento   comercial,   industrial   ou   profissional,   e   continuar   a respectiva exploração a) não responde pelos tributos devidos pelo alienante ou pelo estabelecimento alienado até a data da compra, se o alienante continuar exercendo a atividade econômica no mesmo ramo ou for declarado falido.
+b)  não  responde  pelos  tributos  devidos  até  a  data  da  compra,  se  a  alienação  for  judicial,  no âmbito de processo de falência, exceto se for sócio da sociedade falida, sociedade controlada pelo devedor falido, parente em linha reta ou colateral até o 4º grau do devedor falido ou de seus sócios, ou agente do falido.
+c) não responde pelos tributos devidos após a compra do estabelecimento adquirido, por até 3 anos, se o alienante estava falido ou em recuperação judicial.
+d)  responde  integralmente  pelos  tributos  devidos  até  12  meses  da  data  da  aquisição,  se  o alienante,  por  qualquer  motivo,  cessar  a  atividade  econômica  ou,  estando  em  recuperação judicial, falir.
+e) responde  subsidiariamente  pelos  tributos  devidos  até  a  data  da  compra,  se  o  alienante, por qualquer motivo, cessar a exploração do comércio, indústria ou atividade.
+Comentário: A  responsabilidade  tributária  nos  casos  de  aquisição  de  fundo  de  comércio  ou estabelecimento  comercial,  industrial  ou  profissional  foi  disciplinada  no  art.  133,  do  CTN, Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+28
+100
+
+estabelecendo-se  que,  caso  o  adquirente  continue  a  exploração  da  respectiva  atividade sujeita-se  à  responsabilidade  integral, se  o  alienante  cessar  a  exploração  do  comércio, indústria ou atividade.
+A  responsabilidade,  por  outro  lado,  é  subsidiária com  o  alienante,  se  este  prosseguir  na exploração  ou  iniciar  dentro  de  seis  meses a  contar  da  data  da  alienação,  nova  atividade  no mesmo ou em outro ramo de comércio, indústria ou profissão.
+Fica,  ainda,  isento  da  responsabilidade,  o  adquirente  nos  casos  de  alienação  judicial  em processo  de  falência  ou  de filial  ou  unidade  produtiva  isolada,  em  processo  de  recuperação judicial,  exceto  se  for  sócio  da  sociedade  falida,  sociedade  controlada  pelo  devedor  falido, parente  em  linha  reta  ou  colateral  até  o  4º  grau  do  devedor  falido  ou  de  seus  sócios,  ou agente do falido. Desse modo, só nos resta a alternativa B como resposta.
+Gabarito: Letra B
+(FCC/CLDF-Consultor  Legislativo/2018) A  condição  de  responsável  tributário  é  uma  das formas  de  sujeição  passiva  em  relação  à  obrigação  tributária  principal.  O  Código  Tributário Nacional    contempla    várias    regras    atinentes    à    responsabilidade.    Relativamente    à responsabilidade dos sucessores, prevista no CTN, o a)  cônjuge  meeiro,  que  não  se  qualifique  como  herdeiro,  é  pessoalmente  responsável,  por sucessão,   pelos   tributos   devidos   pelo   de   cujus,   até   a   data   da   partilha,   limitada   esta responsabilidade ao montante da meação.
+b) adquirente, que compra um bem por meio de contrato de venda e compra, é responsável pelos  tributos  devidos  pelo  vendedor,  embora  essa  responsabilidade  não  seja  pessoal,  por não se tratar de uma situação de sucessão.
+c)  herdeiro,  parente  em  linha  colateral,  até  o  quarto  grau,  é  responsável,  ilimitadamente, pelos tributos devidos pelo de cujus, até a data da abertura da sucessão.
+d) legatário que tiver aceitado o legado, desde que não tenha tido relação de parentesco com o  autor  da  herança,  não  é  pessoal  nem  limitadamente  responsável  pelos  tributos  devidos pelo de cujus, até a data da abertura da sucessão.
+e)  espólio  é  excluído  de  qualquer  forma  de  responsabilização,  por  não  ter  personalidade jurídica.
+Comentário:
+Alternativa A: O art. 131, II, do CTN, estabelece que é pessoalmente responsável o sucessor a qualquer título e o cônjuge meeiro, pelos tributos devidos pelo de cujus até a data da partilha ou  adjudicação,  limitada  esta  responsabilidade  ao  montante  do  quinhão  do  legado  ou  da meação. Alternativa correta.
+Alternativa B: O art. 131, I, do CTN, estabelece que é pessoalmente responsável o adquirente ou remitente, pelos tributos relativos aos bens adquiridos ou remidos. Alternativa errada.
+Alternativa  C: A  responsabilidade  dos  sucessores  é  limitada ao  montante  do  quinhão  do legado ou da meação. Alternativa errada.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+29
+100
+
+Alternativa  D: O  legatário  é  responsável  pessoal  pelos  tributos  devidos  pelo  de  cujus,  até  a data da partilha, limitada sua responsabilidade ao do quinhão do legado. Alternativa errada.
+Alternativa  E: O  art.  131,  I,  do  CTN,  estabelece  que é  pessoalmente  responsável o  espólio, pelos tributos devidos pelo de cujus até a data da abertura da sucessão. Alternativa errada.
+Gabarito: Letra A
+(FCC/PGE-MA-Procurador do Estado/2016) A responsabilidade tributária por sucessão a)  é pessoal  do  espólio  pelos  tributos  devidos  pelo  de  cujus,  desde  a  data  da  abertura  da sucessão  até  a  data  da  partilha  ou  adjudicação;  também  é  pessoal  a  responsabilidade  do cônjuge meeiro e sucessores a qualquer título, nos limites da meação, do quinhão ou legado, pelos tributos devidos pelo de cujus até a data da partilha ou adjudicação.
+b)  abrange   o   tributo  e   as  penalidades  por  infração  à   legislação  tributária   porventura cometidas pelo contribuinte e que não foram pagas, desde que tenha havido transmissão de bens imóveis por ato oneroso sem prova da quitação.
+c)  é  absoluta  no  caso  de  aquisição  de  imóvel  em  hasta  pública  para  o  adquirente,  ora arrematante,   desde   que   não   se   trate   de   processo   de   falência,   pois,   neste   caso,   a responsabilidade  é  afastada  se  o  adquirente  for  parente  do  falido  na  linha  reta  ou  colateral até terceiro grau.
+d)  é  solidária  com  o  contribuinte  nas  hipóteses  de  fusão,  cisão  e  incorporação  de  empresa, salvo se havia prova de quitação dos tributos no ato e não entraram como passivo no negócio jurídico.
+e)  pode  ser  atribuída  por  ato  normativo  e  decorrer  de  analogia,  pois  existe  supremacia  do interesse público sobre o particular na arrecadação tributária.
+Comentário:
+Alternativa  A: A responsabilidade  pelos  tributos  devidos  pelo  de  cujus,  entre  a  data  da abertura  da  sucessão  até  a  data  da  partilha  ou  adjudicação  é  pessoal  do  espólio,  conforme determina o art. 131, III, do CTN. Além disso, a responsabilidade pelos tributos devidos pelo de  cujus  até  a  data  da  partilha  ou  adjudicação  é  pessoal  do sucessor  a  qualquer  título  e  do cônjuge  meeiro,  limitada  esta  responsabilidade  ao  montante  do  quinhão  do  legado  ou  da meação. Alternativa correta.
+Alternativa  B: Em  se  tratando  de  aquisição  de  bem  imóvel,  o  adquirente  responde  apenas por  tributos  incidentes  sobre  o  imóvel,  se  não  constar  do  título  a  prova  de  sua  quitação.
+Como a questão não especificou a que tributos se refere a dívida do alienante, está errada.
+Alternativa  C: Em  caso  de  arrematação  de  bem  imóvel  em  hasta  pública,  a  sub-rogação ocorre  sobre  o  respectivo  preço,  não  havendo  que  se  falar  em  responsabilidade  para  o adquirente. Alternativa errada.
+Alternativa  D: Não  há  que  se  falar  em  responsabilidade  solidária  com o  contribuinte  neste caso. De acordo com o art. 132, do CTN, a pessoa jurídica de direito privado que resultar de fusão,  transformação  ou  incorporação  de  outra  ou  em  outra  é  responsável  pelos  tributos Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+30
+100
+
+devidos   até   à   data   do   ato   pelas   pessoas   jurídicas   de   direito   privado   fusionadas, transformadas ou incorporadas. Alternativa errada.
+Alternativa  E: A  responsabilidade  tributária  é  sempre  definida  em  lei.  De  acordo  com  o  art.
+128, do CTN, cabe a lei atribuir de modo expresso a responsabilidade pelo crédito tributário a terceira pessoa. Alternativa errada.
+Gabarito: Letra A
+(FCC/TCM-GO-Auditor   de   Controle   Externo/2015) Os   tutores   e   curadores   respondem solidariamente  pelos  tributos  devidos  por  seus  tutelados  ou  curatelados,  nos  atos  em  que intervierem  ou  não,  ou  pelas  omissões  de  que  forem  responsáveis,  independentemente  da possibilidade   de   exigência   do   cumprimento   da   obrigação   principal   pelo   contribuinte (“responsabilidade por sucessão").
+Comentário: A responsabilidade solidária dos tutores e curadores pelos tributos devidos por seus  tutelados  ou  curatelados,  nos  atos  em  que  intervierem  ou  não,  ou  pelas  omissões  de que  forem  responsáveis,  somente  haverá  nos  casos  de  impossibilidade  de  exigência  do cumprimento da obrigação principal pelo contribuinte.
+Gabarito: Errada
+
+
+3.3 – RESPONSABILIDADE DE TERCEIROS Diferentemente  do  que  vimos  nos  tópicos  anteriores,  em  que  há  sucessão  patrimonial  e consequente  responsabilidade,  o  que  vamos  estudar  aqui  é  a  responsabilização  de  pessoas (denominadas  “terceiros”),  que  possuem o dever  de  administrar  os  bens  dos  contribuintes,  de representá-los.
+Caso  tais  pessoas  se  omitam  do  seu  dever,  ainda  que  não  atuem  contrariamente  à  lei, devem ser responsabilizadas, já que a elas foi confiada a gestão patrimonial.
+Nesse rumo, a responsabilidade de terceiros foi dividida, no CTN, em duas partes: o art. 134 trata  da  responsabilização  por atuação  regular,  e  o art.  135 se  refere  à  responsabilidade  de terceiros que agiram de forma irregular, infringindo a lei, por exemplo.
+Vamos estudá-los separadamente a partir deste momento.
+3.3.1 – Responsabilidade de terceiros com atuação regular Vamos começar o estudo desse tipo de responsabilidade, analisando o caput do art. 134:
+Art.   134.   Nos   casos de   impossibilidade   de   exigência   do   cumprimento   da   obrigação   principal   pelo contribuinte,  respondem  solidariamente  com  este  nos  atos  em  que  intervierem  ou  pelas  omissões  de  que forem responsáveis:
+(...)
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+31
+100
+
+De início, cumpre ressaltar uma imprecisão terminológica do CTN. A Lei diz que, não sendo possível  exigir  o  cumprimento  da  obrigação  principal  do  contribuinte,  o  terceiro  passa  a  ser responsável “solidário” com aquele.
+Nós estudamos que a solidariedade não comporta benefício de ordem, podendo ser exigida de  um  ou  de  outro.  No  caso,  o  comando  é  claro  que  a  exigência  deve  ser  feita  ao  contribuinte  e, não sendo possível adimplir a obrigação, cobra-se do responsável.
+Embora  o  CTN  tenha  sido  impreciso  na  terminologia  utilizada, devemos  guardar  que  a responsabilidade  é  solidária,  mas  que  deve  seguir  a  ordem  estipulada  no caput. Esse  conselho deve ser seguido, pois é assim que as bancas costumam cobrar.
+Observe  que  a  responsabilidade  é  considerada por  transferência,  pois,  ao  ocorrer  o  fato gerador,   o   contribuinte   é   o   sujeito   passivo   da   obrigação.   Em   caso   de   impossibilidade   do cumprimento pelo sujeito passivo direto, transfere-se a responsabilidade ao terceiro.
+Repare que no final do caput do art. 134, uma informação adicional também nos foi dada: o terceiro deve intervir no ato que culminou no inadimplemento da obrigação ou se omitir de um dever que lhe cabe. Ou seja, a atuação do terceiro possui relação com o nascimento da obrigação tributária e, se o contribuinte não pagar, o terceiro se torna responsável.
+Logo,  podemos  esquematizar  os  dois  requisitos  para  que  a  dívida  venha  a  ser  exigida  do responsável:
+
+
+Deve  ficar  claro,  quanto  ao  artigo  em  análise,  que os  responsáveis  somente  assumem  o tributo  devido  e  as  multas  de  caráter  moratória,  isto  é,  por  mero  atraso  de  pagamento.  Isso porque o seu par. único estabelece que a responsabilidade decorrente do art. 134 só se aplica, em matéria de penalidades, às de caráter moratório.
+
+As  multas  por descumprimento  de  obrigações  acessórias (que,  como  vimos,  “convertem-se”  em obrigação principal) não são transferidas nesse tipo de responsabilidade.
+
+
+Responsabilidade
+“Solidária” de
+Terceiros com
+Atuação REGULAR
+(art. 134)
+Impossibilidade de
+exigir a dívida do
+contribuinte
+Colaborou, de algum
+modo, com o não
+pagamento do
+tributo
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+32
+100
+
+Nesse  momento,  você  de  estar  se  perguntando: quem  são  esses  terceiros  responsáveis?
+Nos  incisos  do  art.  134,  o  legislador  elenca  os  terceiros  que  podem  ser  tornar  responsáveis  em relação à obrigação tributária. São eles:
+I - os pais, pelos tributos devidos por seus filhos menores;
+II - os tutores e curadores, pelos tributos devidos por seus tutelados ou curatelados;
+III - os administradores de bens de terceiros, pelos tributos devidos por estes;
+IV - o inventariante, pelos tributos devidos pelo espólio;
+V - o síndico e o comissário, pelos tributos devidos pela massa falida ou pelo concordatário;
+VI - os tabeliães, escrivães e demais serventuários de ofício, pelos tributos devidos sobre os atos praticados por eles, ou perante eles, em razão do seu ofício;
+VII - os sócios, no caso de liquidação de sociedade de pessoas.
+Observação: Lembre-se  de  que  os  menores,  tutelados  e  curatelas,  embora  sejam incapazes, possuem  capacidade  tributária  passiva,  em  decorrência  do  disposto  no  art.
+126 do CTN.
+Em  todos  os  casos,  observe  que  o  responsável  exerce  uma  função  de  representação  do contribuinte.
+Os  pais,  os  tutores  e  os  curadores,  por  exemplo,  representam  aqueles  que  são  incapazes para praticar os atos da vida civil (filhos menores, tutelados e curatelados).
+O inventariante, por seu turno, exerce a função de gerir o patrimônio do espólio, podendo, por  isso  mesmo,  se  tornar  responsável  quando  colaborar  para  o  inadimplemento  da  obrigação tributária principal (tributos ou multas moratórias).
+No   que   se   refere   aos síndicos e   comissários,   na   legislação   falimentar   atual,   são denominados Administrador  Judicial.  Na  falência,  o  administrador  assume  a  administração  dos bens da massa. Na recuperação judicial, o administrador judicial atua como auxiliar.
+Os  tabeliães,  também  conhecidos  por notários,  podem  ficar  responsáveis,  por  exemplo, quando  não  exigirem  (omissão)  a  comprovação  de  quitação  dos  tributos  relativos  a  determinado imóvel, no momento da transferência de sua propriedade.
+Por fim, quando o CTN se referiu aos sócios de sociedade de pessoas, quis se referir àquelas sociedades  em  que  a responsabilidade  dos  sócios  é  ilimitada em  relação  à  sociedade,  ou  seja, respondem pelas dívidas das sociedades com o próprio patrimônio.
+3.3.2 – Responsabilidade de terceiros com atuação irregular Acabamos  de  estudar  a  responsabilidade  “solidária”  (que,  na  verdade,  é  subsidiária)  dos terceiros  que  atuam  ou  se  omitem,  acarretando  o  não  pagamento  dos  tributos  devidos.  Não houve, portanto, qualquer infração dolosa à lei ou excesso de poderes, por exemplo.
+A partir desse momento, veremos a responsabilidade pelos terceiros que agem com excesso de poderes ou infração de lei, contrato social ou estatutos.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+33
+100
+
+Dessa forma, o art. 135 do CTN estabelece o seguinte:
+Art. 135. São pessoalmente responsáveis pelos  créditos correspondentes  a obrigações  tributárias  resultantes de atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos:
+I - as pessoas referidas no artigo anterior (art. 134, estudado no tópico anterior);
+II - os mandatários, prepostos e empregados;
+III - os diretores, gerentes ou representantes de pessoas jurídicas de direito privado.
+
+
+Repare  que  as  pessoas  mencionadas  nos  incisos  II  e  III  desse  artigo não  foram  previstas na responsabilidade “solidária” do art. 134. Isso cai em prova. Cuidado!
+
+
+Vamos  imaginar que  o  diretor  de  uma  empresa,  embora  não  tenha  poderes  para  adquirir imóveis  sem  anuência  dos  sócios  da  pessoa  jurídica,  compra  uma  fazenda  a  fim  de  que  os funcionários  da  organização  tenham  um  local  para  o  lazer.  Como  houve  excesso  de  poder  por parte do referido diretor, ele será pessoalmente responsável pela obrigação tributária relativa ao ITBI, por conta da transmissão onerosa de bens imóveis.
+Observe  que  não  é  difícil  ilustrar  uma  situação  em  que  ocorre  a  prática  de  um  ato  com excesso  de  poderes.  Porém,  quanto  à  prática  de  infrações  à  legislação  tributária,  que  também ensejam a responsabilidade pessoal do agente, é importante tecermos alguns comentários.
+Primeiramente,  deve-se  destacar  que  o  mero  descumprimento da  obrigação  tributária principal,  ou  seja,  o  não  pagamento  do  tributo,  caso  não  haja  dolo  ou  fraude, não  caracteriza infração  legal,  de  modo  que a  mora  é  da  empresa,  e  o  gestor  não  passa  a  ser  pessoalmente responsabilizado. A jurisprudência atual do STJ é pacificada quanto a isso:
+Súmula  STJ  430 - O  inadimplemento  da  obrigação  tributária  pela  sociedade  não  gera, por si só, a responsabilidade solidária do sócio-gerente.
+Agora,  imaginemos  o  caso  de  uma  empresa  que  simplesmente  deixa  de  funcionar  no  seu endereço,  ou  seja,  encerra  suas  atividades, deixando  débitos  tributários  em  aberto  sem  qualquer respaldo patrimonial como garantia do pagamento da dívida. Neste caso, isso seria uma infração à lei?
+Esta situação retrata a famigerada dissolução irregular de uma pessoa jurídica que, para o STJ, configura infração passível de responsabilização do sócio-gerente:
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+34
+100
+
+Súmula  STJ  435 - Presume-se  dissolvida  irregularmente  a  empresa  que  deixar  de funcionar   no   seu   domicílio   fiscal,   sem   comunicação   aos   órgãos   competentes, legitimando o redirecionamento da execução fiscal para o sócio-gerente.
+Em relação à dissolução irregular, em 2015, embora seja divergente do entendimento da 1ª Turma, a 2ª Turma do STJ decidiu, por votação unânime, no REsp 1.520.257/SP, para caracterizar a responsabilidade do sócio-gerente não é necessário que ele já estivesse no comando da  entidade no  momento  do fato  gerador  das  obrigações  tributárias  ou nas  datas  dos  vencimentos  dos respectivos débitos tributários, mas sim no momento da prática da infração, isto é, ao tempo da dissolução irregular da sociedade.
+Observação: Pelo  exposto,  fica  claro  que  não  se  pode  responsabilizar  toda  e  qualquer pessoa  que  já  tenha  figurado  como  administrador de  uma empresa  em  momentos anteriores ou posteriores, nada tendo a ver com a prática dos ilícitos.
+Talvez,  em  decorrência  da  leitura  da  Súmula  435  do  STJ,  você  esteja  se  perguntando  se  o redirecionamento da execução fiscal para o sócio-gerente implicaria exclusão da pessoa jurídica do polo   passivo.   Não   obstante   a redação   do   art.   135   mencione   o   termo   “pessoalmente”, a jurisprudência do STJ indica que a pessoa jurídica persiste no polo passivo da execução fiscal:
+(...)
+12.  Não  há  sentido  em  concluir  que  a  prática,  pelo  sócio-gerente,  de  ato  ilícito (dissolução  irregular)  constitui  causa  de  exclusão  da  responsabilidade  tributária  da pessoa jurídica, fundada em circunstância independente.
+13.  Em  primeiro  lugar,  porque a  legislação  de  Direito  Material  (Código  Tributário Nacional e legislação esparsa) não contém previsão legal nesse sentido.
+14. Ademais,  a  prática  de  ato  ilícito  imputável  a  um  terceiro,  posterior  à  ocorrência  do fato gerador, não  afasta  a inadimplência (que é imputável  à pessoa jurídica,  e não  ao respectivo sócio-gerente) nem anula ou invalida o surgimento da obrigação tributária e a constituição do respectivo crédito, o qual, portanto, subsiste normalmente.
+(...)
+(STJ,  Segunda  Turma,  REsp 1.455.490/PR,  rel.  Min.  Herman  Benjamin,  Julgamento  em 26/08/2014)
+Ambas  as  súmulas  acima  citam  o  sócio-gerente.  A  propósito,  nós  vimos  quem  são  os terceiros  responsáveis  do  art.  134,  mas  ainda  não  comentamos  quem  pode  ser  pessoalmente responsabilizado nos termos do art. 135.
+Saiba que todas as figuras citadas no art. 134 podem sofrer a responsabilização, caso ajam com  excesso  de  poderes  ou  infração  de  lei,  contrato  social  ou  estatutos.  Além  disso,  também podem  ser  responsabilizados  os mandatários,  prepostos  e  empregados,  bem  com  os diretores (citado no nosso exemplo), gerentes ou representantes de pessoas jurídicas de direito privado.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+35
+100
+
+
+Os mandatários podem vir em provas como “procuradores”!
+
+
+Em  relação  aos sócios de  uma  empresa,  é  importante  ter  em  mente  que  são  as  atividades desenvolvidas  na  gestão  da  empresa  que  podem  acarretar  responsabilização  pessoal,  e  não  o simples  fato  de  ser  sócio.  Por  conseguinte, o  sócio-gerente  pode  ser  responsabilizado,  ao  passo que o sócio-quotista não pode.
+Destaque-se  que  a  responsabilidade  pessoal, prevista  no  art.  135,  objeto  de  nosso  estudo, abrange  os  tributos,  os  juros  e  as  multas, sejam  elas  de  caráter  moratório  ou  punitivo. Trata-se, na definição da doutrina em geral, de uma modalidade de responsabilidade por substituição.
+Observação: As  multas  punitivas  também  podem  ser  denominadas multas  de  ofício, multas formais, multas fiscais ou até mesmo multas pessoais.
+
+
+(FCC/PGE-MT-Procurador/2016) A   pessoa   jurídica   DAMALINDA,   dedicada   ao   varejo   de vestuários,  é  composta  por  dois  sócios,  um  dos  quais  assumiu  a  administração  da  empresa conforme  previsto  em  seus  atos  constitutivos.  Em  razão  de  dificuldades  financeiras,  essa empresa  passou  a  interromper  os  recolhimentos  do  ICMS,  visando  a  obter  recursos  para  o pagamento  de  seus  empregados  e  fornecedores.  Não  obstante  a  inadimplência,  a  empresa continuou a declarar o valor mensalmente devido. Após certo período de tempo, a atividade se  revelou  efetivamente  inviável,  e  o  administrador  optou  por  encerrar  suas  atividades  e fechou  todas as  lojas,  leiloando  em  um  site  de  internet  todo  o  saldo  de  estoques. A  decisão deste administrador
+I.  foi  acertada,  pois  se  a  empresa  estava  em  dificuldades não  haveria  motivo  para  continuar com as atividades e incrementar ainda mais seu passivo tributário.
+II.  foi  incorreta,  pois  ao  simplesmente  fechar  as  portas  das  lojas  ficou  caracterizada  a dissolução irregular, o que poderá justificar o futuro redirecionamento de execuções fiscais à pessoa física dos sócios.
+III. foi incorreta, pois o administrador poderia ter recorrido a remédios legais para a proteção de  empresas  em  dificuldade,  tais  como a  recuperação  de  empresas  e  a  falência,  ao  invés de simplesmente  encerrar  suas  atividades   sem  a   comunicação   aos  órgãos  administrativos competentes.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+36
+100
+
+IV. não alterou a situação legal do outro sócio no tocante à respectiva responsabilidade pelo crédito tributário, uma vez que todos os sócios respondem pelos débitos fiscais da sociedade.
+Está correto o que se afirma APENAS em a) I e IV.
+b) II e III.
+c) II.
+d) III.
+e) IV.
+Comentário:
+Item I: A decisão foi incorreta, pois o o administrador poderia ter recorrido a remédios legais para  a  proteção  de  empresas  em  dificuldade,  tais  como  a  recuperação  de  empresas  e  a falência,  ao  invés  de  simplesmente  encerrar  suas  atividades  sem  a  comunicação  aos  órgãos administrativos competentes. Item errado.
+Item II: A decisão foi incorreta, mas o redirecionamento de execução fiscal só alcança o sócio- gerente.  Da  forma  como  foi  redigida  a  assertiva,  fica  subentendido  erroneamente  que  a execução fiscal pode recair sobre qualquer sócio.  Item errado.
+Item III: É exatamente a justificativa da primeira assertiva. Item correto.
+Item   IV: Somente   os   sócios   que   exercem   a   administração   na   sociedade   podem   ser pessoalmente responsabilizados pelas  dívidas da empresa. Item errado.
+Gabarito: Letra D
+(FCC/TRF - 4ª   REGIÃO-Técnico   Judiciário/2014) Sobre   responsabilidade   tributária,   o representante legal  de  pessoa  jurídica  de  direito  privado,  ainda  que  não  seja  sócio  da empresa,   é   pessoalmente   responsável   pelos   créditos   correspondentes   a   obrigações tributárias  resultantes  de  atos  praticados  com  excesso  de  poderes,  infração  de  lei,  contrato social ou estatuto.
+Comentário: Realmente,  ainda  que  não  seja  sócio  da  empresa,  o  representante  legal  é pessoalmente    responsável    pelos    créditos    correspondentes    a    obrigações    tributárias resultantes  de  atos  praticados  com  excesso  de  poderes,  infração  de  lei,  contrato social  ou estatuto.
+Gabarito: Correta
+(FCC/PGE-SP-Procurador do Estado/2012) Em se  tratando de responsabilidade tributária, os pais respondem pelos tributos devidos por seus filhos menores e, em matéria de penalidades, somente às de caráter moratório.
+Comentário: De acordo com o art. 134, I, do CTN, nos casos de impossibilidade de exigência do  cumprimento  da  obrigação  principal  pelo  contribuinte,  respondem  solidariamente  com este nos atos em que intervierem ou pelas omissões de que forem responsáveis os pais, pelos Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+37
+100
+
+tributos devidos por seus filhos menores. Em se tratando de penalidades, a responsabilidade diz respeito apenas às de caráter moratório.
+Gabarito: Correta
+
+
+4 - RESPONSABILIDADE POR INFRAÇÕES O CTN trata das responsabilidades por infrações nos arts. 136 e 137.
+Normalmente,  quando  uma  pessoa  pratica  infrações  tributárias,  fica  sujeita  às  penalidades pecuniárias. Ser  punido  com  multas  é  o  mais  corriqueiro.  Contudo,  há  que  se  destacar  que,  no âmbito da legislação dos tributos incidentes sobre o comércio exterior, há infrações puníveis com penas  de  perdimento  de  mercadorias  ou  veículos,  e  até  outras  que  não  possuem  conteúdo pecuniário.
+Nessa  esteira,  é  importante  entender  que  aquele  que  pratica  infrações possui relação pessoal  e  direta  com  o  fato, o  que  o  tornaria  impreciso  dizer  que  é  “responsável”.  Contudo, é assim que o CTN estabelece, e é o que vamos levar para a nossa prova, não é mesmo?
+Pode-se  dizer  também  que,  como  a  pessoa  é  responsável  pela  infração  desde  o  momento de sua prática, é uma forma de responsabilidade por substituição.
+Pois bem, vamos ver então o que o CTN diz acerca dessa “responsabilidade”:
+Art.  136. Salvo  disposição  de  lei  em  contrário,  a  responsabilidade  por  infrações  da  legislação  tributária independe  da  intenção  do  agente ou  do  responsável  e  da  efetividade,  natureza  e  extensão  dos  efeitos  do ato.
+Pode-se  inferir  do  dispositivo  que a  responsabilidade  por  infrações  tributárias  é,  via  de regra,  objetiva, ou  seja,  não  se  leva  em  consideração  as  características  pessoais  (subjetivas)  do infrator  e  os  efeitos  que  o  ato  pode  causar.  Tudo  isso,  salvo  disposição  de  lei  em  contrário, havendo, portanto, exceções, se forem previstas em leis.
+Observação: O  entendimento  desse  assunto  tornar-se-á  mais  compreensível  quando estudarmos a distinção entre Direito Tributário Penal e Direito Penal Tributário.
+Deve   ficar   muito   claro   que   não   estamos   tratando   de   tributo,   mas   de   infrações   e penalidades. Aí vai um exemplo para ficar claro: o cidadão que recolhe imposto de renda durante o ano, em conformidade com a legislação que rege tal imposto, mas que não presta a declaração ao Fisco na data correta, está sujeito à penalidade pela infração à legislação tributária.
+Nunca  é  tarde  para  se  lembrar  de  que a  lei  mais  benéfica  sobre  penalidades  é  aplicada retroativamente, desde que o ato não esteja definitivamente julgado (art. 106, II, do CTN).
+Além  disso,  a  lei  tributária  que  define  infrações  ou  lhe  comina  penalidades  deve  ser interpretada em benefício do infrator (acusado), quando houver dúvida sobre (art. 112, do CTN):
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+38
+100
+
+• a capitulação legal do fato;
+• a  natureza  ou  às  circunstâncias  materiais  do  fato,  ou  à  natureza  ou  extensão  dos  seus efeitos;
+• a autoria, imputabilidade, ou punibilidade;
+• a natureza da penalidade aplicável, ou à sua graduação 
+De qualquer modo, deve sempre ser conferido ao acusado o direito de defesa.
+
+
+4.1 – A RESPONSABILIDADE PESSOAL DO AGENTE Em matéria tributária, a responsabilidade pelas infrações cabe a quem praticou o ato ilícito.
+Logo,  se  foi  a  pessoa  jurídica,  ela  será  responsabilizada,  ainda  que,  na  prática,  seja  uma  pessoa natural  que  atue  em  nome  da  empresa. A  punição  é  aplicada  ao  sujeito  passivo  da  obrigação tributária principal ou acessória, que não foi cumprida. Essa é a regra!
+O  art.  137  do  CTN  traz  justamente  a  exceção  à  referida  regra.  São  situações  em  que a responsabilidade  é  pessoal  do  agente  quanto  à  punição, permanecendo  a  pessoa  jurídica  na condição de sujeito passivo do tributo.
+As três hipóteses de responsabilização pessoal do agente são as seguintes:
+Art. 137. A responsabilidade é pessoal ao agente:
+I - quanto  às  infrações conceituadas  por  lei  como  crimes  ou  contravenções, salvo  quando  praticadas  no exercício  regular  de  administração,  mandato,  função,  cargo  ou  emprego,  ou  no  cumprimento  de  ordem expressa emitida por quem de direito;
+II - quanto às infrações em cuja definição o dolo específico do agente seja elementar;
+III - quanto às infrações que decorram direta e exclusivamente de dolo específico:
+a) das pessoas referidas no artigo 134, contra aquelas por quem respondem;
+b) dos mandatários, prepostos ou empregados, contra seus mandantes, preponentes ou empregadores;
+c) dos diretores, gerentes ou representantes de pessoas jurídicas de direito privado, contra estas.
+A  primeira  se  refere  às  infrações  que  foram  definidas  na  lei  penal  como  crimes  ou contravenções.  As  penas  previstas  para  os  crimes  e  contravenções  penais  aplicam-se  às  pessoas naturais. O  CTN,  seguindo  essa  lógica,  também  estabeleceu  que  a  responsabilidade caberá  ao agente.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+39
+100
+
+Destaque-se que há duas exceções, que acabam por afastar o agente da responsabilidade pelas  infrações  à  legislação  tributária:  se  forem  praticadas  no  exercício  regular  da  administração ou se for por cumprimento de ordem expressa emitida por quem de direito.
+A segunda hipótese se refere à infração em que o agente possui dolo específico, ou seja, age com  uma  finalidade  específica.  O  dolo  específico  é  um  elemento  subjetivo  que,  como  regra,  não está  presente  nas  infrações  à  legislação  tributária,  já  que  estas  têm  natureza  objetiva  (CTN,  art.
+136).
+No entanto, lembre-se de que há possibilidade de as infrações à legislação tributária serem subjetivas  (o  art.  136  prevê  a  exceção).  Portanto,  sempre  quando  o  elemento  subjetivo  (dolo específico) estiver presente na legislação que preveja a infração, dizemos que o dolo específico é elementar, e a responsabilidade será pessoal ao agente.
+Por  último, a  terceira  hipótese  se  faz  presente  quando  a  infração  decorra  de  dolo específico  do  representante  contra  seu  representado.  Portanto,  se  o  tutor  age  com  a  finalidade especial  de  lesar  o  tutelado,  aquele  responde,  ainda  que  este  seja  o  sujeito  passivo  direto  da obrigação.
+Do  mesmo  modo,  se  o  diretor  comete  uma  infração  à  legislação  tributária, com o  fim específico de prejudicar a empresa na qual trabalha, responderá pessoalmente pela infração.
+Observação: As pessoas referidas no art. 137 são as mesmas que foram previstas no art.
+135.
+4.2 – DENÚNCIA ESPONTÂNEA A denúncia espontânea é o instituto criado pelo CTN para que o contribuinte se redima das infrações tributárias, confessando os ilícitos. Como consequência, a responsabilidade pela multa é afastada. Na verdade, conforme entendimento do STJ (REsp 774.058/PR), a denúncia espontânea afasta tanto as multas moratórias como as punitivas.
+
+Denúncia espontânea = afastamento de todas as multas (moratórias e punitivas) 
+
+Há  que  se  ressaltar  que,  para  configurar  a  espontaneidade,  o  sujeito  passivo  deve  se antecipar   ao   fisco,   ou   seja, a   denúncia   espontânea   deve   ser   feita   antes   de   qualquer procedimento fiscalizatório.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+40
+100
+
+Obviamente,  o  infrator  não  é  obrigado  a  “adivinhar”  quando  a  sua  espontaneidade  fica afastada, sendo   necessário   que   a   administração   tributária   comunique   o   sujeito   passivo formalmente.
+Com  o início  da  fiscalização  sobre  certo  contribuinte,  lavra-se  o Termo  de  Início  de Fiscalização (CTN,   art.   196),   com   data   e   hora,   ficando   claro   a   partir   de   que   momento   a espontaneidade fica excluída.
+Observação: A   denúncia   espontânea   deve   ser   feita   antes   do   início   de   qualquer procedimento  fiscalizatório.  Portanto,  é  errado  afirmar  que  basta  que  seja  formulada antes  da  notificação  de  lançamento, tendo  em  vista  que  este  é  o  resultado  final  da fiscalização, e não o seu início.
+Outro  ponto  digno  de  nota  é  que,  com  o  início  do  procedimento  de  fiscalização,  o  sujeito passivo somente  perde  o  direito  à  denúncia  espontânea  em  relação  ao  tributo  objeto  de apuração, bem  como  aos  períodos  aos  quais  se  refere.  Logo,  se  o  objeto  da  fiscalização  é  o  IPI relativo ao ano de 2010, o sujeito passivo pode utilizar da denúncia espontânea em relação ao IPI relativo ao ano de 2011, ou mesmo em relação a outros tributos.
+Destaque-se   que   o   art.   138   assevera   que   a   denúncia   espontânea   deve   ser   feita acompanhada do pagamento do tributo e dos juros de mora. Caso o valor do tributo dependa de apuração, cabe  ao  sujeito  passivo  depositar  o  valor  arbitrado  pela  autoridade  administrativa, como condição de ser beneficiado pela denúncia espontânea.
+Nessa  linha,  o  STJ  (REsp  426.964/SC) já  decidiu  que  o  parcelamento  não  equivale  ao pagamento do tributo, não sendo suficiente para configurar a denúncia espontânea.
+Vamos  nos  atentar,  ainda,  para  o  entendimento  do  STJ,  segundo  o  qual as  disposições  do CTN sobre a denúncia espontânea não se aplicam ao cumprimento das obrigações acessórias. Faz todo  o  sentido,  já  que  se  isso  fosse  permitido,  a  regra  seria  descumprir  o  prazo  de  entrega  de declarações,  por  exemplo,  fazendo  a  denúncia  poucos  dias  depois.  Ou  seja, a  regra  se  tornaria  o descumprimento dos prazos.
+4.2.1 - Aplicabilidade  da  Denúncia  Espontânea  aos  Tributos  Lançados  por  Homologação, por Declaração e de Ofício A    denúncia    espontânea    é    majoritariamente    aplicável    aos    tributos    lançados    por homologação, tendo  em  vista  a  obrigação,  neste  caso,  do  sujeito  passivo  em  declarar  e  pagar  o tributo  antecipadamente, sem  prévio  exame  da  autoridade  administrativa.  Logo,  a  denúncia espontânea  pode  ser  apresentada quando  não  houver previamente  a  declaração  por  parte  do sujeito passivo.
+Por  outro  lado, o  benefício  da  denúncia  espontânea  não  se  aplica  aos  tributos  sujeitos  a lançamento por homologação, quando, embora declarados, sejam pagos a destempo:
+Súmula STJ 360 - O benefício da denúncia espontânea não se aplica aos tributos sujeitos a lançamento por homologação regularmente declarados, mas pagos a destempo.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+41
+100
+
+Ora,  se  fosse  possível  a  denúncia  espontânea  nesses  casos,  o  sujeito  passivo  declararia  o débito  regularmente  (após  a  ocorrência  do  fato  gerador),  sendo  que esta  declaração  por  si  só  já configuraria  espontaneidade. Assim, ele  ficaria  livre  para  recolher o  tributo  algum tempo  depois, sem  arcar  com  a  multa  moratória  (por  atraso  de  pagamento).  Muito  injusto  com  quem  paga tempestivamente seus tributos, não é mesmo?
+Em relação aos tributos sujeitos a lançamento por declaração, vislumbra-se a possibilidade de  utilização  da  denúncia  espontânea  em  duas  situações  distintas: quando  o  fato  gerador  não tenha  sido  declarado pelo  contribuinte ou quando, após  declaração,  o  contribuinte  proceda  à sua  retificação,  antes  da  atuação  do  Fisco.  Neste  último  caso,  percebe-se  que  houve  omissão parcial do montante a pagar.
+Por  último,  deve  ser  demonstrada  a incompatibilidade  da  denúncia  espontânea  com  os tributos  lançados  de  ofício.  Neste  caso,  o  sujeito  passivo  não  participa  do  lançamento  tributário.
+Não  são  necessárias  informações  prestadas  pelo  sujeito  passivo  para  providenciar  a  constituição do  crédito  tributário,  nem  mesmo  a  antecipação  do  pagamento  do  tributo.  Portanto,  qualquer infração relativa a esses tributos (lançados de ofício), sempre ocorrerá após o lançamento.
+4.3 – DIREITO TRIBUTÁRIO PENAL E DIREITO PENAL TRIBUTÁRIO Antes de  finalizarmos  o  estudo  da  responsabilidade  por  infrações,  você,  meu  aluno,  minha aluna, não pode ficar sem saber a distinção entre os conceitos de Direito Tributário Penal e Direito Penal Tributário.
+Primeiramente,  cumpre-nos  salientar  que  o  Direito  Tributário  Penal  está  relacionado  às infrações administrativas, passíveis de punição por penalidades pecuniárias (multas), as quais não deixam de ser obrigações tributárias, conforme preceitua o § 1°, do art. 113, do CTN, cuja redação é a seguinte:
+Art. 113:
+§ 1º A obrigação principal surge com a ocorrência do fato gerador, tem por objeto o pagamento de tributo ou penalidade pecuniária e extingue-se juntamente com o crédito dela decorrente.
+Diferentemente  do  que  foi  acima  exposto,  o  Direito  Penal  Tributário  constitui  instituto  do Direito Penal, disciplinando crimes contra a ordem tributária.
+A  distinção  relevante  entre  o  Direito  Tributário  Penal  e  o  Direito  Penal  Tributário  é  que, como  já  foi  estudado  por  nós, naquele  a  responsabilidade  do  agente  é  objetiva e, neste, subjetiva.
+Explique-se melhor: no  Direito  Tributário,  se  a  infração  foi  cometida,  haverá  a  respectiva responsabilização, independentemente da intenção do agente, conforme prevê o art. 136 do CTN.
+Por  outro  lado,  no  Direito  Penal,  vigora  o  princípio  da  responsabilidade  penal  subjetiva,  tomando relevância  a  intenção  do  agente.  É  por  esse  motivo  que  a  doutrina  incansavelmente  discute  os elementos dolo e culpa, quando da prática de determinado delito.
+
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+42
+100
+
+
+
+Diferentemente do que ocorre no Direito Penal, a responsabilidade pelas infrações à legislação tributária independe do elemento volitivo.
+
+
+
+(FCC/TRF4-Analista  Judiciário/2019) No  capítulo  que  trata  de  responsabilidade  tributária,  o Código Tributário Nacional (CTN) estabelece que (A) a pessoa jurídica de direito privado que resultar de cisão, fusão ou incorporação de outra é  responsável  apenas  pelos  tributos  devidos  após  a  data  do  ato,  sendo  que  os  débitos anteriores ao ato são de responsabilidade integral das pessoas jurídicas cindidas, fundidas ou incorporadas, e seus respectivos sócios, titulares, controladores e gestores.
+(B)  a  responsabilidade  dos  sucessores  ocorre  quando  pessoa  natural  ou  jurídica,  de  direito público  ou  privado,  adquire,  em  leilão  judicial,  fundo  de  comércio  ou  estabelecimento, comercial,  industrial  ou  profissional,  em  processo  de  falência,  e  continua  a  exploração  da respectiva atividade.
+(C)  em  processo  da  falência,  o  produto  da  alienação  judicial  de  empresa,  filial  ou  unidade produtiva  isolada  permanecerá  em  conta  de  depósito  à  disposição  do  juízo  de  falência pelo prazo  de  um  ano,  contado  da  data  de  alienação,  somente  podendo  ser  utilizado  para  o pagamento de créditos extraconcursais ou de créditos que preferem ao tributário.
+(D)  a  responsabilidade  relativa  às  infrações  à  legislação  tributária  é excluída  na  hipótese  de denúncia  espontânea,  desde  que  acompanhada  de  recolhimento,  ou  de  parcelamento,  do valor integral do tributo, acrescido dos juros de mora e multa moratória devidos.
+(E)   em   regra,   o   crédito   tributário   não   pode   ser   exigido   de   terceiro,   que   não   seja   o contribuinte  ou  o  responsável,  mas  admite  tal  cobrança,  com  caráter  solidário  e  sem beneficio de ordem, em relação aos pais e avós pelos tributos devidos por seus filhos e netos menores   e   em   relação   aos   sócios,   pelos   tributos   devidos   pela sociedade   simples   ou empresarial.
+Comentário:
+Alternativa A: O art. 132, do CTN, estabelece que a responsabilidade transferida na sucessão empresarial  abrange  os  tributos  devidos  até  a  data  da  sucessão,  e  não  após  essa  data.
+Alternativa errada.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+43
+100
+
+Alternativa B: Na aquisição em leilão judicial de fundo de comércio ou estabelecimento,  em relação à pessoa jurídica em processo de falência ou em recuperação judicial, como regra não existe responsabilidade do adquirente. Alternativa errada.
+Alternativa  C: Trata-se do  disposto  no  art.  133,  §  3º,  do  CTN:  Em  processo  da  falência,  o produto  da  alienação  judicial  de  empresa,  filial  ou  unidade  produtiva  isolada  permanecerá em conta de depósito à disposição do juízo de falência pelo prazo de 1 ano, contado da data de  alienação,  somente  podendo  ser  utilizado  para  o  pagamento  de  créditos  extraconcursais ou de créditos que preferem ao tributário. Alternativa correta.
+Alternativa D: Para exclusão da responsabilidade por infrações, a denúncia espontânea deve ser  acompanhada  do  pagamento  integral,  não  se  admitindo  o  parcelamento,  acrescido  dos juros de mora apenas. Alternativa errada.
+Alternativa  E: O  que  o  art.  134,  I,  do  CTN,  prevê  é  que,  nos  casos  de  impossibilidade  de exigência    do    cumprimento    da    obrigação    principal    pelo    contribuinte,    respondem solidariamente  com  este  nos  atos  em  que  intervierem  ou  pelas  omissões  de  que  forem responsáveis os pais, pelos tributos devidos por seus filhos menores. Alternativa errada.
+Gabarito: Letra C
+(FCC/SEFAZ-SC-Auditor   Fiscal/2018) Conforme   o   Código   Tributário   Nacional   (CTN),   a responsabilidade por infrações à legislação tributária a) independe da intenção do agente ou do responsável e da efetividade, natureza e extensão dos efeitos do ato, exceto se houver lei em sentido contrário.
+b) e comercial, depende da existência de dolo ou culpa, e do resultado econômico resultante, ainda que a lei ordinária disponha de forma diversa.
+c) e penal depende da intenção do agente e do resultado produzido.
+d)  depende  da  intenção  do  agente  ou  do  responsável  e  da  efetividade,  natureza  e  extensão dos efeitos do ato, ainda que a lei específica disponha de forma diversa.
+e) e civil depende da ocorrência de culpa ou dolo, e do resultado ocorrido, exceto se houver lei em sentido contrário.
+Comentário: A  responsabilidade  por  infrações  à  legislação  tributária independe  da  intenção do agente ou do responsável e da efetividade, natureza e extensão dos efeitos do ato, exceto se houver lei em sentido contrário. É o que estabelece o art. 136, do CTN.
+Gabarito: Letra A
+(FCC/TCM-GO-Auditor  de  Controle  Externo/2015) A  responsabilidade  é  pessoal  ao  agente quanto   às   infrações   em   cuja   definição   o   dolo   genérico   do   agente   seja   elementar (“responsabilidade por sucessão").
+Comentário: O  art.  137,  II,  do  CTN,  estabelece  que  a  responsabilidade  é  pessoal  ao  agente quanto às infrações em cuja definição o dolo específico do agente seja elementar.
+Gabarito: Errada
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+44
+100
+
+(FCC/TRF - 4ª   REGIÃO-Técnico   Judiciário/2014) Sobre   responsabilidade   tributária,   a responsabilidade pelo pagamento do tributo, juros de mora e multa é excluída pela denúncia espontânea da infração.
+Comentário: A  denúncia  espontânea  da  infração  deve  ser  acompanhada  do  pagamento  dos tributos e dos juros de mora, excluindo apenas a responsabilidade pela multa.
+Gabarito: Errada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+45
+100
+
+5 – QUESTÕES COMPLEMENTARES COMENTADAS RESPONSABILIDADE TRIBUTÁRIA 1. FCC/Pref. Caruaru-Procurador/2018 Sobre a responsabilidade tributária, é correto afirmar:
+a)  decorre  de  previsão  legal  ou  de  ato  particular  em  que  terceiro  assuma,  por instrumento público, a condição de contribuinte.
+b) deve ser livremente aferida em cada caso por ato administrativo plenamente vinculado, de cuja motivação constem os elementos de fato que a justifiquem.
+c) decorre de lei que atribua, de modo expresso, a responsabilidade pelo crédito tributário a terceiro, não contribuinte, mas relacionado com a ocorrência do fato gerador.
+d)  decorre  de  lei  ou  contrato  que  impute  a  obrigação  tributária  acessória  a  terceiro  não contribuinte,   mas   a   ele   relacionado   ou   ao fato   gerador,   conforme   reconhecido   pela Administração Tributária.
+e)  só  pode  ser  aferida  em  cada  caso  conforme  previsão  geral  de  lei  complementar,  previsto que   se   expresse   em   ato   administrativo   discricionário,   de   cuja   motivação   conste   a fundamentação jurídica.
+Comentário: De   acordo  com  o   art.  128   do  CTN, a   lei pode  atribuir   de  modo   expresso  a responsabilidade pelo crédito tributário a terceira pessoa, vinculada ao fato gerador da respectiva obrigação,  excluindo   a  responsabilidade  do  contribuinte  ou  atribuindo-a  a  este  em  caráter supletivo do cumprimento total ou parcial da referida obrigação.
+Alternativa  A: Não  há  responsabilidade  tributária  prevista  em  ato  particular,  somente  por  lei.
+Alternativa errada.
+Alternativa  B: Não  há  responsabilidade  tributária aferida  em  cada  caso  por  ato  administrativo, somente por lei. Alternativa errada.
+Alternativa C: Em conformidade com o artigo citado. Alternativa correta.
+Alternativa D: Não   há   responsabilidade   tributária   prevista   em   contrato,   somente   por   lei.
+Alternativa errada.
+Alternativa E: Não é caso de previsão geral em lei complementar. Alternativa errada.
+Gabarito: Letra C
+2. FCC/TJ-GO-Juiz Substituto/2015 A responsabilidade tributária a) é atribuída expressamente por lei à terceira pessoa, que não praticou o fato gerador, mas que está a ele vinculado, podendo ser exclusiva ou supletiva à obrigação do contribuinte.
+b) é atribuída ao sujeito passivo da obrigação tributária que pratica o fato gerador.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+46
+100
+
+c)  é  do  contribuinte  quando  a  lei  lhe  impõe  esta  obrigação,  mesmo  que  não pratique  o  fato gerador.
+d)  pode  ser  atribuída  a  terceiro  estranho  ao  fato  gerador  através  de  contrato  particular firmado entre o contribuinte e terceiro.
+e)  independe  de  qualquer  vínculo  jurídico  entre  o  terceiro  e  o  contribuinte,  bastando  que haja expressa disposição legal ou convenção entre as partes.
+Comentário:
+Alternativa  A: A  responsabilidade  é  realmente  atribuída  expressamente  por  lei  à  terceira  pessoa, que não praticou o fato gerador, mas que está a ele vinculado, podendo ser exclusiva ou supletiva à  obrigação  do  contribuinte,  conforme  se  observa  na  redação  do  art.  128,  do  CTN.  Alternativa correta.
+Alternativa  B: Na  verdade,  aquele  que  pratica  o  fato  gerador  é  contribuinte,  e  não  responsável.
+Alternativa errada.
+Alternativa  C: Contribuinte  é  o  sujeito  passivo  que  possui  relação  pessoal  e  direta  com  o  fato gerador da obrigação tributária. Alternativa errada.
+Alternativa D: A terceira pessoal responsável por expressa disposição legal deve estar vinculada ao fato gerador. Alternativa errada.
+Alternativa E: A terceira pessoal responsável por expressa disposição legal deve estar vinculada ao fato gerador. Alternativa errada.
+Gabarito: Letra A
+RESPONSABILIDADE POR SUBSTITUIÇÃO 3. FCC/TJ-GO-Juiz/2015 A  atribuição  ao  sujeito  passivo  de  obrigação  tributária  da  condição  de  responsável  pelo pagamento de imposto cujo fato gerador deva ocorrer posteriormente a) é inadmissível, uma vez que a obrigação tributária surge apenas após a ocorrência do fato gerador.
+b) pode acontecer, nos termos da lei, na hipótese de recolhimento antecipado de ICMS pelo fabricante  de  veículos  automotores  relativamente  à  futura  revenda  dos  mesmos  pelas concessionárias.
+c) trata-se da substituição tributária para trás, cujo fundamento é previsto expressamente na Constituição da República.
+d)  pode  acontecer,  nos termos  da  lei,  quando  o  tomador  do  serviço  faz  a  retenção  na  fonte do ISSQN devido pelo prestador do serviço por ocasião do pagamento pelo serviço prestado.
+e)  pode  acontecer,  nos  termos  da  lei,  na  hipótese  em  que  o  empregador  faz a  retenção  na fonte do IRPF de seu empregado.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+47
+100
+
+Comentário:
+Alternativa A: Conforme preceitua art. 150, §7º da CF/88, a lei poderá atribuir a sujeito passivo de obrigação  tributária  a  condição  de  responsável  pelo  pagamento  de  imposto  ou contribuição,  cujo fato gerador deva ocorrer posteriormente. Alternativa errada.
+Alternativa  B: Em  conformidade  com  o  art.  150,  §7º.  Trata-se  da  substituição  tributária  para frente. Alternativa correta.
+Alternativa C: O enunciado da questão trata da substituição tributária para frente, prevista no art.
+150, §7º da CF/88 . Alternativa errada.
+Alternativa D: Na situação narrada, o fato gerador ocorre no momento da retenção, portanto, não é substituição tributária para frente. Alternativa errada.
+Alternativa E: Errado conforme comentário da alternativa D. Alternativa errada.
+Gabarito: Letra B
+4. FCC/PGE-RN-Procurador/2014 A antecipação dos efeitos do fato gerador a) está expressamente autorizada na Constituição Federal.
+b) trata-se de substituição tributária para trás.
+c)   acontece   nos   tributos   sujeitos   a   lançamento   por   homologação,   quando   ocorre   o pagamento antecipado.
+d)  não  é  reconhecida  pelo  direito  pátrio,  pois  só  existirá  crédito  tributário  a  partir  do momento em que ocorrer o fato gerador.
+e) tem cabimento nas hipóteses de fato gerador pretérito.
+Comentário:
+Alternativa  A: O  art.  150,  §7º  da  CF/88  dispõe  que a  lei  poderá  atribuir  a  sujeito  passivo  de obrigação  tributária  a  condição  de  responsável  pelo  pagamento  de  imposto  ou  contribuição,  cujo fato gerador deva ocorrer posteriormente. Alternativa correta.
+Alternativa B: Trata-se da substituição tributária para frente. Alternativa errada.
+Alternativa C: Não há fato gerador antecipado neste caso. Alternativa errada.
+Alternativa D: É reconhecida pela própria CF/88. Alternativa errada.
+Alternativa E: Se refere a fato gerador futuro. Alternativa errada.
+Gabarito: Letra A
+
+
+
+5. FCC/PGE-SP-Procurador do Estado/2012 Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+48
+100
+
+Em se tratando de responsabilidade tributária, na substituição tributária para frente, há uma postergação  do  pagamento  do  tributo,  transferindo-se  a  obrigação  de  reter  e  recolher  o montante devido, que seria do vendedor, ao adquirente dos produtos e serviços.
+Comentário: Na substituição tributária progressiva, ou para frente, ocorre exatamente o contrário, ou seja, há a antecipação do pagamento do tributo. Assim sendo, as pessoas que estão nas etapas posteriores são substituídas pelas ocupam posição anterior na cadeia de produção e circulação de mercadorias.
+Gabarito: Errada
+6. FCC/PGE-SP-Procurador do Estado/2012 Em se tratando de responsabilidade tributária, na substituição tributária para frente, há uma postergação  do  pagamento  do  tributo,  transferindo-se  a  obrigação  de  reter  e  recolher  o montante devido, que seria do vendedor, ao adquirente dos produtos e serviços.
+Comentário: Na substituição tributária progressiva, ou para frente, ocorre exatamente o contrário, ou seja, há a antecipação do pagamento do tributo. Assim sendo, as pessoas que estão nas etapas posteriores são substituídas pelas ocupam posição anterior na cadeia de produção e circulação de mercadorias
+Gabarito: Errada
+RESPONSABILIDADE POR TRANSFERÊNCIA 7. FCC/PGE-AM-Procurador/2018 A   “Indústria   de   Balanças   Peso   Pesado”,   cujos   sócios   são   Carlos   e   Danilo,   tem   5 estabelecimentos no Estado, sendo uma matriz e quatro filiais. A empresa está em processo de recuperação judicial há três meses. Quando foi divulgada a notícia de que será promovida a  alienação  judicial  de  um  de  seus  estabelecimentos,  várias  pessoas,  naturais  e  jurídicas,  se interessaram por adquiri-lo:
+1. Marcos, marido da prima de Carlos;
+2. a “Fábrica de Balanças Equilíbrio”, sociedade empresarial concorrente;
+3. “Empresa de Ferragens Brasil”, que é controlada pela “Indústria de Balanças Peso Pesado”;
+4. Sebastião, rico empresário e marido da tia de Carlos.
+Considerando  que  a  “Indústria  de  Balanças  Peso  Pesado”  vai  continuar  explorando  sua atividade   industrial   por   tempo   indeterminado,   mesmo   depois   da   venda   do   referido estabelecimento,  de  acordo  com  o  Código  Tributário  Nacional,  caso a  referida  filial  venha  a ser adquirida
+a)  por  Marcos,  ele  responderá  integralmente  pelos  tributos  relativos  ao  estabelecimento adquirido, devidos até a data do ato de aquisição.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+49
+100
+
+b)   pela   “Fábrica   de   Balanças   Equilíbrio”,   esta   não   responderá,   nem   integral, nem subsidiariamente,  pelos  tributos,  relativos  ao  estabelecimento  adquirido,  devidos  até  a  data do ato de aquisição.
+c) pela “Empresa de Ferragens Brasil”, esta responderá integralmente pelos tributos relativos ao estabelecimento adquirido, devidos até a data do ato de aquisição.
+d)  por  Sebastião,  ele  não  responderá,  nem  integral,  nem  subsidiariamente,  pelos  tributos relativos ao estabelecimento adquirido, devidos até a data do ato de aquisição.
+e)   pela   “Empresa   de   Ferragens   Brasil”,   esta   não   responderá, nem   integral,   nem subsidiariamente,  pelos  tributos  relativos  ao  estabelecimento  adquirido,  devidos  até  a  data do ato de aquisição.
+Comentário:  O  art.  133  do  CTN  estabelece  a  responsabilidade  por  sucessão  de  estabelecimento comercial ou integral a depender da continuidade de exploração da atividade pelo alienante. O §1º excepciona    a  responsabilidade  nos  casos  de  a  alienação  judicial  em  falência  ou  recuperação judicial.  Já  o  §2º,  com  vistas  a  evitar  fraudes  dos  alienantes,  exclui  a  aplicação  do  §1º  quando  o adquirente for sócio da sociedade falida ou em recuperação judicial, ou sociedade controlada pelo devedor  falido  ou  em  recuperação  judicial;  parente,  em  linha  reta  ou  colateral  até  o  4o  (quarto) grau, consanguíneo ou afim, do devedor falido ou em recuperação judicial ou de qualquer de seus sócios;  ou    identificado  como  agente  do  falido  ou  do  devedor  em  recuperação  judicial  com  o objetivo de fraudar a sucessão tributária. À luz deste artigo, veja as alternativas:
+Alternativa A: Marcos, por afinidade, tem parentesco de 4º grau com um dos sócios. Dessa forma, ele se enquadra na situação do art. 133, §2º, II, de forma que a alienação judicial em recuperação judicial  não  exclui  a  responsabilidade  por  sucessão.  Tendo  em  vista  que  a  empresa “Indústria  de Balanças   Peso   Pesado”   vai   continuar   explorando   sua   atividade   industrial,   a   compra   do estabelecimento por Marcos enseja responsabilidade subsidiária (art. 133, II). Alternativa errada.
+Alternativa   B: A “Fábrica   de   Balanças   Equilíbrio”   não   responderá,   nem   integral,   nem subsidiariamente,  pelos  tributos,  relativos  ao  estabelecimento  adquirido.  A  fábrica  não  tem nenhuma  relação  com  a  alienante  e  seus  sócios,  portanto,  a  ela  se  aplica  o  art.  133,  §1º.
+Alternativa correta.
+Alternativa C: A   “Empresa   de   Ferragens   Brasil” é   controlada   pela indústria   alienante,   se enquadrando na  situação  do  art.  133,  §2º,  I.  Sendo  assim,  a  alienação  judicial  em  recuperação judicial  não  exclui  a  responsabilidade  por  sucessão.  Tendo  em  vista  que  a  empresa “Indústria  de Balanças   Peso   Pesado”   vai   continuar   explorando   sua   atividade   industrial,   a   compra   do estabelecimento pela “Empresa de Ferragens Brasil” enseja responsabilidade subsidiária (art. 133, II). Alternativa errada.
+Alternativa D: Sebastião,  por  afinidade,  tem  parentesco  de  3º  grau  com  um  dos  sócios.  Dessa forma,  ele  se  enquadra  na  situação  do  art.  133,  §2º,  II,  de  forma  que  a  alienação  judicial  em recuperação  judicial  não  exclui  a  responsabilidade  por  sucessão.  Tendo  em  vista  que  a empresa “Indústria  de  Balanças  Peso  Pesado”  vai  continuar  explorando  sua  atividade  industrial,  a  compra do  estabelecimento  por  Sebastião  enseja  responsabilidade  subsidiária  (art.  133,  II). Alternativa errada.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+50
+100
+
+Alternativa E: Errado conforme comentário da alternativa C. Alternativa errada.
+Gabarito: Letra B
+8. FCC/SEF-SC-Auditor Fiscal da Receita Estadual/2018 Conforme  o  Código  Tributário  Nacional  (CTN),  no  que  tange  à  responsabilidade  tributária,  a pessoa  de  direito  privado  que  adquirir  de  outra,  por  qualquer título,  estabelecimento comercial, industrial ou profissional, e continuar a respectiva exploração a) não responde pelos tributos devidos após a compra do estabelecimento adquirido, por até 3 anos, se o alienante estava falido ou em recuperação judicial.
+b)  responde  integralmente  pelos  tributos  devidos  até  12  meses  da  data  da  aquisição,  se  o alienante,  por  qualquer  motivo,  cessar  a  atividade  econômica  ou,  estando  em  recuperação judicial, falir.
+c) responde subsidiariamente pelos tributos devidos até a data da compra, se o alienante, por qualquer motivo, cessar a exploração do comércio, indústria ou atividade.
+d) não responde pelos tributos devidos pelo alienante ou pelo estabelecimento alienado até a data da compra, se o alienante continuar exercendo a atividade econômica no mesmo ramo ou for declarado falido.
+e)  não  responde  pelos  tributos  devidos  até  a  data  da  compra,  se  a  alienação  for  judicial,  no âmbito de processo de falência, exceto se for sócio da sociedade falida, sociedade controlada pelo devedor falido, parente em linha reta ou colateral até o 4º grau do devedor falido ou de seus sócios, ou agente do falido.
+Comentário: Esta questão cobra o conhecimento do art. 133, do CTN. Vamos lá!
+Alternativa A: De acordo com o art. 133, §1º, não existe o prazo de 3 anos trazido pela assertiva.
+Alternativa errada.
+Alternativa B: De acordo com o art. 133,  I, não existe o prazo de 12 meses trazido pela assertiva.
+Alternativa errada.
+Alternativa C: De acordo com o art. 133, I, a responsabilidade será integral se o alienante cessar a exploração. Alternativa errada.
+Alternativa D: De acordo com o art. 133, II e §1º, a responsabilidade será subsidiária se o alienante continuar a exploração ou for falido. Alternativa errada.
+Alternativa E: Em conformidade com o art. 133, §§1º e 2º. Alternativa correta.
+Gabarito: Letra E
+9. FCC/Pref. Campinas-SP-Procurador/2016 Dispõe  o  Código  Tributário  Nacional  que  a  pessoa  natural  ou  jurídica  de  direito  privado  que adquirir  de  outra,  por  qualquer  título,  fundo  de  comércio  ou  estabelecimento comercial, industrial  ou  profissional,  e  continuar  a  respectiva  exploração,  sob  a  mesma  ou  outra  razão social  ou  sob  firma  ou  nome  individual,  responde  pelos  tributos,  relativos  ao  fundo  ou Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+51
+100
+
+estabelecimento  adquirido.  Dispõe  o  referido  CTN  que  a  responsabilidade  do  sucessor adquirente será
+a)  integral  para  o  adquirente  parente,  em  linha  reta  ou  colateral  até  o  quarto  grau, consanguíneo ou afim, do devedor falido ou em recuperação judicial ou de qualquer de seus sócios, desde que o alienante cesse a exploração do comércio, indústria ou atividade.
+b)  integral  e  abrangerá  os  débitos  até  a  data  do  ato,  se  este  prosseguir  na  exploração  ou iniciar dentro de seis meses, a contar da data da alienação, nova atividade no mesmo ou em outro ramo de comércio, indústria ou profissão.
+c) subsidiária e abrangerá os débitos até a data do ato se o alienante cessar a exploração do comércio, indústria ou atividade.
+d)  integral  pelos  tributos  devidos  pela  pessoa  jurídica  de  direito  privado  que  adquirir estabelecimento comercial, no caso de alienação judicial em processo de falência.
+e)  relativa  se  o  adquirente  for  sócio  de  sociedade  falida  ou  em recuperação  judicial,  porque inexistem  regras  sobre  a  responsabilidade  por  sucessão  para  o  sócio  adquirente  no  Código Tributário Nacional.
+Comentário: Trata-se  do  art.  133,  do  CTN,  que  dispõe  sobre  a  responsabilidade  do  sucessor,  em caso de aquisição de fundo de comércio ou estabelecimento comercial, industrial ou profissional.
+Neste  caso,  além  das  regras  específicas  previstas  nos  parágrafos  do  art.  133,  para  dizer  se  a responsabilidade  do  adquirente  será  integral  ou  subsidiária,  é  necessário  analisar  o  que  ocorrerá com o alienante. Assim, temos o seguinte:
+I – O  adquirente  responderá  integralmente,  se  o  alienante  cessar  a  exploração  do  comércio, indústria ou atividade;
+II – O  adquirente  responderá  subsidiariamente  com o  alienante,  se  este  prosseguir  na  exploração ou  iniciar  dentro  de  seis  meses  a  contar  da  data  da  alienação,  nova  atividade  no  mesmo  ou  em outro ramo de comércio, indústria ou profissão.
+Analisemos, pois, cada uma das alternativas:
+Alternativa A: Embora haja inaplicabilidade da regra de responsabilidade prevista no caput do art.
+133,  do  CTN  para  os  casos  de  alienação  judicial  em  processo  de  falência  ou  alienação  de  filial  ou unidade  produtiva  isolada,  em  processo  de  recuperação  judicial,  se  o  adquirente  for  parente,  em linha  reta  ou  colateral  até  o  quarto  grau,  consanguíneo  ou  afim,  do  devedor  falido  ou  em recuperação   judicial   ou   de   qualquer   de   seus   sócios,   responderá   pelo   crédito   tributário integralmente, se o alienante cessar a exploração do comércio, indústria ou atividade. Alternativa correta.
+Alternativa  B: A  alternativa  condiciona  a  responsabilidade  ao  fato  de  o  adquirente  (“este”  se refere ao adquirente) prosseguir na exploração ou iniciar dentro de seis meses, a contar da data da alienação,  nova  atividade  no  mesmo  ou  em  outro  ramo  de  comércio,  indústria  ou  profissão.  Na realidade, tais condições se aplicam ao alienante, e não ao adquirente. Alternativa errada.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+52
+100
+
+Alternativa   C: Se   o   alienante   cessar   a   exploração   do   comércio,   indústria   ou   atividade,   a responsabilidade do adquirente será integral, e não subsidiária, tornando a assertiva incorreta. No que se refere aos débitos abrangidos (até a data do ato), não há erro. Alternativa errada.
+Alternativa  D: No  caso  de  alienação  judicial  em  processo  de  falência,  não  há  que  se  falar  em responsabilidade  do  adquirente, conforme  estabelece  o  art.  133,  §  1º,  I,  do  CTN.  Alternativa errada.
+Alternativa  E: O  CTN  dispôs  claramente  as  regras  sobre  a  responsabilidade  por  sucessão  para  o sócio adquirente no Código Tributário Nacional. Alternativa errada.
+Gabarito: Letra A
+10. FCC/TCM-GO-Auditor de Controle Externo/2015 A pessoa jurídica de direito privado que resultar de fusão, transformação ou incorporação de outra ou em outra é responsável pelos impostos devidos a partir da data do ato pelas pessoas jurídicas  de  direito  privado  fusionadas,  transformadas  ou  incorporadas  (“responsabilidade  a posteriori").
+Comentário: Na  realidade,  a  responsabilidade  da  pessoa  jurídica  sucessora  alcança  os  tributos  (e não apenas os impostos) devidos até a data do ato, e não a partir deste momento.
+Gabarito: Errada
+11. FCC/TCM-GO-Auditor de Controle Externo/2015 O  adquirente  ou  remitente  é  pessoalmente  responsável  pelos  tributos  relativos  aos  bens adquiridos ou remidos (“responsabilidade por sucessão").
+Comentário: É o que define o art. 131, I, do CTN: são pessoalmente responsáveis o adquirente ou remitente, pelos tributos relativos aos bens adquiridos ou remidos.
+Gabarito: Correta
+12. FCC/TCE-AM-Auditor/2015 Orlando  adquiriu  dois  imóveis,  ambos  com  débito  de  IPTU  referentes  a  vários  exercícios.  O primeiro  deles,  uma  casa  no  centro  da  cidade,  foi  adquirido  diretamente  do  vendedor,  por meio de escritura pública, enquanto que o segundo, um terreno em local afastado do centro da  cidade,  foi  adquirido  em hasta  pública.  Não  constaram  dos  respectivos  títulos  aquisitivos quaisquer  provas  de  quitação  do  IPTU  até  então  devido.  De  acordo  com  a  disciplina  do Código Tributário Nacional acerca da responsabilidade dos sucessores, Orlando a)  será  responsável  total  e  ilimitadamente  pelo  crédito  tributário  existente  até  a  data  de aquisição da casa.
+b)  será  responsável  total  e  ilimitadamente  apenas  pelo  débito  de  imposto  existente  até  a data de ambas as aquisições.
+c)  será  responsável  total  e  ilimitadamente  pelo  crédito  tributário  existente  até  a  data  de aquisição do terreno.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+53
+100
+
+d) não será responsável pelos créditos tributários existentes até a data da aquisição.
+e)  será  responsável  apenas  pelo  débito  de  imposto  existente  até  a  data  de  ambas  as aquisições,  sendo  que,  no  caso  do  terreno,  essa  responsabilidade  se  limita  ao  preço  de aquisição.
+Comentário: Nesta  questão,  precisamos  ficar  atentos  ao  fato  de  que,  na  aquisição  do  primeiro imóvel,  isto  é  ,da  casa,  não  há  qualquer  ressalva  no  sentido  de  constar  a  prova  da  quitação  dos tributos.  Por  conseguinte,  o  adquirente  torna-se  responsável pelos  tributos  incidentes  sobre  o imóvel.
+Por outro lado, na aquisição do terreno, em hasta pública, não há que se falar na responsabilidade do adquirente, pois neste caso  a sub-rogação ocorre sobre o respectivo preço.
+Gabarito: Letra A
+13. FCC/TJ-SC-Juiz Substituto/2015 Lukas,  domiciliado  em  cidade do  interior  catarinense,  é  proprietário  de  imóvel  residencial, que valia, em 2012, R$ 200.000,00.
+Em 2013, esse imóvel passou a valer R$ 240.000,00, em razão da obra pública realizada pela Prefeitura Municipal, e que resultou na referida valorização. A Prefeitura Municipal instituiu, lançou  e  cobrou  contribuição  de  melhoria  dos  contribuintes  que,  como  Lukas,  tiveram  suas propriedades  valorizadas.  O  mesmo  Município  catarinense,  a  seu  turno,  com  base  em  lei municipal,  lançou  e  cobrou,  em  2013,  a  taxa  decorrente  da  prestação  de  serviço  público  de recolhimento  de  lixo  domiciliar,  tendo  como  fato  gerador  o  recolhimento  do  lixo  produzido individualmente,   nos   imóveis   residenciais   localizados   naquele   Município.   O   Município catarinense lançou e cobrou essa taxa de Lukas, em relação ao mesmo imóvel acima referido.
+Neste ano de 2015, Lukas recebeu uma excelente oferta pelo seu imóvel e está pensando em vendê-lo.   Ocorre,   porém,   que   não   pagou   a   contribuição   de   melhoria   lançada   pela municipalidade, nem a taxa lançada pelo Município. Em razão disso, com base nas regras de responsabilidade por sucessão estabelecidas no CTN, a)  tanto  o  crédito  tributário  relativo  à  contribuição  de  melhoria,  como  o  relativo  à  taxa,  se sub-rogarão na pessoa do adquirente, na proporção de 50% do valor lançado.
+b)  o  crédito  tributário  relativo  à  contribuição  de  melhoria  não  se  sub-rogará  na  pessoa  do adquirente, mas o relativo à taxa sim, salvo se constar do título aquisitivo a sua quitação.
+c)  tanto  o  crédito  tributário  relativo  à  contribuição  de melhoria,  como  o  relativo  à  taxa,  se sub-rogarão na pessoa do adquirente, salvo se constar do título aquisitivo a sua quitação.
+d) nem o crédito tributário relativo à contribuição de melhoria, nem o relativo à taxa, se sub- rogará na pessoa do adquirente.
+e)  o  crédito  tributário  relativo  à  contribuição  de  melhoria  se  sub-rogará  na  pessoa  do adquirente, salvo se constar do título aquisitivo a sua quitação, mas o relativo à taxa não.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+54
+100
+
+Comentário: Nesta questão, precisamos saber que a taxa se refere à prestação de serviço público (coleta  de  lixo)  referente  ao  bem  imóvel,  e  que  a  contribuição  de  melhoria  também  está relacionada ao bem imóvel (sua valorização após a realização da obra pública).
+Assim  sendo,  aplica-se  o  art.  130,  do  CTN,  que  prevê  que  os  créditos tributários  relativos  a impostos cujo fato gerador seja a propriedade, o domínio útil ou a  posse de bens imóveis, e bem assim os relativos a taxas pela prestação de  serviços referentes a tais bens, ou a contribuições de melhoria,  sub-rogam-se  na  pessoa  dos respectivos  adquirentes,  salvo  quando  conste  do  título  a prova de sua quitação.
+Por   esse   motivo,   caso   Lukas   venda   seu   bem   imóvel,   tanto   o   crédito   tributário   relativo   à contribuição de melhoria, como o relativo à taxa, se sub-rogarão na pessoa do adquirente, salvo se constar do título aquisitivo a sua quitação.
+Gabarito: Letra C
+14. FCC/Pref. Recife-Procurador/2014 Manoel Finório, falecido aos 80 anos por causas ainda desconhecidas, deixa para Ana Faceira, jovem viúva de 21 anos, e para seus 11 filhos considerável soma em dinheiro e vários imóveis residenciais e comerciais na cidade do Recife. Ocorre que na data da partilha, verificou-se que o  Sr.  Manoel  era  devedor  de  ISSQN  perante  o  Fisco  recifense  devidamente  constituído  e inscrito em dívida ativa. Evidente discussão ocorreu entre a viúva e os herdeiros e entre estes para saber quem deveria saldar o débito tributário municipal em haver e quanto seria a parte de cada um. Consultado a respeito, o Procurador Judicial orientou que a a) responsabilidade pessoal deve ser atribuída somente aos 11 filhos herdeiros, de forma que o débito tributário a ser resolvido seja limitado ao montante recebido por cada um deles.
+b)  responsabilidade  deve  ser  pessoalmente  aplicada  tanto  ao  cônjuge  meeiro,  como  aos sucessores herdeiros de Manoel Finório, de forma que o débito tributário a ser resolvido seja limitado ao montante recebido por cada um deles.
+c)  responsabilidade  deve  ser  solidariamente  aplicada  tanto  ao  cônjuge  meeiro,  como  aos sucessores herdeiros de Manoel Finório, de forma que todo o débito tributário seja resolvido, independentemente do montante recebido por cada um deles.
+d)  discussão  fora  inócua  entre  os  envolvidos  pois,  pela  lei,  o  espólio  deve  ser  responsável pelos tributos devidos pelo de cujus até a data da partilha.
+e)  responsabilidade  deve  ser  pessoalmente  aplicada  tanto  ao  cônjuge  meeiro,  como  aos sucessores herdeiros de Manoel Finório, de forma que todo o débito tributário seja resolvido, independentemente do montante recebido por cada um deles.
+Comentário: De acordo  com  o  art.  131  do  CTN,  são  pessoalmente  responsáveis  o  sucessor  a qualquer título e o cônjuge meeiro, pelos  tributos devidos pelo de  cujus até a data da partilha ou adjudicação,  limitada  esta  responsabilidade  ao  montante  do  quinhão  do  legado  ou  da  meação;  o espólio, pelos tributos devidos pelo de cujus até a data da abertura da sucessão . À luz deste artigo, veja as alternativas:
+Alternativa A: A responsabilidade também é atribuída ao cônjuge meeiro. Alternativa errada.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+55
+100
+
+Alternativa B: Em conformidade com o art. 131, II. Alternativa correta.
+Alternativa C: Não há solidariedade neste caso. Alternativa errada.
+Alternativa D: O espólio é responsável até a data da sucessão. Alternativa errada.
+Alternativa E: A responsabilidade fica limitada ao montante recebido. Alternativa errada.
+Gabarito: Letra B
+15. FCC/TCE-GO-Analista de Controle Externo/2014 Na responsabilidade por sucessão, é correto afirmar que:
+a)  a  incorporação  de  uma  empresa  por  outra  implica  em  responsabilidade  tributária  para  a empresa incorporadora,  relativamente  aos  débitos  tributários  da  empresa  incorporada,  por fatos geradores anteriores à incorporação.
+b)  se  na  arrematação  de  bem  imóvel  em  hasta  pública  o  respectivo  preço  pago  não  for utilizado  para  quitar  os  tributos  devidos,  incidentes  sobre  o  imóvel,  o  arrematante  é considerado responsável tributário.
+c)  em  processo  de  falência,  o  adquirente  de  estabelecimento  comercial  será  responsável tributário  pelos  tributos  devidos  pela  empresa  falida,  abatendo-se  do  preço  da  aquisição  o valor dos débitos tributários.
+d)  o  espólio  nunca  é  sucessor  tributário,  mas  sim  os  herdeiros  a  qualquer  título  são  quem respondem pelos tributos devidos pelo de cujus até a abertura da sucessão.
+e)  os  pais,  tutores  e  curadores  são  responsáveis  por  sucessão,  pelos  tributos  devidos  pelos filhos, tutelados e curatelados, respectivamente Comentário:
+Alternativa  A: De  acordo  com  o  art.  132,  do  CTN,  a  incorporação  de  uma  empresa  por  outra implica   em   responsabilidade   tributária   para   a   empresa   incorporadora.   Tal   responsabilidade abrange   os   débitos   tributários   da   empresa   incorporada,   por   fatos   geradores   anteriores   à incorporação. Alternativa correta.
+Alternativa B: No caso de arrematação de bem imóvel em hasta pública, o art. 130, par. único, do CTN,  estabelece  que  a  sub-rogação  ocorre  sobre  o  respectivo  preço,  de  forma  que  o  adquirente recebe o imóvel livre das obrigações tributárias anteriores à aquisição. Alternativa errada.
+Alternativa  C: Em  regra,  em  se  tratando  de  aquisição  de  estabelecimento  comercial  em  processo de  falência,  o  adquirente  não  responde  pelos  tributos  devidos  pela  empresa  falida,  conforme estabelece o art. 133, § 1º, I, do CTN. Alternativa errada.
+Alternativa  D: De  acordo  com o  art.  131,  III,  do  CTN,  o  espólio  é  pessoalmente  responsável  pelos tributos devidos pelo de cujus até a data da abertura da sucessão. Alternativa errada.
+Alternativa  E: Neste  caso,  não  há  que  se  falar  em  responsabilidade  por  sucessão,  mas  sim  em responsabilidade  de  terceiros  (pais,  tutores  e  curadores),  que  pode  ocorrer  em  decorrência  de atuação regular ou irregular. Alternativa errada.
+Gabarito: Letra A
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+56
+100
+
+16. FCC/SEFAZ-PE-Auditor Fiscal do Tesouro Estadual/2014 De acordo com o CTN, a responsabilidade tributária do sucessor abrange os tributos devidos pelo  sucedido  cujos  fatos  geradores  tenham  ocorrido  até  o  dia  da  sucessão,  mas  não  as multas moratórias ou punitivas.
+Comentário: Embora a questão se refira ao CTN, deseja-se, na verdade, que o candidato conheça a jurisprudência  do  STJ,  que  entende  que  a  responsabilidade  tributária  do  sucessor  abrange,  além dos  tributos  devidos  pelo  sucedido,  as  multas  moratórias  ou  punitivas,  que,  por  representarem dívida de valor, acompanham o passivo do patrimônio adquirido pelo sucessor, desde que seu fato gerador tenha ocorrido até a data da sucessão.
+Gabarito: Errada
+17. FCC/TRF - 4ª REGIÃO-Técnico Judiciário/2014 Sobre  responsabilidade  tributária,  o  arrematante  é  responsável  pelos  tributos  cujos  fatos geradores sejam anteriores à arrematação, do mesmo modo que o adquirente de bem móvel.
+Comentário: O  arrematante  de  bem  imóvel  em  hasta  pública  não  se  torna  responsável  pelos tributos cujos fatos geradores sejam anteriores à arrematação, o que não ocorre com o adquirente de bem móvel.
+Gabarito: Errada
+18. FCC/TRF - 4ª REGIÃO-Técnico Judiciário/2014 Sobre responsabilidade tributária, o adquirente de estabelecimento comercial é responsável pelos  tributos  cujos  fatos  geradores  sejam  anteriores  à  aquisição  quando  a  aquisição  se  dá em  processo  de  falência,  já  que  os  créditos  tributários  têm  preferência  sobre  créditos extra concursais.
+Comentário: Em regra, vimos que o adquirente de estabelecimento comercial é responsável pelos tributos  cujos fatos  geradores sejam  anteriores  à  aquisição.  Contudo,  tal  responsabilidade  não  se aplica aos casos de aquisição em processo de falência.
+Gabarito: Errada
+19. FCC/TRF - 4ª REGIÃO-Técnico Judiciário/2014 Sobre  responsabilidade  tributária,  a  pessoa  jurídica  de  direito  privado  que  resultar  da incorporação,  fusão   ou  transformação  é  responsável  pelos  tributos  relativos  aos  fatos geradores  anteriores  à  incorporação,  fusão  ou  transformação  de  forma  subsidiária,  caso  o patrimônio da incorporada, fundida ou transformada seja insuficiente para quitar os créditos tributários devidos.
+Comentário: Não  há  que  se  falar  em  responsabilidade  subsidiária  da  pessoa  jurídica  de  direito privado que resultar da incorporação, fusão ou transformação. Esta será responsável pelos tributos relativos aos fatos geradores anteriores à incorporação, fusão ou transformação.
+Gabarito: Errada
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+57
+100
+
+20. FCC/SEFAZ-SP-Agente Fiscal de Rendas/2013 Com fundamento nas previsões do CTN, considere:
+I.  Supondo  que  Aglaope  é   terceira  pessoa  vinculada  ao  fato  gerador  de  determinada obrigação  tributária  e  Leucosia  é  o  contribuinte  desta  obrigação  tributária,  a  atribuição  de responsabilidade  pelo  crédito  tributário  a  Aglaope  deve  ser  expressamente  estipulada  por meio  de  lei,  excluindo  a  responsabilidade  de  Leucosia  ou  atribuindo-a  a  esta  em  caráter supletivo do cumprimento total ou parcial da referida obrigação.
+II.  Perséfone  é  proprietária  de  bem  imóvel  e  deseja  vendê-lo.  Logo,  a  responsabilidade  pelo pagamento  do  crédito  tributário  relativo  a  imposto  cujo  fato  gerador  seja  a  propriedade imobiliária sub-roga-se na pessoa dos eventuais adquirentes do imóvel de Perséfone, mesmo quando conste do título a prova de sua quitação.
+III.  Sabázio  morre,  e  deixa  como  herança  três  imóveis.  Selene  e  Sarpédon  são  os  únicos herdeiros,  em  igualdade  de  condições.  Após  ser  realizada  a  partilha  dos  bens  de  Sabázio, ficam  Selene  e  Sarpédon  pessoalmente  responsáveis,  limitado  ao  montante  do  respectivo quinhão, pelos tributos devidos até este momento.
+IV.  A  empresa  Jardim  das  Hespérides  S.A.  adquire  da  empresa  Hamadríade  Industrial  Ltda.
+uma  fábrica  instalada  no  Estado  de  São  Paulo.  Aproveitando  todo  o  maquinário  existente,  a adquirente continua a exploração da mesma atividade. Com respeito aos tributos devidos por esta fábrica até o momento da transação empresarial, a empresa Jardim das Hespérides S.A.
+responde  subsidiariamente  com  o  alienante  se  este  cessar a  exploração  da  indústria,  e responde a adquirente pessoalmente se o alienante iniciar dentro de seis meses, a contar da data da alienação, nova atividade no mesmo ramo de indústria.
+V.  Na  hipótese  de  alienação  judicial  em  processo  de  falência,  a  pessoa  jurídica  de  direito privado  que  adquirir  fundo  de  comércio  nesta  situação  e  continuar  a  respectiva  exploração responde,  em  qualquer  hipótese,  pelos  tributos  relativos  ao  fundo  de  comércio  adquirido, devidos até a data da operação.
+Está correto o que se afirma APENAS em a) I e II.
+b) I e III.
+c) II e V.
+d) III e IV.
+e) IV e V.
+Comentário:
+Item I: Em conformidade com o art. 128 do CTN. Item correto.
+Item II: Se constar do titula a prova de quitação do tributo, o crédito tributário não sub-roga-se na pessoa do adquirente (art. 130 do CTN). Item errado.
+Item III: Em conformidade com o art. 131, II do CTN. Item correto.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+58
+100
+
+Item  IV: A  adquirente responde integralmente  pelos  tributos  devidos  se o  alienante  cessar  a exploração da indústria, e responde subsidiariamente com o alienante se este iniciar dentro de seis meses,  a  contar  da  data  da  alienação,  nova  atividade  no  mesmo  ramo  de  indústria (art.  133  do CTN). Item errado.
+Item V: Não  haverá  responsabilidade  por  sucessão  no  caso  de  alienação  judicial  em  processo falência (art. 133, §1º do CTN). Item errado.
+Gabarito: Letra B
+21. FCC/TJ-PE-Juiz/2013 Na  sucessão  causa  mortis  haverá  responsabilidade  tributária  do  espólio  e  dos  sucessores, solidariamente, por todos os tributos cujos fatos geradores surgirem durante o inventário ou partilha.
+Comentário: Os  tributos  cujos  fatos  geradores  surgirem  durante  o  inventário  ou  partilha  terão  o espólio    como    contribuinte,    e    não    responsável.    A    responsabilidade    pessoal    ocorre    por transferência,  e,  no  caso  do  espólio,  diz  respeito  aos  fatos geradores  ocorridos  antes  da  abertura da sucessão.
+Gabarito: Errada
+22. FCC/TRF - 2ª REGIÃO-Analista Judiciário/2012 Samuel  vendeu,  por  escritura  pública,  um  imóvel  para  Sueli.  Haviam  débitos  referentes  ao imposto predial e territorial urbano. O contrato de venda e compra estipulou a transferência dessa  responsabilidade  (quitação  dos  débitos)  para  Rafael  (então  devedor  de  Samuel),  mas que  deixou  de  cumpri-la.  Nesse  caso,  a  responsabilidade  da  quitação  do  débito  perante  à Fazenda Pública do Município será a) de Rafael, ou seja, o terceiro integrante no contrato.
+b) de Samuel, ou seja, o vendedor do imóvel.
+c) de Sueli, ou seja, a compradora e atual proprietária do imóvel.
+d) do vendedor Samuel e da compradora Sueli.
+e) da compradora Sueli e do terceiro Rafael.
+Comentário: A  responsabilidade  tributária  pelos  tributos  relativos  ao  bem  imóvel  é  de  Sueli,  haja vista   não   ter   sido   provada   a   quitação   dos   débitos   tributários.   Deve   ser   ressaltado   que   a responsabilidade  tributária  não  pode  ser  transferida  a  Rafael,  haja  vista  que  as  convenções particulares não podem modificar a definição legal do sujeito passivo das obrigações tributárias.
+Gabarito: Letra C
+23. FCC/PGM-João Pessoa-PB-Procurador Municipal/2012 Sobre a responsabilidade dos sucessores, analise os itens abaixo.
+I.  O  arrematante  de  imóvel  em  hasta  pública  não  é  responsável  pelos  tributos  incidentes sobre o bem cujos fatos geradores sejam anteriores à arrematação.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+59
+100
+
+II.   O   espólio   não   é   responsável   tributário   pelos   tributos   cujos   fatos   geradores   sejam anteriores  à  abertura  da  sucessão,  assim  como  pelos  tributos  cujos  fatos  geradores  tenham ocorrido durante o inventário.
+III.  O  adquirente  de  estabelecimento  comercial  é  sempre  responsável  integralmente  pelos tributos  cujos  fatos  geradores  sejam  anteriores  à  aquisição,  ainda  que  a  mesma  se  dê judicialmente em processo de falência.
+Está correto o que se afirma APENAS em a) I.
+b) I e II.
+c) II.
+d) II e III.
+e) III.
+Comentário:
+Item  I: Na  arrematação  de  imóvel  em  hasta  pública,  a  sub-rogação  ocorre  sobre  o  respectivo preço, de forma que o arrematante não é responsável pelos tributos incidentes sobre o bem cujos fatos geradores sejam anteriores à arrematação. Item correto.
+Item  II: Na  realidade,  o  espólio  é  pessoalmente  responsável  pelos  tributos  devidos  pelo  de  cujus até a data da abertura da sucessão. Item errado.
+Item  III: A  responsabilidade  do  adquirente  de  estabelecimento  comercial  pode  ser  integral  ou subsidiária com o alienante. Contudo, não há que se falar em responsabilidade do adquirente se a aquisição se deu judicialmente em processo de falência. Esta é a regra. Item errado.
+Gabarito: Letra A
+24. FCC/Pref. São Paulo-Auditor Fiscal do Município/2012 Um   menino   menor   de   idade,   com   dez   anos,   recebeu,   na   qualidade   de   herdeiro testamentário, por ocasião da morte de sua avó, um imóvel urbano, localizado em município do interior de São Paulo, no valor de R$ 350.000,00.
+Houve a aceitação da herança pelo menor, que, nesse ato, foi representando por seus pais.
+Nesse caso, o tributo devido na transmissão causa mortis de bens imóveis caberá:
+a) aos pais do  menor  de idade, pois o menino, por ser menor de idade, não tem capacidade tributária.
+b)   ao   menino   menor   de idade,   pois   ele   tem   capacidade   tributária,   e,   no   caso   de impossibilidade  de  exigência  do  cumprimento  dessa  obrigação  tributária  por  ele,  seus  pais responderão solidariamente com ele, nos atos em que intervierem ou pelas omissões de que forem responsáveis.
+c) cinquenta por cento ao menino menor de idade e cinquenta por cento aos pais do menor.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+60
+100
+
+d)  aos  pais  do  menino  menor  de  idade  e  ao  próprio  menino,  pois  o  menor  não  tem capacidade jurídica para ser, isoladamente, contribuinte.
+e)   ao   menino   menor   de   idade, pois   ele   tem   capacidade   tributária,   e,   no   caso   de impossibilidade  de  exigência  do  cumprimento  dessa  obrigação  tributária  por  ele,  seus  pais responderão solidariamente com ele.
+Comentário: De  acordo  com  o  art.  126,  I, do  CTN,  o  menor  de  idade  possui  capacidade  tributária passiva, logo a responsabilidade pelo tributo devido na transmissão causa mortis de bens imóveis caberá  a  ele  próprio.  Ademais,  em  caso  de  impossibilidade  de  exigência  do  cumprimento  dessa obrigação  tributária  por  ele,  seus  pais  responderão solidariamente  com  ele,  nos  atos  em  que intervierem ou pelas omissões de que forem responsáveis, tudo em conformidade com o art. 134, I, do CTN.
+Gabarito: Letra B
+25. FCC/PGE-SP-Procurador do Estado/2012 Em  se  tratando  de  responsabilidade  tributária,  “Beltrano”  faleceu  deixando  herdeiros  e tributos não pagos. Deixou bens em valor inferior ao valor dos tributos devidos. O sucessor a qualquer título e o cônjuge meeiro são responsáveis pelo valor total dos tributos devidos pelo de cujus até a data da partilha ou adjudicação.
+Comentário: A  responsabilidade  dos  sucessores  se  limita  ao  valor  do  quinhão  recebido  por  eles.
+Como  o  valor  dos  bens  é  inferior  ao  valor  dos  tributos  devidos,  não  se  pode  afirmar  que  serão responsáveis pelos tributos devidos pelo de cujus até a data da partilha ou adjudicação.
+Gabarito: Errada
+26. FCC/ SEFAZ-SP-Agente Fiscal de Rendas/2009 Considere  a  seguinte  situação:  diretores  de  uma  empresa,  que  está  sendo  adquirida  por outra, pactuaram com a adquirente que suportarão o pagamento do ICMS devido até a data do  ato  de  aquisição.  Neste  caso,  a  Fazenda  poderá  cobrar  o  ICMS  da  empresa  adquirente, uma vez que as convenções particulares não podem ser opostas à Fazenda Pública.
+Comentário: De fato, conforme previsto no art. 123 do CTN, as convenções particulares, relativas à responsabilidade  pelo  pagamento  de  tributos,  não  podem  ser  opostas  à  Fazenda  Pública,  para modificar a definição legal do sujeito passivo das obrigações tributárias correspondentes.
+Gabarito: Correta
+27. FCC/Procurador Judicial-Recife-PE/2008 Decidido  anteriormente  pelo  juízo  de  direito,  nos  autos  da  recuperação  judicial,  que  o adquirente  de  unidade  produtiva  via  alienação  naquele  processo  não  responderia  pelas obrigações  do  devedor  (art.  60,  parágrafo  único,  da  Lei  n.º  11.101/2005),  tal  deliberação sobrepõe-se  a  qualquer  decisão  sobre  a  matéria  advinda  de  juízos  diversos,  sob  pena  de inibição  do  propósito  tutelar  e  da  operacionalidade  do  mencionado  diploma  legal.  (AgRg  no CC 112638 / RJ, Relator Ministro João Otávio de Noronha, Órgão Julgador S2 – Segunda Seção do STJ, Data do Julgamento 10/8/2011) Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+61
+100
+
+Tendo  como  referência  inicial  a  jurisprudência  apresentada,  julgue  o  item  a  seguir:  após  a partilha  amigável  em  arrolamento  de  bens  judicial  pela  morte  de  seu  pai,  que  se  deu  em 2007,  Tício  e  Mévio  recebem  agora  notificação  para  pagamento  de  Imposto  de  Renda  ano- base 2003, por ele devido quando ainda estava vivo. Esta exigência fiscal está correta, porque os sucessores são responsáveis pelos tributos devidos, cujos fatos geradores ocorreram até a data  da  partilha,  até  o  limite  dos  quinhões  recebidos,  desde  que  não  tenha  se  operado  a decadência ou prescrição.
+Comentário: Desde que não tenha ocorrido a decadência ou prescrição, que são causas extintivas do  crédito  tributário,  os  sucessores  são  responsáveis  até  o  limite  dos  quinhões  recebidos.  A decadência e a prescrição serão estudadas em momento oportuno. Não se preocupe.
+Gabarito: Correta
+
+RESPONSABILIDADE DE TERCEIROS 28. FCC/SEFAZ-PE-Julgador Administrativo Tributário do Tesouro Estadual/2015 O Estado do Pernambuco lavrou auto de infração contra a empresa Redealegre, cobrando-lhe ICMS  e  multa,  sob  o  fundamento  de  que  promoveu  saída  de  mercadoria  sem  o  devido recolhimento  do  imposto.  Notificada,  a  Redealegre  apresentou  impugnação  e os  recursos administrativos cabíveis, mas o auto de infração foi mantido na esfera administrativa. Ocorre que a empresa, nesse período, enfrentando problemas financeiros e não conseguindo saldar suas  obrigações,  teve  sua  falência  decretada.  No  caso  hipotético,  o  Estado  do  Pernambuco, ao promover a cobrança do débito fiscal, deverá acionar a)  o  sócio,  já  que  a  decretação  da  falência  da  empresa  Redealegre  constitui  hipótese  de dissolução irregular da sociedade, o que enseja a sua responsabilidade solidária.
+b)  o  sócio,  pois  a  inadimplência  das  obrigações  tributárias  por  parte  da  empresa  constitui infração legal e enseja a sua responsabilidade solidária.
+c)  o  sócio,  pois  a  decretação  da  falência  da  empresa  é  situação  apta  a  demonstrar  que  ele agiu  com  culpa,  na  medida  em  que  se  presume  que  não  agiu  com  zelo  na  administração  da empresa Redealegre.
+d)  a  massa  falida  da  empresa  Redealegre,  pois  a  decretação  da  falência  não  caracteriza dissolução  irregular  da  sociedade,  não  representando  infração  legal  apta  a  viabilizar  o acionamento automático do sócio.
+e)   a   massa   falida   da   empresa   Redealegre,   pois,   por   força   do   princípio   da   separação patrimonial,  somente  a  empresa  responde  por  suas  dívidas,  não  podendo  o  seu  sócio  ser responsabilizado por elas.
+Comentário: O   art. 135 do   CTN   prevê   responsabilidade   pessoal   do   sócio pelos   créditos correspondentes  a  obrigações  tributárias  resultantes  de  atos  praticados  com  excesso  de  poderes ou infração de lei, contrato social ou estatutos. No entanto, na situação narrada na questão não se Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+62
+100
+
+pode inferir excesso de poderes ou infração, já que a decretação de falência da empresa, na forma da lei, não configura dissolução irregular. Ainda, a súmula 430 do STJ dispõe que o inadimplemento da  obrigação  tributária  pela  sociedade  não  gera,  por  si  só,  a  responsabilidade  solidária  do  sócio gerente.
+Diante  do  exposto,  para  cobrar  o  débito,  o  Fisco  deverá  acionar  a  massa  falida. Alternativa  D correta.
+Gabarito: Letra D
+29. FCC/TJ-RR-Juiz Substituto/2015 Sérgio, viúvo, faleceu em 2012, tendo deixado dois filhos como herdeiros: um maior de idade e outro menor de idade.
+No momento de seu falecimento, o valor total dos bens deixados por Sérgio (todos eles bens móveis) era de R$ 1.500.000,00.
+Nesse mesmo momento, o valor de suas dívidas, inclusive tributárias, perfazia o montante de R$ 300.000,00.
+Em  seu  testamento,  deixou  como  legado,  para  seu  sobrinho  Carlos,  menor  de  idade,  com  8 anos  completos,  a  importância  de  R$  120.000,00,  e  deixou  para  Madalena,  sua  sobrinha  e irmã de Carlos, com 21 anos completos, a importância de R$ 100.000,00.
+Camilo, tutor de Carlos, aceitou a herança em nome do menino, mas como este não possuía recurso financeiro algum para liquidar o crédito tributário em questão, deixou-se de efetivar o pagamento do ITCMD incidente sobre essa transmissão causa mortis.
+Madalena aceitou a herança, mas não pagou o ITCMD devido, por puro esquecimento.
+De  acordo  com  a  lei  do  Estado  federado  que  tinha  titularidade  ativa  para  instituir  o  ITCMD sobre  essas  transmissões  hipotéticas,  “o  contribuinte  do ITCMD  é  o  herdeiro  a  qualquer título”.
+Considerando os fatos acima narrados e o que o Código Tributário Nacional dispõe a respeito de sujeição passiva e capacidade tributária, a) Carlos não pode ser contribuinte do ITCMD relativo ao legado que recebeu, por ser menor de  idade,  ainda  que  lei  estadual  tenha  disposto  que  o  herdeiro  a  qualquer  título  é  o contribuinte na transmissão causa mortis.
+b)  Camilo  não  pode  ser  responsabilizado  pelo  pagamento  do  ITCMD  devido  sobre  o  legado recebido por Carlos, pois não agiu com dolo.
+c)  o  espólio  é  responsável  pelas  dívidas  tributárias  do  de  cujus,  incorridas  anteriormente  ao seu óbito.
+d)  Madalena,  por  ser  irmã  de  Carlos,  e  maior  de  idade,  é  contribuinte  tanto  em  relação  ao ITCMD  devido  pelo  legado  que  recebeu,  como  em  relação  ao  ITCMD  devido  pelo  legado recebido por seu irmão.
+e) o espólio, na qualidade de responsável por sucessão, é contribuinte do ITCMD devido pelos legatários e pelos herdeiros legais menores de idade.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+63
+100
+
+Comentário:
+Alternativa A: A capacidade tributária passiva independe da capacidade civil das pessoas naturais.
+Logo, Carlos é sim contribuinte do ITCMD em questão. Alternativa errada.
+Alternativa   B: Pela   omissão   do   pagamento   do   ITCMD,   Camilo   se   torna   responsável,   na impossibilidade de exigência da dívida de Carlos, nos termos do art. 134. Alternativa errada.
+Alternativa  C: No  caso  em  questão,  a  responsabilidade  pelas  dívidas  tributárias  do  de  cujus  é transferida ao espólio. Alternativa correta.
+Alternativa  D: Madalena  é  contribuinte apenas  em  relação  ao  ITCMD  relativo  ao  legado  por  ela recebido. Alternativa errada.
+Alternativa  E: Conforme  ficou  claro  no  enunciado  da  questão,  o  contribuinte  do  ITCMD  são  os legatários e herdeiros legais. Alternativa errada.
+Gabarito: Letra C
+30. FCC/TJ-CE-Juiz/2014 Em setembro de 2013, Gustavo, com 10 anos de idade, domiciliado em Fortaleza/CE, recebeu em doação, de sua avó, Mariângela, viúva, domiciliada em Natal/RN, um terreno localizado à beira-mar, em Aquiraz/CE, do qual ela era proprietária, fazia 30 anos.
+Como Gustavo é menor de idade, a aceitação da doação foi feita apenas por sua mãe, que o representa  na  prática  de  atos  da  vida  civil,  pois  seu  pai  foi  destituído  do  poder  familiar,  por decisão judicial, e há muito tempo “anda desaparecido”.
+No momento em que foi lavrada a escritura de doação, Mariângela, que era contribuinte do IPTU,  encontrava-se  em  débito  com  a  Prefeitura  do  Município  de  Aquiraz,  relativamente  a esse imposto, no exercício de 2013. Considerando que o contribuinte do ITCD, nas doações, é o  donatário  e  tomando  como  base  o  que  dispõem  a  Constituição  Federal  e  o  Código Tributário Nacional, é correto afirmar:
+O  pai  e  a  mãe  de  Gustavo  revestirão  a  condição  de  responsáveis  tributários  pelo  IPTU  em atraso  e  pelo  ITCD  devido  por  Gustavo,  se,  da escritura  de  doação,  não  constar  certidão negativa relativamente a débitos do IPTU e do ITCD e se não for possível exigir de Gustavo o cumprimento da obrigação principal.
+Comentário: O  art.  134 do  CTN  preceitua  que nos  casos  de  impossibilidade  de  exigência  do cumprimento  da  obrigação  principal  pelo  contribuinte, os  pais,  pelos  tributos  devidos  por  seus filhos  menores  respondem  solidariamente  com  este  nos  atos  em  que  intervierem  ou  pelas omissões de que forem responsáveis.
+Ainda, conforme art. 130 do CTN, os créditos tributários relativos a impostos cujo fato gerador seja a  propriedade,  o  domínio  útil  ou  a  posse  de  bens  imóveis,  e  bem  assim  os  relativos  a  taxas  pela prestação  de  serviços  referentes  a  tais  bens,  ou  a  contribuições  de  melhoria, sub-rogam-se  na pessoa dos respectivos adquirentes, salvo quando conste do título a prova de sua quitação.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+64
+100
+
+No  caso  narrado,  o  pai  foi  destituído  do  poder  familiar  e  não  interveio  na  doação.  Portanto, somente a mãe será responsável pelos tributos que não possam ser exigidos de Gustavo. Questão errada.
+Gabarito: Errado
+31. FCC/TRF - 4ª REGIÃO-Analista Judiciário/2014 Tício, Mévio e Portus são sócios em uma empresa de responsabilidade limitada, na proporção de  1%,  30%  e  69%,  das  quotas  sociais,  respectivamente.  Consta  do  contrato  social  que  o representante  legal  da  empresa  é  Tício.  Considerando  que  a  empresa  deixou  de  emitir  nota fiscal e, portanto, de recolher o ICMS devido no período de dezembro de 2010 até fevereiro de 2013, após regular ação fiscal, foi feita a autuação para pagamento do tributo, multa, juros e correção monetária. Diante do não pagamento do crédito constituído, foi o mesmo inscrito em dívida ativa e, após extrair a Certidão da Dívida Ativa - CDA, foi proposta execução fiscal em face da empresa e dos sócios. Diante dos fatos apresentados, a)   não   há   responsabilidade   solidária   entre   os   sócios,   mas   pessoal,   que   respondem proporcionalmente no limite de suas quotas sociais, pelos atos que praticam em infração de lei,  bem  assim  não  há  solidariedade  com  a  empresa,  que somente  responde  pelo  crédito tributário correspondente a obrigações tributárias efetivamente praticadas.
+b)   somente   o   representante   legal   da   empresa,   Tício,   é   que   responde   pelo   crédito correspondente a obrigações tributárias resultantes de atos praticados em infração de lei, de forma   pessoal,   mas   a   empresa,   na   qualidade   de   contribuinte,   é   devedora   do   tributo decorrente do fato gerador efetivamente praticado por ela.
+c)  o  polo  passivo  da  execução  fiscal  está  correto,  tendo  em  vista  que  os  sócios  são responsáveis   pelo   crédito   correspondente   a   obrigações   tributárias   resultantes   de   atos praticados em infração de lei, contrato ou estatuto, de forma pessoal.
+d) os sócios não devem figurar no polo passivo da execução fiscal, tendo em vista que se trata de  sociedade  por  quotas  de  responsabilidade  limitada,  ou  seja,  é  a  empresa,  com  seu patrimônio,   que   responde   pelos   créditos   tributários   decorrentes   do   exercício   de   sua atividade, ainda que praticados em infração de lei, contrato ou estatuto.
+e) a empresa não deve figurar no polo passivo da execução fiscal, tendo em vista que, no caso de   infração   de   lei,   a   responsabilidade   é   pessoal   e   exclusiva   dos   sócios   pelo   crédito correspondente a obrigações tributárias resultantes de atos praticados em infração de lei.
+Comentário: A  responsabilidade  pela  prática  de  atos  com  infração  da  lei  tributária  que  impõe  a emissão de nota fiscal  e o consequente recolhimento de ICMS implica responsabilidade tributária para o representante legal da empresa, isto é, seu administrador, conforme estabelece o art. 135, III,  do  CTN.  Por  tal  motivo,  somente  o  representante  legal  da  empresa,  Tício,  é  que  responde pessoalmente pelo crédito correspondente a obrigações tributárias resultantes de atos praticados em infração de lei.
+Gabarito: Letra B
+
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+65
+100
+
+32. FCC/TJ-PE-Juiz/2013 Em  fiscalização  realizada  em  uma  empresa  de  embalagens  foram  constatadas  inúmeras irregularidades  relativamente  ao  recolhimento  dos  tributos  devidos,  razão  pela  qual  foi lavrado  um  Auto  de  Infração  e  Imposição  de  Multa.  O  crédito  tributário  decorrente  destes fatos geradores por atos praticados com infração de lei, contrato ou estatuto, será devido a) pelos diretores ou gerentes, enquanto representantes legais da empresa, na qualidade de responsáveis  pessoais,  pelos  créditos  cujos  atos  advieram  de  infração  de  lei,  contrato  ou estatuto; e pela empresa, na qualidade de contribuinte, pelos créditos cujos fatos geradores efetivamente tenha praticado sem afronta à lei, contrato ou estatuto.
+b) pelos sócios e pelos diretores ou gerentes, enquanto representantes legais da empresa, na qualidade  de  responsáveis  solidários,  por  créditos  advindos  de  atos  decorrentes  da  infração de  lei,  contrato  ou  estatuto;  e  pela  empresa,  na  qualidade  de  contribuinte,  pelos  fatos geradores que efetivamente praticou.
+c)  pela  empresa,  em  sua  totalidade,  na  qualidade  de  contribuinte  e,  subsidiariamente,  pelos sócios diretores, enquanto representantes legais, pelo crédito decorrente de atos praticados com infração de lei, contrato ou estatuto.
+d)  pela  empresa  e  pelos  sócios,  solidariamente,  na  qualidade  de  contribuinte  e  responsável, respectivamente,  pelos  créditos  decorrentes  de  todos  os  atos  praticados,  inclusive  com infração de lei, contrato ou estatuto.
+e)  pelos  sócios,  em  sua  totalidade,  na  qualidade  de  responsáveis  pessoais  pelos  atos  com infração  de  lei,  contrato  ou  estatuto;  e  pela  empresa,  na  qualidade  de  contribuinte,  pelos créditos decorrentes de todos os atos praticados por seus responsáveis le- gais, em regime de solidariedade.
+Comentário: Em relação aos créditos cujos atos advieram de infração de lei, contrato ou estatuto, a  responsabilidade  será  pessoal  dos  diretores  ou  gerentes,  enquanto  representantes  legais  da empresa, nos termos do art. 135, III, do CTN.
+Quanto  aos  demais  créditos  tributários  cujos  fatos geradores  a  empresa  efetivamente  tenha praticado   sem   afronta   à   lei,   contrato   ou   estatuto,   esta   será   devedora,   na   qualidade   de contribuinte.
+Gabarito: Letra A
+33. FCC/TJ-PE-Notário e Registrador/2013 Quando  da  realização  do  negócio  jurídico  de  compra  e  venda  de bem  imóvel  o  alienante declarou  ao  tabelião  que  não  possuía  débitos  para  com  as  Fazendas  Públicas  municipal, estadual  e  federal.  Esta  declaração  foi  consignada  na  Escritura  Pública  que  ainda  constou  a assunção   pelo   alienante   de   qualquer   obrigação   tributária   por   fato   gerador   anterior   à lavratura da Escritura. A responsabilidade tributária neste caso, a) é do alienante, pelos tributos cujos fatos geradores sejam anteriores ao negócio.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+66
+100
+
+b)  é  do  adquirente,  ainda  que  tenham  sido  apresentadas  as  certidões  negativas  de  débito pelo alienante.
+c) é solidária do alienante e do adquirente.
+d)  pode  ser  solidária  do  tabelião  ou  do  oficial  do  registro  de  imóveis  com  o  adquirente quando não efetivamente fiscalizado o recolhimento do tributo devido na operação.
+e)  somente será  atribuída  ao  tabelião  ou  ao  oficial  do  registro  de  imóveis  em  caráter exclusivo, pela omissão na fiscalização desta obrigação tributária por parte do alienante.
+Comentário: De  acordo  com  o  art.  130  do  CTN, Os  créditos  tributários  relativos  a  impostos cujo fato  gerador  seja  a  propriedade,  o  domínio  útil  ou  a  posse  de  bens  imóveis,  e  bem  assim  os relativos a taxas pela prestação de serviços referentes a tais bens, ou a contribuições de melhoria, sub-rogam-se na pessoa dos respectivos adquirentes, salvo quando conste do título a prova de sua quitação. Ainda, conforme art. 134, VI, nos casos de impossibilidade de exigência do cumprimento da  obrigação  principal  pelo  contribuinte,  respondem  solidariamente  com  este  nos  atos  em  que intervierem  ou  pelas  omissões de  que  forem  responsáveis os  tabeliães,  escrivães  e  demais serventuários  de  ofício,  pelos  tributos  devidos sobre  os  atos  praticados por  eles,  ou  perante  eles, em razão do seu ofício.
+Na  situação  narrada,  o  tabelião  deveria  ter  exigido  a  prova  de  quitação do  tributo  devido  pelo alienante.  Como  houve  irregularidade  na  prática  de  seu  ofício,  ele  passa  a  ter  responsabilidade “solidária” com o contribuinte. O adquirente não terá responsabilidade já que constou da escritura prova de quitação. Alternativa D correta.
+Gabarito: Letra D
+34. FCC/TJ-PE-Titular de Serviços de Notas e Registros/2013 É  legalmente  considerado  responsável  solidário  pelos  tributos  gerados  por  atos  em  que intervém
+a) o filho menor, em relação aos tributos devidos por seus pais.
+b) a sociedade de pessoa, em relação aos tributos devidos por seus sócios.
+c) o inventariante, pelos tributos devidos pelo espólio.
+d) o usuário do serviço notarial e de registro, pelos tributos decorrentes da prática de atos na serventia.
+e) o proprietário mandante, pelos tributos devidos por atos do administrador.
+Comentário:
+Alternativa  A: Os  responsáveis  são  os  pais,  em  relação  aos  tributos  devidos  por  seus  filhos menores. Alternativa errada.
+Alternativa  B: Os  responsáveis  são  os  sócios,  em  relação  aos  tributos  no  caso  de  liquidação  de sociedades de pessoas. Alternativa errada.
+Alternativa C: O  inventariante  é  responsável  pelos  tributos  devidos  pelo  espólio,  nos  termos  do art. 134, IV, do CTN. Alternativa correta.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+67
+100
+
+Alternativa  D: A  responsabilidade  é  dos os  tabeliães,  escrivães  e  demais  serventuários  de  ofício, pelos  tributos  devidos  sobre  os atos  praticados  por  eles,  ou  perante  eles,  em  razão  do  seu  ofício.
+Alternativa errada.
+Alternativa  E: A  responsabilidade  é  dos  administradores  de  bens  de  terceiros,  pelos  tributos devidos por estes. Alternativa errada.
+Gabarito: Letra C
+35. FCC/SEFAZ-SP-Agente Fiscal de Rendas/2013 Constavam  no  contrato  social  da  empresa  Tessalônica  Industrial  Ltda.  três  sócios:  Ovídio, Sêneca  e  Virgílio.  Ovídio  e  Virgílio  eram  os  administradores  da  empresa,  cada  qual  podendo assinar  e  obrigar  a  empresa  isoladamente;  já  Sêneca  nunca  se  envolvera  na  administração, tendo  apenas  subscrito  e  integralizado  o  capital  e  auferido  os  lucros  obtidos.  Não  obstante haver  no  contrato  social  da  empresa  cláusula  que  expressamente  veda  operações  em  bolsa de  valores  com  recursos  da  empresa,  em 12/11/2012,  Ovídio,  aproveitando  a  grande  sobra de caixa da empresa, fez uma operação em bolsa de valores na qual obteve um lucro  muito expressivo.  Contudo,  apesar  do  lucro,  o  Imposto  de  Renda  relativo  ao  ganho  de  capital  na operação  não  foi  declarado  e  nem  recolhido  dentro  do  prazo  legal.  Em  face  da  situação hipotética apresentada e do ordenamento jurídico vigente, com respeito ao crédito tributário devido tem-se que:
+a) por se tratar de operação não autorizada pelos estatutos ou contrato social, a empresa não pode ser responsabilizada pelo pagamento da multa e do imposto.
+b) os sócios devem ser responsáveis, pois o lucro da operação será a eles distribuído.
+c)  apesar  de  também  beneficiar  Sêneca  e  Virgílio,  apenas  Ovídio  deve  ser  pessoalmente responsabilizado,  pois  agiu  contrariando  expressa  previsão  do  contrato  social.  Da  empresa também deverá ser cobrado o imposto e multas.
+d)   Ovídio   deve   ser   pessoalmente   responsabilizado,   excluindo-se   a   responsabilidade   da empresa, pois a infração decorreu direta e exclusivamente de sua atuação pessoal.
+e)  se  não  for  possível  exigir  da  empresa  o  cumprimento  da  obrigação  principal,  respondem solidariamente  com  ela  nos  atos  em  que  intervierem  ou  pelas  omissões  de  que  forem responsáveis os sócios Ovídio e Virgílio.
+Comentário: Como se  trata de ato que infringiu contrato  social da  empresa Tessalônica  Industrial Ltda.,   será   responsável   o   administrador   que   praticou   a   referida   infração,   respondendo pessoalmente pelo imposto e pelas multas. Além disso, vimos que tal responsabilidade não exclui a responsabilidade  da  pessoa  jurídica,  contribuinte  do  tributo  resultante  dos  atos  praticados  pelos gestores. Portanto, da empresa também deverá ser cobrado o imposto e multas.
+Gabarito: Letra C
+
+
+
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+68
+100
+
+36. FCC/SEFAZ-SP-Agente Fiscal de Rendas/2009-Adaptada Todos  os  sócios  são  responsáveis  por  obrigações  tributárias  resultantes  de  atos  praticados com  excesso  de  poderes  ou  infração  de  lei,  contrato  ou  estatuto  social  de  empresa, independentemente da qualidade de representante legal.
+Comentário: Na  verdade,  a  responsabilidade  pelos  atos  praticados  com  excesso  de  poderes  ou infração  de  lei,  contrato  ou  estatuto  social  de  empresa  não  se  ocorre  pelo  fato  de  ser  sócio,  mas pelo fato de gerir a empresa. Sendo assim, nem todos os sócios são responsabilizados.
+Gabarito: Errada
+
+RESPONSABILIDADE POR INFRAÇÕES 37. FCC/TJ-PI-Juiz/2015 Atenção: Para responder a questão, considere a seguinte situação hipotética:
+A empresa Soma Importadora S/A tem sede em Teresina, Piauí. No regular exercício de suas atividades   importa   e   comercializa   produtos   para   revendedores   e   consumidores   finais localizados  em  Teresina  e  arredores  e  em  outros  Estados  da  federação,  estando  sujeita  ao pagamento do Imposto sobre Circulação de Mercadorias − ICMS nestas operações.
+A  insuficiência  de  recursos  financeiros  da  Soma  Importadora  S/A  fez  com  que,  ao  longo  de 2013,  a  empresa  deixasse  de  recolher  o  ICMS  declarado  à  fiscalização  estadual  por  meio  de documento fiscal próprio.
+Após   um   dos   sócios   subscrever   e   integralizar   o   valor   de   suas   quotas   na   sociedade, capitalizando  a  sociedade  em  montante  aparentemente  suficiente  para  liquidar  a  dívida,  a importadora poderá
+a) pagar o ICMS devido com os benefícios da denúncia espontânea.
+b) denunciar espontaneamente o ICMS que se deixou de recolher, podendo parcelá-lo.
+c) parcelar o ICMS devido, sendo vedada a realização de denúncia espontânea.
+d)  denunciar  espontaneamente  o  ICMS  que  se  deixou  de  recolher,  sendo  vedado  o  seu parcelamento.
+e) parcelar o ICMS devido com os benefícios da denúncia espontânea.
+Comentário: A  súmula  360  do  STJ  dispõe  que O  benefício  da  denúncia  espontânea  não  se  aplica aos  tributos  sujeitos  a  lançamento  por  homologação  regularmente  declarados,  mas  pagos  a destempo. Portanto,  se os valores devidos já foram regularmente declarados, não há que  se falar em denúncia espontânea. Alternativa C correta.
+Gabarito: Letra C
+
+
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+69
+100
+
+38. FCC/Pref. Recife-Analista de Gestão Contábil/2019 De  acordo  com  o  CTN,  a  responsabilidade  é  excluída  pela  denúncia  espontânea  da  infração.
+Segundo esse mesmo Código, NÃO se considera espontânea a denúncia a)  de  ato  ou  fato  que,  simultaneamente,  constitua  infração  tributária,  cometida  com  dolo, fraude ou  simulação, e crime contra a ordem tributária, com o objetivo de redução da pena criminal.
+b)  que  não  seja  feita,  pessoalmente,  a  agente  do  sujeito  ativo  competente  para  exigir  o tributo  relacionado  com  a  denúncia,  dentro  do  prazo  de  30  dias  contados  da  data  do cometimento da infração.
+c) de prática infracional que, simultaneamente, constitua crime contra a ordem tributária ou contravenção de natureza grave.
+d) relativa a infração cometida com dolo, fraude ou simulação.
+e)  apresentada  após  o   início   de  qualquer   procedimento  administrativo   ou  medida  de fiscalização, relacionados com a infração.
+Comentário: O  art.  138, §único  do  CTN  preceitua  que  não  se  considera  espontânea  a  denúncia apresentada  após  o  início  de  qualquer  procedimento  administrativo  ou  medida  de  fiscalização, relacionados  com  a  infração. O  CTN  não  traz  nenhuma  das  restrições  das  alternativas  A  a  D.
+Alternativa E então é a correta.
+Gabarito: Letra E
+39. FCC/SEFAZ-BA-Auditor Fiscal /2019 Sobre a responsabilidade tributária, o Código Tributário Nacional dispõe:
+I.  A  responsabilidade  é  pessoal  ao  agente,  quanto  às  infrações  conceituadas  por  lei  como crimes  ou contravenções,  salvo  quando  praticadas  no  exercício  regular  de  administração, mandato,  função,  cargo  ou  emprego,  ou  no  cumprimento  de  ordem  expressa  emitida  por quem de direito.
+II. A  pessoa  natural  ou  jurídica  de  direito  privado  que  adquirir  de  outra,  por qualquer  título, fundo  de  comércio  e  continuar  a  respectiva  exploração,  sob  a  mesma  ou  outra  razão  social, responde  subsidiariamente  pelos  tributos,  relativos  ao  fundo  ou  estabelecimento  adquirido, devidos  até  a  data  do  ato,  se  o  alienante  cessar  a  exploração  do  comércio,  indústria  ou atividade.
+III.  Haverá  responsabilidade  pessoal  e  exclusiva  dos  pais,  pelos  tributos  devidos  por  seus filhos,  bem  como  dos  tutores  e  curadores,  pelos  tributos  devidos  por  seus  tutelados  ou curatelados  em  todos  os  atos  em  que intervierem,  exceto  pelas  omissões  de  que  forem responsáveis.
+IV.  Os  mandatários,  prepostos  e  empregados  são  pessoalmente  responsáveis  pelos  créditos correspondentes  a  obrigações  tributárias  resultantes  de  atos  praticados  com  excesso  de poderes ou infração de lei, contrato social ou estatutos.
+Está correto o que se afirma APENAS em Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+70
+100
+
+a) I e II.
+b) II e III.
+c) I, II e IV.
+d) III e IV.
+e) I e IV.
+Comentário:
+Item I: O item traz a literalidade do art. 137, I do CTN. Item correto.
+Item  II: A  responsabilidade  no caso  narrado  é integral e  não  subsidiária,  conforme  art.  133,  I  do CTN. Item errado.
+Item III: A responsabilidade dos pais, tutores e curadores é solidária e não pessoal e exclusiva (art.
+134,  I  e  II).  Tenha  atenção  neste  artigo,  pois  o  código  usou  o  termo  “solidariamente”  de  maneira atécnica.  No  entanto,  a  questão  pede  que  os  itens  sejam  avaliados  de  acordo  com  o  CTN. Item errado.
+Item IV: O item traz a literalidade do art. 135, II do CTN. Item correto.
+Gabarito: Letra E
+40. FCC/PGE-MT-Analista Direito/2016 Relativamente  às  penalidades  pecuniárias  por  descumprimento  da  legislação  tributária  que podem  ser  impostas  aos  contribuintes,  o  Código  Tributário  Nacional  estabelece  que  a denúncia  espontânea  da  infração  é  elemento  suficiente  para  excluir  a  responsabilidade  pelo seu pagamento, mesmo quando há tributo devido em razão do cometimento da infração.
+Comentário: O  art.  138  do  CTN  preceitua  que  a responsabilidade  é  excluída  pela  denúncia espontânea da infração, acompanhada, se for o caso, do pagamento do tributo devido e dos juros de  mora,  ou  do  depósito  da  importância  arbitrada  pela  autoridade  administrativa,  quando  o montante do tributo dependa de apuração. Portanto, se há tributo devido, o benefício da denúncia espontânea só é possível se a denúncia for acompanhada do pagamento. Questão errada.
+Gabarito: Errado
+41. FCC/SEFAZ-PI-Auditor Fiscal da Fazenda Estadual/2015 De  acordo  com  o  CTN,  é  correto  afirmar  que  salvo  disposição  de  lei  em  contrário,  a responsabilidade por infrações da legislação tributária depende da intenção do agente ou do responsável e da efetividade, natureza e extensão dos efeitos do ato.
+Comentário: O   art.   136   do   CTN   dispõe   que,   salvo   disposição   de   lei   em   contrário,   a responsabilidade  por  infrações  da  legislação  tributária independe da intenção  do  agente  ou  do responsável da efetividade, natureza e extensão dos efeitos do ato. Questão errada.
+Gabarito: Errado
+
+
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+71
+100
+
+42. FCC/TCM-GO-Auditor de Controle Externo/2015 O  Código  Tributário  Nacional,  no  Capítulo  V  do  Título  I  do  seu  Livro  II,  trata  das  diversas modalidades de responsabilidade tributária. De acordo com esse código, a)   os   tutores   e   curadores   respondem   solidariamente   pelos   tributos   devidos   por   seus tutelados  ou  curatelados,  nos  atos  em  que  intervierem  ou  não,  ou  pelas  omissões  de  que forem  responsáveis,  independentemente  da  possibilidade  de  exigência  do  cumprimento  da obrigação principal pelo contribuinte (“responsabilidade por sucessão”).
+b) a pessoa jurídica de direito privado que resultar de fusão, transformação ou incorporação de  outra  ou  em  outra  é  responsável  pelos  impostos  devidos  a  partir  da  data  do  ato  pelas pessoas    jurídicas    de    direito    privado    fusionadas,    transformadas    ou    incorporadas (“responsabilidade a posteriori”).
+c)  o  adquirente  ou  remitente  é  pessoalmente  responsável  pelos  tributos  relativos  aos  bens adquiridos ou remidos (“responsabilidade por sucessão”).
+d)  a  responsabilidade  é  pessoal  ao  agente  quanto  às  infrações  em  cuja  definição  o  dolo genérico do agente seja elementar (“responsabilidade por sucessão”).
+e) a responsabilidade é excluída pela denúncia espontânea da infração, acompanhada, se for o  caso,  do  pagamento  do  tributo  devido,  dos  juros  de  mora,  de  multa  de  mora  e  de atualização  monetária,  calculados  até  a  data  do  pagamento  (“denúncia  espontânea  ou autodenúncia”).
+Comentário:
+Alternativa  A: A  responsabilidade  dos  pais,  tutores  e  curadores  é solidária nos  atos  em  que intervierem ou  pelas  omissões  de  que  forem  responsáveis (art.  134,  II).  Tenha  atenção  neste artigo,  pois  o  código  usou  o  termo  “solidariamente”  de  maneira  atécnica.  No  entanto,  a  questão pede  que  os  itens  sejam  avaliados  de  acordo  com  o  CTN.  Ainda,  o  art.  134  dispõe  sobre responsabilidade de terceiros. Alternativa errada.
+Alternativa  B: A  pessoa  jurídica  de  direito  privado  que  resultar  de  fusão,  transformação  ou incorporação  de  outra  ou  em  outra  é  responsável  pelos  tributos  devidos até  à  data  do  ato pelas pessoas jurídicas de direito privado fusionadas, transformadas ou incorporadas (art. 132). Ainda, o art. 132 dispõe sobre responsabilidade por sucessão. Alternativa errada.
+Alternativa C: De acordo com o art. 131, I. A responsabilidade é por sucessão. Alternativa correta.
+Alternativa D: A responsabilidade  é  pessoal  ao  agente  quanto  às  infrações  em  cuja  definição  o dolo específico do   agente   seja   elementar (art.   137,   II). Ainda,   o   art.   137   dispõe   sobre responsabilidade por infrações. Alternativa errada.
+Alternativa  E: O  art.  138  que  trata  do  CTN  não  exige  pagamento  da  multa  de  mora. Alternativa errada.
+Gabarito: Letra C
+
+
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+72
+100
+
+
+43. FCC/TCM-GO-Auditor de Controle Externo/2015 A responsabilidade é excluída pela denúncia espontânea da infração, acompanhada, se for o caso, do pagamento do tributo devido, dos juros de mora, de multa de mora e de atualização monetária, calculados até a data do pagamento (“denúncia espontânea ou autodenúncia").
+Comentário: Para  excluir  a  responsabilidade  do  contribuinte  pela  infração,  é  necessário  que  haja apenas o pagamento do tributo e dos juros de mora, ou do depósito da importância arbitrada pela autoridade administrativa, quando o montante do tributo dependa de apuração.
+Gabarito: Errada
+44. FCC/SABESP-Advogado/2014 A denúncia espontânea da infração a)  traz  redução  no  valor  do  crédito  tributário  quando  o  sujeito  passivo  a  faz  antes  do lançamento.
+b) é causa de exclusão do crime de sonegação fiscal, sendo matéria atinente ao Direito Penal Tributário quanto à infração decorrente de dolo específico.
+c)   afasta   a   responsabilidade   por infração,   desde   que   anterior   a   qualquer   medida   de fiscalização ou procedimento administrativo e acompanhada do pagamento, se for o caso, do tributo devido e dos juros de mora.
+d)  pode  ser  apresentada,  para  qualquer  tributo,  até  o  final  da  ação  fiscal,  procedimento administrativo  de  fiscalização,  mas  antes  da  lavratura  do  auto  de  infração  e  imposição  de multa, desde que relacionada com a infração.
+e)  afasta  a  incidência  do  crédito  tributário,  sendo  forma  de  anistia  do  crédito  tributário, desde que haja previsão em lei do ente competente e seja feita pelo sujeito passivo antes de qualquer medida de fiscalização pelo fisco.
+Comentário: O  art.  138  do  CTN  preceitua  que  a  responsabilidade  é  excluída  pela  denúncia espontânea da infração, acompanhada, se for o caso, do pagamento do tributo devido e dos juros de  mora,  ou  do  depósito  da  importância  arbitrada  pela  autoridade  administrativa,  quando  o montante do tributo dependa de apuração. Alternativa C correta.
+Gabarito: Letra C
+45. FCC/PGE-RN-Procurador/2014 Segundo o Código Tributário Nacional, a denúncia espontânea a) é causa de extinção do crédito tributário.
+b)  tem  lugar  antes  de  qualquer  procedimento  administrativo  ou  medida  de  fiscalização relacionados com a infração.
+c)  alcança  a  obrigação  principal  e  a  obrigação  acessória,  acarretando  a  exclusão  do  crédito tributário.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+73
+100
+
+d) só pode ser realizada nos tributos sujeitos a lançamento por homologação, desde que não tenha havido apresentação de declaração, quando exigida.
+e)  impede  a  constituição  do  crédito  tributário  relativamente  aos  juros  de  mora  e  à  multa moratória.
+Comentário: O  art.  138  do  CTN  preceitua  que  a  responsabilidade  é  excluída  pela  denúncia espontânea da infração, acompanhada, se for o caso, do pagamento do tributo devido e dos juros de  mora,  ou  do  depósito  da importância  arbitrada  pela  autoridade  administrativa,  quando  o montante do tributo dependa de apuração.
+Alternativa  A: Denúncia  espontânea  não  extingue  o  crédito,  apenas  a  responsabilidade  por infração. Alternativa errada.
+Alternativa B: Em conformidade com o art. 138. Alternativa correta.
+Alternativa C: Denúncia  espontânea  não  exclui  o  crédito,  apenas  afasta  a  multa.  Alternativa errada.
+Alternativa D: Também  é  possível  em  tributos  lançados  por  ofício  ou  declaração. Alternativa errada.
+Alternativa E: Os juros incidem normalmente. Alternativa errada.
+Gabarito: Letra B
+46. FCC/TCE-PI-Auditor Fiscal de Controle Externo/2014 Maria,  domiciliada  na  cidade  de  Piripiri-PI,  recebeu   em  doação,  de  seu   irmão  Carlos, domiciliado  na  cidade  de  Teresina-PI,  um  automóvel  importado,  registrado  e  licenciado  no município de Parnaíba-PI, cujo valor venal é de R$ 120.000,00.
+Essa  doação,  que  está  no  campo  de  incidência  do  ITCMD  piauiense,  ocorreu  em  agosto  de 2011,  mas  Maria,  donatária  e  contribuinte  desse  imposto,  por  desconhecer  o fato  de  que deveria pagá-lo em razão da doação que recebeu, acabou por não fazer esse pagamento.
+Meses depois de recebida a doação, descobrindo que deveria ter pago o ITCMD pela doação que  recebeu  e  antes  de  o  fisco  iniciar  qualquer  procedimento  relacionado  com  a  apuração dessa  falta,  Maria  procurou  a  repartição  fiscal  estadual  piauiense,  relatou  o  ocorrido  e  se propôs a pagar, de imediato, antes da instauração de qualquer procedimento fiscal, o crédito tributário  devido,  cujo  valor  nominal  era  de  R$  4.800,00  (R$  120.000,00  ×  4%),  conforme documentação que ela exibiu à autoridade fiscalizadora.
+Para  exclusão  da  responsabilidade  da  autuada  em  relação  ao  imposto  que  não  foi  pago  e  à infração cometida, e considerando que o montante do tributo não depende de apuração pelo fisco,  pois  Maria  apresentou  à  autoridade  fiscalizadora  a  documentação  comprobatória  do valor  nominal  do  bem  doado,  é  correto  afirmar,  com  base  no  CTN,  que  Maria  não  terá  de pagar a multa por infração à legislação do ITCMD, mas terá de pagar o a) montante do tributo devido, apenas.
+b) tributo devido e os juros de mora.
+c) tributo devido e a atualização monetária.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+74
+100
+
+d) tributo devido, os juros de mora e a atualização monetária.
+e) tributo devido, os juros de mora, a atualização monetária e multa moratória.
+Comentário: O  art.  138  do  CTN  preceitua  que  a  responsabilidade  é  excluída  pela  denúncia espontânea da infração, acompanhada, se for o caso, do pagamento do tributo devido e dos juros de  mora,  ou  do  depósito  da  importância  arbitrada  pela  autoridade  administrativa,  quando  o montante do tributo dependa de apuração. Alternativa B correta.
+Gabarito: Letra B
+47. FCC/PGE-SP-Procurador do Estado/2012 Em  se  tratando  de  responsabilidade  tributária,  comerciante  arrependido  por  ter  feito  várias operações comerciais sem a emissão de nota fiscal, comparece à repartição fiscal e, de forma espontânea,   confessa   as   infrações   cometidas.   Ao   analisar   a   conduta   do   contribuinte, desacompanhada de qualquer outra providência, o fisco pode relevar a infração.
+Comentário: De acordo com o art. 138, caput, do CTN, a responsabilidade somente é excluída pela denúncia espontânea da infração, acompanhada, se for o caso, do pagamento do tributo devido e dos juros de mora. Portanto, em tal situação, o fisco não pode relevar a infração.
+Gabarito: Errada
+48. FCC/Procurador-SP/2009 A  norma  contida  no  art.  138  do  CTN,  que  trata  da  denúncia  espontânea  da  infração,  não autoriza o contribuinte do ICMS, que declarou o imposto e não o recolheu tempestivamente, efetuar,  após  a  data  do  vencimento,  o  pagamento  do  tributo,  acrescido  de  juros  de  mora, mas sem a multa moratória.
+Comentário: De  acordo  com  a  Súmula  360  do  STJ,  o  benefício  da  denúncia  espontânea  não  se aplica aos tributos sujeitos a lançamento por homologação regularmente declarados, mas pagos a destempo.  Como  o  ICMS  é  um  tributo  lançado  por  homologação,  não  se  aplica  a  denúncia espontânea a esse caso.
+Gabarito: Correta
+
+
+
+
+
+
+
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+75
+100
+
+6 – LISTA DAS QUESTÕES COMPLEMENTARES 
+RESPONSABILIDADE TRIBUTÁRIA 1. FCC/Pref. Caruaru-Procurador/2018 Sobre a responsabilidade tributária, é correto afirmar:
+a)  decorre  de  previsão  legal  ou  de  ato  particular  em  que  terceiro  assuma,  por  instrumento público, a condição de contribuinte.
+b) deve ser livremente aferida em cada caso por ato administrativo plenamente vinculado, de cuja motivação constem os elementos de fato que a justifiquem.
+c) decorre de lei que atribua, de modo expresso, a responsabilidade pelo crédito tributário a terceiro, não contribuinte, mas relacionado com a ocorrência do fato gerador.
+d)  decorre  de  lei  ou  contrato  que  impute  a  obrigação  tributária  acessória  a  terceiro  não contribuinte,   mas   a   ele   relacionado   ou   ao   fato   gerador,   conforme   reconhecido   pela Administração Tributária.
+e)  só  pode  ser  aferida  em  cada  caso  conforme  previsão  geral  de  lei  complementar,  previsto que   se   expresse   em ato   administrativo   discricionário,   de   cuja   motivação   conste   a fundamentação jurídica.
+
+2. FCC/TJ-GO-Juiz Substituto/2015 A responsabilidade tributária a) é atribuída expressamente por lei à terceira pessoa, que não praticou o fato gerador, mas que está a ele vinculado, podendo ser exclusiva ou supletiva à obrigação do contribuinte.
+b) é atribuída ao sujeito passivo da obrigação tributária que pratica o fato gerador.
+c)  é  do  contribuinte  quando  a  lei  lhe  impõe  esta  obrigação,  mesmo  que  não  pratique  o  fato gerador.
+d)  pode  ser  atribuída  a  terceiro  estranho  ao  fato  gerador  através  de  contrato  particular firmado entre o contribuinte e terceiro.
+e)  independe  de  qualquer  vínculo  jurídico  entre  o  terceiro  e  o  contribuinte,  bastando  que haja expressa disposição legal ou convenção entre as partes.
+
+
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+76
+100
+
+RESPONSABILIDADE POR SUBSTITUIÇÃO 3. FCC/TJ-GO-Juiz/2015 A  atribuição  ao  sujeito  passivo  de  obrigação  tributária  da  condição  de  responsável  pelo pagamento de imposto cujo fato gerador deva ocorrer posteriormente a) é inadmissível, uma vez que a obrigação tributária surge apenas após a ocorrência do fato gerador.
+b) pode acontecer, nos termos da lei, na hipótese de recolhimento antecipado de ICMS pelo fabricante  de  veículos  automotores  relativamente  à  futura  revenda  dos  mesmos  pelas concessionárias.
+c) trata-se da substituição tributária para trás, cujo fundamento é previsto expressamente na Constituição da República.
+d)  pode  acontecer,  nos termos  da  lei,  quando  o  tomador  do  serviço  faz  a  retenção  na  fonte do ISSQN devido pelo prestador do serviço por ocasião do pagamento pelo serviço prestado.
+e)  pode  acontecer,  nos  termos  da  lei,  na  hipótese  em  que  o  empregador  faz  a  retenção  na fonte do IRPF de seu empregado.
+
+4. FCC/PGE-RN-Procurador/2014 A antecipação dos efeitos do fato gerador a) está expressamente autorizada na Constituição Federal.
+b) trata-se de substituição tributária para trás.
+c)   acontece   nos   tributos   sujeitos   a   lançamento   por   homologação,   quando   ocorre   o pagamento antecipado.
+d)  não  é  reconhecida  pelo  direito pátrio,  pois  só  existirá  crédito  tributário  a  partir  do momento em que ocorrer o fato gerador.
+e) tem cabimento nas hipóteses de fato gerador pretérito.
+
+5. FCC/PGE-SP-Procurador do Estado/2012 Em se tratando de responsabilidade tributária, na substituição tributária para frente, há uma postergação  do  pagamento  do  tributo,  transferindo-se  a  obrigação  de  reter  e  recolher  o montante devido, que seria do vendedor, ao adquirente dos produtos e serviços.
+
+6. FCC/PGE-SP-Procurador do Estado/2012 Em se tratando de responsabilidade tributária, na substituição tributária para frente, há uma postergação  do  pagamento  do  tributo,  transferindo-se  a  obrigação  de  reter  e  recolher  o montante devido, que seria do vendedor, ao adquirente dos produtos e serviços.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+77
+100
+
+RESPONSABILIDADE POR TRANSFERÊNCIA 7. FCC/PGE-AM-Procurador/2018 A   “Indústria   de   Balanças   Peso   Pesado”,   cujos   sócios   são   Carlos   e   Danilo,   tem   5 estabelecimentos no Estado, sendo uma matriz e quatro filiais. A empresa está em processo de recuperação judicial há três meses. Quando foi divulgada a notícia de que será promovida a  alienação  judicial  de  um  de  seus  estabelecimentos,  várias  pessoas,  naturais  e  jurídicas,  se interessaram por adquiri-lo:
+1. Marcos, marido da prima de Carlos;
+2. a “Fábrica de Balanças Equilíbrio”, sociedade empresarial concorrente;
+3. “Empresa de Ferragens Brasil”, que é controlada pela “Indústria de Balanças Peso Pesado”;
+4. Sebastião, rico empresário e marido da tia de Carlos.
+Considerando  que  a  “Indústria  de  Balanças  Peso  Pesado”  vai  continuar  explorando sua atividade   industrial   por   tempo   indeterminado,   mesmo   depois   da   venda   do   referido estabelecimento,  de  acordo  com  o  Código  Tributário  Nacional,  caso  a  referida  filial  venha  a ser adquirida
+a)  por  Marcos,  ele  responderá  integralmente  pelos  tributos  relativos  ao  estabelecimento adquirido, devidos até a data do ato de aquisição.
+b)   pela   “Fábrica   de   Balanças   Equilíbrio”,   esta   não   responderá,   nem   integral,   nem subsidiariamente,  pelos  tributos,  relativos  ao  estabelecimento  adquirido,  devidos  até  a  data do ato de aquisição.
+c) pela “Empresa de Ferragens Brasil”, esta responderá integralmente pelos tributos relativos ao estabelecimento adquirido, devidos até a data do ato de aquisição.
+d)  por  Sebastião,  ele  não  responderá,  nem  integral,  nem  subsidiariamente,  pelos tributos relativos ao estabelecimento adquirido, devidos até a data do ato de aquisição.
+e)   pela   “Empresa   de   Ferragens   Brasil”,   esta   não   responderá,   nem   integral,   nem subsidiariamente,  pelos  tributos  relativos  ao  estabelecimento  adquirido,  devidos  até  a  data do ato de aquisição.
+
+8. FCC/SEF-SC-Auditor Fiscal da Receita Estadual/2018 Conforme  o  Código  Tributário  Nacional  (CTN),  no  que  tange  à  responsabilidade  tributária,  a pessoa  de  direito  privado  que  adquirir  de  outra,  por  qualquer  título,  estabelecimento comercial, industrial ou profissional, e continuar a respectiva exploração a) não responde pelos tributos devidos após a compra do estabelecimento adquirido, por até 3 anos, se o alienante estava falido ou em recuperação judicial.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+78
+100
+
+b)  responde integralmente  pelos  tributos  devidos  até  12  meses  da  data  da  aquisição,  se  o alienante,  por  qualquer  motivo,  cessar  a  atividade  econômica  ou,  estando  em  recuperação judicial, falir.
+c) responde subsidiariamente pelos tributos devidos até a data da compra, se o alienante, por qualquer motivo, cessar a exploração do comércio, indústria ou atividade.
+d) não responde pelos tributos devidos pelo alienante ou pelo estabelecimento alienado até a data da compra, se o alienante continuar exercendo a atividade econômica no mesmo ramo ou for declarado falido.
+e)  não  responde  pelos  tributos  devidos  até  a  data  da  compra,  se  a  alienação  for  judicial,  no âmbito de processo de falência, exceto se for sócio da sociedade falida, sociedade controlada pelo devedor falido, parente em linha reta ou colateral até o 4º grau do devedor falido ou de seus sócios, ou agente do falido.
+
+9. FCC/Pref. Campinas-SP-Procurador/2016 Dispõe  o  Código  Tributário  Nacional  que  a  pessoa  natural  ou  jurídica  de  direito  privado  que adquirir  de  outra,  por qualquer  título,  fundo  de  comércio  ou  estabelecimento  comercial, industrial  ou  profissional,  e  continuar  a  respectiva  exploração,  sob  a  mesma  ou  outra  razão social  ou  sob  firma  ou  nome  individual,  responde  pelos  tributos,  relativos  ao  fundo  ou estabelecimento  adquirido.  Dispõe  o  referido  CTN  que  a  responsabilidade  do  sucessor adquirente será
+a)  integral  para  o  adquirente  parente,  em  linha  reta  ou  colateral  até  o  quarto  grau, consanguíneo ou afim, do devedor falido ou em recuperação judicial ou de qualquer de seus sócios, desde que o alienante cesse a exploração do comércio, indústria ou atividade.
+b)  integral  e  abrangerá  os  débitos  até  a  data  do  ato,  se  este  prosseguir  na  exploração  ou iniciar dentro de seis meses, a contar da data da alienação, nova atividade no mesmo ou em outro ramo de comércio, indústria ou profissão.
+c) subsidiária e abrangerá os débitos até a data do ato se o alienante cessar a exploração do comércio, indústria ou atividade.
+d)  integral  pelos  tributos  devidos  pela  pessoa  jurídica  de direito  privado  que  adquirir estabelecimento comercial, no caso de alienação judicial em processo de falência.
+e)  relativa  se  o  adquirente  for  sócio  de  sociedade  falida  ou  em recuperação  judicial,  porque inexistem  regras  sobre  a  responsabilidade  por  sucessão  para  o  sócio  adquirente  no  Código Tributário Nacional.
+
+10. FCC/TCM-GO-Auditor de Controle Externo/2015 A pessoa jurídica de direito privado que resultar de fusão, transformação ou incorporação de outra ou em outra é responsável pelos impostos devidos a partir da data do ato pelas pessoas jurídicas  de  direito  privado  fusionadas,  transformadas  ou  incorporadas  (“responsabilidade  a posteriori").
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+79
+100
+
+11. FCC/TCM-GO-Auditor de Controle Externo/2015 O  adquirente  ou  remitente  é  pessoalmente  responsável  pelos  tributos  relativos  aos  bens adquiridos ou remidos (“responsabilidade por sucessão").
+
+12. FCC/TCE-AM-Auditor/2015 Orlando  adquiriu  dois  imóveis,  ambos  com  débito  de  IPTU  referentes  a  vários  exercícios.  O primeiro  deles,  uma  casa  no  centro  da  cidade,  foi  adquirido  diretamente  do  vendedor,  por meio de escritura pública, enquanto que o segundo, um terreno em local afastado do centro da  cidade,  foi  adquirido  em hasta  pública.  Não  constaram  dos  respectivos  títulos  aquisitivos quaisquer  provas  de  quitação  do  IPTU  até  então  devido.  De  acordo  com  a  disciplina  do Código Tributário Nacional acerca da responsabilidade dos sucessores, Orlando a)  será  responsável  total  e  ilimitadamente  pelo  crédito  tributário  existente  até  a  data  de aquisição da casa.
+b)  será  responsável  total  e  ilimitadamente  apenas  pelo  débito  de  imposto  existente  até  a data de ambas as aquisições.
+c)  será  responsável  total  e  ilimitadamente  pelo  crédito  tributário  existente  até  a  data  de aquisição do terreno.
+d) não será responsável pelos créditos tributários existentes até a data da aquisição.
+e)  será  responsável  apenas  pelo  débito  de  imposto  existente  até  a  data  de  ambas  as aquisições,  sendo  que,  no  caso  do  terreno,  essa  responsabilidade  se  limita  ao  preço  de aquisição.
+
+13. FCC/TJ-SC-Juiz Substituto/2015 Lukas,  domiciliado  em  cidade  do  interior  catarinense,  é  proprietário  de  imóvel  residencial, que valia, em 2012, R$ 200.000,00.
+Em 2013, esse imóvel passou a valer R$ 240.000,00, em razão da obra pública realizada pela Prefeitura Municipal, e que resultou na referida valorização. A Prefeitura Municipal instituiu, lançou  e  cobrou  contribuição  de  melhoria  dos  contribuintes  que,  como Lukas,  tiveram  suas propriedades  valorizadas.  O  mesmo  Município  catarinense,  a  seu  turno,  com  base  em  lei municipal,  lançou  e  cobrou,  em  2013,  a  taxa  decorrente  da  prestação  de  serviço  público  de recolhimento  de  lixo  domiciliar,  tendo  como  fato  gerador  o  recolhimento  do  lixo  produzido individualmente,   nos   imóveis   residenciais   localizados   naquele   Município.   O   Município catarinense lançou e cobrou essa taxa de Lukas, em relação ao mesmo imóvel acima referido.
+Neste ano de 2015, Lukas recebeu uma excelente oferta pelo seu imóvel e está pensando em vendê-lo.   Ocorre,   porém,   que   não   pagou   a   contribuição   de   melhoria   lançada   pela municipalidade, nem a taxa lançada pelo Município. Em razão disso, com base nas regras de responsabilidade por sucessão estabelecidas no CTN, a)  tanto  o  crédito  tributário  relativo  à  contribuição  de  melhoria,  como  o  relativo  à  taxa,  se sub-rogarão na pessoa do adquirente, na proporção de 50% do valor lançado.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+80
+100
+
+b)  o  crédito  tributário  relativo  à  contribuição  de  melhoria  não  se  sub-rogará  na  pessoa  do adquirente, mas o relativo à taxa sim, salvo se constar do título aquisitivo a sua quitação.
+c)  tanto  o  crédito  tributário  relativo  à  contribuição  de  melhoria,  como  o  relativo  à  taxa,  se sub-rogarão na pessoa do adquirente, salvo se constar do título aquisitivo a sua quitação.
+d) nem o crédito tributário relativo à contribuição de melhoria, nem o relativo à taxa, se sub- rogará na pessoa do adquirente.
+e)  o  crédito  tributário  relativo  à  contribuição  de  melhoria  se  sub-rogará  na  pessoa  do adquirente, salvo se constar do título aquisitivo a sua quitação, mas o relativo à taxa não.
+
+14. FCC/Pref. Recife-Procurador/2014 Manoel Finório, falecido aos 80 anos por causas ainda desconhecidas, deixa para Ana Faceira, jovem viúva de 21 anos, e para seus 11 filhos considerável soma em dinheiro e vários imóveis residenciais e comerciais na cidade do Recife. Ocorre que na data da partilha, verificou-se que o  Sr.  Manoel  era  devedor  de  ISSQN  perante  o  Fisco  recifense  devidamente  constituído  e inscrito em dívida ativa. Evidente discussão ocorreu entre a viúva e os herdeiros e entre estes para saber quem deveria saldar o débito tributário municipal em haver e quanto seria a parte de cada um. Consultado a respeito, o Procurador Judicial orientou que a a) responsabilidade pessoal deve ser atribuída somente aos 11 filhos herdeiros, de forma que o débito tributário a ser resolvido seja limitado ao montante recebido por cada um deles.
+b)  responsabilidade  deve  ser  pessoalmente  aplicada  tanto  ao  cônjuge  meeiro,  como  aos sucessores herdeiros de Manoel Finório, de forma que o débito tributário a ser resolvido seja limitado ao montante recebido por cada um deles.
+c)  responsabilidade  deve  ser  solidariamente  aplicada  tanto  ao  cônjuge  meeiro,  como  aos sucessores herdeiros de Manoel Finório, de forma que todo o débito tributário seja resolvido, independentemente do montante recebido por cada um deles.
+d)  discussão  fora  inócua  entre  os  envolvidos  pois,  pela  lei,  o  espólio  deve  ser  responsável pelos tributos devidos pelo de cujus até a data da partilha.
+e)  responsabilidade  deve  ser  pessoalmente  aplicada  tanto  ao  cônjuge  meeiro,  como  aos sucessores herdeiros de Manoel Finório, de forma que todo o débito tributário seja resolvido, independentemente do montante recebido por cada um deles.
+
+15. FCC/TCE-GO-Analista de Controle Externo/2014 Na responsabilidade por sucessão, é correto afirmar que:
+a)  a  incorporação  de  uma  empresa  por  outra  implica  em  responsabilidade  tributária  para  a empresa  incorporadora,  relativamente  aos  débitos  tributários  da  empresa incorporada,  por fatos geradores anteriores à incorporação.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+81
+100
+
+b)  se  na  arrematação  de  bem  imóvel  em  hasta  pública  o  respectivo  preço  pago  não  for utilizado  para  quitar  os  tributos  devidos,  incidentes  sobre  o  imóvel,  o  arrematante  é considerado responsável tributário.
+c)  em  processo  de  falência,  o  adquirente  de  estabelecimento  comercial  será  responsável tributário  pelos  tributos  devidos  pela  empresa  falida,  abatendo-se  do  preço  da  aquisição  o valor dos débitos tributários.
+d)  o  espólio  nunca  é  sucessor  tributário,  mas  sim  os  herdeiros  a  qualquer  título  são  quem respondem pelos tributos devidos pelo de cujus até a abertura da sucessão.
+e)  os  pais,  tutores  e  curadores  são  responsáveis  por  sucessão,  pelos  tributos  devidos  pelos filhos, tutelados e curatelados, respectivamente.
+
+16. FCC/SEFAZ-PE-Auditor Fiscal do Tesouro Estadual/2014 De acordo com o CTN, a responsabilidade tributária do sucessor abrange os tributos devidos pelo  sucedido  cujos  fatos  geradores  tenham  ocorrido  até  o  dia  da  sucessão,  mas  não  as multas moratórias ou punitivas.
+
+17. FCC/TRF - 4ª REGIÃO-Técnico Judiciário/2014 Sobre  responsabilidade  tributária,  o  arrematante  é  responsável  pelos  tributos  cujos  fatos geradores sejam anteriores à arrematação, do mesmo modo que o adquirente de bem móvel.
+
+18. FCC/TRF - 4ª REGIÃO-Técnico Judiciário/2014 Sobre responsabilidade tributária, o adquirente de estabelecimento comercial é responsável pelos  tributos  cujos  fatos  geradores  sejam  anteriores  à  aquisição  quando  a  aquisição  se  dá em  processo  de  falência,  já  que  os  créditos  tributários  têm  preferência  sobre  créditos  extra concursais.
+
+19. FCC/TRF - 4ª REGIÃO-Técnico Judiciário/2014 Sobre  responsabilidade  tributária,  a  pessoa  jurídica  de  direito  privado  que  resultar  da incorporação,  fusão   ou  transformação  é  responsável  pelos  tributos  relativos  aos  fatos geradores  anteriores  à  incorporação,  fusão  ou  transformação  de  forma  subsidiária,  caso  o patrimônio da incorporada, fundida ou transformada seja insuficiente para quitar os créditos tributários devidos.
+
+20. FCC/SEFAZ-SP-Agente Fiscal de Rendas/2013 Com fundamento nas previsões do CTN, considere:
+I.  Supondo  que  Aglaope  é   terceira  pessoa  vinculada  ao  fato  gerador  de  determinada obrigação  tributária  e  Leucosia  é  o  contribuinte  desta  obrigação  tributária,  a  atribuição  de Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+82
+100
+
+responsabilidade  pelo  crédito  tributário  a  Aglaope  deve  ser  expressamente  estipulada  por meio  de  lei,  excluindo  a  responsabilidade  de  Leucosia  ou  atribuindo-a  a  esta  em  caráter supletivo do cumprimento total ou parcial da referida obrigação.
+II.  Perséfone  é  proprietária  de  bem  imóvel  e  deseja  vendê-lo.  Logo,  a  responsabilidade  pelo pagamento  do  crédito  tributário  relativo  a  imposto  cujo  fato  gerador  seja  a  propriedade imobiliária sub-roga-se na pessoa dos eventuais adquirentes do imóvel de Perséfone, mesmo quando conste do título a prova de sua quitação.
+III.  Sabázio  morre,  e  deixa  como  herança  três  imóveis.  Selene  e  Sarpédon  são  os  únicos herdeiros,  em  igualdade  de  condições.  Após  ser  realizada  a  partilha  dos  bens  de  Sabázio, ficam  Selene  e  Sarpédon  pessoalmente responsáveis,  limitado  ao  montante  do  respectivo quinhão, pelos tributos devidos até este momento.
+IV.  A  empresa  Jardim  das  Hespérides  S.A.  adquire  da  empresa  Hamadríade  Industrial  Ltda.
+uma  fábrica  instalada  no  Estado  de  São  Paulo.  Aproveitando  todo  o  maquinário  existente,  a adquirente continua a exploração da mesma atividade. Com respeito aos tributos devidos por esta fábrica até o momento da transação empresarial, a empresa Jardim das Hespérides S.A.
+responde  subsidiariamente  com  o  alienante  se  este  cessar  a  exploração  da  indústria,  e responde a adquirente pessoalmente se o alienante iniciar dentro de seis meses, a contar da data da alienação, nova atividade no mesmo ramo de indústria.
+V.  Na  hipótese  de  alienação  judicial  em  processo  de  falência,  a  pessoa  jurídica  de  direito privado  que  adquirir  fundo  de  comércio  nesta  situação  e  continuar  a  respectiva  exploração responde,  em  qualquer  hipótese,  pelos  tributos  relativos  ao  fundo  de  comércio  adquirido, devidos até a data da operação.
+Está correto o que se afirma APENAS em a) I e II.
+b) I e III.
+c) II e V.
+d) III e IV.
+e) IV e V.
+
+21. FCC/TJ-PE-Juiz/2013 Na  sucessão  causa  mortis  haverá  responsabilidade  tributária  do  espólio  e  dos  sucessores, solidariamente, por todos os tributos cujos fatos geradores surgirem durante o inventário ou partilha.
+
+22. FCC/TRF - 2ª REGIÃO-Analista Judiciário/2012 Samuel  vendeu,  por  escritura  pública,  um  imóvel  para  Sueli.  Haviam  débitos  referentes  ao imposto predial e territorial urbano. O contrato de venda e compra estipulou a transferência dessa  responsabilidade  (quitação  dos  débitos)  para  Rafael  (então  devedor  de  Samuel),  mas Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+83
+100
+
+que  deixou  de  cumpri-la.  Nesse  caso,  a  responsabilidade  da  quitação  do  débito  perante  à Fazenda Pública do Município será a) de Rafael, ou seja, o terceiro integrante no contrato.
+b) de Samuel, ou seja, o vendedor do imóvel.
+c) de Sueli, ou seja, a compradora e atual proprietária do imóvel.
+d) do vendedor Samuel e da compradora Sueli.
+e) da compradora Sueli e do terceiro Rafael.
+
+23. FCC/PGM-João Pessoa-PB-Procurador Municipal/2012 Sobre a responsabilidade dos sucessores, analise os itens abaixo.
+I.  O  arrematante  de  imóvel  em  hasta  pública  não  é  responsável  pelos  tributos  incidentes sobre o bem cujos fatos geradores sejam anteriores à arrematação.
+II.   O   espólio   não   é   responsável   tributário   pelos   tributos   cujos   fatos   geradores   sejam anteriores  à  abertura  da  sucessão,  assim  como  pelos  tributos  cujos  fatos  geradores  tenham ocorrido durante o inventário.
+III.  O  adquirente  de  estabelecimento  comercial é  sempre  responsável  integralmente  pelos tributos  cujos  fatos  geradores  sejam  anteriores  à  aquisição,  ainda  que  a  mesma  se  dê judicialmente em processo de falência.
+Está correto o que se afirma APENAS em a) I.
+b) I e II.
+c) II.
+d) II e III.
+e) III.
+
+24. FCC/Pref. São Paulo-Auditor Fiscal do Município/2012 Um   menino   menor   de   idade,   com   dez   anos,   recebeu,   na   qualidade   de   herdeiro testamentário, por ocasião da morte de sua avó, um imóvel urbano, localizado em município do interior de São Paulo, no valor de R$ 350.000,00.
+Houve a aceitação da herança pelo menor, que, nesse ato, foi representando por seus pais.
+Nesse caso, o tributo devido na transmissão causa mortis de bens imóveis caberá:
+a) aos pais do  menor  de idade, pois o menino, por ser menor de idade, não tem capacidade tributária.
+b)   ao   menino   menor   de   idade,   pois   ele   tem   capacidade   tributária,   e,   no   caso   de impossibilidade  de  exigência  do  cumprimento  dessa  obrigação  tributária  por  ele,  seus  pais Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+84
+100
+
+responderão solidariamente com ele, nos atos em que intervierem ou pelas omissões de que forem responsáveis.
+c) cinquenta por cento ao menino menor de idade e cinquenta por cento aos pais do menor.
+d)  aos  pais  do  menino  menor  de  idade  e  ao  próprio  menino,  pois  o  menor  não  tem capacidade jurídica para ser, isoladamente, contribuinte.
+e)   ao   menino   menor   de   idade,   pois   ele   tem   capacidade   tributária,   e,   no   caso   de impossibilidade  de  exigência  do  cumprimento  dessa  obrigação  tributária  por  ele,  seus  pais responderão solidariamente com ele.
+
+25. FCC/PGE-SP-Procurador do Estado/2012 Em  se  tratando  de  responsabilidade  tributária,  “Beltrano”  faleceu  deixando  herdeiros  e tributos não pagos. Deixou bens em valor inferior ao valor dos tributos devidos. O sucessor a qualquer título e o cônjuge meeiro são responsáveis pelo valor total dos tributos devidos pelo de cujus até a data da partilha ou adjudicação.
+
+26. FCC/ SEFAZ-SP-Agente Fiscal de Rendas/2009 Considere  a  seguinte  situação:  diretores  de  uma  empresa,  que  está  sendo  adquirida  por outra, pactuaram com a adquirente que suportarão o pagamento do ICMS devido até a data do  ato  de  aquisição.  Neste  caso,  a  Fazenda  poderá  cobrar  o  ICMS  da  empresa  adquirente, uma vez que as convenções particulares não podem ser opostas à Fazenda Pública.
+
+27. FCC/Procurador Judicial-Recife-PE/2008 Decidido  anteriormente  pelo  juízo  de  direito,  nos  autos  da  recuperação  judicial,  que  o adquirente  de  unidade  produtiva  via  alienação  naquele  processo  não  responderia  pelas obrigações  do  devedor  (art.  60,  parágrafo  único,  da  Lei  n.º  11.101/2005),  tal  deliberação sobrepõe-se  a  qualquer  decisão  sobre  a  matéria  advinda  de  juízos  diversos,  sob  pena  de inibição  do  propósito  tutelar  e  da  operacionalidade  do  mencionado  diploma  legal.  (AgRg  no CC 112638 / RJ, Relator Ministro João Otávio de Noronha, Órgão Julgador S2 – Segunda Seção do STJ, Data do Julgamento 10/8/2011) Tendo  como  referência  inicial  a  jurisprudência  apresentada,  julgue  o  item  a  seguir:  após  a partilha  amigável  em  arrolamento  de  bens  judicial  pela  morte  de  seu  pai,  que  se  deu  em 2007,  Tício  e  Mévio  recebem  agora  notificação  para  pagamento  de  Imposto  de  Renda  ano- base 2003, por ele devido quando ainda estava vivo. Esta exigência fiscal está correta, porque os sucessores são responsáveis pelos tributos devidos, cujos fatos geradores ocorreram até a data da  partilha,  até  o  limite  dos  quinhões  recebidos,  desde  que  não  tenha  se  operado  a decadência ou prescrição.
+
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+85
+100
+
+RESPONSABILIDADE DE TERCEIROS 28. FCC/SEFAZ-PE-Julgador Administrativo Tributário do Tesouro Estadual/2015 O Estado do Pernambuco lavrou auto de infração contra a empresa Redealegre, cobrando-lhe ICMS  e  multa,  sob  o  fundamento  de  que  promoveu  saída  de  mercadoria  sem  o  devido recolhimento  do  imposto.  Notificada,  a  Redealegre  apresentou  impugnação  e  os  recursos administrativos cabíveis, mas o auto de infração foi mantido na esfera administrativa. Ocorre que a empresa, nesse período, enfrentando problemas financeiros e não conseguindo saldar suas  obrigações,  teve  sua  falência  decretada.  No  caso  hipotético,  o  Estado  do  Pernambuco, ao promover a cobrança do débito fiscal, deverá acionar a)  o  sócio,  já  que  a  decretação  da  falência  da  empresa  Redealegre  constitui  hipótese  de dissolução irregular da sociedade, o que enseja a sua responsabilidade solidária.
+b)  o  sócio,  pois  a  inadimplência  das  obrigações  tributárias  por  parte  da  empresa  constitui infração legal e enseja a sua responsabilidade solidária.
+c)  o  sócio,  pois  a  decretação  da  falência  da  empresa  é  situação  apta  a  demonstrar  que  ele agiu  com  culpa,  na  medida  em  que  se  presume  que  não  agiu  com  zelo  na  administração  da empresa Redealegre.
+d)  a  massa  falida  da  empresa  Redealegre,  pois  a  decretação  da  falência  não  caracteriza dissolução  irregular  da  sociedade,  não  representando  infração  legal  apta  a  viabilizar  o acionamento automático do sócio.
+e)   a   massa   falida   da   empresa   Redealegre,   pois,   por   força   do   princípio   da   separação patrimonial,  somente  a  empresa  responde  por  suas  dívidas,  não  podendo  o  seu  sócio  ser responsabilizado por elas.
+
+29. FCC/TJ-RR-Juiz Substituto/2015 Sérgio, viúvo, faleceu em 2012, tendo deixado dois filhos como herdeiros: um maior de idade e outro menor de idade.
+No momento de seu falecimento, o valor total dos bens deixados por Sérgio (todos eles bens móveis) era de R$ 1.500.000,00.
+Nesse mesmo momento, o valor de suas dívidas, inclusive tributárias, perfazia o montante de R$ 300.000,00.
+Em  seu  testamento,  deixou  como  legado,  para  seu  sobrinho  Carlos,  menor  de  idade,  com  8 anos  completos,  a  importância  de  R$  120.000,00,  e  deixou  para  Madalena,  sua  sobrinha  e irmã de Carlos, com 21 anos completos, a importância de R$ 100.000,00.
+Camilo, tutor de Carlos, aceitou a herança em nome do menino, mas como este não possuía recurso financeiro algum para liquidar o crédito tributário em questão, deixou-se de efetivar o pagamento do ITCMD incidente sobre essa transmissão causa mortis.
+Madalena aceitou a herança, mas não pagou o ITCMD devido, por puro esquecimento.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+86
+100
+
+De  acordo  com  a  lei  do  Estado  federado  que  tinha  titularidade  ativa  para  instituir  o  ITCMD sobre  essas  transmissões  hipotéticas,  “o  contribuinte  do  ITCMD  é  o  herdeiro  a  qualquer título”.
+Considerando os fatos acima narrados e o que o Código Tributário Nacional dispõe a respeito de sujeição passiva e capacidade tributária, a) Carlos não pode ser contribuinte do ITCMD relativo ao legado que recebeu, por ser menor de  idade,  ainda  que  lei  estadual  tenha  disposto  que  o  herdeiro  a  qualquer  título  é  o contribuinte na transmissão causa mortis.
+b)  Camilo  não  pode  ser  responsabilizado  pelo  pagamento  do  ITCMD  devido  sobre  o  legado recebido por Carlos, pois não agiu com dolo.
+c)  o  espólio  é  responsável  pelas  dívidas  tributárias  do  de  cujus,  incorridas  anteriormente  ao seu óbito.
+d)  Madalena,  por  ser  irmã  de  Carlos,  e  maior  de  idade,  é  contribuinte  tanto  em  relação  ao ITCMD  devido  pelo  legado  que recebeu,  como  em  relação  ao  ITCMD  devido  pelo  legado recebido por seu irmão.
+e) o espólio, na qualidade de responsável por sucessão, é contribuinte do ITCMD devido pelos legatários e pelos herdeiros legais menores de idade.
+
+30. FCC/TJ-CE-Juiz/2014 Em setembro de 2013, Gustavo, com 10 anos de idade, domiciliado em Fortaleza/CE, recebeu em doação, de sua avó, Mariângela, viúva, domiciliada em Natal/RN, um terreno localizado à beira-mar, em Aquiraz/CE, do qual ela era proprietária, fazia 30 anos.
+Como Gustavo é menor de idade, a aceitação da doação foi feita apenas por sua mãe, que o representa  na  prática  de  atos  da  vida  civil,  pois  seu  pai  foi  destituído  do  poder  familiar,  por decisão judicial, e há muito tempo “anda desaparecido”.
+No momento em que foi lavrada a escritura de doação, Mariângela, que era contribuinte do IPTU,  encontrava-se  em  débito  com  a  Prefeitura  do  Município  de  Aquiraz,  relativamente  a esse imposto, no exercício de 2013. Considerando que o contribuinte do ITCD, nas doações, é o  donatário  e  tomando  como  base  o  que  dispõem  a  Constituição  Federal  e  o  Código Tributário Nacional, é correto afirmar:
+O  pai  e  a  mãe  de  Gustavo  revestirão  a  condição  de  responsáveis  tributários  pelo  IPTU  em atraso  e  pelo  ITCD  devido  por  Gustavo,  se,  da  escritura  de  doação, não  constar  certidão negativa relativamente a débitos do IPTU e do ITCD e se não for possível exigir de Gustavo o cumprimento da obrigação principal.
+
+31. FCC/TRF - 4ª REGIÃO-Analista Judiciário/2014 Tício, Mévio e Portus são sócios em uma empresa de responsabilidade limitada, na proporção de  1%,  30%  e  69%,  das  quotas  sociais,  respectivamente.  Consta  do  contrato  social  que  o Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+87
+100
+
+representante  legal  da  empresa  é  Tício.  Considerando  que  a  empresa  deixou  de  emitir  nota fiscal e, portanto, de recolher o ICMS devido no período de dezembro de 2010 até fevereiro de 2013, após regular ação fiscal, foi feita a autuação para pagamento do tributo, multa, juros e correção monetária. Diante do não pagamento do crédito constituído, foi o mesmo inscrito em dívida ativa e, após extrair a Certidão da Dívida Ativa - CDA, foi proposta execução fiscal em face da empresa e dos sócios. Diante dos fatos apresentados, a)   não   há   responsabilidade   solidária   entre   os   sócios,   mas   pessoal,   que   respondem proporcionalmente no limite de suas quotas sociais, pelos atos que praticam em infração de lei,  bem  assim  não  há  solidariedade  com  a  empresa,  que  somente  responde  pelo  crédito tributário correspondente a obrigações tributárias efetivamente praticadas.
+b)   somente   o   representante   legal   da   empresa,   Tício,   é   que   responde   pelo   crédito correspondente a obrigações tributárias resultantes de atos praticados em infração de lei, de forma   pessoal,   mas   a   empresa,   na   qualidade   de   contribuinte,   é   devedora   do   tributo decorrente do fato gerador efetivamente praticado por ela.
+c)  o  polo  passivo  da  execução  fiscal  está  correto,  tendo  em  vista  que  os  sócios  são responsáveis   pelo   crédito   correspondente   a   obrigações   tributárias   resultantes   de   atos praticados em infração de lei, contrato ou estatuto, de forma pessoal.
+d) os sócios não devem figurar no polo passivo da execução fiscal, tendo em vista que se trata de  sociedade  por  quotas  de  responsabilidade  limitada,  ou  seja,  é  a  empresa,  com  seu patrimônio,   que   responde   pelos   créditos   tributários   decorrentes   do   exercício   de sua atividade, ainda que praticados em infração de lei, contrato ou estatuto.
+e) a empresa não deve figurar no polo passivo da execução fiscal, tendo em vista que, no caso de   infração   de   lei,   a   responsabilidade   é   pessoal   e   exclusiva   dos   sócios   pelo   crédito correspondente a obrigações tributárias resultantes de atos praticados em infração de lei.
+
+32. FCC/TJ-PE-Juiz/2013 Em  fiscalização  realizada  em  uma  empresa  de  embalagens  foram  constatadas  inúmeras irregularidades  relativamente  ao  recolhimento  dos  tributos  devidos,  razão  pela  qual  foi lavrado  um  Auto  de  Infração  e  Imposição  de  Multa.  O  crédito  tributário  decorrente  destes fatos geradores por atos praticados com infração de lei, contrato ou estatuto, será devido a) pelos diretores ou gerentes, enquanto representantes legais da empresa, na qualidade de responsáveis  pessoais,  pelos  créditos  cujos  atos  advieram  de  infração  de  lei,  contrato  ou estatuto; e pela empresa, na qualidade de contribuinte, pelos créditos cujos fatos geradores efetivamente tenha praticado sem afronta à lei, contrato ou estatuto.
+b) pelos sócios e pelos diretores ou gerentes, enquanto representantes legais da empresa, na qualidade  de  responsáveis  solidários,  por  créditos  advindos  de  atos  decorrentes  da  infração de  lei,  contrato  ou  estatuto;  e pela  empresa,  na  qualidade  de  contribuinte,  pelos  fatos geradores que efetivamente praticou.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+88
+100
+
+c)  pela  empresa,  em  sua  totalidade,  na  qualidade  de  contribuinte  e,  subsidiariamente,  pelos sócios diretores, enquanto representantes legais, pelo crédito decorrente de atos praticados com infração de lei, contrato ou estatuto.
+d)  pela  empresa  e  pelos  sócios,  solidariamente,  na  qualidade  de  contribuinte  e  responsável, respectivamente,  pelos  créditos  decorrentes  de  todos  os  atos  praticados,  inclusive  com infração de lei, contrato ou estatuto.
+e)  pelos  sócios,  em  sua  totalidade,  na  qualidade  de  responsáveis  pessoais  pelos  atos  com infração  de  lei,  contrato  ou  estatuto;  e  pela  empresa,  na  qualidade  de  contribuinte,  pelos créditos decorrentes de todos os atos praticados por seus responsáveis le- gais, em regime de solidariedade.
+
+33. FCC/TJ-PE-Notário e Registrador/2013 Quando  da  realização  do  negócio  jurídico  de  compra  e  venda  de  bem  imóvel  o  alienante declarou  ao  tabelião  que  não  possuía  débitos  para  com  as Fazendas  Públicas  municipal, estadual  e  federal.  Esta  declaração  foi  consignada  na  Escritura  Pública  que  ainda  constou  a assunção   pelo   alienante   de   qualquer   obrigação   tributária   por   fato   gerador   anterior   à lavratura da Escritura. A responsabilidade tributária neste caso, a) é do alienante, pelos tributos cujos fatos geradores sejam anteriores ao negócio.
+b)  é  do  adquirente,  ainda  que  tenham  sido  apresentadas  as  certidões  negativas  de  débito pelo alienante.
+c) é solidária do alienante e do adquirente.
+d)  pode  ser  solidária  do  tabelião  ou  do  oficial  do  registro  de  imóveis  com  o  adquirente quando não efetivamente fiscalizado o recolhimento do tributo devido na operação.
+e)  somente  será  atribuída  ao  tabelião  ou  ao  oficial  do  registro  de  imóveis  em  caráter exclusivo, pela omissão na fiscalização desta obrigação tributária por parte do alienante.
+
+34. FCC/TJ-PE-Titular de Serviços de Notas e Registros/2013 É  legalmente  considerado  responsável  solidário  pelos  tributos  gerados  por  atos  em  que intervém
+a) o filho menor, em relação aos tributos devidos por seus pais.
+b) a sociedade de pessoa, em relação aos tributos devidos por seus sócios.
+c) o inventariante, pelos tributos devidos pelo espólio.
+d) o usuário do serviço notarial e de registro, pelos tributos decorrentes da prática de atos na serventia.
+e) o proprietário mandante, pelos tributos devidos por atos do administrador.
+
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+89
+100
+
+35. FCC/SEFAZ-SP-Agente Fiscal de Rendas/2013 Constavam  no  contrato  social  da  empresa  Tessalônica  Industrial  Ltda.  três  sócios:  Ovídio, Sêneca  e  Virgílio.  Ovídio  e  Virgílio  eram  os  administradores  da  empresa,  cada  qual  podendo assinar  e  obrigar  a  empresa  isoladamente;  já  Sêneca  nunca  se  envolvera  na  administração, tendo  apenas  subscrito  e  integralizado  o  capital  e  auferido  os  lucros  obtidos.  Não  obstante haver  no  contrato  social  da  empresa  cláusula  que  expressamente  veda  operações  em  bolsa de  valores  com  recursos  da  empresa,  em  12/11/2012,  Ovídio,  aproveitando  a  grande  sobra de caixa da empresa, fez uma operação em bolsa de valores na qual obteve um lucro muito expressivo.  Contudo,  apesar  do  lucro,  o  Imposto  de  Renda  relativo  ao  ganho  de  capital  na operação  não  foi  declarado  e  nem  recolhido  dentro  do  prazo  legal.  Em  face  da  situação hipotética apresentada e do ordenamento jurídico vigente, com respeito ao crédito tributário devido tem-se que:
+a) por se tratar de operação não autorizada pelos estatutos ou contrato social, a empresa não pode ser responsabilizada pelo pagamento da multa e do imposto.
+b) os sócios devem ser responsáveis, pois o lucro da operação será a eles distribuído.
+c)  apesar  de  também  beneficiar  Sêneca  e  Virgílio,  apenas  Ovídio  deve  ser  pessoalmente responsabilizado,  pois  agiu  contrariando  expressa  previsão  do  contrato  social.  Da  empresa também deverá ser cobrado o imposto e multas.
+d)   Ovídio   deve   ser   pessoalmente   responsabilizado,   excluindo-se   a   responsabilidade   da empresa, pois a infração decorreu direta e exclusivamente de sua atuação pessoal.
+e)  se  não  for  possível  exigir  da  empresa  o  cumprimento  da  obrigação  principal,  respondem solidariamente  com  ela  nos  atos  em  que  intervierem  ou  pelas  omissões  de  que  forem responsáveis os sócios Ovídio e Virgílio.
+
+36. FCC/SEFAZ-SP-Agente Fiscal de Rendas/2009-Adaptada Todos  os  sócios  são  responsáveis  por  obrigações  tributárias  resultantes  de  atos  praticados com  excesso  de  poderes  ou  infração  de  lei,  contrato  ou  estatuto  social  de  empresa, independentemente da qualidade de representante legal.
+
+RESPONSABILIDADE POR INFRAÇÕES 37. FCC/TJ-PI-Juiz/2015 Atenção: Para responder a questão, considere a seguinte situação hipotética:
+A empresa Soma Importadora S/A tem sede em Teresina, Piauí. No regular exercício de suas atividades   importa   e   comercializa   produtos   para   revendedores   e   consumidores   finais localizados  em  Teresina  e  arredores  e  em  outros  Estados  da  federação,  estando  sujeita  ao pagamento do Imposto sobre Circulação de Mercadorias − ICMS nestas operações.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+90
+100
+
+A  insuficiência  de  recursos  financeiros  da  Soma  Importadora  S/A  fez  com  que,  ao  longo  de 2013,  a  empresa  deixasse  de  recolher  o  ICMS  declarado  à  fiscalização  estadual  por  meio  de documento fiscal próprio.
+Após   um   dos   sócios   subscrever   e   integralizar   o   valor   de   suas   quotas   na   sociedade, capitalizando  a  sociedade  em  montante  aparentemente  suficiente  para  liquidar  a  dívida,  a importadora poderá
+a) pagar o ICMS devido com os benefícios da denúncia espontânea.
+b) denunciar espontaneamente o ICMS que se deixou de recolher, podendo parcelá-lo.
+c) parcelar o ICMS devido, sendo vedada a realização de denúncia espontânea.
+d)  denunciar espontaneamente  o  ICMS  que  se  deixou  de  recolher,  sendo  vedado  o  seu parcelamento.
+e) parcelar o ICMS devido com os benefícios da denúncia espontânea.
+
+38. FCC/Pref. Recife-Analista de Gestão Contábil/2019 De  acordo  com  o  CTN,  a  responsabilidade  é  excluída  pela  denúncia  espontânea  da  infração.
+Segundo esse mesmo Código, NÃO se considera espontânea a denúncia a)  de  ato  ou  fato  que,  simultaneamente,  constitua  infração  tributária,  cometida  com  dolo, fraude ou  simulação, e crime contra a ordem tributária, com o objetivo de redução da pena criminal.
+b)  que  não  seja  feita,  pessoalmente,  a  agente  do  sujeito  ativo  competente  para  exigir  o tributo  relacionado  com  a  denúncia,  dentro  do  prazo  de  30  dias  contados  da  data  do cometimento da infração.
+c) de prática infracional que, simultaneamente, constitua crime contra a ordem tributária ou contravenção de natureza grave.
+d) relativa a infração cometida com dolo, fraude ou simulação.
+e)  apresentada  após  o   início   de  qualquer   procedimento  administrativo   ou  medida  de fiscalização, relacionados com a infração.
+
+39. FCC/SEFAZ-BA-Auditor Fiscal /2019 Sobre a responsabilidade tributária, o Código Tributário Nacional dispõe:
+I.  A  responsabilidade  é  pessoal  ao  agente,  quanto  às  infrações  conceituadas  por  lei  como crimes  ou  contravenções,  salvo  quando  praticadas  no  exercício  regular  de  administração, mandato,  função,  cargo  ou  emprego,  ou  no  cumprimento  de  ordem  expressa  emitida  por quem de direito.
+II. A  pessoa  natural  ou  jurídica  de  direito  privado  que  adquirir  de  outra,  por  qualquer  título, fundo  de  comércio  e  continuar  a  respectiva  exploração,  sob  a  mesma  ou  outra  razão  social, responde  subsidiariamente  pelos  tributos,  relativos  ao  fundo  ou  estabelecimento  adquirido, Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+91
+100
+
+devidos  até  a  data  do  ato,  se  o  alienante  cessar  a  exploração  do  comércio,  indústria  ou atividade.
+III.  Haverá  responsabilidade  pessoal  e  exclusiva  dos  pais,  pelos  tributos  devidos  por  seus filhos,  bem  como  dos  tutores  e  curadores,  pelos  tributos  devidos  por  seus  tutelados  ou curatelados  em  todos  os  atos  em  que  intervierem,  exceto  pelas  omissões  de  que  forem responsáveis.
+IV.  Os  mandatários,  prepostos  e  empregados  são  pessoalmente  responsáveis  pelos  créditos correspondentes  a  obrigações  tributárias  resultantes  de  atos  praticados  com  excesso  de poderes ou infração de lei, contrato social ou estatutos.
+Está correto o que se afirma APENAS em a) I e II.
+b) II e III.
+c) I, II e IV.
+d) III e IV.
+e) I e IV.
+
+40. FCC/PGE-MT-Analista Direito/2016 Relativamente  às  penalidades  pecuniárias  por  descumprimento  da  legislação  tributária  que podem  ser  impostas  aos  contribuintes,  o  Código  Tributário  Nacional  estabelece  que  a denúncia  espontânea  da  infração  é  elemento  suficiente  para  excluir  a  responsabilidade  pelo seu pagamento, mesmo quando há tributo devido em razão do cometimento da infração.
+
+41. FCC/SEFAZ-PI-Auditor Fiscal da Fazenda Estadual/2015 De  acordo  com  o  CTN,  é  correto  afirmar  que  salvo  disposição  de  lei  em  contrário,  a responsabilidade por infrações da legislação tributária depende da intenção do agente ou do responsável e da efetividade, natureza e extensão dos efeitos do ato.
+
+42. FCC/TCM-GO-Auditor de Controle Externo/2015 O  Código  Tributário  Nacional,  no  Capítulo  V  do  Título  I  do  seu  Livro  II,  trata  das  diversas modalidades de responsabilidade tributária. De acordo com esse código, a)   os   tutores   e   curadores   respondem   solidariamente   pelos   tributos   devidos   por   seus tutelados  ou  curatelados,  nos  atos  em  que  intervierem  ou  não,  ou  pelas  omissões  de  que forem  responsáveis,  independentemente  da  possibilidade  de  exigência  do  cumprimento  da obrigação principal pelo contribuinte (“responsabilidade por sucessão”).
+b) a pessoa jurídica de direito privado que resultar de fusão, transformação ou incorporação de  outra  ou  em  outra  é  responsável  pelos  impostos  devidos  a  partir  da  data  do  ato  pelas Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+92
+100
+
+pessoas    jurídicas    de    direito    privado    fusionadas,    transformadas    ou    incorporadas (“responsabilidade a posteriori”).
+c)  o  adquirente  ou  remitente  é  pessoalmente  responsável  pelos  tributos  relativos  aos  bens adquiridos ou remidos (“responsabilidade por sucessão”).
+d)  a  responsabilidade  é  pessoal  ao  agente  quanto  às  infrações  em  cuja  definição  o  dolo genérico do agente seja elementar (“responsabilidade por sucessão”).
+e) a responsabilidade é excluída pela denúncia espontânea da infração, acompanhada, se for o  caso,  do pagamento  do  tributo  devido,  dos  juros  de  mora,  de  multa  de  mora  e  de atualização  monetária,  calculados  até  a  data  do  pagamento  (“denúncia  espontânea  ou autodenúncia”).
+
+43. FCC/TCM-GO-Auditor de Controle Externo/2015 A responsabilidade é excluída pela denúncia espontânea da infração, acompanhada, se for o caso, do pagamento do tributo devido, dos juros de mora, de multa de mora e de atualização monetária, calculados até a data do pagamento (“denúncia espontânea ou autodenúncia").
+
+44. FCC/SABESP-Advogado/2014 A denúncia espontânea da infração a)  traz  redução  no  valor  do  crédito  tributário  quando  o  sujeito  passivo  a  faz  antes  do lançamento.
+b) é causa de exclusão do crime de sonegação fiscal, sendo matéria atinente ao Direito Penal Tributário quanto à infração decorrente de dolo específico.
+c)   afasta   a   responsabilidade   por   infração,   desde   que   anterior   a   qualquer   medida   de fiscalização ou procedimento administrativo e acompanhada do pagamento, se for o caso, do tributo devido e dos juros de mora.
+d)  pode ser  apresentada,  para  qualquer  tributo,  até  o  final  da  ação  fiscal,  procedimento administrativo  de  fiscalização,  mas  antes  da  lavratura  do  auto  de  infração  e  imposição  de multa, desde que relacionada com a infração.
+e)  afasta  a  incidência  do  crédito  tributário,  sendo  forma  de  anistia  do  crédito  tributário, desde que haja previsão em lei do ente competente e seja feita pelo sujeito passivo antes de qualquer medida de fiscalização pelo fisco.
+
+45. FCC/PGE-RN-Procurador/2014 Segundo o Código Tributário Nacional, a denúncia espontânea a) é causa de extinção do crédito tributário.
+b)  tem  lugar  antes  de  qualquer  procedimento  administrativo  ou  medida  de  fiscalização relacionados com a infração.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+93
+100
+
+c)  alcança  a  obrigação  principal  e  a  obrigação  acessória,  acarretando  a  exclusão  do  crédito tributário.
+d) só pode ser realizada nos tributos sujeitos a lançamento por homologação, desde que não tenha havido apresentação de declaração, quando exigida.
+e)  impede  a  constituição  do  crédito  tributário  relativamente  aos  juros  de  mora e  à  multa moratória.
+
+46. FCC/TCE-PI-Auditor Fiscal de Controle Externo/2014 Maria,  domiciliada  na  cidade  de  Piripiri-PI,  recebeu   em  doação,  de  seu   irmão  Carlos, domiciliado  na  cidade  de  Teresina-PI,  um  automóvel  importado,  registrado  e  licenciado  no município de Parnaíba-PI, cujo valor venal é de R$ 120.000,00.
+Essa  doação,  que  está  no  campo  de  incidência  do  ITCMD  piauiense,  ocorreu  em  agosto  de 2011,  mas  Maria,  donatária  e  contribuinte  desse  imposto,  por  desconhecer  o  fato  de  que deveria pagá-lo em razão da doação que recebeu, acabou por não fazer esse pagamento.
+Meses depois de recebida a doação, descobrindo que deveria ter pago o ITCMD pela doação que  recebeu  e  antes  de  o  fisco  iniciar  qualquer  procedimento  relacionado  com  a  apuração dessa  falta,  Maria  procurou  a  repartição  fiscal  estadual  piauiense,  relatou  o  ocorrido  e  se propôs a pagar, de imediato, antes da instauração de qualquer procedimento fiscal, o crédito tributário  devido,  cujo  valor  nominal  era  de  R$  4.800,00  (R$  120.000,00  ×  4%),  conforme documentação que ela exibiu à autoridade fiscalizadora.
+Para  exclusão  da  responsabilidade  da  autuada  em  relação  ao  imposto  que  não  foi  pago  e  à infração cometida, e considerando que o montante do tributo não depende de apuração pelo fisco,  pois  Maria  apresentou à  autoridade  fiscalizadora  a  documentação  comprobatória  do valor  nominal  do  bem  doado,  é  correto  afirmar,  com  base  no  CTN,  que  Maria  não  terá  de pagar a multa por infração à legislação do ITCMD, mas terá de pagar o a) montante do tributo devido, apenas.
+b) tributo devido e os juros de mora.
+c) tributo devido e a atualização monetária.
+d) tributo devido, os juros de mora e a atualização monetária.
+e) tributo devido, os juros de mora, a atualização monetária e multa moratória.
+
+47. FCC/PGE-SP-Procurador do Estado/2012 Em  se  tratando  de  responsabilidade  tributária,  comerciante  arrependido  por  ter  feito  várias operações comerciais sem a emissão de nota fiscal, comparece à repartição fiscal e, de forma espontânea,   confessa   as   infrações   cometidas.   Ao   analisar   a   conduta   do   contribuinte, desacompanhada de qualquer outra providência, o fisco pode relevar a infração.
+
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+94
+100
+
+48. FCC/Procurador-SP/2009 A  norma  contida  no  art.  138  do  CTN,  que  trata  da  denúncia  espontânea  da  infração,  não autoriza o contribuinte do ICMS, que declarou o imposto e não o recolheu tempestivamente, efetuar,  após  a  data  do  vencimento,  o  pagamento  do  tributo,  acrescido  de  juros  de  mora, mas sem a multa moratória.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+95
+100
+
+7 – GABARITO DAS QUESTÕES COMPLEMENTARES 
+
+1. C
+2. A
+3. B
+4. A
+5. E
+6. E
+7. B
+8. E
+9. A
+10. E
+11. C
+12. A
+13. C
+14. B
+15. A
+16. E
+17. E
+18. E
+19. E
+20. B
+21. E
+22. C
+23. A
+24. B
+25. E
+26. C
+27. C
+28. D
+29. C
+30. E
+31. B
+32. A
+33. D
+34. C
+35. C
+36. E
+37. C
+38. E
+39. E
+40. E
+41. E
+42. C
+43. E
+44. C
+45. B
+46. B
+47. E
+48. C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+96
+100
+
+8 – RESUMO DOS ASSUNTOS MAIS IMPORTANTES RESPONSABILIDADE TRIBUTÁRIA • Sujeito  passivo  da  obrigação  principal → Pessoa  obrigada  ao  pagamento  de  tributo  ou penalidade pecuniária.
+
+• Sujeito  passivo  direto  (contribuinte) → Pessoa  que  tenha  relação  pessoal  e  direta  com  a situação que constitua o respectivo fato gerador.
+
+• Sujeito  passivo  indireto  (responsável) → Pessoa  que,  mesmo  não  tendo relação  pessoal  e direta com a situação que constitua o respectivo fato gerador, sua obrigação decorre da lei.
+
+• O responsável é terceira  pessoa vinculada  ao fato gerador da respectiva  obrigação. Neste caso, a responsabilidade do contribuinte pode ser excluída ou atribuída apenas em caráter supletivo.
+
+• Responsabilidade por substituição → Quando o vínculo jurídico do responsável surge antes ou mesmo no momento da ocorrência do fato gerador.
+
+• Responsabilidade por  transferência → Quando o vínculo jurídico do responsável surge em momento posterior ao da ocorrência do fato gerador.
+
+Responsabilidade
+Tributária
+Por Substituição
+Progressiva/
+Regressiva
+Resp. Terceiros
+c/ atuação
+irregular
+Resp. por
+Infrações
+Por
+Transferência
+Resp. por
+Sucessão
+Resp. por
+Solidariedade
+Resp. Terceiros
+c/ atuação
+regular
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+97
+100
+
+RESPONSABILIDADE POR SUBSTITUIÇÃO Substituição  tributária regressiva → substituição das pessoas que  estão nas etapas anteriores da cadeia de produção ou circulação de mercadorias, ocasionando o diferimento do pagamento dos tributos devidos.
+Substituição  tributária  progressiva → substituição  das  pessoas  que  estão  nas  etapas  posteriores pelas ocupam posição anterior na cadeia de produção e circulação de mercadorias, ocasionando a antecipação do pagamento dos tributos que serão devidos.
+
+RESPONSABILIDADE POR TRANSFERÊNCIA • A  transferência  da  responsabilidade pode  ocorrer  por  meio  de  solidariedade,  nos  casos previstos no art. 124,  do CTN (interesse comum ou designação por meio de lei). Vale ressaltar que a solidariedade não comporta benefício de ordem.
+• A transferência de responsabilidade também pode ocorrer por meio de sucessão, nos seguintes casos:
+1. Sucessão na transmissão de bens imóveis (CTN, art. 130);
+2. Sucessão na transmissão de bens móveis (CTN, art. 131, I);
+3. Sucessão na transmissão causa mortis (CTN, art. 131, II e III);
+4. Sucessão empresarial (CTN, art. 132 e 133).
+
+Sucessão na Transmissão de Bens Imóveis • Adquirente de bens imóveis assume a responsabilidade pelo pagamento dos impostos, taxas e contribuições de melhoria relativas ao imóvel objeto da transmissão.
+Exceções:
+• Quando conste do título a prova de sua quitação;
+• No caso de arrematação em hasta pública.
+Sucessão na Transmissão de Bens Móveis • São pessoalmente  responsáveis os adquirentes  ou  remitentes,  pelos  tributos  relativos  aos bens adquiridos ou remidos.
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+98
+100
+
+Sucessão na Transmissão Causa Mortis • Na  sucessão  causa  mortis, respondem  pessoalmente pelos  tributos  devidos  pelo de  cujus o espólio e os sucessores e o cônjuge meeiro, na forma esquematizada abaixo:
+
+
+
+Sucessão Empresarial • A pessoa jurídica que resultar de fusão, transformação ou incorporação de outra ou em outra é responsável pelos tributos devidos até à data do ato pelas pessoas jurídicas de direito privado fusionadas, transformadas ou incorporadas.
+• A  responsabilidade  pelos  tributos  devidos  ocorre inclusive  nos  casos  de  extinção  de  pessoas jurídicas de direito privado, quando a exploração da respectiva atividade seja  continuada por qualquer sócio remanescente, ou seu espólio, sob a mesma ou outra razão social, ou sob firma individual.
+• Há   também   responsabilidade   do   adquirente   de   fundo   de   comércio   ou   estabelecimento comercial, industrial ou profissional, na forma esquematizada abaixo:
+De Cujus
+•É contribuinte pelos FGs antes da morte.
+•A resposabilidade é transferida ao espólio.
+Espólio
+•É responsável pelos FGs antes da abertura da sucessão;
+•É contribuinte pelos FGs após a abertura da sucessão;
+Sucessores
+•É responsável pelos FGs antes da partilha;
+•É contribuinte pelos FGs após a partilha;
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+99
+100
+
+
+
+
+RESPONSABILIDADE DE TERCEIROS 
+• Os  arts.  134  e  135  do  CTN  estabelecem  a  responsabilidade  de  terceiros,  que  consiste  na responsabilização de pessoas (denominadas “terceiros”), que possuem o dever de administrar os bens dos contribuintes, de representá-los.
+• A responsabilidade pode decorrer do exercício regular dessa representação (CTN, art. 134) ou do exercício  irregular (CTN,  art.  135),  isto  é,  em  relação  aos créditos  correspondentes  a obrigações  tributárias  resultantes  de  atos  praticados  com  excesso  de  poderes  ou  infração  de lei, contrato social ou estatutos.
+• A responsabilidade decorrente de atuação regular pode ser esquematizada do seguinte modo:
+Adquirente de Fundo de Comércio ou Estabelecimento Se continuar a exploração Torna-se Responsável Subsidiariamente
+Se o alienante continuar atividade comercial;
+ou
+Iniciar nova atividade dentro dos próximos 6 meses.
+Integralmente
+Se o alienante cessar exploração comercial Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 
+
+
+
+
+
+
+
+100
+100
+
+
+• O  art.  135  prevê  a  responsabilização  pela prática de  atos praticados com  excesso  de  poderes ou  infração  de  lei,  contrato  social  ou  estatutos,  incluindo  neste  caso  as  pessoas  referidas  no art.  134,  bem  como  os  mandatários,  prepostos  e  empregados  e  os diretores,  gerentes  ou representantes de pessoas jurídicas de direito privado.
+
+
+RESPONSABILIDADE POR INFRAÇÕES • A responsabilidade por infrações tributárias é, via de regra, objetiva, ou seja, não se leva em consideração  as  características  pessoais  (subjetivas)  do  infrator  e  os  efeitos  que  o  ato  pode causar.
+• O  art.  137,  do  CTN,  elenca  os  casos  em  que  a  responsabilidade  pelas  infrações  é  pessoal  ao agente,  como,  por  exemplo,  a  responsabilidade  pela  prática  de  infrações  conceituadas  em  lei como crimes ou contravenções.
+• Há  duas  exceções,  que  acabam  por  afastar  o  agente  da  responsabilidade  pelas  infrações  à legislação  tributária:  se  forem  praticadas  no  exercício  regular  da  administração  ou  se  for  por cumprimento de ordem expressa emitida por quem de direito.
+• A  denúncia  espontânea  é  o  instituto  criado  pelo  CTN  para  que  o  contribuinte  se  redima  das infrações  tributárias, confessando  os  ilícitos  e  pagando  o tributo  devido  e  os  juros  de  mora.
+Como consequência, a responsabilidade pela multa é afastada.
+• Há que se ressaltar que, para configurar a espontaneidade, o sujeito passivo deve se antecipar ao  fisco,  ou  seja, a  denúncia  espontânea  deve  ser  feita  antes  de  qualquer  procedimento fiscalizatório.
+
+
+Responsabilidade
+“Solidária” de
+Terceiros com
+Atuação REGULAR
+(art. 134)
+Impossibilidade de
+exigir a dívida do
+contribuinte
+Colaborou, de algum
+modo, com o não
+pagamento do
+tributo
+Fábio Dutra
+Aula 08
+Direito Tributário p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
+06315057411 - EVA CELESTE DE SOUZA 

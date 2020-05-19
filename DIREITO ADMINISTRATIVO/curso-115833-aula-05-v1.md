@@ -1,31 +1,6 @@
+# DEVERES E PODERES ADMINISTRATIVOS 
 
-
-Livro Eletrônico
-Aula 05
-Direito Administrativo p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020
-Herbert Almeida, Time Herbert Almeida 06315057411 - EVA CELESTE DE SOUZA 
-
-
-
-1
-113
-Sumário
-1 Deveres e poderes administrativos ......................................................................................................... 2 1.1 Introdução ............................................................................................................................................ 2 1.2 Poder-dever de agir ........................................................................................................................... 3 1.3 Deveres administrativos ..................................................................................................................... 4 2 Poderes administrativos ............................................................................................................................ 7 2.1 Poder vinculado e poder discricionário .......................................................................................... 7 2.2 Poder hierárquico ............................................................................................................................. 10 2.3 Poder disciplinar ............................................................................................................................... 15 2.4 Poder regulamentar ou normativo ................................................................................................. 19 2.5 Poder de polícia ................................................................................................................................ 28 3 Uso e abuso de poder ............................................................................................................................. 46 Questões para fixação ................................................................................................................................ 47 Questões comentadas na aula .................................................................................................................. 95 Gabarito ......................................................................................................................................................112 Referências .................................................................................................................................................112 
-
-Olá pessoal, tudo bem?
-Na aula de hoje, vamos estudar os seguintes itens: “Poderes  administrativos:  poder  vinculado,  poder discricionário, poder hierárquico, poder disciplinar, poder regulamentar e poder de polícia”.
-Aos estudos, aproveitem!
-
-
-Herbert Almeida, Time Herbert Almeida Aula 05
-Direito Administrativo p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
-06315057411 - EVA CELESTE DE SOUZA 
-
-
-
-2
-113
-1 DEVERES E PODERES ADMINISTRATIVOS 1.1 Introdução
+## Introdução
 O  regime  jurídico  administrativo  é  formado  por  um  conjunto  de prerrogativas e sujeições próprias  que colocam a Administração Pública em posição de superioridade na relação com os administrados, ao mesmo tempo  em  que  limitam  a  sua  esfera  de  liberdade  para  defender  os  direitos  individuais  e  preservar  o patrimônio público.
 Dentre as prerrogativas, encontram-se os poderes administrativos, que funcionam como instrumentos ou mecanismos por meio dos quais o Poder Público deve perseguir o interesse da coletividade.
 Nessa  linha,  José dos Santos  Carvalho  Filho define  poderes  administrativos  como  “o  conjunto  de prerrogativas de direito público que a ordem jurídica confere aos agentes administrativos para o fim de permitir que o Estado alcance seus fins”.

@@ -25,16 +25,11 @@ Aos estudos, aproveitem!
 
 
 
+# ESTATUTO DOS FUNCIONÁRIOS PÚBLICOS DO CEARÁ 
 
-Herbert Almeida, Time Herbert Almeida Aula 12
-Direito Administrativo p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
-06315057411 - EVA CELESTE DE SOUZA 
+## Disposições preliminares 
 
-
-
-2
-30
-1 ESTATUTO DOS FUNCIONÁRIOS PÚBLICOS DO CEARÁ 1.1 Disposições preliminares O Regime Jurídico do Funcionário Civil para os servidores públicos da administração direta, autárquica e fundacional consta na Lei Estadual 9.826, de 14 de maio de 1974 1
+O Regime Jurídico do Funcionário Civil para os servidores públicos da administração direta, autárquica e fundacional consta na Lei Estadual 9.826, de 14 de maio de 1974 1
 . Trata-se de uma Lei Estadual e, portanto, aplica-se  exclusivamente  ao  estado do  Ceará.  Dessa  forma,  a  União  e  os municípios  não  se  submetem  à mencionada legislação, devendo possuir seus próprios regramentos para os seus servidores.
 Além disso, as regras da Lei 9.826/1974 só alcançam os órgãos da administração direta, das autarquias e das fundações públicas, não se aplicando às empresas públicas e às sociedades de economia mista, cujos empregados públicos submetem-se às regras da Consolidação das Leis do Trabalho – CLT.
 Antes de entrarmos nos detalhes da Lei 9.826/1974, precisamos fazer algumas considerações.

@@ -1,32 +1,4 @@
-
-
-Livro Eletrônico
-Aula 03
-Direito Constitucional p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020
-Equipe Ricardo e Nádia 01, Equipe Ricardo e Nádia 02, Nádia Carolina, Ricardo Vale 06315057411 - EVA CELESTE DE SOUZA 
-1
-Sumário
-Direitos Sociais .................................................................................................................................................... 3 1 – Introdução ................................................................................................................................................. 3 2 – Os direitos sociais (art. 6º) ........................................................................................................................ 4 2.1 - Os direitos sociais e a “reserva do possível”: .................................................................................... 4 2.2 - Os direitos sociais e o mínimo existencial: .......................................................................................... 6 2.3 - A vedação ao retrocesso:................................................................................................................... 8 3 – Os direitos sociais individuais dos trabalhadores (art. 7º) ..................................................................... 10 4 – Os direitos sociais coletivos dos trabalhadores ...................................................................................... 22 Nacionalidade .................................................................................................................................................. 29 1 – Introdução ............................................................................................................................................... 29 2 – Atribuição de Nacionalidade pelo direito brasileiro ............................................................................. 29 3 – Portugueses Residentes no Brasil ............................................................................................................ 36 4 – Condição Jurídica do Nacionalizado ..................................................................................................... 37 5 – Perda da Nacionalidade ....................................................................................................................... 39 6 – Língua e Símbolos Oficiais ...................................................................................................................... 41 Questões Comentadas ...................................................................................................................................... 42 Direitos Sociais .............................................................................................................................................. 42 Nacionalidade .............................................................................................................................................. 67 Lista de Questões .............................................................................................................................................. 88 Direitos Sociais .............................................................................................................................................. 88 Nacionalidade ............................................................................................................................................ 101 Gabarito ......................................................................................................................................................... 114 
-Equipe Ricardo e Nádia 01, Equipe Ricardo e Nádia 02, Nádia Carolina, Ricardo Vale Aula 03
-Direito Constitucional p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
-06315057411 - EVA CELESTE DE SOUZA 
-2
-Olá, amigos do Estratégia Concursos, tudo bem?
-Na  aula de hoje,  daremos  continuidade  ao  estudo dos direitos fundamentais.  Falaremos  sobre  os direitos sociais e os direitos de nacionalidade.
-Um grande abraço,
-Nádia e Ricardo
-
-Para tirar dúvidas e ter acesso a dicas e conteúdos gratuitos, acesse nossas redes sociais:
-Instagram - Prof. Ricardo Vale:
-https://www.instagram.com/profricardovale/ Instagram - Profa. Nádia Carolina:
-https://www.instagram.com/nadiacarolstos/ Canal do YouTube do Ricardo Vale:
-https://www.youtube.com/channel/UC32LlMyS96biplI715yzS9Q 
-Equipe Ricardo e Nádia 01, Equipe Ricardo e Nádia 02, Nádia Carolina, Ricardo Vale Aula 03
-Direito Constitucional p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
-06315057411 - EVA CELESTE DE SOUZA 
-3
-DIREITOS SOCIAIS
-1 – Introdução
+#  Introdução
 Ao estudarmos os direitos de 1ª geração, percebemos que estes buscam restringir a ação do Estado sobre os  indivíduos,  limitando  o  poder  estatal.  São,  por  isso,  direitos  que  têm  como  valor-fonte  a  liberdade, impondo ao Estado uma obrigação de não-fazer, de não intervir na órbita privada. Em razão disso, a doutrina os denomina liberdades negativas.
 A  natureza  jurídica  dos direitos  sociais é  diversa.  Trata-se  de  direitos  fundamentais  de  2ª  geração,  que impõem ao Estado uma “obrigação de fazer”, uma obrigação de ofertar prestações positivas em favor dos indivíduos,  visando  concretizar  a  igualdade  material.  São,  portanto,  direitos  que  têm  como  valor-fonte  a igualdade;  eles  buscam  possibilitar  melhores  condições  de  vida  aos  indivíduos  e,  assim,  realizar  a  justiça social.
 Pode-se dizer que os direitos sociais são prestações positivas (ações) realizadas pelo Estado para melhorar a qualidade  de  vida  dos  hipossuficientes,  ou  seja,  dos  mais  necessitados. Em  razão  disso,  o  Estado  deve garantir  que  todos  tenham  acesso  à educação,  saúde,  alimentação,  trabalho,  dentre  outros. Segundo Alexandre  de  Moraes, os direitos sociais constituem normas  de  ordem  pública,  com  a  característica  de imperativas.
@@ -34,19 +6,9 @@ A  origem  dos  direitos  sociais  remonta  à crise  do  Estado  liberal,  ocas
 Os direitos sociais aparecem, portanto, em um contexto histórico marcado por reivindicações trabalhistas e pelo surgimento de doutrinas socialistas. Constatava-se que a mera consagração da igualdade formal não era  suficiente  para  realizar  a  igualdade  material.  Como  grande  marco  dos  direitos  sociais,  citamos  a Constituição de Weimar de 1919 (Constituição do Império Alemão).
 Na  Constituição  Federal  de  1988,  os  direitos  sociais  estão  relacionados  nos  art.  6º - art.  11.  Há,  também, outros dispositivos do texto constitucional que versam sobre os direitos sociais. É o caso, por exemplo, do art. 194 (que trata da seguridade social), art. 196 (direito à saúde) e art. 205 (direito à educação).
 
-Direitos Sociais
-Origem: crise do estado liberal
-Naruteza Jurídica: Direitos de 2
-a
-geração
-Art. 6
-o
-, CF
-Educação, saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência social, proteção à maternidade e à infância, assistência aos desamparados Equipe Ricardo e Nádia 01, Equipe Ricardo e Nádia 02, Nádia Carolina, Ricardo Vale Aula 03
-Direito Constitucional p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
-06315057411 - EVA CELESTE DE SOUZA 
-4
-2 – Os direitos sociais (art. 6º) Art. 6º São direitos  sociais  a  educação,  a  saúde,  a  alimentação,  o  trabalho,  a  moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.
+## Os direitos sociais (art. 6º) 
+>Art. 6º São direitos  sociais  a  educação,  a  saúde,  a  alimentação,  o  trabalho,  a  moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.
+
 No texto original da Constituição Federal, não se fazia menção à alimentação, à moradia e ao transporte, cuja  inserção  na  Carta  Magna  foi  obra  do  Poder  Constituinte  Derivado.  A  moradia  foi  inserida  pela EC  nº 26/2000;    a  alimentação,  pela  EC  nº  64/2010;  e  o  transporte,  pela  EC  nº  90/2015.  Tenham  uma  especial atenção quanto a esses três direitos sociais! As bancas examinadoras adoram cobrá-los, especialmente pelo fato de eles não fazerem parte do texto original da CF/88.
 Segundo  o  art. 6º,  a  Constituição  consagra  como direitos  sociais a  educação,  a  saúde,  a  alimentação,  o trabalho, a moradia, o transporte o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados. O STF entende que trata-se de rol exemplificativo 1
 , pois há outros

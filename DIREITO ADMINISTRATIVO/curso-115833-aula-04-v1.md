@@ -1,36 +1,6 @@
+# ENTIDADES PARAESTATAIS E O TERCEIRO SETOR 
 
-
-Livro Eletrônico
-Aula 04
-Direito Administrativo p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020
-Herbert Almeida, Time Herbert Almeida 06315057411 - EVA CELESTE DE SOUZA 
-
-
-
-1
-85
-Sumário
-1 Entidades paraestatais e o terceiro setor .............................................................................................. 2 1.1 Serviços sociais autônomos ............................................................................................................... 5 1.2 Organizações Sociais (OS) ................................................................................................................. 7 1.3 Organizações da sociedade civil de interesse público (Oscip) ................................................. 20 1.4 Diferenças entre OS e Oscip .......................................................................................................... 26 1.5 Entidades de apoio .......................................................................................................................... 27 1.6 Organizações da Sociedade Civil – Regime de Parcerias .......................................................... 29 Questões para fixação ................................................................................................................................ 49 Questões comentadas na aula .................................................................................................................. 74 Gabarito ........................................................................................................................................................ 84 Referências ................................................................................................................................................... 84 
-
-Olá pessoal, tudo bem?
-Na  aula  de  hoje,  vamos  estudar  o  regime  das  parcerias  (Lei  13.019/2014),  bem  como  as  entidades paraestatais.
-Vamos à aula, aproveitem!
-
-
-
-
-
-
-
-Herbert Almeida, Time Herbert Almeida Aula 04
-Direito Administrativo p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
-06315057411 - EVA CELESTE DE SOUZA 
-
-
-
-2
-85
-1 ENTIDADES PARAESTATAIS E O TERCEIRO SETOR A Administração Pública compõe-se da Administração Direta, que é formada pelos órgãos que prestam a atividade  pública  de  maneira  centralizada,  e  pela  Administração  Indireta,  composta  pelas  entidades administrativas, com personalidade jurídica própria, que prestam serviços de maneira descentralizada. Na Administração   Indireta,   nós   encontramos   as   autarquias,   fundações   públicas,   empresas   públicas   e sociedades de economia mista.
+A Administração Pública compõe-se da Administração Direta, que é formada pelos órgãos que prestam a atividade  pública  de  maneira  centralizada,  e  pela  Administração  Indireta,  composta  pelas  entidades administrativas, com personalidade jurídica própria, que prestam serviços de maneira descentralizada. Na Administração   Indireta,   nós   encontramos   as   autarquias,   fundações   públicas,   empresas   públicas   e sociedades de economia mista.
 Todavia,  é  cada  vez  maior  a  demanda  da sociedade  pela  prestação  de  serviços  do  Estado.  Porém,  a Administração Pública não consegue estar presente em todas as situações, o que desperta a necessidade de  buscar  apoio  da  sociedade  civil  para  solucionar  essas  demandas.  Nesse  contexto,  é  comum  que entidades privadas sem fins lucrativos prestem atividades de interesse coletivo, atuando, muitas vezes, em colaboração com o Estado.
 Assim, o termo terceiro setor é utilizado para designar as entidades privadas, surgidas necessariamente no  meio  privado,  mas  que não  possuem  fins  lucrativos  nem  econômicos.  Portanto, o  terceiro  setor  é formado  pelas  entidades  privadas  da  sociedade  civil,  que  prestam  atividade  de  interesse  social,  sem finalidade lucrativa.
 Segundo  a doutrina,  o primeiro  setor é  o  próprio Estado,  enquanto  o segundo  setor é  formado  pelo mercado. Assim, o terceiro setor se difere dos demais, pois não integra o Estado, vale dizer, as entidades do terceiro setor não fazem parte da Administração Pública; e também não possuem fins lucrativos nem exploram atividade econômica, diferentemente do mercado.

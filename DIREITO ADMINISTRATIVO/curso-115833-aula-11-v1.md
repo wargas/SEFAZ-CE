@@ -1,32 +1,9 @@
 
+# RESPONSABILIDADE CIVIL DO ESTADO 
 
-Livro Eletrônico
-Aula 11
-Direito Administrativo p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020
-Herbert Almeida, Time Herbert Almeida 06315057411 - EVA CELESTE DE SOUZA 
+## Noções introdutórias 
 
-
-
-
-1
-93
-Sumário
-1 Responsabilidade civil do Estado ................................................................................................ 2 1.1 Noções introdutórias ............................................................................................................. 2 1.2 Evolução histórica .................................................................................................................. 2 1.3 Responsabilidade civil do Estado no direito brasileiro .......................................................... 8 1.4 Requisitos para a demonstração da responsabilidade do Estado ...................................... 12 1.5 Causas excludentes ou atenuantes da responsabilidade do Estado .................................. 18 1.6 Responsabilidade por omissão do Estado .......................................................................... 19 1.7 Reparação do dano – Estado indenizando o terceiro lesado .............................................. 24 1.8 Direito de regresso .............................................................................................................. 25 1.9 Prescrição ............................................................................................................................ 30 1.10 Responsabilidade civil do Estado por atos não administrativos ........................................ 32 1.11 Casos especiais .................................................................................................................. 36 Questões para fixação .................................................................................................................. 38 Questões comentadas na aula ...................................................................................................... 77 Gabarito ........................................................................................................................................ 92 Referências .................................................................................................................................... 92 
-Olá pessoal, tudo bem?
-Nesta aula, vamos estudar o seguinte item do edital: “Responsabilidade civil do Estado. Ação de Indenização. Ação Regressiva”.
-Vamos à aula, aproveitem!
-
-
-Herbert Almeida, Time Herbert Almeida Aula 11
-Direito Administrativo p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
-06315057411 - EVA CELESTE DE SOUZA 
-
-
-
-
-2
-93
-1 RESPONSABILIDADE CIVIL DO ESTADO 1.1 Noções introdutórias Quando se fala em responsabilidade, quer-se dizer que alguém deverá responder por algo que fez  ou  deixou  de  fazer.  A  responsabilidade,  no  Direito,  representa  a  necessidade  de  alguém responder por algum dano que causou. Por conseguinte, a pessoa poderá sofrer uma restrição de liberdade por ter cometido algum crime ou uma contravenção (responsabilidade penal); um servidor   público   poderá   perder   o   cargo   por   algum   ilícito   disciplinar   ou   falta   funcional (responsabilidade  administrativa);  ou  alguém  poderá  responder  com  o próprio  patrimônio, devendo indenizar o dano causado (responsabilidade civil).
+Quando se fala em responsabilidade, quer-se dizer que alguém deverá responder por algo que fez  ou  deixou  de  fazer.  A  responsabilidade,  no  Direito,  representa  a  necessidade  de  alguém responder por algum dano que causou. Por conseguinte, a pessoa poderá sofrer uma restrição de liberdade por ter cometido algum crime ou uma contravenção (responsabilidade penal); um servidor   público   poderá   perder   o   cargo   por   algum   ilícito   disciplinar   ou   falta   funcional (responsabilidade  administrativa);  ou  alguém  poderá  responder  com  o próprio  patrimônio, devendo indenizar o dano causado (responsabilidade civil).
 Portanto, a responsabilidade civil é a obrigação de reparar os danos lesivos a terceiros, seja de natureza patrimonial ou moral.
 Cumpre frisar, desde já, que a responsabilidade do Estado pode ser contratual ou extracontratual.
 Na primeira situação, há um vínculo contratual entre o Estado e o terceiro. Por exemplo, se a Administração descumprir os termos de um contrato administrativo, a sua responsabilidade será contratual, regulamentada pela Lei 8.666/1993 e pelos termos do contrato. Não é esse o tipo de responsabilidade que estamos tratando nesta aula.

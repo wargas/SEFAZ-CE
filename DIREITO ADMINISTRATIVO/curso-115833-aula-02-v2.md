@@ -1,34 +1,6 @@
+# ORGANIZAÇÃO ADMINISTRATIVA 
 
-
-Livro Eletrônico
-Aula 02
-Direito Administrativo p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020
-Herbert Almeida, Time Herbert Almeida 06315057411 - EVA CELESTE DE SOUZA 
-
-
-
-1
-102
-Sumário
-1 1 Organização Administrativa .............................................................................................................. 2 2 Administração pública ........................................................................................................................ 19 3 Autarquias ............................................................................................................................................. 28 4 Questões para fixação ........................................................................................................................ 51 5 Questões comentadas na aula .......................................................................................................... 87 6 Gabarito ..............................................................................................................................................101 7 Referências ..........................................................................................................................................102 
-
-Olá pessoal, tudo bem?
-Na aula de hoje, vamos estudar os seguintes itens do edital: “Organização administrativa: administração direta e indireta (parte 1). Consórcios Públicos. Agências executivas. Agências reguladoras”.
-Aos estudos, aproveitem!
-
-
-
-
-
-Herbert Almeida, Time Herbert Almeida Aula 02
-Direito Administrativo p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
-06315057411 - EVA CELESTE DE SOUZA 
-
-
-
-2
-102
-1 1 ORGANIZAÇÃO ADMINISTRATIVA A  organização  do  Estado  é  material  de  ordem  constitucional,  tratando  da  divisão  política  do  território nacional, da estruturação dos Poderes, da forma de Governo, ao modo de investidura dos governantes e aos direitos e garantias fundamentais.
+A  organização  do  Estado  é  material  de  ordem  constitucional,  tratando  da  divisão  política  do  território nacional, da estruturação dos Poderes, da forma de Governo, ao modo de investidura dos governantes e aos direitos e garantias fundamentais.
 1
 
 Para  o  Direito  Administrativo, por  outro  lado,  cabe  o  estudo da organização  administrativa, matéria  que estuda a organização das entidades estatais, das suas autarquias e das empresas estatais.

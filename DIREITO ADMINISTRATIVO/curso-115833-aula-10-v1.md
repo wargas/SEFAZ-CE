@@ -1,35 +1,8 @@
+# CONTROLE DA ADMINISTRAÇÃO PÚBLICA 
 
+## Noções introdutórias 
 
-Livro Eletrônico
-Aula 10
-Direito Administrativo p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020
-Herbert Almeida, Time Herbert Almeida 06315057411 - EVA CELESTE DE SOUZA 
-
-
-
-
-1
-146
-Sumário
-1 Controle da administração pública .............................................................................................. 2 1.1 Noções introdutórias ............................................................................................................. 2 1.2 Natureza e aspectos da fiscalização ...................................................................................... 4 1.3 Controle quanto à origem ou ao posicionamento do órgão controlador ............................. 7 1.4 Controle quanto ao fundamento ou amplitude .................................................................. 12 1.5 Controle quanto ao momento ............................................................................................. 13 1.6 Controle quanto ao aspecto ................................................................................................ 15 1.7 Controle exercido pela Administração Pública ................................................................... 16 1.8 Controle legislativo .............................................................................................................. 23 1.9 Controle Judicial .................................................................................................................. 35 Questões Comentadas ................................................................................................................. 50 Lista de Questões ....................................................................................................................... 119 Gabarito ...................................................................................................................................... 145 Referências .................................................................................................................................. 145 
-Olá pessoal, tudo bem?
-Nesta  aula,  vamos  estudar  os  seguintes  itens  do  edital:  “Controle  da  Administração  Pública:
-Conceito.  Tipos  e  Formas  de  Controle. Controle  Interno  e  Externo.  Controle Prévio, Concomitante  e  Posterior.  Controle Parlamentar.  Controle  pelos  Tribunais  de Contas.
-Controle Jurisdicional. Meios de Controle Jurisdicional”.
-Vamos rápido que o tempo está passando!
-Aos estudos, aproveitem!
-
-
-Herbert Almeida, Time Herbert Almeida Aula 10
-Direito Administrativo p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
-06315057411 - EVA CELESTE DE SOUZA 
-
-
-
-
-2
-146
-1 CONTROLE DA ADMINISTRAÇÃO PÚBLICA 1.1 Noções introdutórias O controle foi descrito por Henri Fayol com uma das funções administrativas básicas, quais sejam:
+O controle foi descrito por Henri Fayol com uma das funções administrativas básicas, quais sejam:
 planejar,  organizar,  dirigir  e controlar.  Nesse  contexto,  o  vocábulo  controle  é  empregado  no sentido  de  função  básica  da  administração,  consistindo  na definição  de  padrões  para  medir desempenho,  corrigir  desvios  ou  discrepâncias  e  garantir  que  o  planejamento  seja  realizado.
 Nesse meio, a finalidade do controle é garantir que a consecução dos resultados daquilo que foi planejado, organizado e dirigido se ajuste, tanto quanto possível, aos objetivos estabelecidos.
 Contudo, a definição apresentada acima é mais utilizada para a Teoria Geral da Administração, não sendo o sentido ideal do controle que vamos estudar.

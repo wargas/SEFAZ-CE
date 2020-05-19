@@ -1,32 +1,11 @@
 
 
-Livro Eletrônico
-Aula 03
-Direito Administrativo p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020
-Herbert Almeida, Time Herbert Almeida 06315057411 - EVA CELESTE DE SOUZA 
+# EMPRESAS PÚBLICAS E SOCIEDADES DE ECONOMIA MISTA 
 
-
-
-1
-81
-Sumário
-1 Empresas públicas e sociedades de economia mista .......................................................................... 2 2 Fundações públicas ................................................................................................................................. 22 Questões para fixação ................................................................................................................................ 30 Questões comentadas na aula .................................................................................................................. 66 Gabarito ........................................................................................................................................................ 80 Referências ................................................................................................................................................... 80 
-Olá pessoal, tudo bem?
-Na  aula  de  hoje,  vamos  estudar  a  segunda  parte  das  organizações  administrativas,  que  comporta as empresas públicas, as sociedades de economia mista e as fundações públicas.
-Vamos à aula, aproveitem!
-Herbert Almeida, Time Herbert Almeida Aula 03
-Direito Administrativo p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
-06315057411 - EVA CELESTE DE SOUZA 
-
-
-
-2
-81
-1 EMPRESAS PÚBLICAS E SOCIEDADES DE ECONOMIA MISTA 1.1 Conceito
+## Conceito
 As  empresas  estatais  dividem-se  em empresas  públicas e sociedades  de  economia  mista.  As  duas  são entidades  administrativas,  integram  a administração  indireta,  possuem  personalidade  jurídica  de  direito privado,  têm  sua  criação  autorizada  em  lei  e  podem  ser  criadas  para  explorar  atividade  econômica  ou prestar serviços públicos.
 Vejamos a definição de cada uma dessas entidades nos ensinamentos de José dos Santos Carvalho Filho:
 1
-
 
 Empresa pública (EP):
 “são  pessoas  jurídicas  de direito  privado,  integrantes  da  Administração  Indireta  do Estado, criadas  por  autorização  legal,  sob  qualquer  forma  jurídica  adequada  a  sua finalidade,  para  que  o  Governo  exerça atividades  gerais  de  caráter  econômico ou,  em certas situações, execute a prestação de serviços públicos”.

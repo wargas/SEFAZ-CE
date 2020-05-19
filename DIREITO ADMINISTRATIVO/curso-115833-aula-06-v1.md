@@ -1,34 +1,6 @@
+# ATOS ADMINISTRATIVOS 
 
-
-Livro Eletrônico
-Aula 06
-Direito Administrativo p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020
-Herbert Almeida, Time Herbert Almeida 06315057411 - EVA CELESTE DE SOUZA 
-
-
-
-1
-111
-Sumário
-1 Atos administrativos .................................................................................................................................. 2 1.1 Introdução ............................................................................................................................................ 2 1.2 Conceito ............................................................................................................................................... 3 1.3 Conceitos relacionados ..................................................................................................................... 6 1.4 Atributos ............................................................................................................................................. 11 1.5 Requisitos, elementos ou aspectos de validade ......................................................................... 16 1.6 Classificação ...................................................................................................................................... 28 1.7 Espécies de atos administrativos ................................................................................................... 32 1.8 Extinção dos atos administrativos .................................................................................................. 34 Questões para fixação ................................................................................................................................ 39 Questões comentadas na aula .................................................................................................................. 90 Gabarito ......................................................................................................................................................110 Referências .................................................................................................................................................110 
-
-Olá pessoal, tudo bem?
-Na aula de hoje, vamos estudar os seguintes itens: “Atos administrativos”.
-Aos estudos, aproveitem!
-
-
-
-
-
-Herbert Almeida, Time Herbert Almeida Aula 06
-Direito Administrativo p/ SEFAZ-CE (Auditor Fiscal) Com videoaulas - 2020 www.estrategiaconcursos.com.br 1225432
-06315057411 - EVA CELESTE DE SOUZA 
-
-
-
-2
-111
-1 ATOS ADMINISTRATIVOS 1.1 Introdução
+## Introdução
 O  exercício  da  função  executiva  da  Administração  Pública  se  expressa  por  meio  de  uma  espécie  de  ato jurídico  denominada  de  ato  administrativo.  Portanto,  o  ato  administrativo  é  uma  espécie  do  gênero  ato jurídico.
 O antigo Código Civil (1916) denominava de ato jurídico o “ato licito, que tenha por fim imediato adquirir, resguardar, transferir, modificar ou extinguir direitos”. Contudo, o novo Código Civil (2002) não apresenta mais  essa  definição,  alinhando-se,  portanto,  à  doutrina  moderna 1
 .  Nessa  linha,  o ato  jurídico é  a manifestação unilateral humana voluntária que possui uma finalidade imediata – ou direta – de produzir determinada alteração no mundo jurídico.

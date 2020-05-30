@@ -4,37 +4,37 @@ Vamos pensar um pouco no tema da aula de hoje? Tente responder as perguntas a se
 
 LISTA DE PERGUNTAS 
 
-1. De quem é a responsabilidade pela prevenção e detecção de fraudes e erros? 
+1\. De quem é a responsabilidade pela prevenção e detecção de fraudes e erros? 
 
-2. Qual a responsabilidade do auditor em relação à fraude? 
+2\. Qual a responsabilidade do auditor em relação à fraude? 
 
-3. O que diferencia a fraude do erro? 
+3\. O que diferencia a fraude do erro? 
 
-4. A quem o auditor deve comunicar a identificação de uma fraude ou suspeita de fraude? 
+4\. A quem o auditor deve comunicar a identificação de uma fraude ou suspeita de fraude? 
 
-5. É possível o auditor se retirar do trabalho em função de fraude ou suspeita de fraude? 
+5\. É possível o auditor se retirar do trabalho em função de fraude ou suspeita de fraude? 
 
-6. O que define o Risco de Auditoria?  
+6\. O que define o Risco de Auditoria?  
 
-7. O que é Risco de Detecção? 
+7\. O que é Risco de Detecção? 
 
-8. O que é Risco de Distorção Relevante? 
+8\. O que é Risco de Distorção Relevante? 
 
-9. O que é Risco Inerente? 
+9\. O que é Risco Inerente? 
 
-10. O que é Risco de Controle? 
+10\. O que é Risco de Controle? 
 
-11. Qual a relação entre o Risco de Detecção e o Risco de Distorção Relevante? 
+11\. Qual a relação entre o Risco de Detecção e o Risco de Distorção Relevante? 
 
-12. O que significa relevância, no contexto das evidências de auditoria? 
+12\. O que significa relevância, no contexto das evidências de auditoria? 
 
-13. O que é materialidade para execução de auditoria? 
+13\. O que é materialidade para execução de auditoria? 
 
-14. Como se dá a determinação da materialidade em auditoria? 
+14\. Como se dá a determinação da materialidade em auditoria? 
 
-15. É possível revisar a materialidade? Quando? 
+15\. É possível revisar a materialidade? Quando? 
 
-16. Qual a relação entre risco e relevância? 
+16\. Qual a relação entre risco e relevância? 
 
 Se você não tem certeza de uma ou algumas das respostas a esses questionamentos, não se preocupe. Fique atento que esses temas serão abordados ao longo da aula de hoje! 
 
@@ -44,19 +44,11 @@ De acordo com a _NBC TA 240 – Responsabilidade do Auditor em Relação à Frau
 
 O termo erro, por sua vez, refere-se a ato não intencional resultante de omissão, desatenção, ou má interpretação de fatos na elaboração de registros e demonstrações que resultem em incorreções. 
 
-O auditor que realiza auditoria de acordo com as normas de auditoria é responsável por obter 
+O auditor que realiza auditoria de acordo com as normas de auditoria é responsável por obter segurança razoável de que as demonstrações contábeis, como um todo, não contém distorções relevantes, causadas por fraude ou erro. Conforme descrito na NBC TA 200(R1), devido às limitações inerentes da auditoria, há um risco inevitável de que algumas distorções relevantes das demonstrações contábeis possam não ser detectadas, apesar de a auditoria ser devidamente planejada e realizada de acordo com as normas. 
 
-segurança razoável de que as demonstrações contábeis, como um todo, não contém distorções 
+Os efeitos potenciais das limitações inerentes são particularmente significativos no caso da distorção resultar de fraude. O risco de não ser detectada uma distorção relevante decorrente de fraude é mais alto do que o risco de não ser detectada uma fraude decorrente de erro. Isso porque a fraude pode envolver esquemas sofisticados e cuidadosamente organizados, destinados a ocultá-la, tais como falsificação, omissão deliberada no registro de operações ou prestação intencional de falsas representações ao auditor. Tais tentativas de ocultação podem ser ainda mais difíceis de detectar quando associadas a um conluio. O conluio pode levar o auditor a acreditar que a evidência é persuasiva, quando, na verdade, ela é falsa. 
 
-relevantes, causadas por fraude ou erro. Conforme descrito na NBC TA 200(R1), devido às 
-
-limitações inerentes da auditoria, há um risco inevitável de que algumas distorções relevantes das 
-
-demonstrações contábeis possam não ser detectadas, apesar de a auditoria ser devidamente 
-
-planejada e realizada de acordo com as normas. 
-
-Os efeitos potenciais das limitações inerentes são particularmente significativos no caso da distorção resultar de fraude. O risco de não ser detectada uma distorção relevante decorrente de fraude é mais alto do que o risco de não ser detectada uma fraude decorrente de erro. Isso porque a fraude pode envolver esquemas sofisticados e cuidadosamente organizados, destinados a ocultá-la, tais como falsificação, omissão deliberada no registro de operações ou prestação intencional de falsas representações ao auditor. Tais tentativas de ocultação podem ser ainda mais difíceis de detectar quando associadas a um conluio. O conluio pode levar o auditor a acreditar que a evidência é persuasiva, quando, na verdade, ela é falsa. A capacidade do auditor de detectar uma fraude depende de fatores como a habilidade do perpetrador, a frequência e a extensão da manipulação, o grau de conluio, a dimensão relativa dos valores individuais manipulados e a posição dos indivíduos envolvidos. Embora o auditor possa ser capaz de identificar oportunidades potenciais de perpetração de fraude, é difícil para ele determinar se as distorções em áreas de julgamento como estimativas contábeis foram causadas por fraude ou erro. 
+A capacidade do auditor de detectar uma fraude depende de fatores como a habilidade do perpetrador, a frequência e a extensão da manipulação, o grau de conluio, a dimensão relativa dos valores individuais manipulados e a posição dos indivíduos envolvidos. Embora o auditor possa ser capaz de identificar oportunidades potenciais de perpetração de fraude, é difícil para ele determinar se as distorções em áreas de julgamento como estimativas contábeis foram causadas por fraude ou erro. 
 
 Além disso, o risco do auditor não detectar uma distorção relevante decorrente de fraude da administração é maior do que no caso de fraude cometida por empregados, porque a administração frequentemente tem condições de manipular, direta ou indiretamente, os registros contábeis, apresentar informações contábeis fraudulentas ou burlar procedimentos de controle destinados a prevenir fraudes semelhantes, cometidas por outros empregados. 
 
@@ -120,7 +112,7 @@ Segundo a NBC TA 240(R1):
 
 >Respostas aos riscos avaliados de distorção relevante decorrente de fraude 
 >
->29. Ao determinar respostas globais para enfrentar os riscos avaliados de distorção relevante nas demonstrações contábeis, o auditor deve: 
+>27\. Ao determinar respostas globais para enfrentar os riscos avaliados de distorção relevante nas demonstrações contábeis, o auditor deve: 
 >
 >(a) alocar e supervisionar o pessoal, levando em conta o conhecimento, a aptidão e a capacidade dos indivíduos que assumirão responsabilidades significativas pelo trabalho, e avaliar os riscos de distorção relevante decorrente de fraude; 
 >
@@ -130,19 +122,19 @@ Segundo a NBC TA 240(R1):
 
 Esclarecendo: a alínea “a” acima nos diz que a supervisão do pessoal deve ser feita levando em consideração seu conhecimento, aptidão e capacidade (e não de maneira indistinta). A norma complementa ainda que a extensão da supervisão reflete a avaliação dos riscos e da capacidade dos membros da equipe, ou seja, quanto maior o risco e a capacidade do membro da equipe, maior deve ser a supervisão por parte do auditor. Com relação à alínea “c”, a norma complementa que é importante incorporar um elemento de imprevisibilidade na seleção dos procedimentos de auditoria a serem executados, já que indivíduos na entidade que estão familiarizados com os procedimentos de auditoria normalmente executados nos trabalhos podem ser mais capazes de esconder informações contábeis fraudulentas. 
 
->Auditor sem condições de continuar o trabalho 
-
->38. Se, como resultado de uma distorção decorrente de fraude ou suspeita de fraude, o auditor encontrar circunstâncias excepcionais que coloquem em dúvida sua capacidade de continuar a realizar a auditoria, este deve: 
+> Auditor sem condições de continuar o trabalho 
 >
->(a) determinar as responsabilidades profissionais e legais aplicáveis à situação, inclusive se é necessário ou não o auditor informar à pessoa ou pessoas que aprovaram a contratação da auditoria ou, em alguns casos, às autoridades reguladoras. No Brasil, existem obrigações determinadas pelas autoridades reguladoras; 
+> 38\. Se, como resultado de uma distorção decorrente de fraude ou suspeita de fraude, o auditor encontrar circunstâncias excepcionais que coloquem em dúvida sua capacidade de continuar a realizar a auditoria, este deve: 
 >
->(b) considerar se seria apropriado o auditor retirar-se do trabalho, quando essa saída for possível conforme a lei ou regulamentação aplicável; e 
+> (a) determinar as responsabilidades profissionais e legais aplicáveis à situação, inclusive se é necessário ou não o auditor informar à pessoa ou pessoas que aprovaram a contratação da auditoria ou, em alguns casos, às autoridades reguladoras. No Brasil, existem obrigações determinadas pelas autoridades reguladoras; 
 >
->(c) caso o auditor se retire: 
+> (b) considerar se seria apropriado o auditor retirar-se do trabalho, quando essa saída for possível conforme a lei ou regulamentação aplicável; e 
 >
->(i) discutir com pessoa no nível apropriado da administração e com os responsáveis pela governança a saída do auditor do trabalho e as razões para a interrupção; e 
+> (c) caso o auditor se retire: 
 >
->(ii) determinar se existe exigência profissional ou legal de comunicar a retirada do auditor do trabalho e as razões da saída à pessoa ou pessoas que contrataram a auditoria ou, em alguns casos, às autoridades reguladoras. 
+> (i) discutir com pessoa no nível apropriado da administração e com os responsáveis pela governança a saída do auditor do trabalho e as razões para a interrupção; e 
+>
+> (ii) determinar se existe exigência profissional ou legal de comunicar a retirada do auditor do trabalho e as razões da saída à pessoa ou pessoas que contrataram a auditoria ou, em alguns casos, às autoridades reguladoras. 
 
 Esclarecendo: percebe-se que há circunstâncias, excepcionais – frise-se, em que distorções decorrentes de fraude (ou sua suspeita) levam o auditor a considerar retirar-se do trabalho (desde que a saída seja permitida por lei ou regulamento). As bancas gostam de explorar tal dispositivo, uma que ele reflete uma situação extrema para o auditor. Exemplos dessas circunstâncias extremas são apresentados no item a seguir. 
 
@@ -156,7 +148,7 @@ Esclarecendo: percebe-se que há circunstâncias, excepcionais – frise-se, em 
 >
 >Representações da administração 
 >
->39. O auditor deve obter representações da administração e, quando apropriado, dos responsáveis pela governança, de que: 
+>39\. O auditor deve obter **representações da administração** e, quando apropriado, dos responsáveis pela governança, de que: 
 >
 >(a) eles reconhecem sua responsabilidade pelo desenho, implementação e manutenção do controle interno de prevenção e detecção de fraude; 
 >
@@ -174,107 +166,103 @@ Esclarecendo: percebe-se que há circunstâncias, excepcionais – frise-se, em 
 
 Esclarecendo: o termo utilizado acima (representações da administração) refere-se ao que se costumava chamar de “Carta de Responsabilidade da Administração” (atualmente utiliza-se a expressão “Representação Formal”). A representação formal é uma declaração escrita pela administração, fornecida ao auditor, para confirmar certos assuntos ou suportar outra evidência de auditoria (NBC TA 580 (R1), item 7). 
 
->Comunicações à administração e aos responsáveis pela governança 
+> Comunicações à administração e aos responsáveis pela governança 
 >
->40. Caso o auditor tenha identificado uma fraude ou obtido informações que indiquem a possibilidade de fraude, o auditor deve comunicar estes assuntos tempestivamente a pessoa de nível apropriado da administração que têm a responsabilidade primordial de prevenir e detectar fraude em assuntos relevantes no âmbito de suas responsabilidades. 
+> 40\. Caso o auditor tenha identificado uma fraude ou obtido informações que indiquem a possibilidade de fraude, o auditor deve comunicar estes assuntos tempestivamente a pessoa de nível apropriado da administração que têm a responsabilidade primordial de prevenir e detectar fraude em assuntos relevantes no âmbito de suas responsabilidades. 
 >
->41. A menos que todos os responsáveis pela governança estejam envolvidos na administração da entidade, se o auditor tiver identificado ou suspeitar de fraude envolvendo: 
+> 41\. A menos que todos os responsáveis pela governança estejam envolvidos na administração da entidade, se o auditor tiver identificado ou suspeitar de fraude envolvendo: (a) a administração; (b) empregados com funções significativas no controle interno; ou (c) outros, cujas fraudes gerem distorção relevante nas demonstrações contábeis, o auditor deve comunicar tempestivamente esses assuntos aos responsáveis pela governança. Caso o auditor suspeite de fraude envolvendo a administração, o auditor deve comunicar essas suspeitas aos responsáveis pela governança e discutir com eles a natureza, época e extensão dos procedimentos de auditoria necessários para concluir a auditoria. 
 >
->(a) a administração; 
+> [...] 
 >
->(b) empregados com funções significativas no controle interno; ou 
+> Comunicações às autoridades reguladoras e de controle 
 >
->(c) outros, cujas fraudes gerem distorção relevante nas demonstrações contábeis, o auditor deve comunicar tempestivamente esses assuntos aos responsáveis pela governança. Caso o auditor suspeite de fraude envolvendo a administração, o auditor deve comunicar essas suspeitas aos responsáveis pela governança e discutir com eles a natureza, época e extensão dos procedimentos de auditoria necessários para concluir a auditoria. 
+> 43\. Caso o auditor tenha identificado ou suspeite de fraude, deve determinar se há responsabilidade de comunicar a ocorrência ou suspeita a um terceiro fora da entidade. Embora o dever profissional do auditor de manter a confidencialidade da informação do cliente possa impedir que tais informações sejam dadas, as responsabilidades legais do auditor podem sobrepor-se ao dever de confidencialidade em algumas situações. 
+
+Esclarecendo: o dever de manter a confidencialidade do auditor não é absoluto. Se houver responsabilidades legais relacionadas, por exemplo, à comunicação referente a ocorrência ou suspeita de fraude a terceiro fora da entidade (autoridades reguladoras e de controle), não pode o auditor se escusar de fazê-lo, invocando a confidencialidade da informação do cliente. 
+
+Esquematizando os casos de comunicação de fraudes ou suspeita de fraude: 
+
+* Comunicação à pessoa de nível apropriado da Administração: no caso de identificação de fraude ou sua possibilidade – ainda que não importantes. 
+
+* Comunicação aos Responsáveis pela Governança (verbalmente ou por escrito): no caso de fraudes envolvendo a administração, empregados com funções significativas no controle interno ou outros cujas fraudes gerem distorção relevante; ou ainda quaisquer outros assuntos relacionados a fraude que o auditor julgar relevante para sua responsabilidade. 
+
+* Comunicação às Autoridades Reguladoras e de Controle: quando exigido por lei. 
+
+[...] 
+
+> Características da fraude 
 >
->[...] 
+> A1. A fraude, seja na forma de informações contábeis fraudulentas ou de apropriação indevida de ativos, envolve o incentivo ou a pressão para que ela seja cometida, uma oportunidade percebida para tal e alguma racionalidade (ou seja, dar razoabilidade a algo falso) do ato. Por exemplo: 
 >
->Comunicações às autoridades reguladoras e de controle 
+> * Pode existir incentivo ou pressão para a informação financeira fraudulenta quando a administração sofre pressão, de fontes externas ou internas, para alcançar metas de ganhos ou resultados financeiros previstos (e talvez irrealistas) – em especial porque as consequências do insucesso no cumprimento dos objetivos financeiros para a administração podem ser significativas. Do mesmo modo, os indivíduos podem ter um incentivo para se apropriarem de ativos porque, por exemplo, estão vivendo além de suas possibilidades. 
 >
->43. Caso o auditor tenha identificado ou suspeite de fraude, deve determinar se há responsabilidade de comunicar a ocorrência ou suspeita a um terceiro fora da entidade. Embora o dever profissional do auditor de manter a confidencialidade da informação do cliente possa impedir que tais informações sejam dadas, as responsabilidades legais do auditor podem sobrepor-se ao dever de confidencialidade em algumas situações. 
+> * Pode haver uma oportunidade percebida de perpetrar uma fraude quando um indivíduo acredita que o controle interno pode ser burlado, por exemplo, porque ele ocupa um cargo de confiança ou tem conhecimento de deficiências específicas no controle interno. 
 >
->Esclarecendo: o dever de manter a confidencialidade do auditor não é absoluto. Se houver responsabilidades legais relacionadas, por exemplo, à comunicação referente a ocorrência ou suspeita de fraude a terceiro fora da entidade (autoridades reguladoras e de controle), não pode o auditor se escusar de fazê-lo, invocando a confidencialidade da informação do cliente. 
+> * Os indivíduos podem ser capazes de racionalizar e perpetrar um ato fraudulento. Algumas pessoas têm uma postura, caráter ou valores éticos que os levam a perpetrar um ato desonesto de forma consciente e intencional. Entretanto, mesmo indivíduos normalmente honestos podem perpetrar uma fraude em ambiente em que sejam suficientemente pressionados. 
 >
->Esquematizando os casos de comunicação de fraudes ou suspeita de fraude: 
+> [...] 
 >
->* Comunicação à pessoa de nível apropriado da Administração: no caso de identificação de fraude ou sua possibilidade – ainda que não importantes. 
+> A3. Informações contábeis fraudulentas podem decorrer do seguinte: 
 >
->* Comunicação aos Responsáveis pela Governança (verbalmente ou por escrito): no caso de fraudes envolvendo a administração, empregados com funções significativas no controle interno ou outros cujas fraudes gerem distorção relevante; ou ainda quaisquer outros assuntos relacionados a fraude que o auditor julgar relevante para sua responsabilidade. 
+> * Manipulação, falsificação (inclusive de assinatura) ou alteração de registros contábeis ou documentos comprobatórios que serviram de base à elaboração de demonstrações contábeis. 
 >
->* Comunicação às Autoridades Reguladoras e de Controle: quando exigido por lei. 
+> * Mentira ou omissão intencional nas demonstrações contábeis de eventos, operações ou outras informações significativas. 
 >
->[...] 
+> * Aplicação incorreta intencional dos princípios contábeis relativos a valores, classificação, forma de apresentação ou divulgação. 
 >
->Características da fraude 
+
+Observação: cuidado com questões que afirmam que fraudes oriundas de informações contábeis fraudulentas decorrem exclusivamente por um ou outro dos exemplos acima listados. Vejam que há várias situações distintas. Atenção às palavras-chave: manipulação, falsificação, mentira ou omissão intencional, aplicação correta intencional. 
+
+> A4. Muitas vezes as informações contábeis fraudulentas envolvem a burla pela administração de controles que aparentemente estão funcionando com eficácia. A administração pode perpetrar fraude, burlando controles intencionalmente por meio de técnicas como: 
 >
->A1. A fraude, seja na forma de informações contábeis fraudulentas ou de apropriação indevida de ativos, envolve o incentivo ou a pressão para que ela seja cometida, uma oportunidade percebida para tal e alguma racionalidade (ou seja, dar razoabilidade a algo falso) do ato. Por exemplo: 
+> * Registrar lançamentos fictícios no livro diário, em especial no final do período contábil, de forma a manipular resultados operacionais ou alcançar outros objetivos. 
 >
->* Pode existir incentivo ou pressão para a informação financeira fraudulenta quando a administração sofre pressão, de fontes externas ou internas, para alcançar metas de ganhos ou resultados financeiros previstos (e talvez irrealistas) – em especial porque as consequências do insucesso no cumprimento dos objetivos financeiros para a administração podem ser significativas. Do mesmo modo, os indivíduos podem ter um incentivo para se apropriarem de ativos porque, por exemplo, estão vivendo além de suas possibilidades. 
+> * Ajustar indevidamente as premissas e alterar os julgamentos utilizados para estimar saldos contábeis. 
 >
->* Pode haver uma oportunidade percebida de perpetrar uma fraude quando um indivíduo acredita que o controle interno pode ser burlado, por exemplo, porque ele ocupa um cargo de confiança ou tem conhecimento de deficiências específicas no controle interno. 
+> *  Omitir, antecipar ou atrasar o reconhecimento, nas demonstrações contábeis, de eventos e operações que tenham ocorrido durante o período das demonstrações contábeis que estão sendo apresentadas. 
 >
->* Os indivíduos podem ser capazes de racionalizar e perpetrar um ato fraudulento. Algumas pessoas têm uma postura, caráter ou valores éticos que os levam a perpetrar um ato desonesto de forma consciente e intencional. Entretanto, mesmo indivíduos normalmente honestos podem perpetrar uma fraude em ambiente em que sejam suficientemente pressionados. 
+> * Omitir, dificultar ou deturpar divulgações requeridas pela estrutura de relatório financeiro aplicável ou divulgações que são necessárias para a apresentação adequada. 
 >
->[...] 
+> * Encobrir fatos que possam afetar os valores registrados nas demonstrações contábeis. 
 >
->A3. Informações contábeis fraudulentas podem decorrer do seguinte: 
+> * Contratar operações complexas, que são estruturadas para refletir erroneamente a situação patrimonial ou o desempenho da entidade. 
 >
->* Manipulação, falsificação (inclusive de assinatura) ou alteração de registros contábeis ou documentos comprobatórios que serviram de base à elaboração de demonstrações contábeis. 
+> * Alterar registros e condições relacionados a operações significativas e não usuais. 
 >
->* Mentira ou omissão intencional nas demonstrações contábeis de eventos, operações ou outras informações significativas. 
+> [...] 
 >
->* Aplicação incorreta intencional dos princípios contábeis relativos a valores, classificação, forma de apresentação ou divulgação. 
+> Avaliação dos fatores de risco de fraude 
 >
->Observação: cuidado com questões que afirmam que fraudes oriundas de informações contábeis fraudulentas decorrem exclusivamente por um ou outro dos exemplos acima listados. Vejam que há várias situações distintas. Atenção às palavras-chave: manipulação, falsificação, mentira ou omissão intencional, aplicação correta intencional. 
+> A25. Exemplos de fatores de risco de fraude relacionados a informações contábeis fraudulentas e apropriação indevida de ativos são apresentados no Apêndice 1. Esses fatores de risco ilustrativos são classificados com base em três condições que geralmente estão presentes quando há fraude: 
 >
->A4. Muitas vezes as informações contábeis fraudulentas envolvem a burla pela administração de controles que aparentemente estão funcionando com eficácia. A administração pode perpetrar fraude, burlando controles intencionalmente por meio de técnicas como: 
+> * Incentivo ou pressão para perpetrar fraude. 
 >
->* Registrar lançamentos fictícios no livro diário, em especial no final do período contábil, de forma a manipular resultados operacionais ou alcançar outros objetivos. 
+> * Oportunidade percebida de cometer fraude. 
 >
->* Ajustar indevidamente as premissas e alterar os julgamentos utilizados para estimar saldos contábeis. 
+> * Capacidade de racionalizar a ação fraudulenta. 
 >
->* * Omitir, antecipar ou atrasar o reconhecimento, nas demonstrações contábeis, de eventos e operações que tenham ocorrido durante o período das demonstrações contábeis que estão sendo apresentadas. 
+> Fatores de risco que refletem uma atitude que permite a racionalização da ação fraudulenta podem não ser suscetíveis de observação pelo auditor. Contudo, o auditor pode tomar conhecimento da existência de tais informações. Embora os fatores de risco de fraude descritos no Apêndice 1 abranjam um amplo leque de situações que podem vir a ser enfrentadas pelos auditores, eles são apenas exemplos e outros fatores de risco podem existir.
 >
->* Omitir, dificultar ou deturpar divulgações requeridas pela estrutura de relatório financeiro aplicável ou divulgações que são necessárias para a apresentação adequada. 
+> Observação: o fator de risco é um indicativo (ou possibilidade) de incentivo ou pressão para ocorrência de fraude, não indicando necessariamente sua existência. Eles PODEM, muitas vezes, indicar riscos relevantes decorrentes de fraudes. 
 >
->* Encobrir fatos que possam afetar os valores registrados nas demonstrações contábeis. 
+> [...] 
 >
->* Contratar operações complexas, que são estruturadas para refletir erroneamente a situação patrimonial ou o desempenho da entidade. 
+> Justificativa de negócio para transações significativas 
 >
->* Alterar registros e condições relacionados a operações significativas e não usuais. 
+> A48. Indicadores que podem sugerir que transações significativas, fora do curso normal de negócios da entidade ou que pareçam de outro modo não usuais podem ter sido contabilizadas com a intenção de produzir informações contábeis fraudulentas ou ocultar apropriação indevida de ativos, incluem: 
 >
->[...] 
+> * A forma de tais transações parece excessivamente complexa (por exemplo, a transação envolve diversas entidades que compõem um grupo consolidado ou terceiros não relacionados). 
 >
->Avaliação dos fatores de risco de fraude 
+> * A administração não discutiu a natureza e a contabilização de tais transações com os responsáveis pela governança da entidade, e há documentação inadequada. 
 >
->A25. Exemplos de fatores de risco de fraude relacionados a informações contábeis fraudulentas e apropriação indevida de ativos são apresentados no Apêndice 1. Esses fatores de risco ilustrativos são classificados com base em três condições que geralmente estão presentes quando há fraude: 
+> * A administração está dando mais ênfase à necessidade de tratamento contábil específico do que à razão econômica subjacente da operação. 
 >
->* Incentivo ou pressão para perpetrar fraude. 
+> * Transações que envolvam partes relacionadas não consolidadas, inclusive entidades com propósito específico, não foram adequadamente revisadas ou aprovadas pelos encarregados da governança da entidade. 
 >
->* Oportunidade percebida de cometer fraude. 
+> * Transações que envolvem partes relacionadas não identificadas anteriormente ou partes que não tem a substância ou a capacidade financeira para arcar com a transação sem a ajuda da entidade sob auditoria. [Grifos não constantes no original] 
 >
->* Capacidade de racionalizar a ação fraudulenta. 
->
->Fatores de risco que refletem uma atitude que permite a racionalização da ação fraudulenta podem não ser suscetíveis de observação pelo auditor. Contudo, o auditor pode tomar conhecimento da existência de tais informações. Embora os fatores de risco de fraude descritos no Apêndice 1 abranjam um amplo leque de situações que podem vir a ser enfrentadas pelos auditores, eles são apenas exemplos e outros fatores de risco podem existir.
->
->Observação: o fator de risco é um indicativo (ou possibilidade) de incentivo ou pressão para ocorrência de fraude, não indicando necessariamente sua existência. Eles PODEM, muitas vezes, indicar riscos relevantes decorrentes de fraudes. 
->
->[...] 
->
->Justificativa de negócio para transações significativas 
->
->A48. Indicadores que podem sugerir que transações significativas, fora do curso normal de negócios da entidade ou que pareçam de outro modo não usuais podem ter sido contabilizadas com a intenção de produzir informações contábeis fraudulentas ou ocultar apropriação indevida de ativos, incluem: 
->
->* A forma de tais transações parece excessivamente complexa (por exemplo, a transação envolve diversas entidades que compõem um grupo consolidado ou terceiros não relacionados). 
->
->* A administração não discutiu a natureza e a contabilização de tais transações com os responsáveis pela governança da entidade, e há documentação inadequada. 
->
->* A administração está dando mais ênfase à necessidade de tratamento contábil específico do que à razão econômica subjacente da operação. 
->
->* Transações que envolvam partes relacionadas não consolidadas, inclusive entidades com propósito específico, não foram adequadamente revisadas ou aprovadas pelos encarregados da governança da entidade. 
->
->* Transações que envolvem partes relacionadas não identificadas anteriormente ou partes que não tem a substância ou a capacidade financeira para arcar com a transação sem a ajuda da entidade sob auditoria. [Grifos não constantes no original] 
->
->O Apêndice 1 da NBC TA 240 (R1) traz exemplos de fatores de risco de fraude relacionados a informações contábeis fraudulentas e apropriação indevida de ativos. Como visto acima, esses fatores de risco ilustrativos são classificados com base em três condições que geralmente estão presentes quando há fraude: incentivo ou pressão para perpetrar fraude; oportunidade percebida de cometer fraude; e capacidade de racionalizar a ação fraudulenta. 
+
+O Apêndice 1 da NBC TA 240 (R1) traz exemplos de fatores de risco de fraude relacionados a informações contábeis fraudulentas e apropriação indevida de ativos. Como visto acima, esses fatores de risco ilustrativos são classificados com base em três condições que geralmente estão presentes quando há fraude: incentivo ou pressão para perpetrar fraude; oportunidade percebida de cometer fraude; e capacidade de racionalizar a ação fraudulenta. 
 
 >(FCC/ ISS Teresina – 2016) Nos trabalhos de auditoria independente na Companhia Distribuidora de Frutas e Legumes do Estado referente ao exercício de 2015, o auditor constatou que, no mês de novembro de 2015, foram contabilizadas duas notas fiscais de vendas com valores adulterados, para mais, em R$ 240.000,00. De acordo com as evidências obtidas pelo auditor, as notas fiscais foram adulteradas, com o objetivo de encobrir desvio de mercadorias no estoque. Segundo a NBC TA 240, este fato caracteriza 
 >
@@ -408,9 +396,7 @@ O Risco de Auditoria é tratado primordialmente na NBC TA 200 (R1). Há outras n
 
 O objetivo do auditor, segundo a NBC TA 315, é identificar e avaliar os riscos de distorção relevante independentemente se causada por fraude ou erro, nos níveis da demonstração contábil e das afirmações, por meio do entendimento da entidade e do seu ambiente, inclusive do controle interno, proporcionando assim uma base para o planejamento e implementação das respostas aos riscos identificados. 
 
-Deve-se planejar e realizar a auditoria de forma tal que seja obtida segurança razoável para emitir 
-
-uma opinião adequada sobre as demonstrações financeiras. Essa opinião é decorrente de um trabalho que foi planejado para obter segurança razoável, mas não absoluta, de que as demonstrações não contêm distorção relevante. Se a segurança não é absoluta, então existe algum risco de que as demonstrações tenham algum erro que o auditor não conseguiu detectar durante a auditoria (Boynton et al), sendo sua responsabilidade reduzir tal risco a um nível aceitavelmente baixo. 
+Deve-se planejar e realizar a auditoria de forma tal que seja obtida segurança razoável para emitir uma opinião adequada sobre as demonstrações financeiras. Essa opinião é decorrente de um trabalho que foi planejado para obter segurança razoável, mas não absoluta, de que as demonstrações não contêm distorção relevante. Se a segurança não é absoluta, então existe algum risco de que as demonstrações tenham algum erro que o auditor não conseguiu detectar durante a auditoria (Boynton et al), sendo sua responsabilidade reduzir tal risco a um nível aceitavelmente baixo. 
 
 Risco de auditoria é o risco de que o auditor expresse uma opinião de auditoria inadequada quando as demonstrações financeiras contiverem distorção relevante, ou seja, é o risco de que o auditor possa inadvertidamente não modificar sua opinião sobre demonstrações financeiras que contêm distorções relevantes. 
 
@@ -440,7 +426,7 @@ b) controla o risco de detecção, estabelecendo a extensão (quantidade ou amos
 
 A seguir, apresentaremos “na veia” os principais tópicos da NBC TA 200 (R1) que dizem respeito ao risco de auditoria. Sempre que necessário, faremos os esclarecimentos devidos: 
 
->13. Para fins das NBCs TA, os seguintes termos possuem os significados atribuídos a seguir: 
+>13\. Para fins das NBCs TA, os seguintes termos possuem os significados atribuídos a seguir: 
 >
 >[...] 
 >
@@ -462,37 +448,38 @@ A seguir, apresentaremos “na veia” os principais tópicos da NBC TA 200 (R1)
 
 Esclarecendo: como dissemos anteriormente, os riscos de distorção relevante são os riscos da ENTIDADE enquanto que o risco de detecção é risco do AUDITOR. Atentem-se às palavras-chave de cada espécie do risco de auditoria: risco de detecção (“procedimentos executados não detectem uma distorção”); risco de distorção relevante (“demonstrações contenham distorção antes da auditoria”); risco inerente (“afirmação suscetível a distorção relevante antes da consideração de quaisquer controles”); risco de controle (“distorção que possa ocorrer em uma afirmação não seja prevenida, detectada e corrigida pelo controle interno”). 
 
->Risco de auditoria 
+> Risco de auditoria 
 >
->A34. O risco de auditoria é uma função dos riscos de distorção relevante e do risco de detecção. A avaliação dos riscos baseia-se em procedimentos de auditoria para a obtenção de informações necessárias para essa finalidade e evidências obtidas ao longo de toda a auditoria. 
+> A34. O risco de auditoria é uma função dos riscos de distorção relevante e do risco de detecção. A avaliação dos riscos baseia-se em procedimentos de auditoria para a obtenção de informações necessárias para essa finalidade e evidências obtidas ao longo de toda a auditoria. 
 >
->A avaliação dos riscos é antes uma questão de julgamento profissional que uma questão passível de mensuração precisa. 
+> A avaliação dos riscos é antes uma questão de julgamento profissional que uma questão passível de mensuração precisa. 
 >
->A35. Para fins das NBCs TA, o risco de auditoria não inclui o risco de que o auditor possa expressar uma opinião de que as demonstrações contábeis contêm distorção relevante quando esse não é o caso. Esse risco geralmente é insignificante. Além disso, o risco de auditoria é um termo técnico relacionado ao processo de auditoria; ele não se refere aos riscos de negócio do auditor, tais como perda decorrente de litígio, publicidade adversa ou outros eventos surgidos em conexão com a auditoria das demonstrações contábeis. 
+> A35. Para fins das NBCs TA, o risco de auditoria não inclui o risco de que o auditor possa expressar uma opinião de que as demonstrações contábeis contêm distorção relevante quando esse não é o caso. Esse risco geralmente é insignificante. Além disso, o risco de auditoria é um termo técnico relacionado ao processo de auditoria; ele não se refere aos riscos de negócio do auditor, tais como perda decorrente de litígio, publicidade adversa ou outros eventos surgidos em conexão com a auditoria das demonstrações contábeis. 
 >
->Risco de distorção relevante 
+> Risco de distorção relevante 
 >
->A36. Os riscos de distorção relevante podem existir em dois níveis: 
+> A36. Os riscos de distorção relevante podem existir em dois níveis: 
 >
->* no nível geral da demonstração contábil; e 
+> * no nível geral da demonstração contábil; e 
 >
->* no nível da afirmação para classes de transações, saldos contábeis e divulgações. 
+> * no nível da afirmação para classes de transações, saldos contábeis e divulgações. 
 >
->A37. Riscos de distorção relevante no nível geral da demonstração contábil referem-se aos riscos de distorção relevante que se relacionam de forma disseminada às demonstrações contábeis como um todo e que afetam potencialmente muitas afirmações. 
+> A37. Riscos de distorção relevante no nível geral da demonstração contábil referem-se aos riscos de distorção relevante que se relacionam de forma disseminada às demonstrações contábeis como um todo e que afetam potencialmente muitas afirmações. 
 >
->A38. Os riscos de distorção relevante no nível da afirmação são avaliados para que se determine a natureza, a época e a extensão dos procedimentos adicionais de auditoria necessários para a obtenção de evidência de auditoria apropriada e suficiente. Essa evidência possibilita ao auditor expressar uma opinião sobre as demonstrações contábeis em um nível aceitavelmente baixo de risco de auditoria. Os auditores usam várias abordagens para cumprir o objetivo de avaliar os riscos de distorção relevante. Por exemplo, o auditor pode fazer uso de um modelo que expresse a relação geral dos componentes do risco de auditoria em termos matemáticos para chegar a um nível aceitável de risco de detecção. Alguns auditores julgam tal modelo útil no planejamento de procedimentos de auditoria. 
+> A38. Os riscos de distorção relevante no nível da afirmação são avaliados para que se determine a natureza, a época e a extensão dos procedimentos adicionais de auditoria necessários para a obtenção de evidência de auditoria apropriada e suficiente. Essa evidência possibilita ao auditor expressar uma opinião sobre as demonstrações contábeis em um nível aceitavelmente baixo de risco de auditoria. Os auditores usam várias abordagens para cumprir o objetivo de avaliar os riscos de distorção relevante. Por exemplo, o auditor pode fazer uso de um modelo que expresse a relação geral dos componentes do risco de auditoria em termos matemáticos para chegar a um nível aceitável de risco de detecção. Alguns auditores julgam tal modelo útil no planejamento de procedimentos de auditoria. 
 >
->A39. Os riscos de distorção relevante no nível da afirmação consistem em dois componentes: risco inerente e risco de controle. O risco inerente e o risco de controle são riscos da entidade; eles existem independentemente da auditoria das demonstrações contábeis. 
+> A39. Os riscos de distorção relevante no nível da afirmação consistem em dois componentes: risco inerente e risco de controle. O risco inerente e o risco de controle são riscos da entidade; eles existem independentemente da auditoria das demonstrações contábeis. 
 >
->A40. O risco inerente é mais alto para algumas afirmações e classes relacionadas de transações, saldos contábeis e divulgações do que para outras. Por exemplo, ele pode ser mais alto para cálculos complexos ou contas compostas de valores derivados de estimativas contábeis sujeitas à incerteza significativa de estimativa. Circunstâncias externas que dão origem a riscos de negócios também podem influenciar o risco inerente. (...). 
+> A40. O risco inerente é mais alto para algumas afirmações e classes relacionadas de transações, saldos contábeis e divulgações do que para outras. Por exemplo, ele pode ser mais alto para cálculos complexos ou contas compostas de valores derivados de estimativas contábeis sujeitas à incerteza significativa de estimativa. Circunstâncias externas que dão origem a riscos de negócios também podem influenciar o risco inerente. (...). 
 >
->A41. O risco de controle é uma função da eficácia do desenho (controles estabelecidos), da implementação e da manutenção do controle interno pela administração no tratamento dos riscos identificados que ameaçam o cumprimento dos objetivos da entidade, que são relevantes para a elaboração das demonstrações contábeis da entidade. Contudo, o controle interno, independentemente da qualidade da sua estrutura e operação, pode reduzir, mas não eliminar, os riscos de distorção relevante nas demonstrações contábeis, por causa das limitações inerentes ao controle interno. Essas limitações incluem, por exemplo, a possibilidade de erros ou equívocos humanos, ou de controles contornados por conluio ou burla inapropriada da administração. Portanto, algum risco de controle sempre existe. As NBCs TA oferecem as condições nas quais existe a exigência, ou a possibilidade de escolha pelo auditor, de testar a eficácia dos controles na determinação da natureza, época e extensão de procedimentos substantivos a serem executados. 
+> A41. O risco de controle é uma função da eficácia do desenho (controles estabelecidos), da implementação e da manutenção do controle interno pela administração no tratamento dos riscos identificados que ameaçam o cumprimento dos objetivos da entidade, que são relevantes para a elaboração das demonstrações contábeis da entidade. Contudo, o controle interno, independentemente da qualidade da sua estrutura e operação, pode reduzir, mas não eliminar, os riscos de distorção relevante nas demonstrações contábeis, por causa das limitações inerentes ao controle interno. Essas limitações incluem, por exemplo, a possibilidade de erros ou equívocos humanos, ou de controles contornados por conluio ou burla inapropriada da administração. Portanto, algum risco de controle sempre existe. As NBCs TA oferecem as condições nas quais existe a exigência, ou a possibilidade de escolha pelo auditor, de testar a eficácia dos controles na determinação da natureza, época e extensão de procedimentos substantivos a serem executados. 
 >
->Observação: destacamos o termo “SEMPRE” – utilizado acima. Já alertamos que, em muitos casos, podemos considerar falsos enunciados de questões que falam que “sempre” há determinado tipo de situação. Temos aqui uma exceção, uma vez que a norma assevera que “um risco de controle sempre existe”. Isso por conta das limitações inerentes ao trabalho do auditor. 
+
+Observação: destacamos o termo “SEMPRE” – utilizado acima. Já alertamos que, em muitos casos, podemos considerar falsos enunciados de questões que falam que “sempre” há determinado tipo de situação. Temos aqui uma exceção, uma vez que a norma assevera que “um risco de controle sempre existe”. Isso por conta das limitações inerentes ao trabalho do auditor. 
+
+> Risco de detecção 
 >
->Risco de detecção 
->
->A44. Para um dado nível de risco de auditoria, o nível aceitável de risco de detecção tem uma relação inversa com os riscos avaliados de distorção relevante no nível da afirmação. Por exemplo, quanto maiores são os riscos de distorção relevante que o auditor acredita existir, menor é o risco de detecção que pode ser aceito e, portanto, mais persuasivas são as evidências de auditoria exigidas. 
+> A44. Para um dado nível de risco de auditoria, o nível aceitável de risco de detecção tem uma relação inversa com os riscos avaliados de distorção relevante no nível da afirmação. Por exemplo, quanto maiores são os riscos de distorção relevante que o auditor acredita existir, menor é o risco de detecção que pode ser aceito e, portanto, mais persuasivas são as evidências de auditoria exigidas. 
 
 Esclarecendo: percebe-se que há relação INVERSA entre o Risco de Detecção e o Risco de Distorção Relevante (no nível da afirmação). Tenhamos em mente que o auditor pode influenciar somente o Risco de Detecção (lembrem-se que o risco de distorção relevante é o risco da entidade). Por isso, se houver um alto risco de distorção relevante presente, o auditor deve tolerar um baixo risco de detecção, agindo assim no sentido de coletar evidências persuasivas e aplicar procedimentos efetivos. 
 
@@ -524,7 +511,7 @@ Observação: da mesma maneira que ocorre com o Risco de Controle (uma das espé
 
 Finalmente, apresentaremos algumas definições presentes na NBC TA 315 (R1), relacionadas ao Risco de Auditoria. 
 
->4. Para fins das normas de auditoria, os termos têm os seguintes significados: 
+>4\. Para fins das normas de auditoria, os termos têm os seguintes significados: 
 >
 >[...] 
 >
@@ -538,11 +525,9 @@ Finalmente, apresentaremos algumas definições presentes na NBC TA 315 (R1), re
 >
 >Procedimentos de avaliação de risco e atividades relacionadas 
 >
->5. O auditor deve aplicar procedimentos de avaliação de riscos para fornecer uma base para a identificação e avaliação de riscos de distorção relevante nos níveis das demonstrações 
+>5\. O auditor deve aplicar procedimentos de avaliação de riscos para fornecer uma base para a identificação e avaliação de riscos de distorção relevante nos níveis das demonstrações contábeis e das afirmações. Os procedimentos de avaliação de riscos por si só, porém, não fornecem evidências de auditoria apropriada e suficiente para suportar a opinião da auditoria. 
 >
->contábeis e das afirmações. Os procedimentos de avaliação de riscos por si só, porém, não fornecem evidências de auditoria apropriada e suficiente para suportar a opinião da auditoria. 
->
->6. Os procedimentos de avaliação de riscos incluem: 
+>6\. Os procedimentos de avaliação de riscos incluem: 
 >
 >(a) indagações à administração, às pessoas apropriadas da auditoria interna (se houver essa função) e a outros na entidade que, no julgamento do auditor, possam ter informações com possibilidade de auxiliar na identificação de riscos de distorção relevante causados por fraude ou erro; 
 >
@@ -550,13 +535,13 @@ Finalmente, apresentaremos algumas definições presentes na NBC TA 315 (R1), re
 >
 >(c) observação e inspeção. 
 >
->7. O auditor deve considerar se as informações obtidas no processo de aceitação ou continuidade do cliente são relevantes para a identificação de riscos de distorção relevante. 
+>7\. O auditor deve considerar se as informações obtidas no processo de aceitação ou continuidade do cliente são relevantes para a identificação de riscos de distorção relevante. 
 >
->8. Se o sócio do trabalho executou outros trabalhos para a entidade, ele deve considerar se as informações obtidas nesses trabalhos são relevantes para a identificação de riscos de distorção relevante. 
+>8\. Se o sócio do trabalho executou outros trabalhos para a entidade, ele deve considerar se as informações obtidas nesses trabalhos são relevantes para a identificação de riscos de distorção relevante. 
 >
->9. Quando o auditor pretende usar as informações obtidas em sua experiência prévia junto à entidade e em procedimentos de auditoria executados em auditorias anteriores, o auditor deve determinar se as mudanças que ocorreram desde a auditoria anterior podem afetar a sua importância para a auditoria corrente. 
+>9\. Quando o auditor pretende usar as informações obtidas em sua experiência prévia junto à entidade e em procedimentos de auditoria executados em auditorias anteriores, o auditor deve determinar se as mudanças que ocorreram desde a auditoria anterior podem afetar a sua importância para a auditoria corrente. 
 >
->10. O sócio do trabalho e outros membros-chave da equipe encarregada do trabalho devem discutir a suscetibilidade de distorção relevante nas demonstrações contábeis da entidade e a utilização da estrutura de relatório financeiro aplicável aos fatos e circunstâncias da entidade. 
+>10\. O sócio do trabalho e outros membros-chave da equipe encarregada do trabalho devem discutir a suscetibilidade de distorção relevante nas demonstrações contábeis da entidade e a utilização da estrutura de relatório financeiro aplicável aos fatos e circunstâncias da entidade. 
 >
 >O sócio do trabalho deve determinar quais assuntos devem ser comunicados aos membros da equipe encarregada do trabalho não envolvidos na discussão. 
 
@@ -628,7 +613,7 @@ Finalmente, apresentaremos algumas definições presentes na NBC TA 315 (R1), re
 >
 >Questão aborda o conceito de Risco de Auditoria. Você deve ficar atento às palavras-chaves: “opinião inadequada” e “distorção relevante”. Segundo a NBC TA 200 (R1): 
 >
->13. Para fins das NBCs TA, os seguintes termos possuem os significados atribuídos a seguir: 
+>13\. Para fins das NBCs TA, os seguintes termos possuem os significados atribuídos a seguir: 
 >
 >[...] 
 >
@@ -657,7 +642,7 @@ Finalmente, apresentaremos algumas definições presentes na NBC TA 315 (R1), re
 >As demais assertivas dizem respeito às espécies do Risco de Auditoria. 
 >
 >Portanto, alternativa correta é A. 
->
+
 >(FUNDATEC - Auditor do Estado (CAGE RS)/2014) De acordo com a NBC TA 315 – Identificação e Avaliação dos Riscos de Distorção Relevante por meio do Entendimento da Entidade e do seu Ambiente, o auditor deve aplicar procedimentos de avaliação de riscos para fornecer uma base para a identificação e avaliação de riscos de distorção relevante nas demonstrações contábeis e nas afirmações. No processo de avaliação dos riscos, o auditor deve aplicar os seguintes procedimentos: 
 >
 >a) Inspeção de documentos, tais como planos e estratégias de negócio, e indagações à administração e a outros na entidade com probabilidade de auxiliar na identificação de riscos de distorção relevante devido a fraude ou erro. 
@@ -770,7 +755,9 @@ O auditor deve incluir na documentação de auditoria os seguintes valores e fat
 
 Apresentaremos a seguir algumas definições presentes na NBC TA 320 (R1), usualmente cobradas em provas. 
 
->2. A estrutura de relatórios financeiros frequentemente discute o conceito de materialidade no contexto da elaboração e apresentação de demonstrações contábeis. Embora a estrutura de relatórios financeiros discuta materialidade em termos diferentes, ela em geral explica que: 
+> 2\. A estrutura de relatórios financeiros frequentemente discute o conceito de materialidade no contexto da elaboração e apresentação de demonstrações contábeis. 
+
+Embora a estrutura de relatórios financeiros discuta materialidade em termos diferentes, ela em geral explica que: 
 
 * Distorções, incluindo omissões, são consideradas relevantes quando for razoavelmente esperado que essas possam, individualmente ou em conjunto, influenciar as decisões econômicas de usuários tomadas com base nas demonstrações contábeis; 
 
@@ -780,15 +767,17 @@ Apresentaremos a seguir algumas definições presentes na NBC TA 320 (R1), usual
 
 A NBC TG ESTRUTURA CONCEITUAL – Estrutura Conceitual para a Elaboração e Apresentação de Demonstrações Contábeis indica que, para entidade com fins lucrativos, considerando que são os investidores que fornecem o capital de risco para o empreendimento, o fornecimento de demonstrações contábeis que atendam suas necessidades atendem, também, a maioria das necessidades dos outros usuários das demonstrações contábeis. 
 
->4. A determinação de materialidade pelo auditor é uma questão de julgamento profissional e é afetada pela percepção do auditor das necessidades de informações financeiras dos usuários das demonstrações contábeis. Neste contexto, é razoável que o auditor assuma que os usuários: 
+>4\. A determinação de materialidade pelo auditor é uma questão de julgamento profissional e é afetada pela percepção do auditor das necessidades de informações financeiras dos usuários das demonstrações contábeis. Neste contexto, é razoável que o auditor assuma que os usuários: 
 >
->(a) possuem conhecimento razoável de negócios, atividades econômicas, de contabilidade e a disposição de estudar as informações das demonstrações contábeis com razoável diligência; (b) entendem que as demonstrações contábeis são elaboradas, apresentadas e auditadas considerando níveis de materialidade; 
+>(a) possuem conhecimento razoável de negócios, atividades econômicas, de contabilidade e a disposição de estudar as informações das demonstrações contábeis com razoável diligência; 
+>
+>(b) entendem que as demonstrações contábeis são elaboradas, apresentadas e auditadas considerando níveis de materialidade;  
 >
 >(c) reconhecem as incertezas inerentes à mensuração de valores baseados no uso de estimativas, julgamento e a consideração sobre eventos futuros; e 
 >
 >(d) tomam decisões econômicas razoáveis com base nas informações das demonstrações contábeis. 
 >
->6. Ao planejar a auditoria, o auditor exerce julgamento sobre as distorções que são consideradas relevantes. Esses julgamentos fornecem a base para: 
+>6\. Ao planejar a auditoria, o auditor exerce julgamento sobre as distorções que são consideradas relevantes. Esses julgamentos fornecem a base para: 
 >
 >(a) determinar a natureza, a época e a extensão de procedimentos de avaliação de risco; 
 >
@@ -800,15 +789,15 @@ A NBC TG ESTRUTURA CONCEITUAL – Estrutura Conceitual para a Elaboração e Apr
 
 Esclarecendo: cuidado com questões que afirmam que há um valor mínimo para classificação da relevância ou materialidade. Como vimos acima, não se determina necessariamente um “piso” para materialidade. Isso porque as circunstâncias relacionadas a algumas distorções podem levar o auditor a avaliá-las como relevantes mesmo que estejam abaixo do limite global de materialidade. 
 
->9. Para fins das normas de auditoria, materialidade para execução da auditoria significa o valor ou valores fixados pelo auditor, inferiores ao considerado relevante para as demonstrações contábeis como um todo, para adequadamente reduzir a um nível baixo a probabilidade de que as distorções não corrigidas e não detectadas em conjunto, excedam a materialidade para as demonstrações contábeis como um todo. Se aplicável, materialidade para execução da auditoria refere-se, também, ao valor ou valores fixados pelo auditor inferiores ao nível ou níveis de materialidade para classes específicas de transações, saldos contábeis e divulgações. 
+>9\. Para fins das normas de auditoria, materialidade para execução da auditoria significa o valor ou valores fixados pelo auditor, inferiores ao considerado relevante para as demonstrações contábeis como um todo, para adequadamente reduzir a um nível baixo a probabilidade de que as distorções não corrigidas e não detectadas em conjunto, excedam a materialidade para as demonstrações contábeis como um todo. Se aplicável, materialidade para execução da auditoria refere-se, também, ao valor ou valores fixados pelo auditor inferiores ao nível ou níveis de materialidade para classes específicas de transações, saldos contábeis e divulgações. 
 
 Esclarecendo: podemos entender a materialidade como um valor (ou faixa de valores) a partir do qual o Auditor começa a se preocupar no momento de selecionar os testes e procedimentos a serem executados, ou ainda no momento de classificar como relevante uma distorção identificada. 
 
->10. Ao estabelecer a estratégia global de auditoria, o auditor deve determinar a materialidade para as demonstrações contábeis como um todo. Se, nas circunstâncias específicas da entidade, houver uma ou mais classes específicas de transações, saldos contábeis ou divulgação para as quais se poderia razoavelmente esperar que distorções de valores menores que a materialidade para as demonstrações contábeis como um todo influenciem as decisões econômicas dos usuários tomadas com base nas demonstrações contábeis, o auditor deve determinar, também, o nível ou níveis de materialidade a serem aplicados a essas classes específicas de transações, saldos contábeis e divulgações. 
+>10\. Ao estabelecer a estratégia global de auditoria, o auditor deve determinar a materialidade para as demonstrações contábeis como um todo. Se, nas circunstâncias específicas da entidade, houver uma ou mais classes específicas de transações, saldos contábeis ou divulgação para as quais se poderia razoavelmente esperar que distorções de valores menores que a materialidade para as demonstrações contábeis como um todo influenciem as decisões econômicas dos usuários tomadas com base nas demonstrações contábeis, o auditor deve determinar, também, o nível ou níveis de materialidade a serem aplicados a essas classes específicas de transações, saldos contábeis e divulgações. 
 
 Esclarecendo: durante o planejamento da auditoria o auditor deve determinar a materialidade geral (para as demonstrações contábeis como um todo). Caso haja necessidade, o auditor determina também níveis de materialidade específicos. Esses níveis são, de acordo com a norma, menores que a materialidade geral. 
 
->11. O auditor deve determinar a materialidade para execução da auditoria com o objetivo de avaliar os riscos de distorções relevantes e determinar a natureza, a época e a extensão de procedimentos adicionais de auditoria. 
+>11\. O auditor deve determinar a materialidade para execução da auditoria com o objetivo de avaliar os riscos de distorções relevantes e determinar a natureza, a época e a extensão de procedimentos adicionais de auditoria. 
 >
 >A1. [...] A materialidade e os riscos de auditoria são levados em consideração durante a auditoria, especialmente na: 
 >
@@ -831,8 +820,8 @@ Esclarecendo: durante o planejamento da auditoria o auditor deve determinar a ma
 Esclarecendo: podemos inferir que a determinação da materialidade em entidades do setor público é diferente em relação a entidades privadas. Isso decorre das necessidades específicas de usuários (legisladores, etc.), da própria função pública (em que por vezes o interesse econômico é secundário), e também por previsões legais ou regulamentares. 
 
 >A13. Planejar a auditoria somente para detectar distorção individualmente relevante negligencia o fato de que as distorções individualmente irrelevantes em conjunto podem levar à distorção relevante das demonstrações contábeis e não deixa margem para possíveis distorções não detectadas. A materialidade para execução da auditoria (que, conforme definição, é um ou mais valores) é fixada para reduzir a um nível adequadamente baixo a probabilidade de que as distorções não corrigidas e não detectadas em conjunto nas demonstrações contábeis excedam a materialidade para as demonstrações contábeis como um todo. Da mesma forma, a materialidade para execução da auditoria relacionada a um nível de materialidade determinado para classe específica de transações, saldos contábeis ou divulgação é fixada para reduzir a um nível adequadamente baixo a probabilidade de que as distorções não corrigidas e não detectadas em conjunto nessa classe específica de transações, saldos contábeis ou divulgação excedam o nível de materialidade para essa classe específica de transações, saldos contábeis ou divulgação. A determinação de materialidade para execução de testes não é um cálculo mecânico simples e envolve o exercício de julgamento profissional. 
-
-É afetado pelo entendimento que o auditor possui sobre a entidade, atualizado durante a execução dos procedimentos de avaliação de risco, e pela natureza e extensão de distorções identificadas em auditorias anteriores e, dessa maneira, pelas expectativas do auditor em relação a distorções no período corrente. 
+>
+>É afetado pelo entendimento que o auditor possui sobre a entidade, atualizado durante a execução dos procedimentos de avaliação de risco, e pela natureza e extensão de distorções identificadas em auditorias anteriores e, dessa maneira, pelas expectativas do auditor em relação a distorções no período corrente. 
 
 >(FCC/ SEFAZ SP – AFR – 2013) Uma demonstração contábil apresenta distorções relevantes, quando o valor de distorções 
 >
@@ -874,7 +863,7 @@ Esclarecendo: podemos inferir que a determinação da materialidade em entidades
 >
 >Questão cobra o conhecimento do item 2, da NBC TA 320. Veja mais uma vez: 
 >
->2. A estrutura de relatórios financeiros frequentemente discute o conceito de materialidade no contexto da elaboração e apresentação de demonstrações contábeis. Embora a estrutura de relatórios financeiros discuta materialidade em termos diferentes, ela em geral explica que: 
+>2\. A estrutura de relatórios financeiros frequentemente discute o conceito de materialidade no contexto da elaboração e apresentação de demonstrações contábeis. Embora a estrutura de relatórios financeiros discuta materialidade em termos diferentes, ela em geral explica que: 
 >
 >* Distorções, incluindo omissões, são consideradas relevantes quando for razoavelmente esperado que essas possam, individualmente ou em conjunto, influenciar as decisões econômicas de usuários tomadas com base nas demonstrações contábeis [...]; 
 >

@@ -1,6 +1,6 @@
 - # CONTEXTUALIZAÇÃO 
 
-Hoje faremos um complemento aos assuntos vistos em nossa primeira aula (00), especialmente à parte das diferenças entre Auditoria Interna e Auditoria Externa (Independente), para tratar dos pontos específicos da NBC TI 01 – Da Auditoria Interna e da NBC PI 01 – Normas Profissionais do Auditor Interno. 
+Hoje faremos um complemento aos assuntos vistos em nossa primeira aula (00), especialmente à parte das diferenças entre Auditoria Interna e Auditoria Externa (Independente), para tratar dos pontos específicos da NBC TI 01 – Da Auditoria Interna e da NBC PI 01 – Normas Profissionais do Auditor Interno.  
 
 Trata-se de normas bem curtas e, de certa maneira, muito exploradas pelas bancas. Além de trazer os objetivos e finalidades da auditoria interna propriamente ditos (vistos e revistos em nossa Aula 00), o normativo traz diversos outros pontos que coincidem com temas que veremos futuramente na parte da auditoria independente (planejamento, procedimentos, papéis de trabalho, risco, relatório, etc.). É quase como se tivéssemos uma amostra, muito menor em conteúdo e conceitos, de tudo o que estudamos na auditoria independente. Por esse motivo, reforçamos sua importância. 
 

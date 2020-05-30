@@ -26,7 +26,6 @@ Contudo, cabe observar que veremos adiante algumas espécies de tributos cuja de
 
 Outra  característica  do  Direito  Tributário  que  você  precisa  guardar  é  que  se  trata  de  um ramo  autônomo  do  Direito. Isso  ocorre,  porque  tal  ramo  possui  princípios  específicos  próprios, como o princípio do não confisco, por exemplo, que serão detalhados nas aulas seguintes.
 
-
 O Direito em si é uno. O que ocorre são ramificações com objetivo meramente didático.
 
 ##  RECEITAS PÚBLICAS 

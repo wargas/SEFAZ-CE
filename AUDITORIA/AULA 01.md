@@ -1,4 +1,4 @@
-- # CONTEXTUALIZAÇÃO 
+# CONTEXTUALIZAÇÃO 
 
 Hoje faremos um complemento aos assuntos vistos em nossa primeira aula (00), especialmente à parte das diferenças entre Auditoria Interna e Auditoria Externa (Independente), para tratar dos pontos específicos da NBC TI 01 – Da Auditoria Interna e da NBC PI 01 – Normas Profissionais do Auditor Interno.  
 

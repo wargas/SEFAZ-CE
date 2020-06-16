@@ -60,9 +60,7 @@ O auditor deve efetuar o estudo e a avaliação do sistema contábil e de contro
 
 * O grau de envolvimento da auditoria interna, se existente.
 
-O sistema contábil e de controles internos é de responsabilidade da administração da entidade;
-
-porém, o auditor deve efetuar sugestões objetivas para seu aprimoramento, decorrentes de constatações feitas no decorrer do seu trabalho.
+O sistema contábil e de controles internos é de responsabilidade da administração da entidade; porém, o auditor deve efetuar sugestões objetivas para seu aprimoramento, decorrentes de constatações feitas no decorrer do seu trabalho.
 
 Vejam então que os papéis e responsabilidades são bem definidos neste ponto. Cabe à administração da entidade a **responsabilidade primária pelos controles internos em si**. Já o auditor deve **sugerir elementos que concorram para melhoria dos controles internos**, fruto de suas constatações no trabalho de campo.
 
@@ -74,7 +72,7 @@ b) os procedimentos de controle adotados pela administração da entidade.
 
 O auditor, quando estiver avaliando o ambiente de controle existente, deve considerar os seguintes fatores:
 
-* Definição de funções de todaa administração
+* Definição de funções de toda a administração
 
 * Processo decisório adotado na entidade 
 
@@ -108,108 +106,111 @@ Nos termos da NBC T 16.8, o controle interno atua como suporte do sistema de inf
 
 A seguir, apresentaremos um extrato dos principais tópicos da NBC T 16.8. Frisamos que esse normativo foi revogado pela NBC TSP 11 (que produziu efeitos a partir de 01/01/2019). Em virtude da praxe relativa à cobrança de normas superadas em auditoria, decidimos mantê-la em nossa aula.
 
->Abrangência
-
-Controle interno sob o enfoque contábil compreende o conjunto de recursos, métodos, procedimentos e processos adotados pela entidade do setor público, com a finalidade de:
-
-(a) salvaguardar os ativos e assegurar a veracidade dos componentes patrimoniais;
-
-(b) dar conformidade ao registro contábil em relação ao ato correspondente;
-
-(c) propiciar a obtenção de informação oportuna e adequada;
-
-(d) estimular adesão às normas e às diretrizes fixadas;
-
-(e) contribuir para a promoção da eficiência operacional da entidade;
-
-(f) auxiliar na prevenção de práticas ineficientes e antieconômicas, erros, fraudes, malversação, abusos, desvios e outras inadequações.
-
-O controle interno deve ser exercido em todos os níveis da entidade do setor público, compreendendo:
-
-(a) a preservação do patrimônio público;
-
-(b) o controle da execução das ações que integram os programas;
-
-(c) a observância às leis, aos regulamentos e às diretrizes estabelecidas.
-
-**Classificação**
-
-O controle interno é classificado nas seguintes categorias:
-
-(a) operacional – relacionado às ações que propiciam o alcance dos objetivos da entidade;
-
-(b) contábil – relacionado à veracidade e à fidedignidade dos registros e das demonstrações contábeis;
-
-(c) normativo – relacionado à observância da regulamentação pertinente.
-
-**Estrutura e Componentes** 
-
-Estrutura de controle interno compreende ambiente de controle; mapeamento e avaliação de riscos; procedimentos de controle; informação e comunicação; e monitoramento.
-
-O ambiente de controle deve demonstrar o grau de comprometimento em todos os níveis da administração com a qualidade do controle interno em seu conjunto.
-
-Mapeamento de riscos é a identificação dos eventos ou das condições que podem afetar a qualidade da informação contábil.
-
-Avaliação de riscos corresponde à análise da relevância dos riscos identificados, incluindo:
-
-(a) a avaliação da probabilidade de sua ocorrência;
-
-(b) a forma como serão gerenciados;
-
-(c) a definição das ações a serem implementadas para prevenir a sua ocorrência ou minimizar seu potencial; e
-
-(d) a resposta ao risco, indicando a decisão gerencial para mitigar os riscos, a partir de uma abordagem geral e estratégica, considerando as hipóteses de eliminação, redução, aceitação ou compartilhamento.
-
-Riscos são ocorrências, circunstâncias ou fatos imprevisíveis que podem afetar a qualidade da informação contábil.
-
-Procedimentos de controle são medidas e ações estabelecidas para prevenir ou detectar os riscos inerentes ou potenciais à tempestividade, à fidedignidade e à precisão da informação contábil, classificando-se em:
-
-(a) procedimentos de prevenção – medidas que antecedem o processamento de um ato ou um fato, para prevenir a ocorrência de omissões, inadequações e intempestividade da informação contábil;
-
-(b) procedimentos de detecção – medidas que visem à identificação, concomitante ou a posteriori, de erros, omissões, inadequações e intempestividade da informação contábil.
-
-Monitoramento compreende o acompanhamento dos pressupostos do controle interno, visando assegurar a sua adequação aos objetivos, ao ambiente, aos recursos e aos riscos.
-
-O sistema de informação e comunicação da entidade do setor público deve identificar, armazenar e comunicar toda informação relevante, na forma e no período determinados, a fim de permitir a realização dos procedimentos estabelecidos e outras responsabilidades, orientar a tomada de decisão, permitir o monitoramento de ações e contribuir para a realização de todos os objetivos de controle interno. [Grifos não constantes no original] 10
-
-Estrutura e Componentes do Controle interno (NBC T 16.8):
-
-Ambiente de controle: deve demonstrar o grau de comprometimento em todos os níveis da administração com a qualidade do controle interno em seu conjunto.
-
-Mapeamento de riscos: é a identificação dos eventos ou das condições que podem afetar a qualidade da informação contábil.
-
-Avaliação de riscos: corresponde à análise da relevância dos riscos identificados, incluindo:
-
-(a) a avaliação da probabilidade de sua ocorrência;
-
-(b) a forma como serão gerenciados;
-
-(c) a definição das ações a serem implementadas para prevenir a sua ocorrência ou minimizar seu potencial; e 
-
-(d) a resposta ao risco, indicando a decisão gerencial para mitigar os riscos, a partir de uma abordagem geral e estratégica, considerando as hipóteses de eliminação, redução, aceitação ou compartilhamento.
-
-Procedimentos de controle: são medidas e ações estabelecidas para prevenir ou detectar os riscos inerentes ou potenciais à tempestividade, à fidedignidade e à precisão da informação contábil, classificando-se em:
-
-(a) procedimentos de prevenção – medidas que antecedem o processamento de um ato ou um fato, para prevenir a ocorrência de omissões, inadequações e intempestividade da informação contábil;
-
-(b) procedimentos de detecção – medidas que visem à identificação, concomitante ou a posteriori, de erros, omissões, inadequações e intempestividade da informação contábil.
-
-Monitoramento: compreende o acompanhamento dos pressupostos do controle interno, visando assegurar a sua adequação aos objetivos, ao ambiente, aos recursos e aos riscos.
-
-O sistema de informação e comunicação da entidade do setor público: deve identificar, armazenar e comunicar toda informação relevante, na forma e no período determinados, a fim de permitir a realização dos procedimentos estabelecidos e outras responsabilidades, orientar a tomada de decisão, permitir o monitoramento de ações e contribuir para a realização de todos os objetivos de controle interno.
+> Abrangência
+>
+> Controle interno sob o enfoque contábil compreende o conjunto de recursos, métodos, procedimentos e processos adotados pela entidade do setor público, com a finalidade de:
+>
+> (a) salvaguardar os ativos e assegurar a veracidade dos componentes patrimoniais;
+>
+> (b) dar conformidade ao registro contábil em relação ao ato correspondente;
+>
+> (c) propiciar a obtenção de informação oportuna e adequada;
+>
+> (d) estimular adesão às normas e às diretrizes fixadas;
+>
+> (e) contribuir para a promoção da eficiência operacional da entidade;
+>
+> (f) auxiliar na prevenção de práticas ineficientes e antieconômicas, erros, fraudes, malversação, abusos, desvios e outras inadequações.
+>
+> O controle interno deve ser exercido em todos os níveis da entidade do setor público, compreendendo:
+>
+> (a) a preservação do patrimônio público;
+>
+> (b) o controle da execução das ações que integram os programas;
+>
+> (c) a observância às leis, aos regulamentos e às diretrizes estabelecidas.
+>
+> **Classificação**
+>
+> O controle interno é classificado nas seguintes categorias:
+>
+> (a) operacional – relacionado às ações que propiciam o alcance dos objetivos da entidade;
+>
+> (b) contábil – relacionado à veracidade e à fidedignidade dos registros e das demonstrações contábeis;
+>
+> (c) normativo – relacionado à observância da regulamentação pertinente.
+>
+> **Estrutura e Componentes** 
+>
+> Estrutura de controle interno compreende ambiente de controle; mapeamento e avaliação de riscos; procedimentos de controle; informação e comunicação; e monitoramento.
+>
+> O ambiente de controle deve demonstrar o grau de comprometimento em todos os níveis da administração com a qualidade do controle interno em seu conjunto.
+>
+> Mapeamento de riscos é a identificação dos eventos ou das condições que podem afetar a qualidade da informação contábil.
+>
+> Avaliação de riscos corresponde à análise da relevância dos riscos identificados, incluindo:
+>
+> (a) a avaliação da probabilidade de sua ocorrência;
+>
+> (b) a forma como serão gerenciados;
+>
+> (c) a definição das ações a serem implementadas para prevenir a sua ocorrência ou minimizar seu potencial;  
+>
+> (d) a resposta ao risco, indicando a decisão gerencial para mitigar os riscos, a partir de uma abordagem geral e estratégica, considerando as hipóteses de eliminação, redução, aceitação ou compartilhamento.
+>
+> Riscos são ocorrências, circunstâncias ou fatos imprevisíveis que podem afetar a qualidade da informação contábil.
+>
+> Procedimentos de controle são medidas e ações estabelecidas para prevenir ou detectar os riscos inerentes ou potenciais à tempestividade, à fidedignidade e à precisão da informação contábil, classificando-se em:
+>
+> (a) procedimentos de prevenção – medidas que antecedem o processamento de um ato ou um fato, para prevenir a ocorrência de omissões, inadequações e intempestividade da informação contábil;
+>
+> (b) procedimentos de detecção – medidas que visem à identificação, concomitante ou a posteriori, de erros, omissões, inadequações e intempestividade da informação contábil.
+>
+> Monitoramento compreende o acompanhamento dos pressupostos do controle interno, visando assegurar a sua adequação aos objetivos, ao ambiente, aos recursos e aos riscos.
+>
+> O sistema de informação e comunicação da entidade do setor público deve identificar, armazenar e comunicar toda informação relevante, na forma e no período determinados, a fim de permitir a realização dos procedimentos estabelecidos e outras responsabilidades, orientar a tomada de decisão, permitir o monitoramento de ações e contribuir para a realização de todos os objetivos de controle interno. [Grifos não constantes no original] 
+>
+> Estrutura e Componentes do Controle interno (NBC T 16.8):
+>
+> Ambiente de controle: deve demonstrar o grau de comprometimento em todos os níveis da administração com a qualidade do controle interno em seu conjunto.
+>
+> Mapeamento de riscos: é a identificação dos eventos ou das condições que podem afetar a qualidade da informação contábil.
+>
+> Avaliação de riscos: corresponde à análise da relevância dos riscos identificados, incluindo:
+>
+> (a) a avaliação da probabilidade de sua ocorrência;
+>
+> (b) a forma como serão gerenciados;
+>
+> (c) a definição das ações a serem implementadas para prevenir a sua ocorrência ou minimizar seu potencial;   
+>
+> (d) a resposta ao risco, indicando a decisão gerencial para mitigar os riscos, a partir de uma abordagem geral e estratégica, considerando as hipóteses de eliminação, redução, aceitação ou compartilhamento.
+>
+> Procedimentos de controle: são medidas e ações estabelecidas para prevenir ou detectar os riscos inerentes ou potenciais à tempestividade, à fidedignidade e à precisão da informação contábil, classificando-se em:
+>
+> (a) procedimentos de prevenção – medidas que antecedem o processamento de um ato ou um fato, para prevenir a ocorrência de omissões, inadequações e intempestividade da informação contábil;
+>
+> (b) procedimentos de detecção – medidas que visem à identificação, concomitante ou a posteriori, de erros, omissões, inadequações e intempestividade da informação contábil.
+>
+> Monitoramento: compreende o acompanhamento dos pressupostos do controle interno, visando assegurar a sua adequação aos objetivos, ao ambiente, aos recursos e aos riscos.
+>
+> O sistema de informação e comunicação da entidade do setor público: deve identificar, armazenar e comunicar toda informação relevante, na forma e no período determinados, a fim de permitir a realização dos procedimentos estabelecidos e outras responsabilidades, orientar a tomada de decisão, permitir o monitoramento de ações e contribuir para a realização de todos os objetivos de controle interno.
+>
 
 Acabamos de ver uma série de informações e elementos relacionados ao controle interno, na ótica da NBC T 16.8. Veremos, na sequência, um extrato dos itens mais importantes presentes na NBC TA 315(R1) e na NBC TA 265:
 
->\*NBC TA 315(R1) – Identificação e Avaliação dos Riscos de Distorção Relevante* 4. Para fins das normas de auditoria, os termos têm os seguintes significados:
+>\**NBC TA 315(R1) – Identificação e Avaliação dos Riscos de Distorção Relevante* *
+>
+>4\. Para fins das normas de auditoria, os termos têm os seguintes significados:
 >
 >[...]
 >
 >(c) Controle interno é o processo planejado, implementado e mantido pelos responsáveis pela governança, administração e outros empregados para fornecer segurança razoável quanto à realização dos objetivos da entidade no que se refere à confiabilidade dos relatórios financeiros, efetividade e eficiência das operações e conformidade com leis e regulamentos aplicáveis. O termo “controles” refere-se a quaisquer aspectos de um ou mais dos componentes do controle interno.
->
->Observação: vejam que o controle interno é algo amplo (um processo) e tem como função fornecer razoável segurança de que os objetivos da organização serão atingidos.
->
->Divisão do controle interno em componentes 
 
+Observação: vejam que o controle interno é algo amplo (um processo) e tem como função fornecer razoável segurança de que os objetivos da organização serão atingidos.
+
+>Divisão do controle interno em componentes 
+>
 >A59. A divisão do controle interno nos cinco componentes a seguir, para fins das normas de auditoria, fornece uma estrutura útil para que os auditores considerem como diferentes aspectos do controle interno da entidade podem afetar a auditoria:
 >
 >(a) o ambiente de controle;
@@ -262,7 +263,7 @@ Observação: os componentes do controle interno trazidos pela NBC TA 315 (norma
 >
 >\*NBC TA 265 - Comunicação de Deficiências de Controle Interno* Objetivo
 >
->5. O objetivo do auditor é comunicar apropriadamente, aos responsáveis pela governança e à administração, as deficiências de controle interno que o auditor identificou durante a auditoria e que, no seu julgamento profissional, são de importância suficiente para merecer a atenção deles.
+>5\. O objetivo do auditor é comunicar apropriadamente, aos responsáveis pela governança e à administração, as deficiências de controle interno que o auditor identificou durante a auditoria e que, no seu julgamento profissional, são de importância suficiente para merecer a atenção deles.
 
 Esclarecendo: vejam que a comunicação a respeito das deficiências de controle interno é feita aos responsáveis pela governança e à administração. Em regra, devem ser comunicadas as deficiências significativas, que são aquelas de importância tal que merecem a atenção dos responsáveis pela governança.
 
@@ -274,11 +275,11 @@ Esclarecendo: vejam que a comunicação a respeito das deficiências de controle
 >
 >Deficiência significativa de controle interno é a deficiência ou a combinação de deficiências de controle interno que, no julgamento profissional do auditor, é de importância suficiente para merecer a atenção dos responsáveis pela governança Requisitos
 >
->8. Se o auditor identificou uma ou mais deficiências de controle interno, o auditor deve determinar, com base no trabalho de auditoria executado, se elas constituem, individualmente ou em conjunto, deficiência significativa.
+>8\. Se o auditor identificou uma ou mais deficiências de controle interno, o auditor deve determinar, com base no trabalho de auditoria executado, se elas constituem, individualmente ou em conjunto, deficiência significativa.
 >
->9. O auditor deve comunicar tempestivamente por escrito as deficiências significativas de controle interno identificadas durante a auditoria aos responsáveis pela governança.
+>9\. O auditor deve comunicar tempestivamente por escrito as deficiências significativas de controle interno identificadas durante a auditoria aos responsáveis pela governança.
 >
->10. O auditor também deve comunicar tempestivamente à administração no nível apropriado de responsabilidade:
+>10\. O auditor também deve comunicar tempestivamente à administração no nível apropriado de responsabilidade:
 >
 >(a) por escrito, as deficiências significativas de controle interno que o auditor comunicou ou pretende comunicar aos responsáveis pela governança, a menos que não seja apropriado nas circunstâncias comunicar diretamente à administração; e 
 >
@@ -286,7 +287,7 @@ Esclarecendo: vejam que a comunicação a respeito das deficiências de controle
 >
 >Esclarecendo: em regra, deficiências significativas de controle interno identificadas devem ser comunicadas por escrito aos responsáveis pela governança.
 >
->11. O auditor deve incluir na comunicação por escrito das deficiências significativas de controle interno:
+>11\. O auditor deve incluir na comunicação por escrito das deficiências significativas de controle interno:
 >
 >(a) descrição das deficiências e explicação de seus possíveis efeitos; e 
 >
@@ -404,7 +405,7 @@ Os princípios de controle interno administrativo, segundo a norma, constituem-s
 >
 >(a) prioritariamente, ter caráter preventivo.
 >
->(b) permanentemente, estar voltados paraa correção de eventuais desvios em relação aos parâmetros estabelecidos.
+>(b) permanentemente, estar voltados para a correção de eventuais desvios em relação aos parâmetros estabelecidos.
 >
 >(c) prevalecer como instrumentos auxiliares de gestão.
 >
@@ -488,7 +489,7 @@ Os princípios de controle interno administrativo, segundo a norma, constituem-s
 >
 >Enunciado traz a definição de Controle Interno prevista no item 4 da NBC TA 315(R1). Veja mais uma vez:
 >
->4. Para fins das normas de auditoria, os termos têm os seguintes significados:
+>4\. Para fins das normas de auditoria, os termos têm os seguintes significados:
 >
 >[...]
 >

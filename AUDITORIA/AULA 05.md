@@ -175,7 +175,7 @@ A representatividade é uma característica fundamental para a amostra, que depe
 
 Todas as definições delineadas abaixo – algumas delas já comentadas ao longo seção Contextualização bem como nesta – já foram objeto de provas nos mais diversos concursos. Segundo a NBC TA 530:
 
->5. Para fins das normas de auditoria, os termos a seguir têm os significados a eles atribuídos:
+>5\. Para fins das normas de auditoria, os termos a seguir têm os significados a eles atribuídos:
 >
 >**Amostragem em auditoria** é a aplicação de procedimentos de auditoria em menos de 100% dos itens de população relevante para fins de auditoria, de maneira que todas as unidades de amostragem tenham a mesma chance de serem selecionadas para proporcionar uma base razoável que possibilite o auditor concluir sobre toda a população.
 >
@@ -187,33 +187,35 @@ Todas as definições delineadas abaixo – algumas delas já comentadas ao long
 >
 >(b) no caso de teste de controles, em que os controles são considerados menos eficazes do que realmente são ou no caso de teste de detalhes, em que seja identificada distorção relevante, quando, na verdade, ela não existe. Esse tipo de conclusão errônea afeta a eficiência da auditoria porque ela normalmente levaria a um trabalho adicional para estabelecer que as conclusões iniciais estavam incorretas.
 >
->>**Risco não resultante da amostragem** é o risco de que o auditor chegue a uma conclusão errônea por qualquer outra razão que não seja relacionada ao risco de amostragem.
+>**Risco não resultante da amostragem** é o risco de que o auditor chegue a uma conclusão errônea por qualquer outra razão que não seja relacionada ao risco de amostragem.
 >
 >Os exemplos de risco não resultante da amostragem incluem o uso de procedimentos de auditoria não apropriados ou a interpretação errônea da evidência de auditoria e o não reconhecimento de uma distorção ou de um desvio.
 >
->>**Anomalia** é a distorção ou o desvio que é comprovadamente não representativo de distorção ou desvio em uma população.
+>**Anomalia** é a distorção ou o desvio que é comprovadamente não representativo de distorção ou desvio em uma população.
 >
 >**Unidade de amostragem** é cada um dos itens individuais que constituem uma população.
 >
 >Esclarecendo: apesar do nome "unidade DE AMOSTRAGEM", esse conceito está diretamente relacionado à população da qual se deseja extrair a amostra, e não à amostra propriamente dita. É o que se extrai da própria definição (cada um dos itens que constituem uma POPULAÇÃO).
 >
->>**Amostragem estatística** é a abordagem à amostragem com as seguintes características:
+>**Amostragem estatística** é a abordagem à amostragem com as seguintes características:
 >
 >(a) seleção aleatória dos itens da amostra; e
 >
 >(b) o uso da teoria das probabilidades para avaliar os resultados das amostras, incluindo a mensuração do risco de amostragem.
-
-A abordagem de amostragem que não tem as características (i) e (ii) é considerada uma amostragem não estatística.
-
-Estratificação é o processo de dividir uma população em subpopulações, cada uma sendo um grupo de unidades de amostragem com características semelhantes (geralmente valor monetário).
-
-Atenção: veremos mais detalhes acerca da Estratificação mais à frente. Por ora, prestem atenção ao fato de que as subpopulações são grupos de unidades de amostragem com características SEMELHANTES (ou HOMOGÊNEAS) – e não características distintas ou heterogêneas.
-
+>
+> A abordagem de amostragem que não tem as características (i) e (ii) é considerada uma amostragem não estatística.
+>
+> Estratificação é o processo de dividir uma população em subpopulações, cada uma sendo um grupo de unidades de amostragem com características semelhantes (geralmente valor monetário).
+>
+> Atenção: veremos mais detalhes acerca da Estratificação mais à frente. Por ora, prestem atenção ao fato de que as subpopulações são grupos de unidades de amostragem com características SEMELHANTES (ou HOMOGÊNEAS) – e não características distintas ou heterogêneas.
+>
 >**Distorção tolerável** é um valor monetário definido pelo auditor para obter um nível apropriado de segurança de que esse valor monetário não seja excedido pela distorção real na população.
 
 Observação: por menos intuitivo que pareça o conceito acima, podemos pensar na distorção tolerável como um valor discrepante com o qual o auditor aceita (ou tolera) conviver. Excedido esse valor, o auditor tem “com o que se preocupar”. Em outros termos, a distorção tolerável corresponde ao máximo que se admitirá de erro para os resultados obtidos na amostra.
 
-Taxa tolerável de desvio é a taxa de desvio dos procedimentos de controles internos previstos, definida pelo auditor para obter um nível apropriado de segurança de que essa taxa de desvio não seja excedida pela taxa real de desvio na população. [grifos não constantes no original] Observação: podemos entender a taxa tolerável de desvios como uma taxa (%) máxima admitida de erros relacionados aos procedimentos de controle. Enquanto a distorção tolerável é um valor (absoluto), a taxa tolerável de desvio é um valor percentual.
+Taxa tolerável de desvio é a taxa de desvio dos procedimentos de controles internos previstos, definida pelo auditor para obter um nível apropriado de segurança de que essa taxa de desvio não seja excedida pela taxa real de desvio na população. [grifos não constantes no original] 
+
+Observação: podemos entender a taxa tolerável de desvios como uma taxa (%) máxima admitida de erros relacionados aos procedimentos de controle. Enquanto a distorção tolerável é um valor (absoluto), a taxa tolerável de desvio é um valor percentual.
 
 Ao definir uma amostra de auditoria, o auditor deve considerar: 1) a finalidade do procedimento de auditoria; e 2) as características da população da qual será retirada a amostra.
 
@@ -337,9 +339,7 @@ A NBC TA 530 traz em seu corpo um total de 4 (quatro) Apêndices, todos eles imp
 
 Quando são cobradas informações desses apêndices, quase sempre são as questões mais difíceis da prova.
 
-As bancas costumam comparar o tamanho da amostra a um dos fatores que influenciam o seu tamanho. A essência das perguntas é se essa relação se dá de forma direta ou inversa. Por exemplo:
-
-o que acontece com o tamanho da amostra se for aumentada a distorção tolerável? Nesse caso, o tamanho da amostra deverá reduzir, uma vez que essas duas grandezas possuem relação inversa.
+As bancas costumam comparar o tamanho da amostra a um dos fatores que influenciam o seu tamanho. A essência das perguntas é se essa relação se dá de forma direta ou inversa. Por exemplo: o que acontece com o tamanho da amostra se for aumentada a distorção tolerável? Nesse caso, o tamanho da amostra deverá reduzir, uma vez que essas duas grandezas possuem relação inversa.
 
 Em alguns casos, podemos fazer uma dedução lógica para concluir sobre a relação entre determinado fator e o tamanho da amostra. Por exemplo, se o auditor tolera uma distorção alta (auditor mais “relaxado”) ele pode reduzir o tamanho da amostra (distorção tolerável e tamanho da amostra possuem relação inversa). Já se o auditor espera uma distorção alta ele deve aumentar o tamanho da amostra para se precaver (distorção que o auditor espera encontrar e tamanho da amostra possuem relação direta). Ainda, caso se queira aumentar o nível de segurança desejado (qualquer que seja ele) ou caso a avaliação de risco seja maior, é preciso que o auditor aumente o tamanho da amostra para se cobrir de eventuais problemas. Os Apêndices 2 e 3 possuem quadros com todas essas relações (diretas, inversas ou efeito negligenciável) entre diversos fatores e o tamanho da amostra.
 
@@ -355,7 +355,7 @@ Iremos expor agora informações relevantes sobre Amostragem previstas na IN SFC
 
 Lembramos que esse normativo foi substituído, no ano de 2017, pela IN nº 03/2017/Ministério da Transparência e CGU (norma que aprovou o Referencial Técnico da Atividade de Auditoria Interna Governamental do Poder Executivo Federal). Independentemente desse cenário, a IN 01/2001 ainda costuma ser cobrada em provas, especialmente aquelas que trazem auditoria governamental em seu conteúdo programático!
 
-Existem várias razões que justificam a utilização de amostragem em levantamentos de grandes populações. Uma dessas razões é a economicidade dos meios. Onde os recursos humanos e materiais são escassos, a amostragem se torna imprescindível, tornando o trabalho do servidor bem mais fácil e adequado. Outro fator de grande importância é o tempo, pois onde as informações das quais se necessitam são valiosas e tempestivas, o uso de amostra também se justifica. Outra razão é o fato de que, com a utilização da amostragem, a confiabilidade dos dados é maior devido ao número reduzido de elementos, podendo-se dedicar mais atenção aos casos individuais, evitando- se erros nas respostas. Além disso, a operacionalidade em pequena escala torna mais fácil o controle do processo como um todo.
+Existem várias razões que justificam a utilização de amostragem em levantamentos de grandes populações. Uma dessas razões é a economicidade dos meios. Onde os recursos humanos e materiais são escassos, a amostragem se torna imprescindível, tornando o trabalho do servidor bem mais fácil e adequado. Outro fator de grande importância é o tempo, pois onde as informações das quais se necessitam são valiosas e tempestivas, o uso de amostra também se justifica. Outra razão é o fato de que, com a utilização da amostragem, a confiabilidade dos dados é maior devido ao número reduzido de elementos, podendo-se dedicar mais atenção aos casos individuais, evitando-se erros nas respostas. Além disso, a operacionalidade em pequena escala torna mais fácil o controle do processo como um todo.
 
 Existem casos, no entanto, em que não se recomenda a utilização de amostragem, tais como:
 

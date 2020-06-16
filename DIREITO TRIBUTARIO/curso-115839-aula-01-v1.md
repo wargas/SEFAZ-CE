@@ -885,5 +885,3 @@ Leandro   Paulsen,   em   sua precisa   análise,   discrimina   os   conteúdos
 > (CESPE/TCE-PR-Analista  de  Controle/2016) É  vedado  aos  estados,  ao  Distrito  Federal  e  aos municípios  estabelecer  diferença  tributária  de  qualquer  natureza  entre  bens  e  serviços  em razão de sua procedência ou destino.
 > Comentário: É o que estabelece o princípio da não discriminação baseada em procedência ou destino, previsto no art. 152, da CF/88.
 > Gabarito: Correta
-
-

@@ -98,7 +98,7 @@ Em linhas gerais, a NBC TA 700 apresenta as circunstâncias em que o auditor dev
 
 Apresentaremos a seguir – “na veia” – um extrato dos principais tópicos da NBC TA 700, sempre destacando aqueles cobrados em prova de forma recorrente com nossas “corujinhas”. Cada “corujinha” faz menção ao item da norma que aparece na sequência. Ao resolvermos questões, você perceberá claramente que as bancas dão preferência a um grupo “restrito” de itens.
 
->7. Para fins das normas de auditoria, os termos a seguir têm os seguintes significados:
+>7\. Para fins das normas de auditoria, os termos a seguir têm os seguintes significados:
 >
 >[...]
 >
@@ -112,9 +112,9 @@ Observação: a opinião não modificada também é chamada de opinião “limpa
 
 >Formação da opinião sobre as demonstrações contábeis
 >
->10. O auditor deve formar sua opinião sobre se as demonstrações contábeis são elaboradas, em todos os aspectos relevantes, de acordo com a estrutura de relatório financeiro aplicável.
+>10\. O auditor deve formar sua opinião sobre se as demonstrações contábeis são elaboradas, em todos os aspectos relevantes, de acordo com a estrutura de relatório financeiro aplicável.
 >
->11. Para formar essa opinião, o auditor deve concluir se obteve segurança razoável de que as demonstrações contábeis tomadas em conjunto estão livres de distorção relevante, independentemente se causada por fraude ou erro. Essa conclusão deve levar em consideração:
+>11\. Para formar essa opinião, o auditor deve concluir se obteve segurança razoável de que as demonstrações contábeis tomadas em conjunto estão livres de distorção relevante, independentemente se causada por fraude ou erro. Essa conclusão deve levar em consideração:
 >
 >(a) se, na conclusão do auditor, foi obtida evidência de auditoria apropriada e suficiente;
 >
@@ -122,9 +122,9 @@ Observação: a opinião não modificada também é chamada de opinião “limpa
 >
 >Forma da opinião
 >
->16. O auditor deve expressar uma opinião não modificada quando concluir que as demonstrações contábeis são elaboradas, em todos os aspectos relevantes, de acordo com a estrutura de relatório financeiro aplicável.
+>16\. O auditor deve expressar uma opinião não modificada quando concluir que as demonstrações contábeis são elaboradas, em todos os aspectos relevantes, de acordo com a estrutura de relatório financeiro aplicável.
 >
->17. O auditor deve modificar a opinião no seu relatório de auditoria de acordo com a NBC TA 705 se:
+>17\. O auditor deve modificar a opinião no seu relatório de auditoria de acordo com a NBC TA 705 se:
 >
 >(a) concluir, com base em evidência de auditoria obtida, que as demonstrações contábeis tomadas em conjunto apresentam distorções relevantes; ou 
 >
@@ -132,15 +132,15 @@ Observação: a opinião não modificada também é chamada de opinião “limpa
 >
 >Observação: reparem que a letra “b” acima traz uma dupla negação (auditor NÃO consegue evidências de que as demonstrações NÃO contêm distorções relevantes) – temos, portanto, sentenças equivalentes!
 >
->18. Se as demonstrações contábeis elaboradas de acordo com os requisitos de uma estrutura de apresentação adequada não atingem uma apresentação adequada, o auditor deve discutir o assunto com a administração e, dependendo dos requisitos da estrutura de relatório financeiro aplicável e como o assunto é resolvido, deve determinar se é necessário modificar a opinião no seu relatório de auditoria de acordo com a NBC TA 705.
+>18\. Se as demonstrações contábeis elaboradas de acordo com os requisitos de uma estrutura de apresentação adequada não atingem uma apresentação adequada, o auditor deve discutir o assunto com a administração e, dependendo dos requisitos da estrutura de relatório financeiro aplicável e como o assunto é resolvido, deve determinar se é necessário modificar a opinião no seu relatório de auditoria de acordo com a NBC TA 705.
 
 Observação: o item acima noz diz que o auditor deve discutir com a administração, ou ainda verificar se é necessário modificar sua opinião, quando concluir que as demonstrações – ainda que elaboradas conforme os requisitos aplicáveis – não atingem uma apresentação adequada.
 
->19. Quando as demonstrações contábeis são elaboradas de acordo com a estrutura de conformidade, o auditor não precisa avaliar se as demonstrações contábeis atingem uma apresentação adequada. Entretanto, se, em circunstâncias extremamente raras, o auditor concluir que essas demonstrações contábeis são enganosas, ele deve discutir o assunto com a administração e, dependendo de como o assunto for resolvido, ele deve determinar a necessidade e a forma de comunicar isso no seu relatório.
+>19\. Quando as demonstrações contábeis são elaboradas de acordo com a estrutura de conformidade, o auditor não precisa avaliar se as demonstrações contábeis atingem uma apresentação adequada. Entretanto, se, em circunstâncias extremamente raras, o auditor concluir que essas demonstrações contábeis são enganosas, ele deve discutir o assunto com a administração e, dependendo de como o assunto for resolvido, ele deve determinar a necessidade e a forma de comunicar isso no seu relatório.
 >
 >Relatório do auditor independente 
 >
->20. O relatório do auditor deve ser por escrito.
+>20\. O relatório do auditor deve ser por escrito.
 
 Observação: a informação acima nos parece óbvia, mas ainda assim as bancas tentarão confundi-los, afirmando que o relatório pode ser produzido de outra maneira (verbal ou oral, por exemplo).
 
@@ -148,19 +148,19 @@ Observação: os itens a seguir não costumam cair tanto em provas. Trouxemo-nos
 
 >Relatório do auditor para auditoria conduzida de acordo com as normas de auditoria Título
 >
->21. O relatório do auditor deve ter título que indique claramente que é o relatório do auditor independente.
+>21\. O relatório do auditor deve ter título que indique claramente que é o relatório do auditor independente.
 >
 >Destinatário
 >
->22. O relatório do auditor deve ser endereçado conforme exigido pelas circunstâncias do trabalho.
->
->Esclarecendo: em regra, o relatório é endereçado às pessoas para quem é elaborado, ou seja, acionistas, responsáveis pela governança, etc. Eventualmente, caso não proibido por lei ou regulamento, o relatório PODE especificar para quem o ele deve ser endereçado.
->
+>22\. O relatório do auditor deve ser endereçado conforme exigido pelas circunstâncias do trabalho.
+
+Esclarecendo: em regra, o relatório é endereçado às pessoas para quem é elaborado, ou seja, acionistas, responsáveis pela governança, etc. Eventualmente, caso não proibido por lei ou regulamento, o relatório PODE especificar para quem o ele deve ser endereçado.
+
 >Opinião do auditor
 >
->23. A primeira seção do relatório do auditor deve incluir a opinião do auditor independente e deve ter “Opinião” como título.
+>23\. A primeira seção do relatório do auditor deve incluir a opinião do auditor independente e deve ter “Opinião” como título.
 >
->24. A seção “Opinião” do relatório do auditor também deve:
+>A seção “Opinião” do relatório do auditor também deve:
 >
 >(a) identificar a entidade cujas demonstrações contábeis foram auditadas;
 >
@@ -172,7 +172,7 @@ Observação: os itens a seguir não costumam cair tanto em provas. Trouxemo-nos
 >
 >(e) especificar a data ou o período de cada demonstração que compõe as demonstrações contábeis.
 >
->25. Ao expressar uma opinião não modificada sobre demonstrações contábeis elaboradas de acordo com a estrutura de apresentação adequada, a opinião do auditor deve utilizar uma das seguintes frases, que são consideradas equivalentes:
+>25\. Ao expressar uma opinião não modificada sobre demonstrações contábeis elaboradas de acordo com a estrutura de apresentação adequada, a opinião do auditor deve utilizar uma das seguintes frases, que são consideradas equivalentes:
 >
 >(a) “Em nossa opinião, as demonstrações contábeis apresentam adequadamente, em todos os aspectos relevantes,... de acordo com [a estrutura de relatório financeiro aplicável]”; ou 
 >
@@ -184,7 +184,7 @@ Observação: antes da atualização da NBC TA 700 (ocorrida em 2016), utilizava
 
 >Base para opinião
 >
->28. O relatório do auditor deve incluir uma seção, logo após a seção “Opinião”, com o título “Base para opinião”, que:
+>28\. O relatório do auditor deve incluir uma seção, logo após a seção “Opinião”, com o título “Base para opinião”, que:
 >
 >(a) declare que a auditoria foi conduzida em conformidade com as normas de auditoria;
 >
@@ -200,9 +200,9 @@ Observação: antes da atualização da NBC TA 700 (ocorrida em 2016), a declara
 >
 >Responsabilidades pelas demonstrações contábeis 
 >
->33. O relatório do auditor deve incluir uma seção com o título “Responsabilidades da administração pelas demonstrações contábeis”. O relatório do auditor não precisa referir-se especificamente à “administração”, mas deve usar o termo que é apropriado no contexto da estrutura legal. Em algumas jurisdições, a referência apropriada pode ser os responsáveis pela governança.
+>33\. O relatório do auditor deve incluir uma seção com o título “Responsabilidades da administração pelas demonstrações contábeis”. O relatório do auditor não precisa referir-se especificamente à “administração”, mas deve usar o termo que é apropriado no contexto da estrutura legal. Em algumas jurisdições, a referência apropriada pode ser os responsáveis pela governança.
 >
->34. Essa seção do relatório do auditor deve explicar a responsabilidade da administração pela:
+>34\. Essa seção do relatório do auditor deve explicar a responsabilidade da administração pela:
 >
 >(a) elaboração das demonstrações contábeis, de acordo com a estrutura de relatório financeiro aplicável e pelos controles internos que a administração determinar que sejam necessários para permitir a elaboração de demonstrações contábeis livres de distorção relevante, independentemente se causada por fraude ou erro; e 
 >
@@ -212,9 +212,9 @@ Observação: antes da atualização da NBC TA 700 (ocorrida em 2016), a declara
 >
 >Responsabilidades do auditor independente pela auditoria das demonstrações contábeis 
 >
->37. O relatório do auditor deve incluir uma seção com o título “Responsabilidades do auditor pela auditoria das demonstrações contábeis”.
+>37\. O relatório do auditor deve incluir uma seção com o título “Responsabilidades do auditor pela auditoria das demonstrações contábeis”.
 >
->38. Essa seção do relatório do auditor deve declarar que:
+>38\. Essa seção do relatório do auditor deve declarar que:
 >
 >(a) os objetivos do auditor são:
 >
@@ -232,7 +232,7 @@ Observação: antes da atualização da NBC TA 700 (ocorrida em 2016), a declara
 
 Esclarecendo: várias declarações que devem estar presentes nesta seção se relacionam com os objetivos gerais da auditoria e do auditor, ou mesmo com o conceito de materialidade/relevância – tópicos estudados em outras aulas de nossos cursos.
 
->39. A seção “Responsabilidades do auditor pela auditoria das demonstrações contábeis” do relatório do auditor deve também:
+>39\. A seção “Responsabilidades do auditor pela auditoria das demonstrações contábeis” do relatório do auditor deve também:
 >
 >(a) declarar que, como parte da auditoria de acordo com as normas de auditoria, o auditor exerce o julgamento profissional e mantém o ceticismo profissional durante toda a auditoria; e 
 >
@@ -256,7 +256,7 @@ Esclarecendo: várias declarações que devem estar presentes nesta seção se r
 >
 >(iii) o auditor continua sendo o único responsável pela sua opinião.
 >
->40. A seção “Responsabilidades do auditor pela auditoria das demonstrações contábeis” do relatório do auditor deve também:
+>40\. A seção “Responsabilidades do auditor pela auditoria das demonstrações contábeis” do relatório do auditor deve também:
 >
 >(a) declarar que o auditor se comunica com os responsáveis pela governança com relação, entre outras questões, ao alcance e à época planejados da auditoria e às descobertas significativas de auditoria, incluindo quaisquer deficiências significativas nos controles internos que ele venha a identificar durante a auditoria;
 >
@@ -268,7 +268,7 @@ Esclarecendo: várias declarações que devem estar presentes nesta seção se r
 >
 >Data do relatório do auditor 
 >
->49. O relatório do auditor não pode ter data **anterior à data em que ele obteve evidência de auditoria apropriada e suficiente** para fundamentar a sua opinião sobre as demonstrações contábeis, incluindo evidência de que:
+>49\. O relatório do auditor não pode ter data **anterior à data em que ele obteve evidência de auditoria apropriada e suficiente** para fundamentar a sua opinião sobre as demonstrações contábeis, incluindo evidência de que:
 >
 >(a) todas as demonstrações e divulgações que compõem as demonstrações contábeis foram elaboradas e divulgadas; e
 >
@@ -324,7 +324,9 @@ Se o auditor, por exigência de lei ou regulamento, for requerido a utilizar uma
 >
 >Questão trazida à aula para chamar atenção de um posicionamento peculiar, baseado em norma “extravagante” já revogada. Pois bem, a questão toma por base a NPA 01 – Parecer dos Auditores Independentes sobre Demonstrações Contábeis (do IBRACON), revisada pela última vez em 1991, e revogada desde maio/2011. Vejamos o que dizia esse normativo:
 >
->ELEMENTOS BÁSICOS DO PARECER DOS AUDITORES INDEPENDENTES 6. O parecer emitido pelo auditor independente compõe-se, basicamente, de três parágrafos, como se segue:
+>ELEMENTOS BÁSICOS DO PARECER DOS AUDITORES INDEPENDENTES 
+>
+>6. O parecer emitido pelo auditor independente compõe-se, basicamente, de três parágrafos, como se segue:
 >
 >a. Parágrafo referente à identificação das demonstrações contábeis e à definição das responsabilidades da administração e dos auditores.
 >
@@ -334,9 +336,7 @@ Se o auditor, por exigência de lei ou regulamento, for requerido a utilizar uma
 >
 >Pelo exposto, nosso gabarito é a letra A (temos que ficar ligados a esse tipo de posicionamento esquisito da banca, para não sermos pegos de surpreso caso apareça novamente). Ainda, de acordo com o item apresentado acima, vemos que as letras B e C estão erradas.
 >
->A letra D também está errada, pois – de acordo com a NPA 01, são 4 (quatro) os tipos de parecer:
->
->sem ressalva; com ressalva, adverso e com abstenção de opinião. Aqui poderíamos fazer um paralelo com as normas hoje vigentes. Vejamos um breve resumo de cada tipo de parecer previsto na NPA 01:
+>A letra D também está errada, pois – de acordo com a NPA 01, são 4 (quatro) os tipos de parecer: sem ressalva; com ressalva, adverso e com abstenção de opinião. Aqui poderíamos fazer um paralelo com as normas hoje vigentes. Vejamos um breve resumo de cada tipo de parecer previsto na NPA 01:
 >
 >Parecer sem ressalva: o parecer sem ressalva é emitido quando o auditor está convencido sobre todos os aspectos relevantes dos assuntos tratados no item 4* deste Pronunciamento. O parecer do auditor independente deve expressar essa convicção de forma clara e objetiva.
 >
@@ -472,13 +472,7 @@ A decisão sobre qual tipo de opinião modificada é apropriada em cada caso dep
 
 A quase totalidade das questões desse tópico é resolvida com a correta interpretação e aplicação da tabela a seguir:
 
-|       | Relevante / Não generalizado | Relevante / Generalizado |
-
-| -------------------------------------- | ---------------------------- | ------------------------ |
-
-| DC apresentação distorções relevantes | Opinião com Ressalva  | Opinião Adversa  |
-
-| Impossibilidade de se obter evidências | Opinião com Ressalva  | Abstenção de Opinião  |
+![image-20200606100813401](C:\Users\warga\Documents\SEFAZ-CE\MD\AUDITORIA\images\AULA 07\image-20200606100813401.png)
 
 No sentido das linhas (horizontal), encontram-se as variáveis referentes à obtenção ou não de evidência de que as demonstrações apresentam distorções. Na primeira linha do quadrante, o auditor consegue obter evidências, e na segunda linha há impossibilidade de se obter evidência apropriada e suficiente.
 
@@ -500,13 +494,13 @@ Apresentaremos a seguir – “na veia” – um extrato dos principais tópicos
 
 >Tipos de opinião modificada 
 >
->2. Esta norma estabelece três tipos de opiniões modificadas, a saber: “Opinião com ressalva”, “Opinião adversa” e “Abstenção de opinião”. A decisão sobre que tipo de opinião modificada é apropriada depende:
+>2\. Esta norma estabelece três tipos de opiniões modificadas, a saber: “Opinião com ressalva”, “Opinião adversa” e “Abstenção de opinião”. A decisão sobre que tipo de opinião modificada é apropriada depende:
 >
 >(a) da natureza do assunto que deu origem à modificação, ou seja, se as demonstrações contábeis apresentam distorção relevante ou, no caso de impossibilidade de se obter evidência de auditoria apropriada e suficiente, podem apresentar distorção relevante; e 
 >
 >(b) do julgamento do auditor sobre a disseminação de forma generalizada dos efeitos ou possíveis efeitos do assunto nas demonstrações contábeis.
 >
->5. Para os fins das normas de auditoria, os termos a seguir têm os significados atribuídos abaixo:
+>5\. Para os fins das normas de auditoria, os termos a seguir têm os significados atribuídos abaixo:
 >
 >Generalizado é o termo usado, no contexto de distorções, para descrever os efeitos disseminados de distorções sobre as demonstrações contábeis ou os possíveis efeitos de distorções sobre as demonstrações contábeis que não são detectados, se houver, devido à impossibilidade de obter evidência de auditoria apropriada e suficiente. Efeitos generalizados sobre as demonstrações contábeis são aqueles que, no julgamento do auditor:
 >
@@ -518,7 +512,7 @@ Apresentaremos a seguir – “na veia” – um extrato dos principais tópicos
 >
 >Opinião com ressalva 
 >
->7. O auditor deve expressar uma opinião com ressalva quando:
+>7\. O auditor deve expressar uma opinião com ressalva quando:
 >
 >(a) ele, tendo obtido evidência de auditoria apropriada e suficiente, conclui que as distorções, individualmente ou em conjunto, são relevantes, mas não generalizadas nas demonstrações contábeis;ou
 >
@@ -528,23 +522,23 @@ Apresentaremos a seguir – “na veia” – um extrato dos principais tópicos
 >
 >Opinião adversa
 >
->8. O auditor deve expressar uma opinião adversa quando, tendo obtido evidência de auditoria apropriada e suficiente, conclui que as distorções, individualmente ou em conjunto, são relevantes e generalizadas para as demonstrações contábeis.
+>8\. O auditor deve expressar uma opinião adversa quando, tendo obtido evidência de auditoria apropriada e suficiente, conclui que as distorções, individualmente ou em conjunto, são relevantes e generalizadas para as demonstrações contábeis.
 >
 >Abstenção de opinião 
 >
->9. O auditor deve abster-se de expressar uma opinião quando não consegue obter evidência de auditoria apropriada e suficiente para suportar sua opinião e ele conclui que os possíveis efeitos de distorções não detectadas, se houver, sobre as demonstrações contábeis poderiam ser relevantes e generalizadas.
+>9\. O auditor deve abster-se de expressar uma opinião quando não consegue obter evidência de auditoria apropriada e suficiente para suportar sua opinião e ele conclui que os possíveis efeitos de distorções não detectadas, se houver, sobre as demonstrações contábeis poderiam ser relevantes e generalizadas.
 >
->10. O auditor deve abster-se de expressar uma opinião quando, em circunstâncias extremamente raras envolvendo diversas incertezas, o auditor conclui que, independentemente de ter obtido evidência de auditoria apropriada e suficiente sobre cada uma das incertezas, não é possível expressar uma opinião sobre as demonstrações contábeis devido à possível interação das incertezas e seu possível efeito cumulativo sobre essas demonstrações contábeis.
+>10\. O auditor deve abster-se de expressar uma opinião quando, em circunstâncias extremamente raras envolvendo diversas incertezas, o auditor conclui que, independentemente de ter obtido evidência de auditoria apropriada e suficiente sobre cada uma das incertezas, não é possível expressar uma opinião sobre as demonstrações contábeis devido à possível interação das incertezas e seu possível efeito cumulativo sobre essas demonstrações contábeis.
 
 Observação: chamamos atenção do item 10 acima, por nos apresentar o caso “especial” da abstenção de opinião. Trata-se de cenário pouco usual, que ocorre em raras circunstâncias, quando o auditor – independente de conseguir ou não evidência – julga não ser possível expressar uma opinião em virtude da possível interação das incertezas e seu possível efeito cumulativo. O item 9 traz o caso geral (impossibilidade de se obter evidência + possíveis efeitos das distorções relevantes e generalizados). 
 
 >Consequência da impossibilidade de obter evidência de auditoria apropriada e suficiente devido a uma limitação imposta pela administração depois da aceitação do trabalho pelo auditor 
 >
->11. Se, depois de aceitar o trabalho, o auditor tomar conhecimento que a administração impôs uma limitação ao alcance da auditoria que tem, segundo ele, probabilidade de resultar na necessidade de expressar uma opinião com ressalva ou abster-se de expressar uma opinião sobre as demonstrações contábeis, o auditor deve solicitar que a administração retire a limitação.
+>11\. Se, depois de aceitar o trabalho, o auditor tomar conhecimento que a administração impôs uma limitação ao alcance da auditoria que tem, segundo ele, probabilidade de resultar na necessidade de expressar uma opinião com ressalva ou abster-se de expressar uma opinião sobre as demonstrações contábeis, o auditor deve solicitar que a administração retire a limitação.
 >
->12. No caso de a administração se recusar a retirar a limitação mencionada no item 11, o auditor deve comunicar o assunto aos responsáveis pela governança, a menos que todos aqueles responsáveis pela governança estejam envolvidos na administração da entidade, assim como determinar se é possível executar procedimentos alternativos para obter evidência de auditoria apropriada e suficiente.
+>12\. No caso de a administração se recusar a retirar a limitação mencionada no item 11, o auditor deve comunicar o assunto aos responsáveis pela governança, a menos que todos aqueles responsáveis pela governança estejam envolvidos na administração da entidade, assim como determinar se é possível executar procedimentos alternativos para obter evidência de auditoria apropriada e suficiente.
 >
->13. Se o auditor não conseguir obter evidência apropriada e suficiente de auditoria, o auditor deve determinar as implicações como segue:
+>13\. Se o auditor não conseguir obter evidência apropriada e suficiente de auditoria, o auditor deve determinar as implicações como segue:
 >
 >(a) se ele concluir que os possíveis efeitos de distorções não detectadas, se houver, sobre as demonstrações contábeis poderiam ser relevantes, mas não generalizados, o auditor deve emitir uma opinião com ressalva; ou 
 >
@@ -558,7 +552,7 @@ Observação: chamamos atenção para os 03 (três itens acima), pois eles costu
 
 >Opinião com ressalva 
 >
->17. Quando o auditor expressa uma “Opinião com ressalva” devido à distorção relevante nas demonstrações contábeis, ele deve especificar que, em sua opinião, exceto pelos efeitos dos assuntos descritos na seção “Opinião com ressalva”:
+>17\. Quando o auditor expressa uma “Opinião com ressalva” devido à distorção relevante nas demonstrações contábeis, ele deve especificar que, em sua opinião, exceto pelos efeitos dos assuntos descritos na seção “Opinião com ressalva”:
 >
 >(a) as demonstrações contábeis estão apresentadas adequadamente, em todos os aspectos relevantes (ou apresentam uma visão verdadeira e justa) [...], de acordo com [a estrutura de relatório financeiro aplicável], quando o relatório é emitido de acordo com uma estrutura de apresentação adequada; ou
 >
@@ -568,7 +562,7 @@ Observação: chamamos atenção para os 03 (três itens acima), pois eles costu
 >
 >Opinião adversa
 >
->18. Quando o auditor expressa uma “Opinião adversa”, ele deve especificar que, em sua opinião, devido à relevância dos assuntos descritos na seção “Base para opinião adversa”:
+>18\. Quando o auditor expressa uma “Opinião adversa”, ele deve especificar que, em sua opinião, devido à relevância dos assuntos descritos na seção “Base para opinião adversa”:
 >
 >(a) as demonstrações contábeis não estão apresentadas adequadamente (ou não apresentam uma visão verdadeira e justa) [...], de acordo com [a estrutura de relatório financeiro aplicável], quando o relatório é emitido de acordo com uma estrutura de apresentação adequada; ou 
 >
@@ -576,7 +570,7 @@ Observação: chamamos atenção para os 03 (três itens acima), pois eles costu
 >
 >Abstenção de opinião 
 >
->19. Quando o auditor se abstém de expressar uma opinião devido à impossibilidade de se obter evidência de auditoria apropriada e suficiente, ele deve:
+>19\. Quando o auditor se abstém de expressar uma opinião devido à impossibilidade de se obter evidência de auditoria apropriada e suficiente, ele deve:
 >
 >(a) especificar que ele não expressa opinião sobre as demonstrações contábeis;
 >
@@ -584,7 +578,7 @@ Observação: chamamos atenção para os 03 (três itens acima), pois eles costu
 >
 >Base para opinião
 >
->20. Quando o auditor modifica a opinião sobre as demonstrações contábeis, ele deve, além dos elementos específicos requeridos pela NBC TA 700:
+>20\. Quando o auditor modifica a opinião sobre as demonstrações contábeis, ele deve, além dos elementos específicos requeridos pela NBC TA 700:
 >
 >(a) alterar o título “Base para opinião” requerido pelo item 28 da NBC TA 700 para “Base para opinião com ressalva”, “Base para opinião adversa” ou “Base para abstenção de opinião”, conforme apropriado; e
 >
@@ -594,7 +588,7 @@ Observação: chamamos atenção para os 03 (três itens acima), pois eles costu
 
 Descrição da responsabilidade pela auditoria das demonstrações contábeis quando o auditor se abstém de expressar uma opinião 
 
->28. Quando o auditor se abstém de expressar uma opinião sobre as demonstrações contábeis devido à impossibilidade de se obter evidência de auditoria apropriada e suficiente, ele deve alterar a descrição das responsabilidades do auditor requerida pelos itens 39 a 41 da NBC TA 700 para incluir apenas declaração:
+>28\. Quando o auditor se abstém de expressar uma opinião sobre as demonstrações contábeis devido à impossibilidade de se obter evidência de auditoria apropriada e suficiente, ele deve alterar a descrição das responsabilidades do auditor requerida pelos itens 39 a 41 da NBC TA 700 para incluir apenas declaração:
 >
 >(a) de que a sua responsabilidade é a de conduzir uma auditoria das demonstrações contábeis da entidade de acordo com as normas de auditoria e a de emitir um relatório de auditoria;
 >
@@ -602,7 +596,7 @@ Descrição da responsabilidade pela auditoria das demonstrações contábeis qu
 >
 >Comunicação com os responsáveis pela governança 
 >
->30. Quando o auditor prevê modificar a opinião no seu relatório, ele deve comunicar aos responsáveis pela governança as circunstâncias que levaram à modificação prevista e o texto proposto da modificação.
+>30\. Quando o auditor prevê modificar a opinião no seu relatório, ele deve comunicar aos responsáveis pela governança as circunstâncias que levaram à modificação prevista e o texto proposto da modificação.
 >
 >Natureza da impossibilidade de se obter evidência de auditoria apropriada e suficiente 
 >
@@ -618,9 +612,9 @@ Descrição da responsabilidade pela auditoria das demonstrações contábeis qu
 >
 >A10. Exemplos de circunstâncias que estão fora do controle da entidade incluem:
 >
->• registros contábeis da entidade que tenham sido destruídos;
+>* registros contábeis da entidade que tenham sido destruídos;
 >
->•registros contábeis de componente significativo que tenham sido apreendidos indefinidamente por autoridades governamentais.
+>* registros contábeis de componente significativo que tenham sido apreendidos indefinidamente por autoridades governamentais.
 
 >(FCC/ COPERGAS – Analista – Contador – 2016) Na auditoria independente das demonstrações contábeis do exercício de 2015 de determinada empresa estatal do Governo do Estado, o auditor constatou que na conta de “Duplicatas a Receber”, há uma diferença de R$ 2.596.000,00 a maior no saldo contábil. A diferença refere-se a duas duplicatas pagas, mediante cheques, por determinado cliente no mês de dezembro e depositado no mês fevereiro do ano subsequente. Em seu julgamento o Auditor considerou que as demonstrações contábeis apresentam distorções relevantes, mas não generalizadas. Assim, segundo as NBC 705, deve o Auditor 
 >
@@ -656,7 +650,7 @@ Descrição da responsabilidade pela auditoria das demonstrações contábeis qu
 >
 >Segundo a NBC TA 705(R1):
 >
->5. Para fins das normas de auditoria, os termos a seguir têm os seguintes significados a eles atribuídos:
+>5\. Para fins das normas de auditoria, os termos a seguir têm os seguintes significados a eles atribuídos:
 >
 >(a) Generalizado é o termo usado, no contexto de distorções, para descrever os efeitos de distorções sobre as demonstrações contábeis ou os possíveis efeitos de distorções sobre as demonstrações contábeis, se houver, que não são detectados devido à impossibilidade de se obter evidência de auditoria apropriada e suficiente. Efeitos generalizados sobre as demonstrações contábeis são aqueles que, no julgamento do auditor:
 >
@@ -686,7 +680,7 @@ Descrição da responsabilidade pela auditoria das demonstrações contábeis qu
 >
 >Segundo a NBC TA 705:
 >
->11. Se, depois de aceitar o trabalho, o auditor tomar conhecimento que a administração impôs uma limitação ao alcance da auditoria que tem, segundo ele, probabilidade de resultar na necessidade de expressar uma opinião com ressalva ou abster-se de expressar uma opinião sobre as demonstrações contábeis, o auditor deve solicitar que a administração retire a limitação.
+>11\. Se, depois de aceitar o trabalho, o auditor tomar conhecimento que a administração impôs uma limitação ao alcance da auditoria que tem, segundo ele, probabilidade de resultar na necessidade de expressar uma opinião com ressalva ou abster-se de expressar uma opinião sobre as demonstrações contábeis, o auditor deve solicitar que a administração retire a limitação.
 >
 >[Grifo nosso]
 >
@@ -738,9 +732,9 @@ A NBC TA 706 descreve alguns exemplos de circunstâncias em que o auditor pode c
 
 * Evento subsequente significativo ocorrido entre a data das demonstrações contábeis e a data do relatório do auditor.
 
-* Aplicação antecipada (quando permitida) de nova norma contábil com efeito relevantessobresassdemonstraçõesscontábeis.
+* Aplicação antecipada (quando permitida) de nova norma contábil com efeito relevantes sobre assdemonstrações contábeis.
 
-* Grande catástrofe que tenha tido, ou continue a ter,efeito significativo sobre a posição patrimonial e financeira da entidade.
+* Grande catástrofe que tenha tido, ou continue a ter efeito significativo sobre a posição patrimonial e financeira da entidade.
 
 O Apêndice 1 do normativo supramencionado apresenta ainda uma lista de outras normas de auditoria que contêm exigências para inclusão de parágrafo de ênfase. São elas:
 
@@ -844,7 +838,7 @@ O Apêndice 2 da NBC TA 706 apresenta ainda uma lista de outras normas de audito
 >
 >É feita divulgação adequada da incerteza significativa nas demonstrações contábeis 
 >
->22. Se for feita divulgação adequada da incerteza significativa nas demonstrações contábeis, o auditor deve expressar uma opinião não modificada e o relatório do auditor deve incluir uma seção separada sob o título “Incerteza significativa relacionada com a continuidade operacional” para:
+>\22. Se for feita divulgação adequada da incerteza significativa nas demonstrações contábeis, o auditor deve expressar uma opinião não modificada e o relatório do auditor deve incluir uma seção separada sob o título “Incerteza significativa relacionada com a continuidade operacional” para:
 >
 >(a) chamar a atenção para a nota explicativa às demonstrações contábeis que divulga os assuntos especificados no item 19; e
 >

@@ -1,6 +1,7 @@
 # IMPOSTOS DE COMPETÊNCIA DOS MUNICÍPIOS 
 Conforme o nosso cronograma, ainda nos resta estudar, na aula de hoje, os impostos de competência dos Municípios. São apenas três: Imposto sobre Propriedade Territorial Urbana (IPTU); Imposto sobre transmissão "inter vivos", a qualquer título, por ato oneroso, de bens imóveis, por natureza ou acessão física, e de direitos reais sobre imóveis, exceto os de garantia, bem como cessão de direitos a sua aquisição (ITBI); e Imposto sobre Serviços de Qualquer Natureza (ISS ou ISQN).
 Comecemos pelo IPTU...
+
 ## IMPOSTO SOBRE PROPRIEDADE TERRITORIAL URBANA (IPTU) 
 O IPTU incide sobre propriedades imobiliárias da mesma forma que o ITR. No entanto, trata- se de imposto municipal, incidente apenas sobre os imóveis localizados em áreas urbanas, ao passo que o ITR incide sobre os imóveis rurais.
 É considerado imposto com finalidade fiscal, representando boa parte da arrecadação municipal. No entanto, pode, excepcionalmente, ser utilizado com objetivo extrafiscal, como estudaremos adiante.

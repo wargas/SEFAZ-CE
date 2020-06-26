@@ -8,11 +8,11 @@ A contabilidade Brasileira passou por profundas alterações, através de um pro
 
 Vamos analisar abaixo as alterações que afetam a análise das demonstrações contábeis.
 
-![image-20200604150509476](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604150509476.png)
+![image-20200604150509476](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604150509476.png)
 
 Esta estrutura foi alterada, como veremos adiante.
 
-![image-20200604150518647](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604150518647.png)
+![image-20200604150518647](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604150518647.png)
 
 Alterações do Ativo
 
@@ -24,15 +24,15 @@ Assim, os índices que usam o Ativo Realizável a Longo Prazo não tiveram qualq
 
 Exemplo: Vamos considerar o índice de Imobilização do Capital Próprio:
 
-![image-20200604150756558](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604150756558.png)
+![image-20200604150756558](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604150756558.png)
 
 Observação: fórmula referente à antiga estrutura de balanço.
 
-![image-20200604150803471](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604150803471.png)
+![image-20200604150803471](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604150803471.png)
 
 Ou, ao revés:
 
-![image-20200604150810188](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604150810188.png)
+![image-20200604150810188](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604150810188.png)
 
 Alterações do Passivo 
 
@@ -46,7 +46,7 @@ Exemplo:
 
 * Índice de liquidez geral:
 
-![image-20200604151047011](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604151047011.png)
+![image-20200604151047011](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604151047011.png)
 
 Nesta aula, vamos apresentar as fórmulas como aparecem nos livros, seguindo a estrutura antiga; e também apresentaremos como ficaria com a nova estrutura.
 
@@ -208,7 +208,7 @@ São índices do tipo "quanto maior, melhor". Mas alguns autores alertam que, em
 
 A fórmula é a seguinte:
 
-![image-20200604152913777](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604152913777.png)
+![image-20200604152913777](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604152913777.png)
 
 Este índice apresenta a capacidade da empresa pagar suas dívidas de curto prazo (passivo circulante) com os recursos de curto prazo (ativo circulante). É um índice muito utilizado e considerado como o melhor indicador da situação de liquidez da empresa.
 
@@ -222,7 +222,7 @@ Exemplo:
 
 Calculando, temos:
 
-![image-20200604153027026](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604153027026.png)
+![image-20200604153027026](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604153027026.png)
 
 Este índice significa que a empresa possui R\$ 1,20 reais no ativo circulante para cada real de dívida, a curto prazo.
 
@@ -230,7 +230,7 @@ Este índice significa que a empresa possui R\$ 1,20 reais no ativo circulante p
 
 A fórmula é a seguinte:
 
-![image-20200604153150344](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604153150344.png)
+![image-20200604153150344](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604153150344.png)
 
 Trata-se de um índice de liquidez mais rigoroso que a Liquidez Corrente, pois exclui os estoques.
 
@@ -250,13 +250,13 @@ Exemplo:
 
 Calculando, temos:
 
-![image-20200604153330791](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604153330791.png)
+![image-20200604153330791](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604153330791.png)
 
 Significa que a empresa possui R\$1,04 no ativo circulante para cada real de dívida de curto prazo, sem considerar os estoques.
 
 Atenção! Para alguns autores, a fórmula da Liquidez Seca é a seguinte:
 
-![image-20200604153358460](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604153358460.png)
+![image-20200604153358460](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604153358460.png)
 
 As despesas antecipadas normalmente são ajustadas para a análise de balanço. Como irão se transformar em despesa, são consideradas como redução do Patrimônio Líquido.
 
@@ -268,7 +268,8 @@ Para alguns autores (e para algumas bancas, como a CESPE), as despesas antecipad
 
 Ah, professores, mas isso cai em prova? Sim! Vejam.
 
-> ![image-20200604154041344](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604154041344.png)
+![image-20200604154041344](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604154041344.png)
+
 >
 > Com base nos dados da tabela acima e considerando os indicadores mais utilizados na análise contábil, julgue o item a seguir.
 >
@@ -278,11 +279,13 @@ Ah, professores, mas isso cai em prova? Sim! Vejam.
 >
 > Vamos aos cálculos. Se considerarmos que o índice da liquidez seca é (Ativo Circulante estoque) / Passivo Circulante, temos o seguinte:
 >
-> ![image-20200604154300295](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604154300295.png)
+![image-20200604154300295](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604154300295.png)
+
 >
 > Ocorre que o CESPE usa a seguinte fórmula para a Liquidez Seca (LS):
 >
-> ![image-20200604154312818](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604154312818.png)
+![image-20200604154312818](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604154312818.png)
+
 >
 > Nesse caso, a questão estaria correta. Mas o gabarito foi "Errada";
 >
@@ -292,7 +295,7 @@ Ah, professores, mas isso cai em prova? Sim! Vejam.
 
 A fórmula é a seguinte:
 
-![image-20200604154348145](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604154348145.png)
+![image-20200604154348145](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604154348145.png)
 
 É o mais rigoroso dos índices de liquidez. Avalia a capacidade de a empresa pagar suas dívidas de imediato, com os valores que possui disponíveis. As disponibilidades incluem caixa e equivalente de caixa (depósitos bancários, aplicações de curto prazo, etc.), ou seja, são as aplicações que podem ser convertidas imediatamente em dinheiro sem alteração significativa do seu valor.
 
@@ -306,7 +309,7 @@ Exemplo:
 
 Calculando, temos:
 
-![image-20200604154456144](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604154456144.png)
+![image-20200604154456144](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604154456144.png)
 
 Significa que as disponibilidades são equivalentes a 16 % do valor das dívidas de curto prazo.
 
@@ -316,7 +319,7 @@ Embora o Índice de Liquidez Imediata seja menor que 1, isto não significa nece
 
 A fórmula é a seguinte:
 
-![image-20200604154526935](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604154526935.png)
+![image-20200604154526935](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604154526935.png)
 
 Obs.: Passivo Circulante (+) Passivo Não Circulante Rec. Diferida = Passivo Exigível.
 
@@ -336,7 +339,7 @@ Exemplo:
 
 ▪ Passivo não circulante 1.800 Calculando, temos:
 
-![image-20200604170525337](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604170525337.png)
+![image-20200604170525337](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604170525337.png)
 
 Significa que a empresa possui R\$ 1,16 reais no Ativo Circulante e no Ativo Realizável a Longo Prazo para cada real de dívida do Passivo Exigível (Passivo Circulante + Passivo Não Circulante).
 
@@ -346,11 +349,11 @@ As fórmulas são as seguintes:
 
 ▪ Solvência geral (Antiga):
 
-![image-20200604170750590](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604170750590.png)
+![image-20200604170750590](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604170750590.png)
 
 ▪ Solvência geral (Nova):
 
-![image-20200604170758742](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604170758742.png)
+![image-20200604170758742](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604170758742.png)
 
 Indica a capacidade de a empresa pagar suas dívidas de curto e longo prazo, usando todos os seus recursos, inclusive Investimentos Permanentes, Imobilizado e Intangível.
 
@@ -370,9 +373,9 @@ Exemplo:
 
 Calculando, temos:
 
-![image-20200604171228890](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604171228890.png)
+![image-20200604171228890](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604171228890.png)
 
-![image-20200604171246585](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604171246585.png)
+![image-20200604171246585](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604171246585.png)
 
 # ALAVANCAGEM FINANCEIRA
 
@@ -384,7 +387,7 @@ Digamos que você consiga R\$ 100.000 emprestados com o seu tio, a juros de 1% a
 
 A fórmula é a seguinte:
 
-![image-20200604171420771](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604171420771.png)
+![image-20200604171420771](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604171420771.png)
 
 Em que:
 
@@ -466,7 +469,7 @@ Observação: Podemos substituir a expressão LOLAI pelo Lucro Líquido.
 
 EVA = LL (CCP% x PL) Considerando a DRE abaixo:
 
-![image-20200604172412504](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604172412504.png)
+![image-20200604172412504](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604172412504.png)
 
 Se o PL for de R\$ 200.000,00 e o custo de oportunidade do capital próprio de 15 %, teríamos:
 
@@ -494,7 +497,7 @@ Indicam a política de obtenção de recursos da empresa, e também a dependênc
 
 A fórmula é a seguinte:
 
-![image-20200604172850583](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604172850583.png)
+![image-20200604172850583](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604172850583.png)
 
 Observação 1: Exigível Total = Passivo Circulante + (Passivo Não Circulante Receitas Diferidas Antigo Resultado de Exercício Futuros) 
 
@@ -502,7 +505,7 @@ Observação 2: O grupo Receita de Exercícios Futuros foi extinto. Seu saldo pa
 
 A fórmula do Endividamento também pode ser escrita assim:
 
-![image-20200604172946811](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604172946811.png)
+![image-20200604172946811](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604172946811.png)
 
 Lembramos que Ativo = Passivo + PL O Índice de Endividamento Total indica a porcentagem que o endividamento representa sobre os recursos totais. Significa também qual a porcentagem do ativo total financiada com recursos de terceiros.
 
@@ -510,7 +513,7 @@ Lembramos que Ativo = Passivo + PL O Índice de Endividamento Total indica a por
 
 A fórmula é a seguinte:
 
-![image-20200604173004767](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604173004767.png)
+![image-20200604173004767](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604173004767.png)
 
 Indica a garantia proporcionada ao capital de terceiro em função da existência de capital próprio.
 
@@ -518,7 +521,7 @@ Indica a garantia proporcionada ao capital de terceiro em função da existênci
 
 A fórmula é a seguinte:
 
-![image-20200604173028940](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604173028940.png)
+![image-20200604173028940](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604173028940.png)
 
 Indica a participação das dívidas de curto prazo em relação ao endividamento total.
 
@@ -528,7 +531,7 @@ Indica a participação das dívidas de curto prazo em relação ao endividament
 
 As fórmulas são as seguintes:
 
-![image-20200604173138692](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\curso-129462-aula-17-v1\image-20200604173138692.png)
+![image-20200604173138692](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\curso-129462-aula-17-v1\image-20200604173138692.png)
 
 * Imobilização do capital próprio (antigo):
 
@@ -550,21 +553,21 @@ As fórmulas são as seguintes:
 
 * Imobilização dos Recursos não Correntes (antigo):
 
-![image-20200604173553560](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604173553560.png)
+![image-20200604173553560](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604173553560.png)
 
 * Imobilização do capital próprio (novo):
 
-![image-20200604173603006](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604173603006.png)
+![image-20200604173603006](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604173603006.png)
 
 Se o IRNC for igual a 1, indica que o ativo permanente é integralmente financiado com recursos não circulantes.
 
 Se o IRNC for menor que 1, significa que os recursos não circulante (recursos de longo prazo) financiam totalmente o Ativo Permanente e sobra para financiar o Ativo Realizável a Longo Prazo e/ou parte do Ativo Circulante.
 
-![image-20200604173651107](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604173651107.png)
+![image-20200604173651107](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604173651107.png)
 
 E, finalmente, se o IRNC for maior que 1, significa que há recursos circulante financiando o Ativo Permanente. Assim sendo, a assertiva está correta.
 
-![image-20200604173712403](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604173712403.png)
+![image-20200604173712403](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604173712403.png)
 
 Como o Permanente possui uma característica de realização indireta e mais lenta, é recomendado que seja financiado por recursos próprios ou recursos de longo prazo. Mas essa não é uma regra absoluta, depende do tipo de empresa e do mercado em que ela atua.
 
@@ -582,11 +585,11 @@ A Cespe já cobrou (com o nome de Imobilização de Capital Permanente):
 As fórmulas são as seguintes:
 
 * Índice de imobilização de investimento total (antigo):
-  ![image-20200604174043660](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604174043660.png)
+  ![image-20200604174043660](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604174043660.png)
 
 * Índice de imobilização de investimento total (novo):
 
-  ![image-20200604174051930](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604174051930.png)
+  ![image-20200604174051930](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604174051930.png)
 
 Indica a parte do ativo total aplicada no Ativo Permanente.
 
@@ -603,16 +606,16 @@ Os principais índices para medir a rentabilidade de uma empresa são os seguint
 As fórmulas são as seguintes:
 
 * Margem operacional:
-  ![image-20200604174158287](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604174158287.png)
+  ![image-20200604174158287](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604174158287.png)
 
 * Margem líquida:
-  ![image-20200604174203861](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604174203861.png)
+  ![image-20200604174203861](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604174203861.png)
 
 Estes índices já são calculados quando da elaboração da Análise Vertical.
 
 Exemplo: Considere a seguinte DRE:
 
-![image-20200604174216009](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604174216009.png)
+![image-20200604174216009](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604174216009.png)
 
 
 
@@ -620,11 +623,11 @@ Cálculos:
 
 * Margem operacional:
 
-![image-20200604174235756](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604174235756.png)
+![image-20200604174235756](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604174235756.png)
 
 * Margem líquida:
 
-![image-20200604174240593](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604174240593.png)
+![image-20200604174240593](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604174240593.png)
 
 ## Giro do Ativo
 
@@ -632,13 +635,13 @@ Este índice já foi considerado como indicador de atividade. Mas deve ficar com
 
 A fórmula é a seguinte:
 
-![image-20200604174338531](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604174338531.png)
+![image-20200604174338531](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604174338531.png)
 
 Observação 1: Pode ser usado "Vendas Líquidas" ou "Receita Líquida", conforme conste na questão.
 
 Observação 2: Alguns autores usam a seguinte fórmula para o Giro do Ativo Total:
 
-![image-20200604174423626](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604174423626.png)
+![image-20200604174423626](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604174423626.png)
 
 Exemplo: Supondo:
 
@@ -650,7 +653,7 @@ Exemplo: Supondo:
 
 Cálculos:
 
-![image-20200604174443829](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604174443829.png)
+![image-20200604174443829](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604174443829.png)
 
 ## Retorno sobre o Investimento OU Retorno sobre o Ativo ou Retorno sobre o Capital Empregado (Obs.: “Retorno” pode ser substituído por “Rentabilidade”.) 
 
@@ -658,11 +661,11 @@ Também conhecido como "Índice Du-Pont", tata- se de um dos mais importantes qu
 
 Retorno sobre Capital Empregado (RCE) = Margem Líquida x Giro do Ativo Total Como:
 
-![image-20200604174543678](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604174543678.png)
+![image-20200604174543678](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604174543678.png)
 
 Façamos uma demonstração:
 
-![image-20200604174559809](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604174559809.png)
+![image-20200604174559809](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604174559809.png)
 
 Aplicando ao exemplo acima:
 
@@ -670,7 +673,7 @@ Retorno sobre Capital Empregado (RCE) = Margem Líquida x Giro do Ativo Total
 
 RCE = 10,42% x 1,393 = 14,5 % 
 
-![image-20200604174629567](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604174629567.png)
+![image-20200604174629567](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604174629567.png)
 
 Os dois cálculos conduzem ao mesmo resultado. Mas é importante detalhar a taxa de retorno em seus dois componentes para facilitar a identificação das causas que podem ter levado a empresa a um desempenho melhor ou pior que o planejado.
 
@@ -682,7 +685,7 @@ Observação: Podemos calcular também o Retorno Operacional sobre o Ativo, subs
 
 A fórmula é a seguinte:
 
-![image-20200604174735414](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604174735414.png)
+![image-20200604174735414](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604174735414.png)
 
 Exemplo: Supondo
 
@@ -692,7 +695,7 @@ Exemplo: Supondo
 
 Cálculos:
 
-![image-20200604174743805](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604174743805.png)
+![image-20200604174743805](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604174743805.png)
 
 Este índice indica a rentabilidade do capital próprio aplicado na empresa. Deve ser comparado com outras alternativas de investimentos e com o retorno obtido por outras empresas do mesmo setor, para que se possa avaliar o desempenho da empresa sob análise.
 
@@ -709,14 +712,14 @@ Nos índices de Rentabilidade a relação ocorre entre o Lucro e o Capital Inves
 São Indicadores de Lucratividade:
 
 * Margem operacional:
-  ![image-20200604174859704](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604174859704.png)
+  ![image-20200604174859704](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604174859704.png)
 
 * Margem líquida:
-  ![image-20200604174905485](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604174905485.png)
+  ![image-20200604174905485](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604174905485.png)
 
 Esses são os mais comuns, mas podemos também calcular a Margem Bruta:
 
-![image-20200604174916235](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604174916235.png)
+![image-20200604174916235](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604174916235.png)
 
 Os principais índices de Rentabilidade já foram comentados anteriormente:
 
@@ -724,11 +727,11 @@ E também o ROI ou Retorno sobre o Ativo OU Retorno sobre o Capital Empregado ou
 
 Retorno sobre Capital Empregado (RCE) = Margem Líquida x Giro do Ativo Total Como:
 
-![image-20200604174953127](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604174953127.png)
+![image-20200604174953127](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604174953127.png)
 
 Façamos uma demonstração:
 
-![image-20200604175002398](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604175002398.png)
+![image-20200604175002398](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604175002398.png)
 
 # ANÁLISE DO CICLO OPERACIONAL E ANÁLISE DO CICLO FINANCEIRO 
 
@@ -741,10 +744,10 @@ Os índices de rotação indicam a velocidade com que os elementos patrimoniais 
 As fórmulas são as seguintes:
 
 ▪ Rotação de Estoque:
-![image-20200604175114615](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604175114615.png)
+![image-20200604175114615](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604175114615.png)
 
 ▪ Estoque Médio:
-![image-20200604175122031](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604175122031.png)
+![image-20200604175122031](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604175122031.png)
 
 Este índice indica quantas vezes o estoque se renovou por causa das vendas.
 
@@ -756,7 +759,7 @@ Exemplo:
 
 Calculando, temos:
 
-![image-20200604175142874](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604175142874.png)
+![image-20200604175142874](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604175142874.png)
 
 Isto significa que a empresa renovou seu estoque de mercadorias 6 vezes durante o ano, ou seja, comprou e vendeu o equivalente ao seu estoque médio 6 vezes.
 
@@ -764,11 +767,11 @@ Isto significa que a empresa renovou seu estoque de mercadorias 6 vezes durante 
 
 A fórmula é a seguinte:
 
-![image-20200604175215425](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604175215425.png)
+![image-20200604175215425](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604175215425.png)
 
 Considerando o exemplo acima, temos:
 
-![image-20200604175223167](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604175223167.png)
+![image-20200604175223167](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604175223167.png)
 
 De uma forma geral, quanto maior a rotação, ou seja, quanto menor o prazo médio de renovação do estoque, melhor. Mas os índices de rotação devem ser analisados em conjunto com os outros indicadores da empresa. Um estoque muito pequeno (que aumentaria a rotação) pode levar a empresa a perder vendas, por exemplo.
 
@@ -780,7 +783,7 @@ Obs. 2: Se não for informado o estoque médio, podemos usar o estoque final par
 
 A fórmula é a seguinte:
 
-![image-20200604175314513](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604175314513.png)
+![image-20200604175314513](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604175314513.png)
 
 Exemplo:
 
@@ -792,21 +795,21 @@ Exemplo:
 
 Este índice significa que a empresa vendeu a prazo e recebeu 8 vezes durante o ano.
 
-![image-20200604175334214](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604175334214.png)
+![image-20200604175334214](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604175334214.png)
 
 Obs.: Pode ser usado apenas o saldo final de duplicatas a receber, caso a questão não informe o saldo inicial. Nesse caso, a fórmula seria a seguinte:
 
-![image-20200604175352364](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604175352364.png)
+![image-20200604175352364](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604175352364.png)
 
 **– Prazo Médio de Rotação de Duplicatas a Receber (PMRDR)** 
 
 A fórmula é a seguinte:
 
-![image-20200604175407246](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604175407246.png)
+![image-20200604175407246](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604175407246.png)
 
 Usando o cálculo anterior, temos:
 
-![image-20200604175416080](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604175416080.png)
+![image-20200604175416080](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604175416080.png)
 
 Significa que, em média, a empresa demora 45 dias para receber as vendas a prazo.
 
@@ -818,7 +821,7 @@ Normalmente, o Ciclo Operacional é menor nas empresas comerciais que nas empres
 
 Esquematizemos:
 
-![image-20200604175445768](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604175445768.png)
+![image-20200604175445768](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604175445768.png)
 
 O cálculo do Ciclo Operacional pode ser efetuado através da soma do PMRE com o PMRDR. Por exemplo, supondo que índices calculados nos itens 5.3.3. e 5.3.5 sejam da mesma empresa, o Ciclo Operacional será:
 
@@ -855,7 +858,7 @@ Desta forma, para calcularmos o Ciclo Operacional de uma indústria, temos que c
 
 A fórmula é a seguinte:
 
-![image-20200604175645557](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604175645557.png)
+![image-20200604175645557](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604175645557.png)
 
 Exemplo:
 
@@ -865,7 +868,7 @@ Exemplo:
 
 Calculando, temos:
 
-![image-20200604175730029](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604175730029.png)
+![image-20200604175730029](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604175730029.png)
 
 Este índice indica que, durante o exercício de X2, a empresa girou a conta de fornecedores, em média, 6 vezes.
 
@@ -875,11 +878,11 @@ Vale repetir a mesma observação anterior, se a questão mencionar apenas o sal
 
 A fórmula é a seguinte:
 
-![image-20200604175828067](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604175828067.png)
+![image-20200604175828067](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604175828067.png)
 
 Usando o cálculo anterior, temos:
 
-![image-20200604175833420](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604175833420.png)
+![image-20200604175833420](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604175833420.png)
 
 Assim, a empresa leva, em média, 60 dias para pagar suas compras a prazo. Normalmente, este é um índice do tipo "quanto maior, melhor"
 
@@ -891,7 +894,7 @@ Ciclo Financeiro = Ciclo Operacional Prazo Médio de Rotação dos Fornecedores
 
 Esquematizemos:
 
-![image-20200604175939104](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604175939104.png)
+![image-20200604175939104](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604175939104.png)
 
 Repare que a questão da FCC já fornece o valor do Ciclo Financeiro (também chamado de Ciclo de Caixa):
 
@@ -915,11 +918,11 @@ O objetivo da Análise Horizontal é demonstrar o comportamento de itens do Bala
 
 Exemplo:
 
-![image-20200604180104821](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604180104821.png)
+![image-20200604180104821](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604180104821.png)
 
 O primeiro ano da série tem índice 100.
 
-![image-20200604180124931](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604180124931.png)
+![image-20200604180124931](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604180124931.png)
 
 Normalmente, o símbolo % é omitido, na análise Horizontal.
 
@@ -927,23 +930,23 @@ A análise horizontal pode ser feita por qualquer período de tempo: Ano, trimes
 
 Abaixo, um exemplo de Análise Horizontal :
 
-![image-20200604180250366](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604180250366.png)
+![image-20200604180250366](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604180250366.png)
 
-![image-20200604180258077](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604180258077.png)
+![image-20200604180258077](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604180258077.png)
 
 A análise horizontal pode ser do tipo "base fixa" ou "base móvel".
 
 Na "base fixa", todos os percentuais se referem ao primeiro ano. Exemplo:
 
-![image-20200604180403357](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604180403357.png)
+![image-20200604180403357](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604180403357.png)
 
 Calculando X3, temos:
 
-![image-20200604180431484](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604180431484.png)
+![image-20200604180431484](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604180431484.png)
 
 Na base móvel o percentual se refere ao ano anterior: 
 
-![image-20200604180456531](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604180456531.png)
+![image-20200604180456531](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604180456531.png)
 
 Se a questão não mencionar nada, considere que é "base fixa".
 
@@ -955,7 +958,7 @@ No balanço Patrimonial, os coeficientes são calculados em função do total do
 
 Exemplo: Considerando-se a DRE abaixo, podemos calcular os índices de Análise Vertical da seguinte forma :
 
-![image-20200604180549814](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604180549814.png)
+![image-20200604180549814](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604180549814.png)
 
 
 
@@ -965,17 +968,17 @@ A principal utilidade das Análises Horizontal e Vertical está na identificaç�
 
 Vejamos um exemplo usando parte da DRE acima:
 
-![image-20200604180636948](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604180636948.png)
+![image-20200604180636948](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604180636948.png)
 
 A receita líquida, o CMV e o lucro bruto aumentaram, em valores absolutos. Mas, quando efetuamos a Análise Horizontal:
 
-![image-20200604180654420](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604180654420.png)
+![image-20200604180654420](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604180654420.png)
 
 Percebemos que o CMV está aumentando num ritmo maior que a Receita Líquida. Se esta tendência permanecer, o Lucro Bruto será cada vez menor, o que poderá levar a empresa a ter prejuízos.
 
 Esta tendência de aumento maior do CMV é confirmada pela Análise Vertical:
 
-![image-20200604180719938](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604180719938.png)
+![image-20200604180719938](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-17-v1\image-20200604180719938.png)
 
 Podemos observar, também, a diminuição do índice referente ao Lucro Bruto.
 

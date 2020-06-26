@@ -20,9 +20,7 @@ Por outro lado, quando dois particulares firmam um contrato, as alterações das
 
 Essa separação é mais doutrinária do que prática, uma vez que, “no mundo real”, os dois regimes convivem “lado a lado”. As relações que a Administração firma submetem-se tanto ao regime de direito público como ao de direito privado, ocorrendo, na verdade, o predomínio de um ou outro regime, conforme o caso.
 
-Por exemplo: as empresas estatais exploradoras de atividade econômica são entidades de direito privado.
-
-Em regra, suas relações são regidas pelo direito privado, como ocorre num contrato de financiamento firmado entre um banco público e o seu cliente. No entanto, esse mesmo banco público sujeita-se a um conjunto de regras de direito público, como a necessidade de realização de concurso público para o provimento de seus empregados públicos e o dever de licitar em determinadas condições.
+Por exemplo: as empresas estatais exploradoras de atividade econômica são entidades de direito privado. Em regra, suas relações são regidas pelo direito privado, como ocorre num contrato de financiamento firmado entre um banco público e o seu cliente. No entanto, esse mesmo banco público sujeita-se a um conjunto de regras de direito público, como a necessidade de realização de concurso público para o provimento de seus empregados públicos e o dever de licitar em determinadas condições.
 
 Na mesma linha, uma prefeitura municipal, em regra, sujeita-se ao regime de direito público; mas se sujeitará ao regime de direito privado quando, por exemplo, emitir um cheque de pagamento ou quando firmar um contrato de seguro de um veículo, uma vez que nestas situações não estarão presentes (pelo menos não diretamente) as prerrogativas de direito público.
 
@@ -30,17 +28,17 @@ Na mesma linha, uma prefeitura municipal, em regra, sujeita-se ao regime de dire
 
 A Administração Pública pode submeter-se a regime jurídico de direito privado ou de direito público. A aplicação do regime jurídico é feita conforme determina a Constituição ou as leis, levando em consideração a necessidade, ou não, de a Administração encontrar-se em situação de superioridade em relação ao particular.
 
-Por exemplo, o art. 173, § 1º, da Constituição, determina que a lei estabeleça o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias que explorem atividade econômica de produção ou comercialização de bens ou de prestação de serviços, dispondo, entre outros aspectos, sobre “a sujeição ao regime jurídico próprio das empresas privadas, inclusive quanto aos direitos e obrigações civis, comerciais, trabalhistas e tributários” (CF, art. 173, § 1º, II). Nesse caso, ficou nítida a determinação de que esse tipo de empresa deverá submeter-se ao regime de direito privado. Isso porque a natureza da atividade (exploração de atividade econômica) não permite uma relação de desigualdade.
+Por exemplo, o art. 173, § 1º, da Constituição, determina que a lei estabeleça o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias que explorem atividade econômica de produção ou comercialização de bens ou de prestação de serviços, dispondo, entre outros aspectos, sobre “*a sujeição ao regime jurídico próprio das empresas privadas, inclusive quanto aos direitos e obrigações civis, comerciais, trabalhistas e tributários*” (CF, art. 173, § 1º, II). Nesse caso, ficou nítida a determinação de que esse tipo de empresa deverá submeter-se ao regime de direito privado. Isso porque a natureza da atividade (exploração de atividade econômica) não permite uma relação de desigualdade.
 
 Assim, haverá casos de aplicação de regras de direito público e, em outros, de direito privado. Todavia, mesmo quando emprega modelos privatísticos, nunca será integral a submissão ao direito privado. Vale dizer: mesmo quando ocorre a aplicação do regime de direito privado, a sua utilização não será isolada, pois haverá, de alguma forma, aplicação de regras de direito público.
 
-Nesse contexto, Maria Sylvia Zanella Di Pietro diferencia a expressão regime jurídico da Administração Pública para designar, em sentido amplo, os regimes de direito público e de direito privado a que pode submeter-se a Administração Pública. Por outro lado, a autora utiliza a expressão regime jurídico administrativo para abranger tão somente o “conjunto de traços, de conotações, que tipificam o Direito Administrativo, colocando a Administração Pública numa posição privilegiada, vertical, na relação jurídico- administrativa”.
+Nesse contexto, Maria Sylvia Zanella Di Pietro diferencia a expressão **regime jurídico da Administração Pública** para designar, em **sentido amplo**, os regimes de direito público e de direito privado a que pode submeter-se a Administração Pública. Por outro lado, a autora utiliza a expressão **regime jurídico administrativo** para abranger tão somente o “conjunto de traços, de conotações, que tipificam o Direito Administrativo, colocando a Administração Pública numa posição privilegiada, vertical, na relação jurídico- administrativa”.
 
 Em síntese, o regime jurídico da Administração Pública se refere a qualquer tipo de regramento, seja de direito público ou de direito privado; enquanto o regime jurídico administrativo trata das regras que colocam a Administração Pública em condições de superioridade perante o particular.
 
 O regime jurídico administrativo resume-se em dois aspectos: de um lado, estão as prerrogativas, que representam alguns privilégios para a Administração dentro das relações jurídicas; de outro, encontram-se as sujeições, que são restrições de liberdade de ação para a Administração Pública.
 
-### Regime jurídico administrativo 
+![image-20200616062925189](C:\Users\warga\Documents\SEFAZ-CE\MD\DIREITO ADMINISTRATIVO\images\curso-115833-aula-00-v1\image-20200616062925189.png)
 
 As prerrogativas ou privilégios são regras, desconhecidas no direito privado, que colocam a Administração em condições de superioridade nas relações com o particular. São faculdades especiais que o setor público dispõe, como, por exemplo, o poder de requisitar bens e serviços, de ocupar temporariamente imóvel alheio, de aplicar sanções administrativas, de alterar ou rescindir unilateralmente os contratos administrativos, de impor medidas de polícia, etc.
 
@@ -56,9 +54,7 @@ A supremacia do interesse público fundamenta a existência das prerrogativas ou
 
 Dessa forma, havendo conflito entre o interesse público e os interesses particulares, deverá prevalecer o primeiro.
 
-Por outro lado, a indisponibilidade do interesse público representa as restrições na atuação da Administração. Essas limitações decorrem do fato de que a Administração não é proprietária da coisa pública, não é proprietária do patrimônio público, tampouco titular do interesse público. Estes pertencem ao povo!
-
-A indisponibilidade representa, pois, a defesa dos interesses dos administrados.
+Por outro lado, a indisponibilidade do interesse público representa as restrições na atuação da Administração. Essas limitações decorrem do fato de que a Administração não é proprietária da coisa pública, não é proprietária do patrimônio público, tampouco titular do interesse público. Estes pertencem ao povo! A indisponibilidade representa, pois, a defesa dos interesses dos administrados.
 
 Em decorrência do princípio da indisponibilidade do interesse público, segundo Alexandrino e Paulo, a Administração somente pode atuar quando houver lei que autorize ou determine sua atuação, e nos limites estipulados por essa lei. Dessa forma, enquanto os particulares atuam conforme a autonomia da vontade, os agentes administrativos devem agir segundo a “vontade” da lei.
 
@@ -73,13 +69,13 @@ Bandeira de Mello utiliza a expressão “_indisponibilidade, pela Administraç�
 > Comentários:
 > A assertiva está correta. A diferenciação entre o regime de direito público e o regime de direito privado é um trabalho doutrinário, porém difícil de se observar no mundo real. Por exemplo, no âmbito da Administração Pública, as relações jurídicas ora são regidas pelo direito público ora pelo direito privado. Cita- se, por exemplo, a realização de concurso público (direito público) e um contrato de financiamento (direito privado) realizados por uma empresa pública.
 
-* regime de direito público: normas que disciplinam a supremacia e a indisponibilidade do interesse público, colocando a Administração em posição de verticalidade perante os particulares.
+\- **regime de direito público**: normas que disciplinam a supremacia e a indisponibilidade do interesse público, colocando a Administração em posição de verticalidade perante os particulares.
 
-* regime de direito privado: normas, em geral aplicáveis aos particulares, que colocam as partes em condições de igualdade (horizontalidade).
+\- **regime de direito privado**: normas, em geral aplicáveis aos particulares, que colocam as partes em condições de igualdade (horizontalidade).
 
-* regime jurídico administrativo: conjunto de normas formadas, por um lado, pelas prerrogativas (supremacia) e, de outro, pelas sujeições (restrições). Por isso que a sua base é formada pelos princípios da supremacia e da indisponibilidade do interesse público.
+\- **regime jurídico administrativo**: conjunto de normas formadas, por um lado, pelas prerrogativas (supremacia) e, de outro, pelas sujeições (restrições). Por isso que a sua base é formada pelos princípios da supremacia e da indisponibilidade do interesse público.
 
-* regime jurídico da administração: envolve todo o regime jurídico aplicável à Administração, tratando tanto das regras de direito público como das regras de direito privado.
+\- **regime jurídico da administração**: envolve todo o regime jurídico aplicável à Administração, tratando tanto das regras de direito público como das regras de direito privado.
 
 ## Princípios da Administração Pública – Noções Gerais 
 
@@ -107,9 +103,11 @@ Além dos princípios previstos expressamente na Constituição Federal, temos p
 
 As normas infraconstitucionais também apresentam princípios expressos aplicáveis à Administração Pública. Vejamos alguns exemplos:
 
-Lei 8.666/1993 (Lei de Licitações e Contratos): “Art. 3º A licitação [...] será processada e julgada em estrita conformidade com os princípios básicos da legalidade, da impessoalidade, da moralidade, da igualdade, da publicidade, da probidade administrativa, da vinculação ao instrumento convocatório, do julgamento objetivo [...].” Explicando: o princípio da igualdade é implícito na CF, mas expresso na Lei 8.666/93. Logo, dizer se um princípio é implícito ou expresso vai depender da norma que estamos utilizando como referência.
+**Lei 8.666/1993 (Lei de Licitações e Contratos)**: “*Art. 3º A licitação [...] será processada e julgada em estrita conformidade com os princípios básicos da legalidade, da impessoalidade, da moralidade, da igualdade, da publicidade, da probidade administrativa, da vinculação ao instrumento convocatório, do julgamento objetivo [...]*.” Explicando: o princípio da igualdade é implícito na CF, mas expresso na Lei 8.666/93. Logo, dizer se um princípio é implícito ou expresso vai depender da norma que estamos utilizando como referência.
 
-Lei 9.784/1999 (Lei do Processo Administrativo da Administração Pública Federal): “Art. 2o A Administração Pública obedecerá, dentre outros, aos princípios da legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse público e eficiência.” Lei 12.462/2011 (Lei do Regime Diferenciado de Contratações Públicas): “Art. 3o As licitações e contratações realizadas em conformidade com o RDC deverão observar os princípios da legalidade, da impessoalidade, da moralidade, da igualdade, da publicidade, da eficiência, da probidade administrativa, da economicidade, do desenvolvimento nacional sustentável, da vinculação ao instrumento convocatório e do julgamento objetivo.
+**Lei 9.784/1999 (Lei do Processo Administrativo da Administração Pública Federal)**: “*Art. 2o A Administração Pública obedecerá, dentre outros, aos princípios da legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse público e eficiência.*” 
+
+**Lei 12.462/2011 (Lei do Regime Diferenciado de Contratações Públicas)**: “*Art. 3o As licitações e contratações realizadas em conformidade com o RDC deverão observar os princípios da legalidade, da impessoalidade, da moralidade, da igualdade, da publicidade, da eficiência, da probidade administrativa, da economicidade, do desenvolvimento nacional sustentável, da vinculação ao instrumento convocatório e do julgamento objetivo*".
 
 Por outro lado, os princípios implícitos não constam taxativamente em uma norma jurídica geral, decorrendo de elaboração doutrinária e jurisprudencial.
 
@@ -117,19 +115,15 @@ Não significa que eles não estão previstos em uma norma jurídica, apenas nã
 
 Vamos exemplificar. O princípio da finalidade não se encontra previsto expressamente na Constituição Federal. Contudo, ele decorre do princípio da impessoalidade. Assim, toda atuação administrativa deverá ter como finalidade, em sentido amplo, o interesse público e, em sentido estrito, a função específica desenvolvida pela norma. Essa é a aplicação do princípio da finalidade, que decorre de um princípio previsto expressamente na Constituição Federal: o princípio da impessoalidade.
 
-No segundo caso, temos o exemplo do princípio da segurança jurídica, que possui apenas a sua aplicação prevista na Constituição Federal, conforme consta no inc. XXXVI, art. 5º, determinando que “a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada”. Assim, a CF veda a aplicação retroativa de lei que tenha o poder de prejudicar o direito adquirido, o ato jurídico perfeito e a coisa julgada.
-
-É justamente essa a aplicação do princípio da segurança jurídica. Contudo, não consta no texto constitucional algo do tipo “a lei deve respeitar o princípio da segurança jurídica”.
+No segundo caso, temos o exemplo do princípio da segurança jurídica, que possui apenas a sua aplicação prevista na Constituição Federal, conforme consta no inc. XXXVI, art. 5º, determinando que “a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada”. Assim, a CF veda a aplicação retroativa de lei que tenha o poder de prejudicar o direito adquirido, o ato jurídico perfeito e a coisa julgada. É justamente essa a aplicação do princípio da segurança jurídica. Contudo, não consta no texto constitucional algo do tipo “a lei deve respeitar o princípio da segurança jurídica”.
 
 Assim, podemos perceber que, no segundo caso, não aparece taxativamente a denominação do princípio, mas consta a sua aplicação, cabendo à doutrina e à jurisprudência reconhecer a sua existência e designação.
 
 Por fim, o princípio da supremacia do interesse público é exemplo da terceira situação, pois é um princípio geral de Direito, decorrendo de interpretação sistemática de nosso ordenamento jurídico. Apesar de existir diversos dispositivos constitucionais de base para esse princípio, não há como fazer uma menção taxativa. O princípio da supremacia significa a própria razão de ser da Administração, representando a lógica do nosso ordenamento constitucional.
 
-Antes de encerrarmos essa parte introdutória, cabe fazer uma última observação. Em que pese a doutrina disponha que os princípios da supremacia do interesse público e da indisponibilidade sejam os princípios basilares ou fundamentais do Direito Administrativo, não há hierarquia entre os princípios. Ou seja, não podemos afirmar que o princípio da supremacia encontra-se acima do princípio da moralidade, por exemplo.
+Antes de encerrarmos essa parte introdutória, cabe fazer uma última observação. Em que pese a doutrina disponha que os princípios da supremacia do interesse público e da indisponibilidade sejam os princípios basilares ou fundamentais do Direito Administrativo, **não há hierarquia entre os princípios**. Ou seja, não podemos afirmar que o princípio da supremacia encontra-se acima do princípio da moralidade, por exemplo.
 
-José dos Santos Carvalho Filho denomina de “princípios reconhecidos” aqueles que não possuem previsão expressa.
-
-Todavia, adotaremos a expressão “princípios implícitos”, uma vez que esta é a designação da doutrina majoritária.
+José dos Santos Carvalho Filho denomina de “princípios reconhecidos” aqueles que não possuem previsão expressa. Todavia, adotaremos a expressão “princípios implícitos”, uma vez que esta é a designação da doutrina majoritária.
 
 No caso de aparente conflito entre eles, caberá ao interpretador dar uma aplicação que mantenha a harmonia e unidade do ordenamento jurídico.
 
@@ -183,23 +177,23 @@ No entanto, esses diplomas detalham as determinações gerais e abstratas da lei
 
 Por exemplo, suponha-se que uma lei estabeleceu que a remessa de determinados produtos por meio postal deverá obedecer a padrões de segurança estabelecidos em decreto regulamentar. Em seguida, o decreto disciplinou os padrões de segurança e disciplinou as regras para sua fiscalização. Agora, se um agente público realizar a apreensão do produto sem observar as normas do decreto e a forma de sua fiscalização, eventual multa aplicada poderá ser considerada ilegal. No caso, apenas o decreto foi infringido pelo agente público, mas o ato foi dado como ilegal.
 
-Contudo, não devemos confundir o princípio da legalidade com o da reserva legal. O primeiro determina que a atuação administrativa deve pautar-se na lei em sentido amplo, abrangendo qualquer tipo de norma, desde a Constituição Federal até os atos administrativos normativos (regulamentos, regimentos, portarias etc.). Por outro lado, a reserva legal significa que determinadas matérias devem ser regulamentadas necessariamente por lei formal (lei em sentido estrito – leis ordinárias e complementares). Por exemplo: a Constituição exige que “a lei regulará a individualização da pena” (CF, art. XLVI) – consequentemente, somente uma lei aprovada pelo Poder Legislativo poderá dispor sobre esse tema, não cabendo um decreto ou outro ato normativo secundário.
+Contudo, não devemos confundir o princípio da legalidade com o da reserva legal. O primeiro determina que a atuação administrativa deve pautar-se na lei em sentido amplo, abrangendo qualquer tipo de norma, desde a Constituição Federal até os atos administrativos normativos (regulamentos, regimentos, portarias etc.). Por outro lado, a reserva legal significa que determinadas matérias devem ser regulamentadas necessariamente por lei formal (lei em sentido estrito – leis ordinárias e complementares). Por exemplo: a Constituição exige que “*a lei regulará a individualização da pena*” (CF, art. XLVI) – consequentemente, somente uma lei aprovada pelo Poder Legislativo poderá dispor sobre esse tema, não cabendo um decreto ou outro ato normativo secundário.
 
 Veja que são sentidos bem distintos, um envolvendo a atuação administrativa (princípio da legalidade), e o outro tratando da regulamentação de determinadas matérias.
 
 Em que pese a administração esteja sujeita ao princípio da legalidade, existem situações em que a legalidade pode ser, de certa forma, “mitigada”. Nessa linha, a doutrina apresenta como exceção ao princípio da legalidade (ou restrições excepcionais ao princípio da legalidade) a:
 
 * edição de medidas provisórias (CF, art. 62);
-
-* decretação do estado de defesa (CF, art. 136) e ▪ decretação do estado de sítio (CF, arts. 137 a 139).
+* decretação do estado de defesa (CF, art. 136) e 
+* decretação do estado de sítio (CF, arts. 137 a 139).
 
 As medidas provisórias são atos normativos, com força de lei, editados pelo Presidente da República, em situações de relevância e urgência. Apesar de as medidas provisórias possuírem força de lei, Celso Antônio Bandeira de Mello as considera exceção ao princípio da legalidade em decorrência de uma série de limitações, como as características de excepcionalidade e precariedade.
 
-O estado de defesa poderá ser decretado pelo Presidente da República, ouvidos o Conselho da República e o Conselho de Defesa Nacional, para “preservar ou prontamente restabelecer, em locais restritos e determinados, a ordem pública ou a paz social ameaçadas por grave e iminente instabilidade institucional ou atingidas por calamidades de grandes proporções na natureza” (CF, art. 137). O estado de defesa implicará na restrição de alguns direitos, conforme constará no decreto que o instituirá e, por isso, representa exceção ao princípio da legalidade.
+O estado de defesa poderá ser decretado pelo Presidente da República, ouvidos o Conselho da República e o Conselho de Defesa Nacional, para “*preservar ou prontamente restabelecer, em locais restritos e determinados, a ordem pública ou a paz social ameaçadas por grave e iminente instabilidade institucional ou atingidas por calamidades de grandes proporções na natureza*” (CF, art. 137). O estado de defesa implicará na restrição de alguns direitos, conforme constará no decreto que o instituirá e, por isso, representa exceção ao princípio da legalidade.
 
-Por outro lado, o estado de sítio poderá ser decretado pelo Presidente da República, após autorização do Congresso Nacional, ouvidos o Conselho da República e o Conselho de Defesa Nacional, em caso de “comoção grave de repercussão nacional ou ocorrência de fatos que comprovem a ineficácia de medida tomada durante o estado de defesa” ou de “declaração de estado de guerra ou resposta a agressão armada estrangeira” (CF, art. 137, caput e incs. I e II). O estado de sítio é uma medida mais gravosa que o estado de defesa, representando uma série de medidas restritivas previstas na Constituição.
+Por outro lado, o estado de sítio poderá ser decretado pelo Presidente da República, após autorização do Congresso Nacional, ouvidos o Conselho da República e o Conselho de Defesa Nacional, em caso de “*comoção grave de repercussão nacional ou ocorrência de fatos que comprovem a ineficácia de medida tomada durante o estado de defesa*” ou de “*declaração de estado de guerra ou resposta a agressão armada estrangeira*” (CF, art. 137, caput e incs. I e II). O estado de sítio é uma medida mais gravosa que o estado de defesa, representando uma série de medidas restritivas previstas na Constituição.
 
-Para finalizar, vale falar sobre o princípio da juridicidade, que basicamente é uma ampliação do conceito de legalidade. Segundo o princípio da juridicidade, o administrador não se sujeito apenas à lei, mas a todo o ordenamento jurídico. Consequentemente, a discricionariedade administrativa fica mais reduzida, uma vez que o agente público se sujeita às leis, aos regulamentos, aos princípios e a todos os demais componentes de nosso ordenamento jurídico. Assim, se um ato atender à lei, mas ferir um princípio, poderá ele ser anulado, até mesmo pelo Poder Judiciário.
+Para finalizar, vale falar sobre o princípio da juridicidade, que basicamente é uma ampliação do conceito de legalidade. Segundo o princípio da juridicidade, o administrador não se sujeita apenas à lei, mas a todo o ordenamento jurídico. Consequentemente, a discricionariedade administrativa fica mais reduzida, uma vez que o agente público se sujeita às leis, aos regulamentos, aos princípios e a todos os demais componentes de nosso ordenamento jurídico. Assim, se um ato atender à lei, mas ferir um princípio, poderá ele ser anulado, até mesmo pelo Poder Judiciário.
 
 **Princípio da legalidade**: a Administração Pública somente poderá agir quando houver lei determinando ou autorizando a sua atuação. O princípio envolve qualquer tipo de norma, incluindo atos secundários como os decretos e instruções normativas. No entanto, os atos secundários não podem criar direitos e obrigações.
 
@@ -219,19 +213,15 @@ Assim, do primeiro significado do princípio da impessoalidade, decorre um princ
 
 Exemplificando, podemos analisar o caso da remoção de servidor público, que tem como finalidade específica adequar o número de servidores nas diversas unidades administrativas de um órgão. Caso seja aplicada com o intuito de punir um servidor que desempenha mal suas funções, o ato atendeu apenas ao sentido amplo, pois punir um servidor que trabalhe mal tem interesse público. Contudo, o ato é nulo, por desvio de finalidade, uma vez que a lei não estabelece esta finalidade para a transferência.
 
-**Princípio da igualdade ou isonomia**: o princípio da impessoalidade se traduz na ideia de isonomia, pois a Administração deve atender a todos os administrados sem discriminações.
+**Princípio da igualdade ou isonomia**: o princípio da impessoalidade se traduz na ideia de isonomia, pois a Administração deve atender a todos os administrados sem discriminações. Não se pode favorecer pessoas ou se utilizar de perseguições indevidas, consagrando assim o princípio da igualdade ou isonomia.
 
-Não se pode favorecer pessoas ou se utilizar de perseguições indevidas, consagrando assim o princípio da igualdade ou isonomia.
-
-Nesse ponto, devemos lembrar que a Constituição Federal estabelece que todos são iguais perante a lei (art.
-
-5º, caput), sendo que eventuais tratamentos diferenciados só podem ocorrer quando houver previsão legal.
+Nesse ponto, devemos lembrar que a Constituição Federal estabelece que todos são iguais perante a lei (art. 5º, caput), sendo que eventuais tratamentos diferenciados só podem ocorrer quando houver previsão legal.
 
 A Constituição Federal apresenta diversas referências a esta aplicação do princípio da impessoalidade como o art. 37, II, que exige a aprovação prévia em concurso público para a investidura em cargo ou emprego público, permitindo que todos possam disputar-lhes com igualdade; o art. 37, XXI, que exige processo de licitação pública para a contratação de obras, serviços, compras e alienações, assegurando igualdade de condições a todos os concorrentes; o art. 175, que também exige licitação pública para as permissões e concessões de serviço público; e o art. 100 que trata do regime de precatórios judiciais para o pagamento dos débitos das fazendas públicas.
 
 Analisando esses dois primeiros aspectos, podemos perceber que o princípio da impessoalidade decorre do princípio da supremacia do interesse público – em virtude da busca pela finalidade ou pelo interesse público – e da isonomia ou igualdade – em decorrência do tratamento igualitário, nos termos da lei.
 
-Vedação de promoção pessoal: os agentes públicos atuam em nome do Estado. Dessa forma, não poderá ocorrer a pessoalização ou promoção pessoal do agente público pelos atos realizados.
+**Vedação de promoção pessoal**: os agentes públicos atuam em nome do Estado. Dessa forma, não poderá ocorrer a pessoalização ou promoção pessoal do agente público pelos atos realizados.
 
 Esse significado decorre diretamente da disposição do §1º do Art. 37 da CF/88:
 
@@ -245,7 +235,7 @@ Se um agente se aproveitar das realizações da Administração para se promover
 
 É mister informar que a promoção pessoal, conforme estamos vendo, fere o princípio da impessoalidade. No entanto, é claro que esse tipo de conduta também infringe outros princípios, como a legalidade e a moralidade.
 
-Impedimento e suspeição: esses institutos possuem o objetivo de afastar de processos administrativos ou judiciais as pessoas que não possuem condições de aplicar a lei de forma imparcial, em função de parentesco, amizade ou inimizade com pessoas que participam do processo.
+**Impedimento e suspeição**: esses institutos possuem o objetivo de afastar de processos administrativos ou judiciais as pessoas que não possuem condições de aplicar a lei de forma imparcial, em função de parentesco, amizade ou inimizade com pessoas que participam do processo.
 
 Por exemplo, se um juiz possuir inimizade reconhecida com uma pessoa que seja parte de um processo, ele não poderá julgar de forma imparcial. Dessa forma, buscando evitar possíveis favorecimentos, preservando a isonomia do julgamento, recomenda-se o afastamento da autoridade.
 
@@ -275,15 +265,11 @@ Com base nos princípios previstos no caput do art. 37, o Supremo Tribunal Feder
 
 Entretanto, há uma pequena restrição em relação aos cargos de natureza política. Inicialmente, o STF possuía o entendimento de que a Súmula Vinculante 13 não seria aplicada aos cargos de natureza política, como ministros e secretários de estado (RE 579.951, julgado em 20/8/2008).
 
-Atualmente, todavia, o entendimento é de que a vedação deve ser analisar caso a caso, de tal forma que a nomeação para cargo de natureza política não afasta a aplicação da Súmula Vinculante 13 automaticamente.
-
-Assim, somente estará caracterizado nepotismo, nos cargos de natureza política, se o nomeado não possuir capacidade técnica para o cargo ou ficar demonstrada “troca de favores” ou outra forma de fraudar a legislação (RCL 7.590/PR; RCL 17.102/SP).
+Atualmente, todavia, o entendimento é de que a vedação deve ser analisar caso a caso, de tal forma que a nomeação para cargo de natureza política não afasta a aplicação da Súmula Vinculante 13 automaticamente. Assim, somente estará caracterizado nepotismo, nos cargos de natureza política, se o nomeado não possuir capacidade técnica para o cargo ou ficar demonstrada “troca de favores” ou outra forma de fraudar a legislação (RCL 7.590/PR; RCL 17.102/SP).
 
 Em resumo, podemos dizer que a nomeação de um irmão para ocupar um cargo de natureza administrativa ofende os princípios da moralidade, impessoalidade, igualdade e eficiência; porém a nomeação do irmão do prefeito para exercer o cargo de secretário municipal (natureza política) ofenderá a Constituição se ficar demonstrada a falta de capacidade técnica do nomeado ou ainda a troca de favores ou outro meio de fraude da lei.
 
-Devemos considerar, portanto, que um ato até pode ser legal, mas se for imoral, é possível a sua anulação.
-
-Com isso, a moralidade administrativa ganha um sentido jurídico, permitindo até mesmo o controle judicial do ato. Com isso, caso a autoridade administrativa atue de forma imoral, o ato poderá ser anulado pelo Poder Judiciário.
+Devemos considerar, portanto, que um ato até pode ser legal, mas se for imoral, é possível a sua anulação. Com isso, a moralidade administrativa ganha um sentido jurídico, permitindo até mesmo o controle judicial do ato. Com isso, caso a autoridade administrativa atue de forma imoral, o ato poderá ser anulado pelo Poder Judiciário.
 
 Não significa, pois, que os princípios da legalidade e da moralidade são indissociáveis. Na verdade, eles estão muito relacionados, sendo que, na maior parte das vezes, as pessoas acabam infringindo os dois simultaneamente. Diga-se, muitos atos imorais são também ilegais e muitos atos ilegais também são imorais.
 
@@ -301,13 +287,15 @@ Por fim, vale anotar que a doutrina considera que a imoralidade surge do conteú
 
 ## Princípio da publicidade 
 
-O princípio da publicidade, previsto taxativamente no artigo 37 da Constituição Federal, apresenta duplo sentido: exigência de publicação em órgãos oficiais como requisito de eficácia: os atos administrativos gerais que produzirão efeitos externos ou os atos que impliquem ônus para o patrimônio público devem ser publicados em órgãos oficiais, a exemplo do Diário Oficial da União ou dos estados, para terem eficácia (produção de efeitos jurídicos).
+O princípio da publicidade, previsto taxativamente no artigo 37 da Constituição Federal, apresenta duplo sentido: 
+
+**Exigência de publicação em órgãos oficiais como requisito de eficácia**: os atos administrativos gerais que produzirão efeitos externos ou os atos que impliquem ônus para o patrimônio público devem ser publicados em órgãos oficiais, a exemplo do Diário Oficial da União ou dos estados, para terem eficácia (produção de efeitos jurídicos).
 
 Não se trata, portanto, de requisito de validade do ato, mas tão somente da produção de seus efeitos. Assim, um ato administrativo pode ser válido (competência, finalidade, forma, motivo e objetivo), mas não eficaz, pois se encontra pendente de publicação oficial.
 
 Nem todo ato administrativo precisa ser publicado para fins de eficácia, mas tão somente os que tenham efeitos gerais (têm destinatários indeterminados) e de efeitos externos (alcançam os administrados), a exemplo dos editais de licitação ou de concurso. Esses atos irão se aplicar a um número indeterminado de administrados, não se sabe quantos. Outra situação decorre dos atos que impliquem ou tenham o potencial de implicar em ônus ao patrimônio público, como a assinatura de contratos ou a homologação de um concurso público.
 
-exigência de transparência da atuação administrativa: o princípio da transparência deriva do princípio da indisponibilidade do interesse público, constituindo um requisito indispensável para o efetivo controle da Administração Pública por parte dos administrados.
+**Exigência de transparência da atuação administrativa**: o princípio da transparência deriva do princípio da indisponibilidade do interesse público, constituindo um requisito indispensável para o efetivo controle da Administração Pública por parte dos administrados.
 
 Com efeito, a publicidade poderá se manifestar pelas seguintes formas:
 
@@ -317,7 +305,7 @@ Com efeito, a publicidade poderá se manifestar pelas seguintes formas:
 
 (iii) divulgação de ofício de informações, por intermédio de publicações na imprensa oficial, em jornais impressos ou pela internet.
 
-Ademais, segundo a CF/88: “art. 5º (...) XXXIII - todos têm direito a receber dos órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral, que serão prestadas no prazo da lei, sob pena de responsabilidade, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado”.
+Ademais, segundo a CF/88: “*art. 5º (...) XXXIII - todos têm direito a receber dos órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral, que serão prestadas no prazo da lei, sob pena de responsabilidade, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado*”.
 
 Outros dispositivos constitucionais que merecem destaque são os seguintes:
 
@@ -339,9 +327,11 @@ Este é o “mais jovem” princípio constitucional. Foi incluído no artigo 37
 
 Segundo Maria Sylvia Di Pietro, o princípio da eficiência apresenta dois aspectos:
 
-em relação ao modo de atuação do agente público: espera-se a melhor atuação possível, a fim de obter os melhores resultados.
+**Em relação ao modo de atuação do agente público**: espera-se a melhor atuação possível, a fim de obter os melhores resultados.
 
-Como consequência desse primeiro sentido, foram introduzidas pela EC 19/1998 a exigência de avaliação especial de desempenho para aquisição de estabilidade e a possibilidade de perda de cargo público (flexibilização da estabilidade) em decorrência da avaliação periódica de desempenho. Quanto ao modo de organizar, estruturar e disciplinar a administração pública: exige-se que seja a mais racional possível, permitindo que se alcancem os melhores resultados na prestação dos serviços públicos.
+Como consequência desse primeiro sentido, foram introduzidas pela EC 19/1998 a exigência de avaliação especial de desempenho para aquisição de estabilidade e a possibilidade de perda de cargo público (flexibilização da estabilidade) em decorrência da avaliação periódica de desempenho. 
+
+**Quanto ao modo de organizar, estruturar e disciplinar a administração pública**: exige-se que seja a mais racional possível, permitindo que se alcancem os melhores resultados na prestação dos serviços públicos.
 
 Nesse segundo contexto, exige-se um novo modelo de gestão: a administração gerencial. Assim, os controles administrativos deixam de ser predominantemente por processos para serem realizados por resultados. O momento do controle prévio passa a ser realizado prioritariamente a posteriori (após o ato), aumentando a autonomia do gestor, e melhorando a eficiência do controle. A transparência administrativa, o foco no cidadão, a descentralização e desconcentração, os contratos de gestão, as agências autônomas, as organizações sociais, a ampla participação da sociedade no controle e no fornecimento de serviços são todos conceitos relacionados com este segundo aspecto da eficiência.
 
@@ -353,7 +343,7 @@ Por exemplo, se um agente público deixar de realizar a licitação em determina
 
 Vamos resolver uma questão para consolidar o conhecimento!
 
->(TRT 7 - 2017) O princípio que rege a administração pública, expressamente previsto na Constituição Federal de 1988, e que exige dos agentes públicos a busca dos melhores resultados e um menor custo possível, é o da eficiência.
+>(TRT 7ª - 2017) O princípio que rege a administração pública, expressamente previsto na Constituição Federal de 1988, e que exige dos agentes públicos a busca dos melhores resultados e um menor custo possível, é o da eficiência.
 >
 >Comentários: a assertiva está correta. questão bem simples. O princípio da eficiência consta expressamente na Constituição (dentro do LIMPE) e exige a busca pelos melhores resultados com o menor custo possível, ou seja, fazer mais com menos recursos.
 
@@ -395,7 +385,7 @@ d) nas diversas formas de intervenção do Estado na propriedade privada, como a
 
 A imposição de restrições ao particular depende de previsão legal.
 
-Por fim, deve-se destacar que nas situações em que a Administração não atuar diretamente para a consecução do interesse público, como nos contratos de locação, de seguro ou quando agir como Estado- empresário, não lhe cabe invocar o princípio da supremacia. Contudo, Alexandrino e Paulo destacam que, mesmo que indiretamente, ainda nessas situações – quando não são impostas obrigações ou restrições aos administrados –, os atos da Administração Pública revestem-se de aspectos próprios do direito público, a exemplo da presunção de legitimidade.
+Por fim, deve-se destacar que nas situações em que a Administração não atuar diretamente para a consecução do interesse público, como nos contratos de locação, de seguro ou quando agir como Estado-empresário, não lhe cabe invocar o princípio da supremacia. Contudo, Alexandrino e Paulo destacam que, mesmo que indiretamente, ainda nessas situações – quando não são impostas obrigações ou restrições aos administrados –, os atos da Administração Pública revestem-se de aspectos próprios do direito público, a exemplo da presunção de legitimidade.
 
 ## Princípio da indisponibilidade do interesse público 
 
@@ -449,9 +439,7 @@ Os princípios da razoabilidade e da proporcionalidade exigem da administração
 
 Muitas vezes, esses dois princípios são tratados como sinônimos ou, pelo menos, são aplicados de forma conjunta. Por conseguinte, tentar diferenciá-los é um trabalho um tanto difícil.
 
-Os dois princípios se aplicam na limitação do poder discricionário. A discricionariedade ocorre quando a lei deixa uma margem de decisão para o agente público aplicá-la ao caso concreto. Por exemplo, a Lei 8.112/1990 apresenta, entre as penalidades aplicáveis aos servidores públicos, a advertência, a suspensão e a demissão. No caso concreto, caberá à autoridade responsável decidir qual das penalidades será cabível.
-
-Isso é a discricionariedade. Contudo, ela não pode ser exercida de forma ilimitada.
+Os dois princípios se aplicam na limitação do poder discricionário. A discricionariedade ocorre quando a lei deixa uma margem de decisão para o agente público aplicá-la ao caso concreto. Por exemplo, a Lei 8.112/1990 apresenta, entre as penalidades aplicáveis aos servidores públicos, a advertência, a suspensão e a demissão. No caso concreto, caberá à autoridade responsável decidir qual das penalidades será cabível. Isso é a discricionariedade. Contudo, ela não pode ser exercida de forma ilimitada.
 
 Vamos voltar ao exemplo. Quanto à suspensão, a Lei 8.112/1990 determina que ela será aplicada em caso de reincidência das faltas punidas com advertência e de violação das demais proibições que não tipifiquem infração sujeita a penalidade de demissão, não podendo exceder de noventa dias. Agora, suponha que um servidor chegue atrasado, de forma injustificada, por uma hora e, por consequência, após a realização das formalidades legais, seja penalizado com advertência. Imagine que, uma semana após ser penalizado, o agente volte a chegar atrasado. Após o regular processo administrativo, a autoridade competente aplicou a penalidade de suspensão por noventa dias, ou seja, o limite máximo para este tipo de penalidade. Todavia, o atraso do servidor não gerou nenhum outro prejuízo nem prejudicou ninguém. Dessa forma, podemos considerar o ato da autoridade pública desarrazoado, uma vez que ele poderia ter alcançado a finalidade pública com uma pena muito menos gravosa. No caso, a autoridade agiu dentro de sua competência, cumpriu as formalidades – pois instaurou o devido processo administrativo – e teve como finalidade o interesse público – uma vez que buscou punir o agente para evitar novas irregularidades. Contudo, a medida foi exagerada, incoerente com os fatos. Imaginem um novo atraso, novamente sem outros prejuízos, seria o servidor demitido por isso?
 
@@ -459,13 +447,9 @@ Dessa forma, os princípios em comento realizam uma limitação à discricionari
 
 Após esse exemplo, podemos tentar conceituar os dois princípios.
 
-A razoabilidade impõe que, ao atuar dentro da discrição administrativa, o agente público deve obedecer a critérios aceitáveis do ponto de vista racional, em sintonia com o senso normal de pessoas equilibradas.
+A razoabilidade impõe que, ao atuar dentro da discrição administrativa, o agente público deve obedecer a critérios aceitáveis do ponto de vista racional, em sintonia com o senso normal de pessoas equilibradas. Dessa forma, ao fugir desse limite de aceitabilidade, os atos serão ilegítimos e, por conseguinte, serão passíveis de invalidação jurisdicional. São ilegítimas, segundo Celso Antônio Bandeira de Mello, “*as condutas desarrazoadas, bizarras, incoerentes ou praticadas com desconsideração às situações e circunstâncias que seriam atendidas por quem tivesse atributos normais de prudência, sensatez e disposição de acatamento às finalidades da lei atributiva da discrição manejada*”.
 
-Dessa forma, ao fugir desse limite de aceitabilidade, os atos serão ilegítimos e, por conseguinte, serão passíveis de invalidação jurisdicional. São ilegítimas, segundo Celso Antônio Bandeira de Mello, “as condutas desarrazoadas, bizarras, incoerentes ou praticadas com desconsideração às situações e circunstâncias que seriam atendidas por quem tivesse atributos normais de prudência, sensatez e disposição de acatamento às finalidades da lei atributiva da discrição manejada”.
-
-A proporcionalidade, por outro lado, exige o equilíbrio entre os meios que a Administração utiliza e os fins que ela deseja alcançar, segundo os padrões comuns da sociedade, analisando cada caso concreto.
-
-Considera, portanto, que as competências administrativas só podem ser exercidas validamente na extensão e intensidade do que seja realmente necessário para alcançar a finalidade de interesse público ao qual se destina. Em outras palavras, o princípio da proporcionalidade tem por objeto o controle do excesso de poder, pois nenhum cidadão pode sofrer restrições de sua liberdade além do que seja indispensável para o alcance do interesse público.
+A proporcionalidade, por outro lado, exige o equilíbrio entre os meios que a Administração utiliza e os fins que ela deseja alcançar, segundo os padrões comuns da sociedade, analisando cada caso concreto. Considera, portanto, que as competências administrativas só podem ser exercidas validamente na extensão e intensidade do que seja realmente necessário para alcançar a finalidade de interesse público ao qual se destina. Em outras palavras, o princípio da proporcionalidade tem por objeto o controle do excesso de poder, pois nenhum cidadão pode sofrer restrições de sua liberdade além do que seja indispensável para o alcance do interesse público.
 
 Dos conceitos apresentados acima, é possível perceber o quanto é difícil diferenciar um do outro. Nos dois casos, os agentes públicos não podem realizar exageros, devendo sempre obedecer a padrões de adequação entre meios e fins. Quanto ao excesso de poder, por exemplo, podemos afirmar seguramente que ele se aplica aos dois princípios. Nesse sentido, alguns doutrinadores chamam o princípio da razoabilidade de princípio da proibição de excesso; enquanto outros relacionam esse aspecto (excesso de poder) ao princípio proporcionalidade.
 
@@ -475,7 +459,8 @@ Em que pese sirvam de fundamento para o Judiciário analisar os atos discricion�
 
 Entretanto, os atos desarrazoados, realizados de maneira ilógica ou incoerente, não estão dentro da margem de liberdade. As decisões que violarem a razoabilidade não são inconvenientes; mas são, na verdade, ilegais e ilegítimas, por isso passíveis de anulação mediante provocação do Poder Judiciário por meio da ação cabível. Nesse sentido, vejamos as palavras do Prof. Celso Antônio Bandeira de Mello:
 
-Não se imagina que a correção judicial baseada na violação do princípio da razoabilidade invade o “mérito” do ato administrativo, isto é, o campo de “liberdade” conferido pela lei à Administração para decidir-se segundo uma estimativa da situação e critérios de conveniência e oportunidade. Tal não ocorre porque a sobredita “liberdade” é liberdade dentro da lei, vale dizer, segundo as possibilidades nela comportadas. Uma providência desarrazoada, consoante dito, não pode ser havida como comportada pela lei. Logo, é ilegal: é desbordante dos limites nela admitidos.
+> Não se imagina que a correção judicial baseada na violação do princípio da razoabilidade invade o “mérito” do ato administrativo, isto é, o campo de “liberdade” conferido pela lei à Administração para decidir-se segundo uma estimativa da situação e critérios de conveniência e oportunidade. Tal não ocorre porque a sobredita “liberdade” é liberdade dentro da lei, vale dizer, segundo as possibilidades nela comportadas. Uma providência desarrazoada, consoante dito, não pode ser havida como comportada pela lei. Logo, é ilegal: é desbordante dos limites nela admitidos.
+>
 
 Dessa forma, quando o Judiciário analisa um ato administrativo com fundamento da razoabilidade e proporcionalidade, ele não tomará como base a conveniência e oportunidade, mas a legalidade e legitimidade. Dessa forma, não se trata de revogação – que só pode ser realizada pela própria Administração –, mas de anulação do ato desarrazoado ou desproporcional.
 
@@ -491,9 +476,7 @@ b) necessidade (exigibilidade): não deve existir outro meio menos gravoso ou on
 
 c) proporcionalidade em sentido estrito: a vantagens a serem conquistadas devem superar as desvantagens.
 
-Pela adequação, verifica-se se o ato realmente é um meio compatível para alcançar os resultados desejados.
-
-A necessidade, por outro lado, verifica se não existem outros atos que causem menos limitação e, ainda assim, sirvam para satisfazer o interesse público. Por fim, a proporcionalidade em sentido estrito avalia se as vantagens conquistadas superam as limitações impostas ao administrado.
+Pela adequação, verifica-se se o ato realmente é um meio compatível para alcançar os resultados desejados. A necessidade, por outro lado, verifica se não existem outros atos que causem menos limitação e, ainda assim, sirvam para satisfazer o interesse público. Por fim, a proporcionalidade em sentido estrito avalia se as vantagens conquistadas superam as limitações impostas ao administrado.
 
 Na Lei 9.784/1999, podemos encontrar diversas aplicações desses princípios. Por exemplo, o art. 29, § 2º, estabelece que os “atos de instrução que exijam a atuação dos interessados devem realizar-se do modo menos oneroso para estes”. Já o parágrafo único, art. 2º, dispõe que, nos processos administrativos, deve ser observados, entre outros, os seguintes critérios: “adequação entre meios e fins, vedada a imposição de obrigações, restrições e sanções em medida superior àquelas estritamente necessárias ao atendimento do interesse público” (inc. VI); “observância das formalidades essenciais à garantia dos direitos dos administrados” (inc. VIII); “adoção de formas simples, suficientes para propiciar adequado grau de certeza, segurança e respeito aos direitos dos administrados”.
 
@@ -519,19 +502,18 @@ Contudo, como não há subordinação entre a Administração Direta e a Indiret
 
 Não se pode esperar que os agentes públicos sempre tomem as decisões corretas no desempenho de suas funções. Dessa forma, é imperioso que exista uma forma de a Administração corrigir os seus próprios atos.
 
-Nesse sentido, o princípio da autotutela estabelece que a Administração Pública possui o poder de controlar os seus próprios atos, anulando-os quando ilegais ou revogando-os quando inconvenientes ou inoportunos.
+Nesse sentido, o princípio da autotutela estabelece que a Administração Pública possui o poder de controlar os seus próprios atos, anulando-os quando ilegais ou revogando-os quando inconvenientes ou inoportunos. Assim, a Administração não precisa recorrer ao Poder Judiciário para corrigir os seus atos, podendo fazê-lo diretamente.
 
-Assim, a Administração não precisa recorrer ao Poder Judiciário para corrigir os seus atos, podendo fazê-lo diretamente.
+Este princípio possui previsão em duas súmulas do STF, a 346, que estabelece que “*A Administração Pública pode declarar a nulidade dos seus próprios atos*”, e 473, que dispõe o seguinte:
 
-Este princípio possui previsão em duas súmulas do STF, a 346, que estabelece que “A Administração Pública pode declarar a nulidade dos seus próprios atos”, e 473, que dispõe o seguinte:
+> Súmula nº 473 - A Administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial.
+>
 
-Súmula nº 473 - A Administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial.
-
-Atualmente, o princípio ganhou previsão legal, conforme consta no art. 53 da Lei 9.784/1999: “A Administração deve anular seus próprios atos, quando eivados de vício de legalidade, e pode revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos”.
+Atualmente, o princípio ganhou previsão legal, conforme consta no art. 53 da Lei 9.784/1999: “*A Administração deve anular seus próprios atos, quando eivados de vício de legalidade, e pode revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos*”.
 
 Nesse contexto, a autotutela envolve dois aspectos da atuação administrativa:
 
-legalidade: em relação ao qual a Administração procede, de ofício ou por provocação, a anulação de atos ilegais; e mérito: em que reexamina atos anteriores quanto à conveniência e oportunidade de sua manutenção ou desfazimento (revogação).
+**Legalidade**: em relação ao qual a Administração procede, de ofício ou por provocação, a anulação de atos ilegais; e mérito: em que reexamina atos anteriores quanto à conveniência e oportunidade de sua manutenção ou desfazimento (revogação).
 
 Quanto ao aspecto da legalidade, conforme consta na Lei 9.784/1999, a Administração deve anular seus próprios atos, quando possuírem alguma ilegalidade. Trata-se, portanto, de um poder-dever, ou seja, uma obrigação. Dessa forma, o controle de legalidade, em decorrência da autotutela, pode ser realizado independentemente de provocação, pois se trata de um poder-dever de ofício da Administração.
 
@@ -573,15 +555,13 @@ O princípio da motivação é decorrência do Estado Democrático de Direito, d
 
 Conforme ensina Hely Lopes Meirelles, para o direito público a vontade do administrador é irrelevante, pois os seus desejos, ambições programas e atos não possuem validade jurídica se não estiverem alicerçadas no Direito e na Lei. Dessa forma, como ninguém está obrigado a fazer ou deixar de fazer algo senão em virtude de lei, todo ato do Poder Público deve trazer consigo a demonstração da base legal e de seu motivo.
 
-As discussões doutrinárias deixam dúvidas sobre a necessidade ou não de motivar todos os atos administrativos. Alguns doutrinadores 27
+As discussões doutrinárias deixam dúvidas sobre a necessidade ou não de motivar todos os atos administrativos. Alguns doutrinadores entendem que, em alguns atos administrativos, oriundos do poder discricionário, a justificação será dispensável, bastando demonstrar a competência e a conformação do ato com o interesse público.
 
-entendem que, em alguns atos administrativos, oriundos do poder discricionário, a justificação será dispensável, bastando demonstrar a competência e a conformação do ato com o interesse público.
-
-Contudo, o posicionamento da doutrinária majoritária e da jurisprudência, não é esse. A professora Maria Di Pietro assevera que a obrigatoriedade de motivar se justifica em qualquer tipo de ato, pois se trata de formalidade necessária para permitir o controle de legalidade dos atos administrativos. No mesmo sentido, Lucas Rocha Furtado nsina que todos os atos administrativos devem ser motivados, sejam eles discricionários ou vinculados, com uma única exceção, que é a exoneração de ocupante de cargo em comissão, conhecida como exoneração ad nutum, uma vez que possui tratamento constitucional próprio.
+Contudo, o posicionamento da doutrinária majoritária e da jurisprudência, não é esse. A professora Maria Di Pietro assevera que a obrigatoriedade de motivar se justifica em qualquer tipo de ato, pois se trata de formalidade necessária para permitir o controle de legalidade dos atos administrativos. No mesmo sentido, Lucas Rocha Furtado ensina que todos os atos administrativos devem ser motivados, sejam eles discricionários ou vinculados, com uma única exceção, que é a exoneração de ocupante de cargo em comissão, conhecida como exoneração *ad nutum*, uma vez que possui tratamento constitucional próprio.
 
 Na mesma linha, o STJ entende que o motivo é requisito necessário à formação do ato administrativo, sendo que a motivação é obrigatória ao exame da finalidade e da moralidade administrativa.
 
-Com efeito, a Lei 9.784/1999 determina que a “indicação dos pressupostos de fato e de direito que determinarem a decisão” é um dos critérios aplicáveis ao processo administrativo (art. 2º, parágrafo único, VII). Além disso, “os atos administrativos deverão ser motivados, com indicação dos fatos e dos fundamentos jurídicos” (art. 50). Em seguida, a Lei dispõe que os atos administrativos devem ser motivados quando:
+Com efeito, a Lei 9.784/1999 determina que a “*indicação dos pressupostos de fato e de direito que determinarem a decisão*” é um dos critérios aplicáveis ao processo administrativo (art. 2º, parágrafo único, VII). Além disso, “*os atos administrativos deverão ser motivados, com indicação dos fatos e dos fundamentos jurídicos*” (art. 50). Em seguida, a Lei dispõe que os atos administrativos devem ser motivados quando:
 
 >I - neguem, limitem ou afetem direitos ou interesses;
 >
@@ -599,17 +579,17 @@ Com efeito, a Lei 9.784/1999 determina que a “indicação dos pressupostos de 
 >
 >VIII - importem anulação, revogação, suspensão ou convalidação de ato administrativo.
 
-Segundo a Lei de Processo Administrativo, a motivação deve “ser explícita, clara e congruente, podendo consistir em declaração de concordância com fundamentos de anteriores pareceres, informações, decisões ou propostas, que, neste caso, serão parte integrante do ato” (art. 50, §1º). Nesse caso, percebe-se a possibilidade da motivação aliunde, que é realizada pela mera referência, no ato, a pareceres, informações ou propostas anteriores.
+Segundo a Lei de Processo Administrativo, a motivação deve “*ser explícita, clara e congruente, podendo consistir em declaração de concordância com fundamentos de anteriores pareceres, informações, decisões ou propostas, que, neste caso, serão parte integrante do ato*” (art. 50, §1º). Nesse caso, percebe-se a possibilidade da motivação aliunde, que é realizada pela mera referência, no ato, a pareceres, informações ou propostas anteriores.
 
 Por exemplo: em um processo administrativo foi emitido um parecer jurídico sobre determinado assunto; ao decidir, a autoridade não precisa “copiar” todo o conteúdo do parecer em sua motivação, bastando a mera menção do parecer como fundamento de sua decisão (isso se a autoridade concordar com o conteúdo do parecer).
 
-A Lei dispõe ainda que, “na solução de vários assuntos da mesma natureza”, poderá ser utilizado meio mecânico que reproduza os fundamentos das decisões, desde que isso não prejudique direito ou garantia dos interessados (art. 50, §2º).
+A Lei dispõe ainda que, “*na solução de vários assuntos da mesma natureza*”, poderá ser utilizado meio mecânico que reproduza os fundamentos das decisões, desde que isso não prejudique direito ou garantia dos interessados (art. 50, §2º).
 
-Por fim, a motivação das “decisões de órgãos colegiados e comissões ou de decisões orais” deverá constar da respectiva ata ou de termo escrito (art. 50, §3º).
+Por fim, a motivação das “*decisões de órgãos colegiados e comissões ou de decisões orais*” deverá constar da respectiva ata ou de termo escrito (art. 50, §3º).
 
 ## Princípio da continuidade do serviço público 
 
-Pelo princípio da continuidade, os serviços públicos devem ser prestados de maneira contínua, ou seja, sem parar. Isso porque é justamente pelos serviços públicos que o Estado desempenha suas funções essenciais ou necessárias à coletividade. Segundo Carvalho Filho, a “consequência lógica desse fato é a de que não podem os serviços públicos ser interrompidos, devendo, ao contrário, ter normal continuidade”.
+Pelo princípio da continuidade, os serviços públicos devem ser prestados de maneira contínua, ou seja, sem parar. Isso porque é justamente pelos serviços públicos que o Estado desempenha suas funções essenciais ou necessárias à coletividade. Segundo Carvalho Filho, a “*consequência lógica desse fato é a de que não podem os serviços públicos ser interrompidos, devendo, ao contrário, ter normal continuidade*”.
 
 Em que pese a aplicação desse princípio seja principalmente na prestação de serviços públicos, ele se aplica a qualquer atividade administrativa. Nessa linha, a paralisação da Administração em suas atividades administrativas internas também pode trazer prejuízos ao interesse público.
 
@@ -619,7 +599,7 @@ a) proibição de greve dos servidores públicos – essa não é mais uma proib
 
 b) necessidade de institutos como a suplência, a delegação e a substituição para preencher as funções públicas temporariamente vagas;
 
-c) impossibilidade, para quem contratada com a Administração, de invocar a cláusula da exceção do contrato não cumprido (exceptio non adimpleti contractus) nos contratos que tenham por objeto a execução de serviço público [na verdade, não temos uma impossibilidade, mas uma limitação. Por exemplo, a Lei 8.666/1993 determina que o particular deverá continuar a cumprir o contrato, mesmo após um atraso de até 90 (noventa) dias nos pagamentos devidos (art. 78, XV);
+c) impossibilidade, para quem contrata com a Administração, de invocar a cláusula da exceção do contrato não cumprido (*exceptio non adimpleti contractus*) nos contratos que tenham por objeto a execução de serviço público. Na verdade, não temos uma impossibilidade, mas uma limitação. Por exemplo, a Lei 8.666/1993 determina que o particular deverá continuar a cumprir o contrato, mesmo após um atraso de até 90 (noventa) dias nos pagamentos devidos (art. 78, XV);
 
 d) faculdade que se reconhece à Administração de utilizar os equipamentos e instalações da empresa com que ela contrata, para assegurar a continuidade do serviço;
 
@@ -633,13 +613,9 @@ Por essa razão, acaba limitando, em algumas hipóteses, os direitos individuais
 
 Posteriormente, o Supremo Tribunal Federal, ao julgar os mandatos de injunção 670-ES, 708-DF e 712-PA, decidiu pela aplicação da Lei 7.783/1989 – que regulamenta o direito de greve dos trabalhadores – suprimindo temporariamente a omissão legislativa. Com isso, os servidores públicos passaram a poder exercer o seu direito constitucional.
 
-Atualmente, no entanto, há muita discussão em relação ao direito de greve de determinadas categorias, sobretudo aquelas consideradas essenciais. O STF já chegou a afirmar que determinadas categorias seriam privadas do direito de greve, como as que exercem atividades relacionadas com a manutenção da ordem pública e a segurança pública, a administração da Justiça, as carreiras de Estado, cujos membros exercem atividades indelegáveis, inclusive as de exação tributária, e a saúde pública 34
+Atualmente, no entanto, há muita discussão em relação ao direito de greve de determinadas categorias, sobretudo aquelas consideradas essenciais. O STF já chegou a afirmar que determinadas categorias seriam privadas do direito de greve, como as que exercem atividades relacionadas com a manutenção da ordem pública e a segurança pública, a administração da Justiça, as carreiras de Estado, cujos membros exercem atividades indelegáveis, inclusive as de exação tributária, e a saúde pública. Contudo, esse tema ainda não foi discutido de forma mais aprofundada no STF.
 
-. Contudo, esse tema ainda não foi discutido de forma mais aprofundada no STF.
-
-Em relação aos policiais civis, porém, o entendimento já está consolidado na linha de que o direito de greve é inconstitucional. Nessa linha, entendeu o STF que o exercício do direito de greve, sob qualquer forma ou modalidade, é vedado aos policiais civis e a todos os servidores públicos que atuem diretamente na área de segurança pública.
-
-Vale lembrar que os militares em geral já não possuem direito de greve, por expressa disposição da Constituição Federal (art. 142, § 3º, IV). Com isso, tanto os policiais civis como os policiais militares não podem exercer o direito de greve.
+Em relação aos policiais civis, porém, o entendimento já está consolidado na linha de que o direito de greve é inconstitucional. Nessa linha, entendeu o STF que o exercício do direito de greve, sob qualquer forma ou modalidade, é vedado aos policiais civis e a todos os servidores públicos que atuem diretamente na área de segurança pública. Vale lembrar que os militares em geral já não possuem direito de greve, por expressa disposição da Constituição Federal (art. 142, § 3º, IV). Com isso, tanto os policiais civis como os policiais militares não podem exercer o direito de greve.
 
 Ainda em relação ao direito de greve e ao princípio da continuidade, o STF também já firmou o entendimento de que a administração pública deve proceder ao desconto dos dias de paralisação decorrentes do exercício do direito de greve pelos servidores públicos, em virtude da suspensão do vínculo funcional que dela decorre, permitindo, todavia, a compensação em caso de acordo. Essa regra do desconto, contudo, não se aplica quando ficar demonstrado que a greve foi provocada por conduta ilícita do Poder Público, a exemplo do atraso no pagamento da remuneração dos servidores.
 
@@ -655,7 +631,7 @@ d) uma vez iniciada a greve, a Administração deve proceder ao desconto dos dia
 
 Além disso, o princípio da continuidade já foi invocado pelo Tribunal de Contas da União, que, ao identificar falhas em procedimento licitatório utilizado para contratar determinada empresa para prestar serviços essenciais à Administração Pública, optou por determinar que o órgão realizasse nova licitação, sem fixar, no entanto, prazo para que o órgão anulasse o contrato. Com isso, o TCU permitiu que fosse dada continuidade aos serviços durante o período estritamente necessário para a realização da nova contratação.
 
-Além disso, o princípio da continuidade relaciona-se com o dever do dever público de manter o equilíbrio econômico-financeiro dos contratos administrativos. No meio privado, os contratos somente podem ser alterados por acordo das partes. Nos contratos administrativos, por outro lado, a Administração pode realizar alterações unilaterais, ou seja, mesmo sem concordância prévia da outra parte. Contudo, essas alterações não podem modificar o equilíbrio econômico-financeiro do contrato – por exemplo: se o contratado ia receber R$ 100,00 pelo fornecimento de 10 unidades de um produto; deverá receber R$ 120,00 se as quantidades forem alteradas para 12, mantendo o equilíbrio financeiro inicial. Se a Administração pudesse alterar unilateralmente o equilíbrio-financeiro, o contratado poderia sofrer prejuízos, tornando insustentável a continuidade da prestação do serviço. Daí a aplicação do princípio da continuidade do serviço público.
+Além disso, o princípio da continuidade relaciona-se com o dever do dever público de manter o equilíbrio econômico-financeiro dos contratos administrativos. No meio privado, os contratos somente podem ser alterados por acordo das partes. Nos contratos administrativos, por outro lado, a Administração pode realizar alterações unilaterais, ou seja, mesmo sem concordância prévia da outra parte. Contudo, essas alterações não podem modificar o equilíbrio econômico-financeiro do contrato – por exemplo: se o contratado ia receber R\$ 100,00 pelo fornecimento de 10 unidades de um produto; deverá receber R\$ 120,00 se as quantidades forem alteradas para 12, mantendo o equilíbrio financeiro inicial. Se a Administração pudesse alterar unilateralmente o equilíbrio-financeiro, o contratado poderia sofrer prejuízos, tornando insustentável a continuidade da prestação do serviço. Daí a aplicação do princípio da continuidade do serviço público.
 
 Todavia, a continuidade não possui caráter absoluto, existindo situações em que é possível a paralisação temporária dos serviços públicos. Eventualmente, o serviço poderá ser paralisado temporariamente para reparos técnicos ou para a realização de obras de expansão e melhorias dos serviços.
 
@@ -663,9 +639,9 @@ Nesse sentido, a Lei 8.987/1995 prescreve que não se caracteriza como descontin
 
 Vamos resolver algumas questões de provas.
 
->(TRE PE - 2017)
+>(TRE PE - 2017) O princípio da continuidade dos serviços públicos 
 >
->O princípio da continuidade dos serviços públicos a) afasta a possibilidade de interrupção, ainda que se trate de sistema de remuneração por tarifa no qual o usuário dos referidos serviços esteja inadimplente.
+>a) afasta a possibilidade de interrupção, ainda que se trate de sistema de remuneração por tarifa no qual o usuário dos referidos serviços esteja inadimplente.
 >
 >b) diz respeito, apenas, a serviços públicos, não alcançando as demais atividades administrativas.
 >
@@ -693,7 +669,7 @@ Vamos resolver algumas questões de provas.
 
 ## Princípio do contraditório e da ampla defesa 
 
-O princípio do contraditório e da ampla defesa decorre do art. 5º, LV, da Constituição Federal, que determina que “aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o contraditório e ampla defesa, com os meios e recursos a ela inerentes”. Além disso, eles constam expressamente no caput do art. 2º da Lei 9.784/1999.
+O princípio do contraditório e da ampla defesa decorre do art. 5º, LV, da Constituição Federal, que determina que “*aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o contraditório e ampla defesa, com os meios e recursos a ela inerentes*”. Além disso, eles constam expressamente no caput do art. 2º da Lei 9.784/1999.
 
 Conforme ensinamentos de Ada Pellegrini Grinover, a Constituição estende as garantias a todos os processos administrativos, sejam eles punitivos, caso em que estaremos falando dos acusados, ou não punitivos, quando os envolvidos são apenas litigantes. Em síntese, o princípio do contraditório e da ampla defesa deve ser aplicado tanto em processos punitivos quanto nos não punitivos.
 
@@ -707,7 +683,7 @@ O contraditório se refere ao direito que o interessado possui de tomar conhecim
 
 Decorre da ampla defesa o direito de apresentar os argumentos antes da tomada de decisão; de tirar cópias do processo; de solicitar produção de provas; de interpor recursos administrativo, mesmo que não exista previsão em lei para tal etc.
 
-Por fim, a ampla defesa abrange também o direito à defesa técnica. Contudo, em processos administrativos, cabe ao interessa decidir se precisa ou não de defesa técnica, conforme entendimento do STF constante na Súmula Vinculante nº 5: “A falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição”.
+Por fim, a ampla defesa abrange também o direito à defesa técnica. Contudo, em processos administrativos, cabe ao interessado decidir se precisa ou não de defesa técnica, conforme entendimento do STF constante na Súmula Vinculante nº 5: “*A falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição*”.
 
 Em processo administrativo disciplinar, não é obrigatória a defesa técnica por advogado.
 

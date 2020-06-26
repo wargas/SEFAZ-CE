@@ -1,6 +1,6 @@
-1. # CPC 00: ESTRUTURA CONCEITUAL BÁSICA DA CONTABILIDADE 
+# CPC 00: ESTRUTURA CONCEITUAL BÁSICA DA CONTABILIDADE 
 
-2. ## Introdução
+## Introdução
 
 O primeiro aspecto importante que devemos compreender é que as demonstrações contábeis são preparadas para usuários externos em geral. Embora alguns órgãos do governo, fiscos, entre outros, determinem o cumprimento de certas exigências, isso não tem o condão de retirar o público a quem se dirige as demonstrações contábeis preparadas sob a égide da Estrutura Conceitual Básica: usuários externos em geral.
 
@@ -51,7 +51,7 @@ Esquematizemos:
 
 Finalidade: auxiliar o desenvolvimento das Normas Internacionais de Contabilidade (IFRS) para que tenham base em conceitos consistentes;
 
-![image-20200604091028253](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604091028253.png)
+![image-20200604091028253](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-16-v1\image-20200604091028253.png)
 
 A Estrutura Conceitual não é um pronunciamento propriamente dito, e não se sobrepõe a qualquer pronunciamento ou qualquer requisito em pronunciamento.
 
@@ -240,7 +240,7 @@ O Pronunciamento destaca as duas principais informações obtidas dos relatório
 
 Esquematizemos:
 
-![image-20200604093015858](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604093015858.png)
+![image-20200604093015858](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-16-v1\image-20200604093015858.png)
 
 As informações do Balanço Patrimonial, ou seja, os recursos econômicos (ativos) e reivindicações (passivo) podem auxiliar os usuários a identificar a fraqueza e o vigor financeiro da empresa, inclusive para avaliar sua liquidez e solvência e suas necessidades em termos de financiamento.
 
@@ -262,7 +262,7 @@ No entanto, informações sobre os fluxos de caixa da entidade que reporta a inf
 
 Esquematizemos:
 
-![image-20200604093309756](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604093309756.png)
+![image-20200604093309756](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-16-v1\image-20200604093309756.png)
 
 Os recursos econômicos e reivindicações da entidade podem ainda mudar por outras razões que não sejam resultantes de sua performance financeira, como é o caso da emissão adicional de suas ações. Informações sobre esse tipo de mudança são necessárias para dar aos usuários uma completa compreensão do porquê das mudanças nos recursos econômicos e reivindicações da empresa e as implicações dessas mudanças em sua futura performance financeira.
 
@@ -291,7 +291,7 @@ As características qualitativas foram divididas em duas categorias: Caracterís
 
 Esquematizemos:
 
-![image-20200604093522569](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604093522569.png)
+![image-20200604093522569](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-16-v1\image-20200604093522569.png)
 
 ## Características Qualitativas Fundamentais 
 
@@ -347,7 +347,7 @@ A informação contábil-financeira tem valor confirmatório se fornecem feedbac
 
 Esquematizemos:
 
-![image-20200604095102791](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604095102791.png)
+![image-20200604095102791](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-16-v1\image-20200604095102791.png)
 
 > 2.10 Os valores preditivo e confirmatório das informações financeiras estão inter-relacionados. Informações que possuem valor preditivo frequentemente possuem também valor confirmatório. Por exemplo, informações sobre receitas para o ano corrente, que podem ser utilizadas como base para prever receitas em anos futuros, também podem ser comparadas a previsões de receitas para o ano corrente que tenham sido feitas em anos anteriores. Os resultados dessas comparações podem ajudar o usuário a corrigir e a melhorar os processos que foram utilizados para fazer essas previsões anteriores.
 
@@ -396,7 +396,7 @@ A representação fidedigna refere-se a três atributos, precisando ser completa
 
 Esquematizemos:
 
-![image-20200604095557137](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604095557137.png)
+![image-20200604095557137](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-16-v1\image-20200604095557137.png)
 
 Para ser completa, a informação deve incluir todas as informações necessárias para que o usuário compreenda o fenômeno sendo retratado.
 
@@ -552,7 +552,7 @@ Comparabilidade
 
 Esquematizemos:
 
-![image-20200604101239472](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604101239472.png)
+![image-20200604101239472](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-16-v1\image-20200604101239472.png)
 
 2.25 Comparabilidade é a característica qualitativa que permite aos usuários identificar e compreender similaridades e diferenças entre itens.
 
@@ -571,7 +571,7 @@ Continuando...
 
 Esquematizemos:
 
-![image-20200604101446861](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604101446861.png)
+![image-20200604101446861](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-16-v1\image-20200604101446861.png)
 
 **Capacidade de Verificação** 
 
@@ -652,7 +652,7 @@ A aplicação das características qualitativas de melhoria é um processo itera
 
 Mapa resumo das características qualitativas de acordo com o CPC 00:
 
-![image-20200604102349764](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604102349764.png)
+![image-20200604102349764](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-16-v1\image-20200604102349764.png)
 
 ## Restrição de Custo na Elaboração e Divulgação de Relatório Contábil-Financeiro Útil 
 
@@ -761,7 +761,7 @@ Atenção! A expressão está sendo utilizada entre aspas, pois é de conhecimen
 
 Esquematizemos:
 
-![image-20200604104720040](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604104720040.png)
+![image-20200604104720040](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-16-v1\image-20200604104720040.png)
 
 > (Analista/ALE RO/2018-adaptada) As demonstrações contábeis normalmente são elaboradas tendo como premissa que a entidade está em atividade e irá manter-se em operação por um futuro previsível.
 >
@@ -841,7 +841,7 @@ Os elementos diretamente relacionados com a mensuração do desempenho na demons
 
 Esquematizemos:
 
-![image-20200604105421640](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604105421640.png)
+![image-20200604105421640](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-16-v1\image-20200604105421640.png)
 
 Segundo o item 4.38 do Pronunciamento, um item que se enquadre na definição de um elemento (ativo ou passivo) deve ser reconhecido se:
 
@@ -851,7 +851,7 @@ b) o item tiver custo ou valor que possa ser mensurado com confiabilidade.
 
 Esquematizemos:
 
-![image-20200604105507640](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604105507640.png)
+![image-20200604105507640](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-16-v1\image-20200604105507640.png)
 
 ## Definições
 
@@ -957,7 +957,7 @@ Falemos os principais tópicos a serem levados para a prova sobre cada um dos gr
 
 Benefícios econômicos futuros de um ativo!
 
-![image-20200604110105331](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604110105331.png)
+![image-20200604110105331](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-16-v1\image-20200604110105331.png)
 
 Os ativos de uma entidade resultam de transações passadas ou outros eventos passados. As entidades normalmente obtêm ativos comprando-os ou produzindo-os, mas outras transações ou eventos podem gerar ativos; por exemplo: um imóvel recebido do governo como parte de um programa para fomentar o crescimento econômico da região onde se localiza a entidade ou a descoberta de jazidas minerais. Transações ou eventos previstos para ocorrer no futuro não podem resultar, por si mesmos, no reconhecimento de ativos; por isso, por exemplo, a intenção de adquirir estoques não atende, por si só, à definição de um ativo.
 
@@ -1013,7 +1013,7 @@ Atualmente, o PL compõe-se dos seguintes grupos:
 
 Grave-se a estrutura do PL:
 
-![image-20200604110507458](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604110507458.png)
+![image-20200604110507458](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-16-v1\image-20200604110507458.png)
 
 Pessoal, é muito importante que vocês saibam que o patrimônio líquido não necessariamente corresponde ao valor de mercado (valor justo) da entidade, já que existe o que nós chamamos no direito empresarial de aviamento, ou seja, o todo, o conjunto, as perspectivas da empresa valem mais do que a simples soma dos seus componentes patrimoniais.
 
@@ -1029,7 +1029,7 @@ Decorre dessas definições de receitas e despesas que recebimentos contribuiç�
 
 Conceito de receita CPC 00:
 
-![image-20200604110626538](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604110626538.png)
+![image-20200604110626538](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-16-v1\image-20200604110626538.png)
 
 Essas definições são essenciais. As bancas adoram cobrar esse tipo de conceito!
 
@@ -1054,7 +1054,7 @@ Agora, uma questão:
 > Os aumentos e decréscimos nos benefícios econômicos são as receitas e despesas. Basta ver as definições citadas acima. O gabarito é letra c.
 >
 
-![image-20200604110748751](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604110748751.png)
+![image-20200604110748751](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-16-v1\image-20200604110748751.png)
 
 # CAPÍTULO 5: RECONHECIMENTO E DESRECONHECIMENTO 
 
@@ -1136,7 +1136,7 @@ Após o registro inicial, diferentes bases de mensuração podem ser utilizadas,
 
 Esquematizemos:
 
-![image-20200604111818181](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604111818181.png)
+![image-20200604111818181](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-16-v1\image-20200604111818181.png)
 
 Depois do registro inicial, o custo histórico pode sofrer uma série de variações, já que, como dissemos, o dinheiro não é constante no tempo e os bens estão sujeitos a uma série de variações em suas características, como desgaste, ação da natureza. Pode ser que uma parte de uma venda não seja recebida. Enfim, há uma série de variáveis. Essas variáveis formam os critérios de avaliação do ativo e do passivo.
 
@@ -1160,7 +1160,7 @@ As bases de mensuração do valor atual incluem:
 
 Esquematizemos:
 
-![image-20200604112030043](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604112030043.png)
+![image-20200604112030043](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-16-v1\image-20200604112030043.png)
 
 ## Valor justo
 
@@ -1291,7 +1291,7 @@ Se tenho um ativo de longo prazo, uma duplicata a receber, por exemplo, no valor
 
 Esquematizemos:
 
-![image-20200604114428016](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\image-20200604114428016.png)
+![image-20200604114428016](C:\Users\warga\Documents\SEFAZ-CE\MD\CONTABILIDADE AVANCADA E DE CUSTOS\images\curso-129462-aula-16-v1\image-20200604114428016.png)
 
 > (STJ/Analista/2015) Em 15/7/2015, uma empresa adquiriu, à vista, mercadorias para revenda no valor unitário de R\$ 7,00, contemplando todos os custos de aquisição. Em 31/7/2015, o preço de reposição unitário das referidas mercadorias havia alcançado o valor de R\$ 7,80, ao passo que o preço de venda unitário estimado da mercadoria era R\$ 12,50, e o gasto estimado necessário para a concretização da venda era R\$ 1,50 por unidade. Em uma transação sem favorecimentos, cada uma dessas mercadorias poderia ser trocada no mercado pelo valor de R\$ 12,50 no último dia do mês de julho de 2015.
 >

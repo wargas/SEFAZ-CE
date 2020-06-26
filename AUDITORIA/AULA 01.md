@@ -370,6 +370,7 @@ O auditor interno deve, ao utilizar o método de amostragem, projetar e selecion
 >Gabarito: E 
 ## PROCESSAMENTO ELETRÔNICO DE DADOS (PED) 
 O uso de PED modifica a forma de processamento e armazenamento de informações, afetando a organização e os procedimentos adotados pela entidade na consecução de adequados controles internos. O auditor deve dispor de compreensão suficiente dos recursos de PED e dos sistemas de processamento existentes, a fim de avaliá-los e planejar adequadamente seu trabalho. 
+
 Nesse escopo, a equipe de Auditoria Interna deve contar com um profissional com conhecimento necessário sobre tecnologia da informação (TI) e sobre os sistemas de informação utilizados. 
 
 >12.2.5.1 – A utilização de processamento eletrônico de dados pela entidade requer que exista, na equipe da Auditoria Interna, profissional com conhecimento suficiente sobre a tecnologia da informação e os sistemas de informação utilizados. 
@@ -387,6 +388,7 @@ Nesse escopo, a equipe de Auditoria Interna deve contar com um profissional com 
 
 # NORMAS RELATIVAS AO RELATÓRIO DA AUDITORIA INTERNA 
 O relatório é o documento por meio do qual a Auditoria Interna apresenta o resultado dos seus trabalhos, devendo ser redigido com objetividade e imparcialidade, de forma a expressar – claramente – suas conclusões, recomendações e providências a serem tomadas pela administração da entidade. 
+
 O relatório deve ser entregue a quem tenha solicitado o trabalho ou a pessoa que receber autorização para tanto. Ressalta-se que deve ser preservada a confidencialidade do seu conteúdo. Alguns aspectos devem ser abordados no conteúdo do relatório da Auditoria Interna. São eles: 
 
 >*Relatório da Auditoria Interna*
@@ -436,9 +438,14 @@ A Auditoria Interna deve avaliar a necessidade de relatório parcial, na hipóte
 >A NBC TI 01 prevê aspectos mínimos que devem ser incluídos no relatório da auditoria interna. Nesse rol, encontramos as eventuais limitações ao alcance dos procedimentos de auditoria. Logo nosso gabarito é a letra “C”. Vejamos o erro das demais assertivas: 
 >
 >Letra A – relatórios parciais (no sentido de incompletos) podem ser emitidos, desde que haja circunstâncias (impropriedades/irregularidades/ ilegalidades) que exijam ações imediatas da Administração.
+>
 >Letra B – não há qualquer referência nas normas de auditoria que diga que o relatório deve ser parcial (no sentido de partidário ou tendencioso). Pelo contrário, o relatório da auditoria deve ser imparcial, baseado nas evidências encontradas durante a execução dos trabalhos. 
->Letra D – o relatório é justamente o documento por meio do qual o Auditor Interno apresenta o resultado de seu trabalho, expressando as conclusões, recomendações e providências a serem tomadas pela administração da entidade. 
+>
+>Letra D – o relatório é justamente o documento por meio do qual o Auditor Interno apresenta o resultado de seu trabalho, expressando as conclusões, recomendações e providências a serem tomadas pela administração da entidade.
+>
+>
 >Letra E – é verdade que a confidencialidade do relatório deve ser preservada. No entanto, o objetivo e a extensão dos trabalhos são aspectos que devem necessariamente fazer parte de seu conteúdo. 
+>
 >Gabarito: C. 
 
 # NORMAS PROFISSIONAIS DO AUDITOR INTERNO (NBC PI 01) 
@@ -482,7 +489,7 @@ O auditor interno, quando previamente estabelecido com a administração da enti
 >
 >De acordo com os ditames da NBC PI 01, o auditor interno, quando previamente estabelecido com a administração da entidade em que atua, e no âmbito de planejamento conjunto do trabalho a realizar, deve apresentar os seus papéis de trabalho ao auditor independente e entregar-lhe cópias, quando este entender necessário. 
 >Gabarito: Errado 
->
+
 >(VUNESP / TJ SP – Contador Judiciário –– 2013) De acordo com as Normas Profissionais do Auditor Interno, no que tange à responsabilidade na execução dos trabalhos, o Auditor Interno deve ter o máximo de cuidado, imparcialidade e zelo na sua realização e na exposição das conclusões. A amplitude do trabalho do Auditor Interno e sua responsabilidade estão 
 >
 >a) limitadas à sua área de atuação. 
